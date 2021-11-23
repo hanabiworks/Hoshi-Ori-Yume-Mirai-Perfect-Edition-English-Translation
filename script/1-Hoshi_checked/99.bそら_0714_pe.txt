@@ -1,0 +1,612 @@
+﻿0713
+日
+0714
+月
+$$smh_OpenCHK
+Monday─
+I've come to the committee office with a model of the planetarium dome design that Sora showed me on Saturday.
+
+I need to report the details of the planetarium plan to Shuuichi today.
+
+％Ｂ
+「Take a look at this first. It's a miniature version of the dome we're planning on making.」
+
+Natsuki
+「You made this?」
+％Ｂ
+「Sora designed it, and I put it together.」
+Marika
+「Wooow. You're so good with your hands.」
+Rikka
+「How big were we going to make the real thing again?」
+％Ｂ
+「Six meters in diameter. This model's twenty centimeters in diameter, so the real thing's going to be about thirty times as big.」
+
+Touko
+「Can we really make something like that?」
+all
+％Ｂ
+「Yeah, it's actually easier than you think. Just take a look.」
+
+all
+I take out a disassembled set of cardstock for another miniature model that I had ready.
+
+I fold it up and put it together like Sora showed me on Saturday.
+
+Shuuichi
+「I see. You're right, that does look doable. But you're going to be using cardboard, right? Is that going to have enough structural integrity?」
+
+Sora
+「...It's going to be arch-shaped. If we make it with the proper dimensions, then it's no issue to make it in a shape where each piece supports the others.」
+
+Misa
+「It is as Sora-san says. I believe there would be no issues at all in terms of structural integrity with this shape.」
+
+％Ｂ
+「You can think of it as being like an arched stone bridge.」
+Shuuichi
+「So about how much cardboard are you going to need?」
+％Ｂ
+「Well... Sora.」
+Sora
+「...*nod*」
+all
+She grabs a dry-erase marker and starts writing out calculations on the whiteboard.
+Sora
+「...If we want to find how much cardboard we need to make the dome, we need to know the surface area first.」
+
+Sora
+「...The surface area of a sphere is 4πr-squared. If you calculate using the projected radius of our dome―」
+
+The marker squeaks as she goes through the math.
+Sora
+「...36π meters squared.」
+Natsuki
+「...Which means? Hmm??」
+
+Misa
+「That would be approximately 113 meters squared.」
+％Ｂ
+「I'm impressed you were able to do that math so quickly...」
+all
+Shuuichi
+「...So how much cardboard are you actually going to need?」
+
+Sora
+「We need a square of cardboard 1,070 centimeters on each side.」
+％Ｂ
+「Pretty much.」
+Shuuichi
+「1,070 centimeters on each side... That's more than ten meters across, you know.」
+％Ｂ
+「Right, ten meters... Yeah, right, like cardboard that big exists!」
+
+Shuuichi
+「What's the point of you saying that...?」
+
+Sora
+「...No issues. This is just the necessary area. We'll be connecting cardboard together for the dome, so it's fine if it's all separate pieces as long as we have the total area we need.」
+
+
+％Ｂ
+「Pretty much.」
+Shuuichi
+「Regardless, you're going to need a lot. The other clubs are going to be using cardboard too, so there's going to be some competition. You guys are already at a disadvantage because you started late.」
+
+
+％Ｂ
+「That's true... but that's why I want to ask everyone for help.」
+
+all
+Natsuki
+「I guess I'll check the supermarket and convenience stores every day.」
+Marika
+「I'll ask people at my job.」
+Touko
+「Mmm... I wonder if we still have the cardboard boxes from when we moved...?」
+all
+Shuuichi
+「By the way, what about the projector? You said you were going to earn the money through part-time jobs, but how much do you need for it?」
+
+％Ｂ
+「Yeah, about that. The projector's gonna cost 70,000 to rent, so we want to get at least 80,000 with additional miscellaneous costs in mind.」
+
+Shuuichi
+「You want to earn 80,000 with two people? It's not impossible, but you'll need to work the right job.」
+
+％Ｂ
+「I think we'll just have to make do with the 5,000 yen the astronomy club currently has for anything immediate.」
+
+Shuuichi
+「Hm... I see.」
+％Ｂ
+「So those are pretty much the specifics that we have for now... What do you think?」
+Shuuichi
+「...I think it's fine. The cardboard sounds like it's going to be a bottleneck, but I'm sure you'll manage. Though that might be a little optimistic of me.」
+
+
+％Ｂ
+「So then...」
+Shuuichi
+「Yeah. Let's move forward with that plan. The event committee formally approves of this approach to the planetarium idea.」
+
+
+％Ｂ
+「All right!」
+all
+Sora
+「...Mm.」
+Sora and I happily give each other our usual thumbs-up.
+
+Marika
+「Hehe... That's great.」
+Natsuki
+「Making the Tanabata Festival betters's only going to make the photos for the graduation album that much better anyway.」
+
+all
+Misa
+「I will be repaying the favor for your help in preparing the aquarium.」
+
+all
+Rikka
+「I'll do as much as I'm able.」
+Touko
+「So I'm helping out with school events now... That's kinda new.」
+all
+Sora smiles at each of our friends in turn.
+all
+And so, we took our first steps into making a planetarium.
+It's not complete by any stretch of the imagination and it's a long road ahead, but I'm sure with all of our friends, it will turn out amazing.
+With the astronomy club finally picking out an attraction, I decided to celebrate with Sora.
+
+
+％Ｂ＿ＣＳ
+「Is there anything you want to eat?」
+Sora
+「Hamburger.」
+That was fast.
+％Ｂ＿ＣＳ
+「Are you sure you want to eat burgers for a celebration like this?」
+Sora
+「Umhm」
+％Ｂ＿ＣＳ
+「Alright, if that's what you want.」
+Sora
+「Umhm」
+Seems like she's completely hooked on burgers. 
+I fulfill Sora's wish and bring her to McRonalds. 
+There are empty seats today, so we order eat in.
+Sora
+「The bread's softer when we eat in.」
+Sora whispers that as she stares at her burger.
+％Ｂ＿ＣＳ
+「Yeah, it's probably because it's not sitting in the bag for a long time cooking in its own heat.」
+
+Sora
+「It's better fresh.」
+％Ｂ＿ＣＳ
+「Yep, let's dig in before it gets cold.」
+Sora
+「Umhm」
+Sora nods and without further hesitation, sinks her teeth in the burger.
+Sora
+「!!」
+And she freezes...
+Sora
+「...」
+And she's glaring at me with hostile eyes.
+％Ｂ＿ＣＳ
+「Let me guess, you bit into a pickle.」
+Sora
+「Umhm」
+Sora
+「I thought
+Ryou
+ you
+ would eat it, so I didn't take it out...」
+Sora
+「They usually prepare the burgers so that the pickles are in the middle...」
+％Ｂ＿ＣＳ
+「Well, you do have to consider human error in all of this.」
+Sora
+「Augh...」
+Her emotions on her face are mystifying to say the least. 
+％Ｂ＿ＣＳ
+「Looks like we've hit a speedbump in our celebrations.」
+Sora
+「Hauh...」
+Sora
+「I should be vigilant right from the onset.」
+Sora shows me her burger.
+The bitten pickle is meagerly sticking out the burger.
+With a bite, I take the pickle out of its misery.
+With a sigh of relief, Sora stares at her burger.
+It's as if she's remembering something.
+Sora
+「Celebrations...」
+％Ｂ＿ＣＳ
+「Hmm?」
+Sora
+「When is 
+Ryou's
+ your
+ birthday?」
+％Ｂ＿ＣＳ
+「My birthday?」
+Sora
+「Umhm」
+Sora
+「I learned everyone's birthday at camp.」
+Sora
+「But I didn't catch
+Ryou's
+ your
+ birthday.」
+％Ｂ＿ＣＳ
+「Ah, from the line up game. My birthday is October 7th. Why?」
+
+Sora
+「Celebration.」
+％Ｂ＿ＣＳ
+「Huh?」
+Sora
+「Now that we're dating, I wanted to celebrate your birthday properly.」
+Hearing that phrase from Sora...
+That's something I never thought I would hear from her and the fact that she's referring to me is music to my ears.
+
+Sora
+「It's because of 
+Ryou
+ you
+ that I was able to get a license for the roof and plan out the planetarium.」
+Sora
+「I wanted to propertly thank you.」
+Sora
+「That's why I wanted to know your birthday.」
+Sora
+「Besides... it would be weird not knowing my boyfriend's birthday.」
+She said "boyfriend"!
+She always acts so nonchalant, never mentioning anything about that. I grew used to that, but hearing those things now makes my heart jump!
+  
+Sora
+「
+Ryou's acting weird...
+You're acting weird.
+」
+％Ｂ＿ＣＳ
+「Ah, sorry. I lost my cool for a moment.」
+Sora
+「What made you lose your cool?」
+％Ｂ＿ＣＳ
+「This is the first time you said we're dating and called me your boyfriend.」
+Sora
+「That made you lose your cool?」
+％Ｂ＿ＣＳ
+「Yep. Vocalizing it really does make a difference.」
+
+Sora
+「Darling...?」
+％Ｂ＿ＣＳ
+「Augh! Honey, how exotic!」
+Sora
+「You're weird...」
+Sora eyes my festivities suspiciously as she continues eating.
+Is it just me or does she look a bit sheepish right now?
+
+％Ｂ＿ＣＳ
+「And Sora, you're birthday is January 5th.」
+Sora
+「Umhm」
+％Ｂ＿ＣＳ
+「I might be a tad early, but as your boyfriend, I'll give you a heartfelt celebration too.」
+Sora
+「I'll look forward to it.」
+％Ｂ＿ＣＳ
+「Is there anything in particular you want?」
+Sora
+「Anything I want...?」
+Sora
+「I should ask
+Ryou
+ you
+ first.」
+Sora
+「Your birthday comes first.」
+％Ｂ＿ＣＳ
+「True that. But I can't really think of anything I want.」
+
+Sora
+「What about pickles taken out from hamburgers?」
+％Ｂ＿ＣＳ
+「That's only a gift for you, Sora.」
+Sora
+「Then that should be no problem as a present.」
+％Ｂ＿ＣＳ
+「I was thinking of something more substantial for a present...」
+Sora
+「I can't think of anything else.」
+Sora
+「Looking at the stars with
+Ryou
+ you
+ is enough of a present for me.」
+Hearing those words give me a jolt.
+But that's deifnitely something she would ask.
+％Ｂ＿ＣＳ
+「That's fine then...」
+It might seem insignificant, but it means the world to my girlfriend.
+Reflexively, my cheeks relax as I think that. 
+％Ｂ＿ＣＳ
+「Being with you is enough of a present for my birthday as well.」
+％Ｂ＿ＣＳ
+「Looking at the stars and hearing you talk about constellations...」
+Sora
+「Umhm」
+Sora
+「That's a promise.」
+Nowadays, my birthday isn't something I'm too hung up on.
+But now that I have a girlfriend, it's something I'm eagerly awaiting.
+It's because of Sora that I finally realized this feeling.
+dummy
+_00com
+bgm15
+bgm15
+_00grp
+bg104
+_02smh
+_00bup
+bs_nt01_08
+_00bup
+bs_mr01_0802
+_00bup
+bs_nt01_08
+_00bup
+bs_mr01_0802
+_00bup
+bs_nt01_08
+_00bup
+bs_rk03_10
+_00bup
+bs_tk01_05
+all
+_00bup
+_00bup
+all
+_00bup
+bs_tk01_05
+all
+_00bup
+_00bup
+all
+_00bup
+bs_sy01_01
+_00bup
+_00bup
+bs_sy01_08
+_00bup
+bs_sy01_08
+_00bup
+bs_sr02_0108
+_00bup
+_00bup
+bs_sr02_01
+_00bup
+bs_sy01_08
+_00bup
+bs_sr02_01
+_00bup
+bs_ms01_0102
+_00bup
+_00bup
+bs_ms01_01
+_00bup
+bs_sy01_0105
+_00bup
+bs_sr03_01
+all
+_00bup
+_00bup
+all
+_00bup
+bs_sr02_01
+_00bup
+bs_sr02_04
+_00bup
+_00bup
+bs_sr02_0408
+_00bup
+bs_sr02_01
+_00bup
+bs_nt01_11
+_00bup
+_00bup
+bs_ms11_04
+all
+_00bup
+_00bup
+all
+_00bup
+bs_sy01_05
+_00bup
+_00bup
+bs_sr03_01
+_00bup
+bs_sy01_0408
+_00bup
+_00bup
+bs_sy01_06
+_00bup
+bs_sy01_09
+_00bup
+_00bup
+bs_sr02_1008
+_00bup
+_00bup
+bs_sr02_1004
+_00bup
+bs_sy11_0107
+_00bup
+_00bup
+bs_sy11_07
+all
+_00bup
+_00bup
+all
+_00bup
+bs_nt02_0204
+_00bup
+bs_nt02_0204
+_00bup
+bs_mr03_02
+_00bup
+bs_nt02_0204
+_00bup
+bs_mr03_02
+_00bup
+bs_tk13_07
+all
+_00bup
+_00bup
+all
+_00bup
+bs_sy01_08
+_00bup
+_00bup
+bs_sy01_0807
+_00bup
+bs_sy01_08
+_00bup
+bs_sy11_07
+_00bup
+bs_sy01_0102
+_00bup
+_00bup
+bs_sy01_01
+_00bup
+bs_sy01_02
+_00bup
+_00bup
+bs_sy01_0201
+all
+_00bup
+_00bup
+all
+_00bup
+bs_sr02_0911
+_00bup
+bs_sr02_1011
+_00bup
+bs_mr01_02
+_00bup
+bs_nt02_02
+_00bup
+bs_sr02_1011
+_00bup
+bs_mr01_02
+all
+_00bup
+_00bup
+all
+_00bup
+bs_ms03_03
+all
+_00bup
+_00bup
+all
+_00bup
+bs_rk11_02
+_00bup
+bs_tk01_02
+_00bup
+bs_tk02_03
+_00bup
+_00bup
+bs_tk02_0302
+all
+_00bup
+_00bup
+all
+_00bup
+bs_sr02_1011
+all
+_00bup
+_00bup
+all
+bg501
+_00grp
+bgm12
+bgm12
+_00grp
+bg103
+_00bup
+bs_sr02_10
+_00bup
+bs_sr02_1011
+_00bup
+bs_sr03_0403
+_00grp
+_00grp
+cg_sr25_0311
+_00grp
+cg_sr25_0322
+_00grp
+cg_sr25_0311
+_00grp
+cg_sr25_0444
+_00grp
+cg_sr25_0455
+_00grp
+cg_sr25_0466
+_00grp
+cg_sr25_0333
+_00grp
+cg_sr25_0331
+_00com
+_00grp
+cg_sr25_0333
+_00grp
+cg_sr25_0321
+_00grp
+cg_sr25_0322
+_00grp
+cg_sr25_0311
+_00grp
+cg_sr25_0321
+_00grp
+cg_sr25_0322
+_00com
+_00grp
+cg_sr25_0321
+_00com
+_00grp
+cg_sr25_0322
+_00grp
+cg_sr25_0321
+_00com
+_00grp
+cg_sr25_0331
+_00com
+_00grp
+cg_sr25_0321
+_00grp
+cg_sr25_0322
+_00grp
+cg_sr25_0331
+_00grp
+cg_sr25_0444
+_00grp
+cg_sr25_0321
+_00grp
+cg_sr25_0322
+_00grp
+cg_sr25_0321
+_00com
+_00grp
+cg_sr25_0322
+_00grp
+cg_sr25_0311
+_00com
+_00grp
+cg_sr25_0321
+_00grp
+_00com
