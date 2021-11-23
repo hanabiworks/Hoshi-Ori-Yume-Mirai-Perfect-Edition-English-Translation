@@ -1,0 +1,78 @@
+﻿0806
+火
+0827
+火
+％Ｂ
+「...」
+Today's the day they announce the results for the second-class architect subject exam.
+I can look up whether I failed or passed online. I nervously start up my browser.
+
+Touko
+「How'd you do? Did you pass?」
+％Ｂ
+「Hold on, it's still loading... Oh, there it is!」
+
+all
+The page with the ID numbers of everyone who passed comes up.
+I look for my number.
+％Ｂ
+「...I found it! I found my number! I passed the subject exam!」
+
+Touko
+「That's great! Congratulations!」
+My anxiety melts away and I celebrate with Touko.
+I was pretty sure I had done well, but I couldn't be completely comfortable until I got to see the actual result like this.
+
+％Ｂ
+「Ahh... Now I can focus on preparing for the drafting exam without any worries.」
+Touko
+「Don't forget to help me with my studying too, okay? I'm finally able to understand what the workbooks say now.」
+
+％Ｂ
+「Yeah, I know. Oh yeah, speaking of which, did you apply for the exam yet? The deadline's soon, right?」
+
+Touko
+「Mhm, I did it the other day. I was considering applying for a one-stage-only exam type, but I decided on the standard type that lets you do a second stage too. The cost wasn't that much different either.」
+
+
+％Ｂ
+「Sounds good. And you might end up passing in the first stage anyway.」
+Touko
+「I'd be a genius if I passed on the first try, right? Maybe I have natural talent for this.」
+
+％Ｂ
+「You can say stuff like that after you pass the first stage. You'll never pass just on luck alone, even if it is a machine-graded exam.」
+
+
+Touko
+「Okaaay. Then I think I'll do my best so I can annoy my tutor as much as possible.」
+
+...The hell's with that motive?
+She really has been putting a lot of effort into studying lately... Is that seriously the reason why?
+
+dummy
+_00com
+bgm17
+bgm17
+bg407
+_00grp
+bg407
+_00bup
+bs_tk01_0609
+all
+_00bup
+_00bup
+all
+_00bup
+bu_tk01_04
+_00bup
+bu_tk02_02
+_00bup
+bu_tk02_03
+_00bup
+bu_tk03_0902
+_00bup
+_00bup
+bu_tk03_1005
+_00grp
+_00com

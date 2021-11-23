@@ -1,0 +1,830 @@
+﻿0324
+金
+0705
+水
+Azuma
+「Hey, I'm back.」
+Shouji
+「Welcome back, Chief.」
+Firm Staff B
+「Oh, you're back from your two-week trip to America. Welcome back.」
+Azuma
+「Yeah, I'm seriously tired. I must be getting old.」
+Azuma
+「...Hm? By the way, where's Hino?」
+Azuma
+「...Hm? By the way, where's he?」
+Shouji
+「He's making that model from before over there. He's been working on it this whole time.」
+
+Azuma
+「Hoh... So you're saying he's so focused he hasn't even realized I'm back. Now let's see, how about I surprise him?」
+
+
+％Ｂ
+「...Hm... All right... That worked. That's the main entrance pretty much done. Next up is...」
+
+
+Azuma
+「Wait... What the hell is this!?」
+％Ｂ
+「Wha... Oh, Chief!」
+I turn around to see Azuma-san standing there, mouth agape.
+
+％Ｂ
+「You're back from your trip? Welcome back!」
+Azuma
+「Y-Yeah... Who cares about that, what's with this huge model!?」
+％Ｂ
+「This? It's the Hokuou University main campus building...」
+Azuma
+「I know that. I'm talking about the size! This thing's huge!」
+
+
+％Ｂ
+「Well yes... But... you were the one who told me to make it as big as possible, so we can make an impression for the competition.」
+
+Azuma
+「Well yeah, I did say that... but isn't this too big? Are we going to be able to carry this to the competition?」
+
+
+％Ｂ
+「It's just big enough for it to fit in a minivan. I made sure.」
+
+Azuma
+「Hm... Then it's fine. There wouldn't be any point in finishing it if we couldn't carry it to the competition. Now let's see...」
+
+
+all
+He starts checking over the model.
+His expression is serious. Those eyes tell me he won't let even the smallest mistake escape his notice.
+
+I've had him look over a lot of my models so far, and he's always made me realize just how much more I have to learn.\n\r
+
+I hope this is the one that finally gets his approval...
+Azuma
+「Hm... I see.」
+％Ｂ
+「Wh-What do you think?」
+Azuma
+「So... What's our concept this time around?」
+％Ｂ
+「Uh...」
+Azuma
+「Tell me what our design concept is for this project.」
+
+％Ｂ
+「Y-Yes! Our design concept is "spiral toward the future"!」
+
+％Ｂ
+「We felt there was a sense of blockage when we went to Hokuou University to gather information.」
+％Ｂ
+「It may be due to the fact that it's a former imperial university, but it has a very conservative air to it. It exuded stagnancy.」
+
+
+％Ｂ
+「We would like to breathe new life into that university, and create a new learning space for the sake of charging forward into the future... That is the rationale behind the "spiral toward the future" design concept.」
+
+
+％Ｂ
+「And to symbolize that, we have designated an enormous, wide-open space on the first floor, with a spiraling slope about the circumference. All of the main entrances are to be connected through this single chamber.」
+
+
+％Ｂ
+「The wide-open space and the spiral slope will be a perfect metaphor for the young people who will be wandering through its halls, always moving toward the future. I believe it may be a masterpiece!」
+
+
+Azuma
+「Stop with the flattery. Though... it looks like you understand.」
+
+He pats me on the shoulder.
+Azuma
+「You've done an excellent job of bringing the idea to life, down to every last detail. This is flawless work.」
+
+％Ｂ
+「Oh... Thank you very much!」
+...All right!
+I've been praised by Azuma-san without any criticism, for the first time!
+Azuma
+「Keep going like this.」
+％Ｂ
+「Y-Yes! Oh, but...」
+
+Azuma
+「Hm? What's wrong?」
+％Ｂ
+「Oh... Well, um... How do I say this...」
+Azuma
+「What? Spit it out.」
+％Ｂ
+「Well... I may have a suggestion of sorts...」
+Azuma
+「Hoh. Say it.」
+It might be too soon for someone of my standing to try to suggest something to him.
+
+But Azuma-san never accepts any compromises when it comes to his work.
+That's why I have to learn from his example and say what's on my mind.
+
+％Ｂ
+「Wouldn't it be better to change these northern stairs to a barrier-free design?」
+
+Azuma
+「You're saying the slope won't be enough?」
+％Ｂ
+「I understand that the slope will make for a relaxed ascent. But this northern staircase will be the closest to the fluid mechanics laboratory, and it will be used by many people.」
+
+
+％Ｂ
+「Hokuou University has a relatively large proportion of elderly professors, and there are also staff members who use wheelchairs. I believe it may be necessary to add considerations for them.」
+
+
+Azuma
+「...」
+％Ｂ
+「Also... May I continue?」
+Azuma
+「Yeah... Keep going.」
+％Ｂ
+「There are an incredibly large number of people who commute to Hokuou University by bike. Many of them bike directly through campus from the gates to the bicycle parking at the main building.」
+
+％Ｂ
+「This has apparently been troublesome for other students who come by train or bus.」
+
+％Ｂ
+「I believe this is a problem related to the flow of on-campus traffic. It may be prudent to take this opportunity to reconsider the positioning of the bicycle parking. For example... Here, perhaps?」
+
+
+Azuma
+「...」
+Azuma-san's listening to me intently.
+％Ｂ
+「I've written down a few more things I've noticed...」
+
+Azuma
+「Give it here.」
+He takes my notes and reads through them.
+Azuma
+「Hm... I see. These are pretty good ideas.」
+％Ｂ
+「Do... Do you think so?」
+Azuma
+「Yeah. I'm impressed you noticed all this.」
+％Ｂ
+「Y-Yes. It's because I've been there several times by myself to gather information.」
+Azuma
+「Hoh, really.」
+％Ｂ
+「Yes!」
+Though half of the reason was to see Misa...
+Azuma
+「How about you try drafting a blueprint, then?」
+％Ｂ
+「Wha... M-Me!?」
+Azuma
+「These are your ideas. Bring it to me when you're done. I'll have you make it into a model if I approve.」
+
+％Ｂ
+「Y-Yes! I'll get started right away!」
+all
+He's gonna use my ideas...
+Azuma-san's going to incorporate my ideas into his design!
+Oh crap! I'm getting super pumped!
+I'm gonna get started right away!
+％Ｂ
+「Phew...」
+I'm at a family restaurant, late at night.
+I slump back in the booth seat, sipping coffee from the self-serve counter.
+I've gotten into the habit of chugging down coffee thanks to Azuma-san and the other firm workers.
+
+I remember I used to be surprised adults could drink this bitter mud.\n\r
+
+This stuff's pretty good once you get used to it.
+I tilt the cup back again.
+％Ｂ
+「...Hm?」
+The door chime rings as someone walks in.
+I look over at the entrance on reflex.
+That's right. I'm not here just to take a break...
+Misa
+「Oh...! Thank you very much for waiting!」
+Misa smiles at me. She's wearing a suit after work.
+Restaurant Employee
+「A table for one?」
+Misa
+「Auh...」
+...And an employee swiftly steps forward to greet her.
+Misa
+「Oh, I'm very sorry. I'm actually meeting someone here...」
+
+Restaurant Employee
+「Ah, you're here with company?」
+Misa
+「Yes, company... More like a lover...」
+I hope she knows she doesn't actually have to tell the employee that...
+Misa
+「Um, him over there. He's my boyfriend... Ehehehe...」
+
+Restaurant Employee
+「My, I see. Then please, enjoy your stay.」
+
+Misa
+「Yes, thank you very much!」
+all
+She bows politely, and then jogs over to me.
+
+Misa
+「I apologize for being late.」
+％Ｂ
+「No worries. You were busy again today, right?」
+Misa
+「Yes, I've been leaving work especially late recently... Hauh～」
+She places her bulging bag on the seat.
+She sits down in the booth, looking relieved.
+％Ｂ
+「But man... Still not really used to family restaurants, huh?」
+
+I think back to how flustered she got when that employee walked up to her.
+Misa
+「Yes, I didn't have many opportunities to take advantage of these back in university, as the cafeteria was just so convenient back then.」
+
+Misa
+「And once I turned twenty, well... I learned of how good bars were...」
+
+％Ｂ
+「Ah, yeah, that's true...」
+Misa
+「We're very unhealthy, aren't we? Ufufufu...」
+
+％Ｂ
+「Though places like these are the only ones open this late at night.」
+The only other place to eat other than a family restaurant at a time like this would be a gyudon place.
+
+Misa
+「That's very true. But I love family restaurants.」
+
+She stretches back comfortably.
+％Ｂ
+「Do you?」
+Misa
+「It's a very mysterious feeling meeting up like this in the middle of the night. It's very fun just looking at all of the menu options and the drinks.」
+
+
+Misa
+「And most importantly... You took me to a family restaurant on our very first date.」
+
+％Ｂ
+「Oh yeah... I did, now that you mention it.」
+Misa
+「I could never forget that.」
+％Ｂ
+「Well, if you're that fond of places like this, then have yourself a good dinner here. My treat, since I asked you to come.」
+
+
+Misa
+「Really!? I would love to, then～ Oh, may I press the button?」
+
+％Ｂ
+「Of course. Might explode, though.」
+Misa
+「I'm already well aware that it's safe... Hup!」
+
+She presses the button, and an employee arrives after a short delay.
+Misa
+「Oh, I'd like a Japanese-style napolitan. The C set with the miso soup, and self-service drinks♪」
+
+Misa
+「What would you like, Ryousuke-san?」
+Misa
+「What would you like?」
+％Ｂ
+「I already had ramen at the office, so I'm fine with just drinks. Oh, that'll be all for our order.」
+
+
+The employee bows and leaves.
+
+Misa
+「I apologize for being the only one to eat. I'm very hungry... I haven't eaten anything since lunch today...」
+
+％Ｂ
+「No need to worry about that. Oh, I'll get some stuff ready while you eat, so take your time.」
+
+
+Misa
+「Yes, I will!」
+all
+Her order comes after a bit.
+Misa
+「Ahh, Japanese-style napolitan... It's always so very delicious.」
+I smile at her remark as I open up my laptop.
+I put together some documents and make small talk with Misa as she eats.
+Misa
+「Ahh, that was delicious.」
+Eventually, she finishes eating.
+Misa
+「Fufufu... Shall we begin? Oh, but before that... I'll go get some black tea from the drink area♪」
+
+％Ｂ
+「Oh, I'll do it. You can sit back and rest.」
+
+Misa
+「Thank you so very much for everything～」
+％Ｂ
+「Do you want regular black tea or herbal?」
+Misa
+「Herbal, please! Chamomile, if possible.」
+％Ｂ
+「I think they've got it here. I'll go get some.」
+all
+I pour some chamomile tea into a teapot at the drink area.
+Family restauarants these days have such high-class drinks. I can barely believe it's a flat charge.
+
+Especially considering how good this chamomile tea smells.
+％Ｂ
+「Here you go.」
+Misa
+「Ahh～ ...How very relaxing～」
+She relaxes and enjoys the fragrance of the tea after I pour some into her cup.
+
+Misa
+「Ufufu... I'm completely relaxed now.」
+％Ｂ
+「Is it all right if we talk about work, then?」
+Misa
+「Yes, please ask me anything!」
+One reason why we're meeting up here is because we both just want to see each other at all, of course...
+
+But I also want to try to get as much information as possible out of Misa's opinion as a current staff member at Hokuou University, for the upcoming competition.
+
+
+I could formally arrange appointments with the university to meet, of course...
+But there's some information that I can't get that way.
+That's why we've been meeting like this regularly so I can ask her about things like facility usage and insider info.
+
+％Ｂ
+「Could we start by making sure I've got a handle on the current situation? This is a blueprint I drafted up myself for the current main campus building...」
+
+Misa
+「Oh my... You drafted this up yourself?」
+％Ｂ
+「Pretty much. We can't get a hold of the current design's blueprints, so I took matters into my own hands.」
+
+
+Misa
+「That's incredible! It's like you're a spy.」
+％Ｂ
+「If I'm a spy, then I guess you're a double agent?」
+Misa
+「That makes me seem like a very evil woman...」
+Misa
+「But it's a little exciting too! I will be your informant. This is all for my beloved boyfriend.」
+
+
+Misa
+「I've been completely seduced already, so I will tell you anything and everything you need to know.」
+
+％Ｂ
+「Oh my. Thank you very much for your cooperation.」
+％Ｂ
+「I will provide you with dessert at the end of a thorough discussion.」
+
+Misa
+「Really!? Oh my, that would get me to say anything...」
+
+％Ｂ
+「Then let's start with the elevator. This is where the business-use elevator is, yes?」
+
+％Ｂ
+「I believe it would be slightly difficult to access here... Is there a reason for it being here?」
+
+Misa
+「Oh, well you see～ It was apparently a request from the professors... It only happens a few times a year, but during large-scale experiments...」
+
+I point out things on the blueprint as I ask her questions.
+There's always information that I would never get from a reception desk.
+A university is a massive institution used by tens of thousands of people.
+And as you'd expect, there's a complex tangle of opinions and perspectives involved with it.
+％Ｂ
+「I see, this is good to know...」
+I'm furiously taking notes.
+I'm sure making good use of this information will help create a fully complete design.
+
+％Ｂ
+「Oh, but you know, Misa. I know we're already halfway through this... but you don't have to actually say anything that you shouldn't, all right?」
+
+Misa
+「Ufufu... Yes, of course I know. I'm simply cooperating with you out of the goodness of my heart.」
+
+Misa
+「I won't say anything I shouldn't, and I also know you wouldn't ask me about such things in the first place.」
+
+
+％Ｂ
+「Well yeah, I've gotta at least show some common decency. I wanna use what I can to the fullest past that, though.」
+
+
+Misa
+「I'm very heartened by that view, if anything. It's a very important mindset for creating the best possible result.」
+
+Misa
+「And... I can see that Mr. Azuma's firm is very passionate about this work, and I believe you all will create a truly wonderful design.」
+
+
+Misa
+「That's why I would like to help as much as I am able.」
+％Ｂ
+「I'm glad you feel that way. Thanks. Seriously.」
+
+％Ｂ
+「So then... want some dessert, as thanks for being my informant?」
+Misa
+「I would love some! I have been very curious about this strawberry parfait.」
+
+％Ｂ
+「Let's get one of those, then. If there's anything else you want, let me know.」
+
+Misa
+「And... E-Ehehehehe... Then just one thing... I would be very happy if you would also do the "ahhh" for me...」
+
+
+％Ｂ
+「Do the "ahhh"... You mean, that "ahhh"...?」
+Misa
+「Yes, that "ahhh" indeed!」
+％Ｂ
+「I-I see... Man, you haven't asked for that since we were students...」
+Misa
+「Ufufu... I... would like a reward. There are hardly any other customers here right now...」
+
+％Ｂ
+「...You're right.」
+I glance around furtively.
+There's barely anyone else here, and the few people that are, aren't paying attention to us.
+％Ｂ
+「Then... We'll order a strawberry parfait.」
+Misa
+「Yes! ...Hup!」
+She presses the button, and an employee comes to our table.
+I order a strawberry parfait.
+Misa
+「I'm very excited!」
+all
+The employee eventually arrives with a tasty-looking parfait.
+％Ｂ
+「Okay then. Here, "ahhh"...」
+
+Misa
+「Aaahh... Hamhamh...」
+Misa
+「Ufufu... Sweet, and sultry. What a sinful flavor indeed...」
+
+She looks at me happily, a bit of a mischievous smile playing around her lips.
+
+dummy
+_00com
+bgm51
+after_zimusyo_door1
+_00grp
+bg408
+_00bup
+bs_az01_0101
+_00bup
+bs_az01_0202
+_00bup
+_00bup
+bs_az01_0506
+_00bup
+bs_az01_0101
+_00com
+_00bup
+bs_az01_1212
+_00bup
+_00bup
+bs_az01_02
+_00bup
+bs_az01_0909
+_00bup
+bs_az01_0707
+_00bup
+_00bup
+bs_az01_10
+_00bup
+bs_az01_04
+_00bup
+_00bup
+bs_az01_11
+_00bup
+bs_az01_0808
+_00bup
+_00bup
+bs_az01_0406
+_00bup
+bs_az01_0101
+_00bup
+_00bup
+bs_az01_02
+all
+_00bup
+_00bup
+all
+_00bup
+bs_az01_0606
+_00bup
+bs_az01_0404
+_00bup
+bs_az01_0606
+_00bup
+bs_az01_0808
+_00bup
+_00bup
+bs_az01_01
+_00bup
+bs_az01_0202
+_00bup
+bs_az01_0101
+_00bup
+bs_az01_0202
+_00bup
+bs_az01_0606
+_00bup
+bs_az01_0404
+_00bup
+bs_az11_0606
+_00bup
+bs_az11_0806
+_00bup
+bs_az11_0404
+_00bup
+bs_az11_0606
+_00bup
+bs_az01_0404
+_00bup
+bs_az01_0406
+_00bup
+bs_az01_0101
+_00bup
+bs_az01_0202
+_00bup
+bs_az01_0207
+_00bup
+bs_az01_0101
+_00bup
+bs_az01_0202
+_00bup
+_00bup
+bs_az01_06
+all
+_00bup
+_00bup
+all
+_00grp
+bgm52
+bg417n
+_00grp
+bg417n
+_00bup
+bs_ms13_0101
+_00bup
+_00bup
+bs_ms13_02
+_00bup
+bs_ms13_1010
+_00bup
+bs_ms01_08
+_00bup
+_00bup
+bs_ms01_01
+_00bup
+bs_ms01_0202
+_00bup
+_00bup
+bs_ms01_07
+_00bup
+bs_ms13_0101
+_00bup
+_00bup
+bs_ms13_12
+_00bup
+bs_ms01_0302
+all
+_00bup
+_00bup
+all
+_00bup
+bs_ms01_1010
+_00bup
+bs_ms02_08
+_00bup
+_00bup
+bs_ms02_10
+_00bup
+bs_ms01_0102
+_00bup
+_00bup
+bs_ms01_0201
+_00bup
+bs_ms01_03
+_00bup
+_00bup
+bs_ms01_02
+_00bup
+bs_ms13_0404
+_00bup
+_00bup
+bs_ms13_0304
+_00bup
+bs_ms13_0202
+_00bup
+_00bup
+bs_ms13_04
+_00bup
+bs_ms01_0101
+_00bup
+_00bup
+bs_ms01_02
+_00bup
+bs_ms01_0303
+_00bup
+_00bup
+bs_ms01_0207
+_00bup
+bs_ms13_0404
+_00bup
+bs_ms13_03
+_00bup
+_00bup
+bs_ms13_01
+_00bup
+bs_ms13_02
+_00bup
+_00bup
+bs_ms33_03
+_00bup
+bs_ms02_02
+_00bup
+_00bup
+bs_ms02_03
+_00bup
+bs_ms01_0101
+_00com
+_00bup
+bs_ms01_1010
+_00bup
+_00bup
+bs_ms01_11
+_00bup
+bs_ms01_0202
+all
+_00bup
+_00bup
+all
+_00bup
+bs_ms01_0606
+_00bup
+_00bup
+bs_ms01_02
+_00bup
+bs_ms01_0707
+_00bup
+bs_ms01_0101
+_00bup
+_00bup
+bs_ms13_0101
+_00bup
+bs_ms01_0303
+_00bup
+_00bup
+bs_ms01_02
+_00bup
+bs_ms01_06
+_00bup
+_00bup
+bs_ms01_01
+all
+_00bup
+_00bup
+all
+_00bup
+bs_ms01_0303
+_00bup
+_00bup
+bs_ms01_0207
+_00bup
+bs_ms13_0101
+_00bup
+_00bup
+bs_ms13_02
+_00bup
+bs_ms33_0202
+_00bup
+_00bup
+bs_ms33_01
+_00bup
+bs_ms33_02
+_00bup
+bs_ms01_0606
+_00bup
+bs_ms01_1313
+_00bup
+_00bup
+bs_ms01_02
+_00bup
+bs_ms01_07
+_00bup
+bs_ms13_01
+_00bup
+_00bup
+bs_ms13_02
+_00bup
+bs_ms13_0404
+_00bup
+bs_ms13_1212
+_00bup
+_00bup
+bs_ms13_07
+_00bup
+bs_ms01_0606
+_00bup
+_00bup
+bs_ms01_07
+_00bup
+bs_ms01_0101
+_00bup
+_00bup
+bs_ms01_02
+_00bup
+bs_ms01_04
+_00bup
+bs_ms13_0404
+_00bup
+_00bup
+bs_ms13_02
+_00bup
+bs_ms13_0101
+_00bup
+_00bup
+bs_ms13_0302
+_00bup
+bs_ms13_07
+_00bup
+_00bup
+bs_ms13_01
+_00bup
+bs_ms13_0202
+_00bup
+_00bup
+bs_ms13_04
+_00bup
+bs_ms01_0101
+_00bup
+_00bup
+bs_ms01_02
+_00bup
+bs_ms01_0606
+_00bup
+_00bup
+bs_ms01_02
+_00bup
+bs_ms13_1212
+_00bup
+_00bup
+bs_ms33_07
+_00bup
+bs_ms33_01
+_00bup
+bs_ms13_04
+_00bup
+bs_ms13_0303
+_00bup
+_00bup
+bs_ms13_07
+_00bup
+bs_ms11_0202
+_00bup
+_00bup
+bs_ms11_08
+pinpon
+_00bup
+bs_ms11_0801
+_00bup
+bs_ms13_0101
+_00bup
+_00bup
+bs_ms13_0302
+all
+_00bup
+_00bup
+all
+_00bup
+bu_ms01_0208
+_00bup
+_00bup
+bu_ms01_0207
+_00bup
+bu_ms13_0302
+_00bup
+_00bup
+bu_ms13_0404
+_00bup
+bu_ms13_07
+_00grp
+_00com

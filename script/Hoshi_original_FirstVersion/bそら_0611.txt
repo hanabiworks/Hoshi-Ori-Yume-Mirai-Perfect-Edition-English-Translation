@@ -1,0 +1,407 @@
+﻿0610
+火
+0611
+水
+$$smh_OpenCHK
+Done with classes for the day.
+％Ｂ
+「Now then...」
+Rikka
+「...Are you going to the astronomy club again today?」
+％Ｂ
+「Yeah. I'm not gonna rush her or anything. I just figured it'd be better for me to be nearby when Ousaka decides she wants to do something for the festival.」
+
+Rikka
+「That's true... I hope she decides soon. Maybe I'll be freed after that―」
+
+
+Natsuki
+「What are you taaalking about? There's no way you'd be released even if Sora decides she wants to participate.」
+
+
+Rikka
+「...I know. I just tried saying it.」
+Natsuki
+「Either way
+, Hino
+
+, you just leave your event committee work to Rikka and do your best trying to convince Sora.」
+％Ｂ
+「Y-Yeah. Sorry about this, Narusawa.」
+Rikka
+「It's fine. I've given up already.」
+Natsuki
+「Okay, we're going too!」
+Rikka
+「Yes, yes. See you
+
+, Hino-kun
+
+.」
+Natsuki
+「Good luuuck!」
+％Ｂ
+「Yeah. See you guys tomorrow.」
+I leave the classroom and head toward the astronomy clubroom.
+％Ｂ
+「Oh... The weather doesn't look great.」
+I see yet another cloudy sky through the hallway windows.
+％Ｂ
+「It seemed pretty clear up until a little while ago...」
+The clubroom door opens, revealing Ousaka and the telescope.
+％Ｂ
+「Yo. Let's go.」
+Sora
+「...*nod*」
+％Ｂ
+「I'll carry the telescope from now on, so you can just wait here in this room until I get here if you want.」
+
+Sora
+「...The astronomical telescope is my responsibility, as the club president.」
+％Ｂ
+「But it's heavy, right? It'd make me happy if you could rely on me at least for some minor stuff if I'm gonna be around anyway.」
+
+
+Sora
+「...You aren't an official member
+, Ryou
+
+.」
+％Ｂ
+「But I was holding it when we left the rooftop yesterday, wasn't I?」
+Sora
+「...No issues with you helping under my supervision.」
+％Ｂ
+「Okay. Then you can just keep an eye on me while I'm holding it. No issues that way, right?」
+
+Sora
+「...*nod* No issues.」
+％Ｂ
+「Then here...」
+all
+I grab the telescope out of her hands.
+％Ｂ
+「All right, let's get going. The weather's kinda meh today. Hope you can still end up seeing something.」
+
+Sora
+「...*nod*」
+％Ｂ
+「Ah... Yeah, lots of clouds.」
+Sora
+「...」
+The sky's filled with clouds again today, and they're moving really slowly too.
+
+％Ｂ
+「Doesn't look like you'll be able to do any stargazing today. What do you wanna do? Give up for the day?」
+
+Sora
+「...」
+all
+Ousaka takes the telescope back from me and starts setting it up in the usual spot.
+
+％Ｂ
+「Hey, come on... You planning on waiting for the sky to clear up?」
+She silently continues the telescope setup without answering.\n \n\r
+She pulls out something that looks like a compass, adjusts the telescope's bearing, and starts making finer adjustments while looking through the eyepiece.
+
+％Ｂ
+「...What are you gonna look at?」
+She looks at me, apparently having finished her fine-tuning, and quirks her index finger toward the eyepiece.
+
+％Ｂ
+「You want me to look?」
+Sora
+「...*nod*」
+She showed me the moon and the sea before like this.
+I wonder what she's gonna show me today.
+all
+％Ｂ
+「Let's see...」
+I peer into the eyepiece. I can see a small, blue-white star glittering in the field of view.
+％Ｂ
+「...What star is this? ...It is a star, right? It seems really bright...」
+Sora
+「...It's Venus.」
+％Ｂ
+「Venus? Venus, as in the planet Venus? The "very" in "My very educated mother just served us nine pizzas"?」
+
+Sora
+「...Pluto's a dwarf planet now. So now it's "My very educated mother just served us nachos."」
+
+％Ｂ
+「Uhh... Anyway, so this is Venus?」
+Sora
+「...*nod*」
+％Ｂ
+「Huh, so you can actually see Venus like this? I guess it's still right next to Earth, after all.」
+
+Sora
+「...The solar system's second planet. The closest to Earth, and of a similar size. Its orbital period is 224.7 days, rotation period 243.02 days. Surface temperature of 460°C, which evaporates its sulfuric acid rain before it reaches the ground.」
+
+
+
+
+
+
+
+％Ｂ
+「...You said something so horrific so casually...」
+Sulfuric acid rain...? Excuse me?
+Is Venus really that dangerous?
+Sora
+「...Venus in English, pronounced "Wenus" in Latin, "Shukra" in Sanskrit, "Aphrodite" in Greek.」
+
+
+Sora
+「...Also known as both the Morning Star and the Evening Star. It refers to the fact that Venus can only be seen near dawn and dusk, and it's the brightest object in the sky other than the Sun and the Moon.」
+％Ｂ
+「Yeah, I've heard of the Morning Star. So that refers to Venus.」
+
+Sora
+「...Venus has several geographical features named after Japanese mythology and folk tales. "Yuki-Onna Tessera," "Benten Corona," and "Otohime Tholus."」
+
+
+％Ｂ
+「I see, I see. I didn't know they named stuff like that.」
+Sora
+「...In addition―」
+Ousaka's as talkative as ever when it comes to astronomy.
+I've already experienced her breadth of knowledge when it comes to this stuff.
+It was overwhelming at first, but now I find her explanations pretty interesting and fun to listen to.
+
+％Ｂ
+「You're amazing, Ousaka. You're probably the most knowledgeable person in the whole school when it comes to astronomy.」
+
+Sora
+「...Because I studied lots.」
+％Ｂ
+「Yeah, it's always fun to learn about things you like. I know I love studying about architecture. What other kinda stuff do you know? How about constellations?」
+
+
+Sora
+「...*nod*」
+％Ｂ
+「Anything related to constellations that's particularly interesting?」
+
+Sora
+「...」
+She's lapsed into thought.
+％Ｂ
+「That might've been a bit too general. How about just summer constellations, then?」
+Sora
+「...Summer constellations.」
+％Ｂ
+「Hm...?」
+Now she's staring at my face.
+What's going on?
+％Ｂ
+「Uhh... Is there something on my face?」
+Sora
+「...」
+She's still staring...
+Did I say something weird...?
+Sora
+「...*shake shake*」
+She shakes her head as if to deny something, and then looks up at the sky.
+Sora
+「...Summer constellations are notable for being comprised of mostly bright stars, with easy-to-tell shapes.」
+She begins her explanation, as if that hadn't happened just now.
+Sora
+「...A famous formation is the Summer Triangle, which is formed from the first-magnitude stars of three different constellations.」
+
+％Ｂ
+「Oh yeah, I know about that one. It's Vega from Lyra, Altair from Aquila, and Deneb from Cygnus. We saw Vega and Altair back when we went camping, right?」
+
+
+Sora
+「...*nod*」
+Sora
+「...If you want to see summer constellations, start by finding the Summer Triangle. It's easier to spot the other constellations that way.」
+
+％Ｂ
+「Huh, really.」
+Sora
+「...For example, Vulpecula the fox and Sagitta the arrow are inside the Summer Triangle.」
+％Ｂ
+「Huh? The fox and the what?」
+Sora
+「...Arrow. Like bow and arrow.」
+％Ｂ
+「I didn't know one like that existed.」
+Sora
+「...There are four stars that form a small diamond south of the Summer Triangle. That's Delphinus the dolphin.」
+
+％Ｂ
+「There's an eagle, a swan, a lyre, an arrow, and even a dolphin? ...I guess anything goes for constellations.」
+
+Sora
+「...People were imaginative in the past.」
+％Ｂ
+「Guess so.」
+all
+I participated in a stargazing party once when I was a kid.
+Maybe that's why talking with Ousaka about stars feels strangely nostalgic to me.
+
+％Ｂ
+「What else is there? Tell me more.」
+Sora
+「...*nod*」
+all
+The sky's still cloudy. We probably won't even be able to see Venus soon.\n\r
+
+I think I'll just relax and have Ousaka tell me about the stars today.
+dummy
+_00com
+bgm11
+bgm11
+gakuen_chime
+_00grp
+bg101
+_02smh
+_00bup
+bs_rk11_01
+_00bup
+bs_rk11_0108
+_00bup
+_00bup
+bs_rk11_08
+_00bup
+_00bup
+bs_nt02_0102
+_00bup
+_00bup
+bs_nt02_02
+_00bup
+bs_rk02_0605
+_00bup
+bs_nt11_02
+_00com
+_00bup
+_00bup
+bs_nt11_01
+_00bup
+bs_rk11_07
+_00bup
+bs_nt03_0102
+_00bup
+bs_rk03_07
+_00com
+_00bup
+bs_nt03_02
+gakuen_door1
+_00grp
+bg102
+gakuen_door1
+_00bup
+bs_sr03_01
+_00bup
+bs_sr02_01
+_00bup
+bs_sr02_0107
+_00bup
+bs_sr02_07
+_00com
+_00bup
+bs_sr02_01
+_00bup
+bs_sr02_05
+all
+_00bup
+_00bup
+all
+_00bup
+bs_sr03_01
+_00grp
+gakuen_door_tetsu1
+_00grp
+bg107
+_00bup
+bs_sr02_04
+_00bup
+bs_sr02_01
+all
+_00bup
+_00bup
+all
+_00bup
+bs_sr03_01
+_00bup
+bs_sr03_03
+all
+_00bup
+_00bup
+all
+_00bup
+bs_sr02_01
+_00bup
+bs_sr02_0103
+_00bup
+_00bup
+bs_sr02_01
+_00bup
+bs_sr02_1011
+_00bup
+bs_sr02_01
+_00bup
+bs_sr02_0108
+_00bup
+bs_sr02_0104
+_00bup
+_00bup
+bs_sr02_0111
+_00bup
+bs_sr02_0110
+_00bup
+_00bup
+bs_sr02_0111
+_00bup
+bs_sr03_0103
+_00bup
+bs_sr03_03
+_00bup
+bs_sr03_01
+_00bup
+bs_sr03_08
+_00bup
+bs_sr03_0110
+_00bup
+bs_sr03_01
+_00bup
+bs_sr03_0301
+_00bup
+bs_sr03_08
+_00bup
+bs_sr02_0401
+_00bup
+bs_sr02_01
+_00bup
+bs_sr02_1011
+_00bup
+bs_sr02_10
+_00bup
+_00bup
+bs_sr02_1011
+_00bup
+bs_sr02_0408
+_00bup
+bs_sr02_01
+_00bup
+bs_sr03_01
+_00bup
+_00bup
+bs_sr03_0110
+_00bup
+bs_sr03_03
+all
+_00bup
+_00bup
+all
+_00bup
+bs_sr03_03
+all
+_00bup
+_00bup
+all
+bg501
+_00grp
+_00com

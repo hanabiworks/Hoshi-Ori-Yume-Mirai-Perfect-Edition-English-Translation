@@ -1,0 +1,250 @@
+﻿0621
+土
+0622
+日
+$$smh_OpenCHK
+Touko
+「Hey, look! Look at aaall the stars!」
+Sora
+「...They're not stars. They're too alive...」
+Touko
+「Whaaat... You think so? I think they're colorful and cute. We could make constellations with this many of these.」
+
+Sora
+「...Living constellations... I could see it.」
+Ousaka gives Yukimura a thumbs-up, and Yukimura proudly returns the gesture.
+
+A few of the starfish in Yukimura's hands plop back into the tide pool.
+
+The two of them, having reached a mutual understanding, immediately get to work on putting together a star(fish) map.
+all
+Marika
+「Ahaha, Ousaka-san and Yukimura-san look like they're having a lot of fun.」
+％Ｂ
+「I dunno about that mountain of starfish they've got, though...」
+Marika
+「Ahaha... Yeah...」
+They're not gonna try to take all of those back with us, are they?
+all
+％Ｂ
+「Hey! We're not here to play, so get over here and help us, all right?」
+
+Touko
+「Ahaha, we know! Starfish, starfish!」
+Sora
+「...The curtain rises on an oceanic star show.」
+％Ｂ
+「...Do they really get it?」
+We're here to catch fish again today.
+％Ｂ
+「I'm sorry about this, Okihara-senpai...」
+Misa
+「It's fine. I'm very happy to see Sora-san and Touko-san enjoying the ocean so much!」
+
+Misa
+「But it is a shame that we are missing Rikka-san today...」
+％Ｂ
+「She's probably practicing "Twinkle, Twinkle, Little Star" at home right now.」
+Misa
+「...So it is because she is complying with our selfish request. I feel quite guilty.」
+
+％Ｂ
+「It may just be me, but I think Narusawa would tell you that you don't need to pay it any mind.」
+
+％Ｂ
+「Narusawa's doing work that only she can do, so let's do our share of the work too.」
+
+Misa
+「Yes! You're very right! Let's work hard and collect!」
+％Ｂ
+「By the way, how close are we to having all of the animals you wished to have?」
+
+Misa
+「We only need a few more, thanks to everyone's efforts.」
+
+％Ｂ
+「Is that so. Let's do our best and get the rest, then... Oh, before that, just one moment please.」
+
+Misa
+「Is something the matter?」
+％Ｂ
+「I'm going to update Narusawa on the current situation.」
+Misa
+「I think that sounds very wonderful!」
+all
+I step away from Okihara-senpai a bit to send Narusawa a LIME message.
+
+【％Ｂ】「We're almost at our #Ngoal for collecting!」
+【Rikka】「Congratulations. I'm #Nplaying the piano right #Nnow.」
+【％Ｂ】「Looking forward to #Nhearing it. Okihara-#Nsenpai and Ousaka are #Ntoo.」
+【Rikka】「Thank you.」
+【％Ｂ】「Though Ousaka and #NYukimura are just #Nplaying with starfish #Nright now.」
+【Rikka】「Starfish?」
+【％Ｂ】「They're apparently #Nmaking constellations #Nout of starfish.」
+【Rikka】「Sounds like Ousaka-san.」
+【％Ｂ】「I wish I could be that #Nfull of energy in this #Nheat. I'm sweating from #Njust standing here.」
+【Rikka】「Is it really that hot? #NAre you okay?」
+【％Ｂ】「I'm fine. I'm hydrating #Nmyself pretty often.」
+【Rikka】「Take breaks often too.」
+【％Ｂ】「Got it. Thanks. That's #Nprobably enough from #Nme, don't wanna get in #Nthe way of your #Npractice. Good luck.」
+【Rikka】「Yes. Good luck to you #Ntoo.」
+$$smh_OpenCHK
+Natsuki
+「So happy you can't stop grinning?」
+％Ｂ
+「Whaeh!? O-Oh, it's just you, Segawa... Wait a second! Don't look at other people's phones!」
+
+Natsuki
+「Okay, okay.」
+She backs off, waving her hands in the air like an actor in a comedy.
+
+％Ｂ
+「You're awfully quick to back off today.」
+Natsuki
+「Well I can pretty much guess who you were talking to and what the conversation was like.」
+Natsuki
+「More importantly, look at this! Tadaaah! A paaanoooraaamaaa!」
+
+％Ｂ
+「A panorama?」
+Natsuki
+「I gave it a try for fun. We can use one to give people a feel for the ocean this way, right?」
+
+％Ｂ
+「Let's see... The heck is this?」
+Natsuki
+「Ahaha. I messed up 'cause I'm not used to doing these.」
+％Ｂ
+「...You said you messed up taking this, right?」
+Natsuki
+「That's what I said, didn't I? Or what, is there something you wanna talk about～?」
+
+all
+％Ｂ
+「Hmm...」
+...The panorama's distorted in a way that makes my expression look unusually perverted.
+
+dummy
+_00com
+bgm14
+bg311
+_02smh
+_00bup
+bs_tk01_04
+_00grp
+bg311
+_00bup
+bs_sr01_11
+_00bup
+bs_tk01_04
+_00bup
+bs_tk01_11
+_00bup
+_00bup
+bs_tk01_02
+_00bup
+bs_tk01_04
+_00bup
+bs_sr02_04
+_00bup
+_00bup
+bs_sr02_0910
+_00bup
+bs_sr02_0911
+_00bup
+bs_tk01_04
+all
+_00bup
+_00bup
+all
+_00bup
+bs_mr03_0102
+_00bup
+bs_mr03_06
+all
+_00bup
+_00bup
+all
+_00bup
+bs_tk03_04
+_00bup
+bs_sr02_11
+_00bup
+bs_ms03_06
+_00bup
+bs_ms03_02
+_00bup
+_00bup
+bs_ms03_03
+_00bup
+bs_ms11_09
+_00bup
+bs_ms11_11
+_00bup
+bs_ms11_08
+_00bup
+bs_ms01_02
+_00bup
+bs_ms11_03
+_00bup
+bs_ms02_01
+_00bup
+bs_ms01_06
+all
+_00bup
+_00bup
+all
+_02smh
+_02smh_auto
+_02smh_auto
+_02smh_01lime
+_02smh_01lime
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+se0024_01
+_02smh_auto
+_02smh
+_00bup
+bs_nt02_01
+_00bup
+bu_nt02_09
+_00bup
+bs_nt11_0502
+_00bup
+bs_nt11_03
+_00bup
+bs_nt03_03
+_00bup
+_00bup
+bs_nt03_0102
+_00bup
+bs_nt13_0203
+_00bup
+_00bup
+bs_nt13_01
+_00bup
+bs_nt01_0102
+_00bup
+bs_nt01_0607
+_00bup
+_00bup
+bs_nt01_08
+all
+_00bup
+_00bup
+all
+_00grp
+_00com

@@ -1,0 +1,325 @@
+﻿0613
+金
+0614
+土
+$$smh_OpenCHK
+％Ｂ
+「―That concludes my thoughts on the matter.」
+It's Saturday, but I'm at school.
+So are Segawa and the members of the event committee, including Narusawa.
+
+We're meeting to discuss the preparations for the Tanabata Festival.
+It was pretty tough negotiating with the involved parties and figuring things out for this while I was trying to recruit Narusawa at the same time.
+
+all
+Misa
+「I see, I see. A collaborative display for nature in Shionagi.」
+％Ｂ
+「Yes. I was thinking of what commonalities there are between the astronomy and naturalist clubs, and the first thing I thought of was nature.」
+
+％Ｂ
+「Shionagi's beach is a popular tourist location, and we're famous for being able to see the stars well. What do you think?」
+
+Misa
+「Yes. I think it sounds very wonderful!」
+Okihara-senpai seems pretty excited.
+all
+I've proposed a plan for a collaborative display for the sea and stars.\n \n\r
+We'll put Okihara-senpai's jellyfish on display, as well as actually go to the sea and collect fish and other marine wildlife.
+
+We won't be able to gather too many, since we have to consider the space we'll have, so we'll have to make do with just display photos for some species.
+
+I've already secured Segawa's expertise for the photography.
+％Ｂ
+「What do you think, Ousaka?」
+The other half of my idea was to make a sphere out of wire and small light bulbs, attach paper to it, and use that to project the heavens on the ceiling.
+
+We should be able to get some pretty good projections once we fine-tune the number and color of light bulbs.
+
+Sora
+「No issues.」
+％Ｂ
+「Thanks.」
+Sora
+「But there's one thing.」
+％Ｂ
+「Hm? What's that?」
+I'm pretty sure I thought this through pretty well, but I guess there's still an issue somewhere.
+Ousaka points at a sentence in my design documents.
+Sora
+「Planets don't emit light. Only by reflecting the light from the enormous amount of gas produced by the nuclear fusion process at the core of a nearby star do they―」
+
+％Ｂ
+「I get that you're trying to be factually correct, but if we could just look past that for the sake of prioritizing an impressive display...!」
+Sora
+「Mmh... Roger that.」
+all
+She still looks unsatisfied, but she drops it.
+％Ｂ
+「So I know it's sudden, but how about we go catch fish tomorrow?」
+Rikka
+「That soon? Wouldn't that be inefficient? We'd have to keep them alive until the festival.」
+
+％Ｂ
+「That's exactly why. You're right that there wouldn't be any issues with catching them right before the festival.」
+％Ｂ
+「And of course, I think that'd be easier for us too.」
+％Ｂ
+「But if we're gonna do a display, then I think it'd be a good idea for us all, not just Okihara-senpai, to know more about the fish too.」
+
+％Ｂ
+「So I figured it'd be easier to do that if we were raising them.」
+Marika
+「I think that sounds good～ I agree with him.」
+all
+Natsuki
+「Sounds fun.」
+Sora
+「...*nod*」
+all
+Misa
+「I am also very much in agreement! Rikka-san, would you also like to try it with us?」
+
+Okihara-san grabs Narusawa's hands tightly and turns a bright smile toward her.
+
+Rikka
+「Hgh... It was just a question that came to mind. I'm not against it.」
+％Ｂ
+「Okihara-senpai. You said you were raising things other than jellyfish before, didn't you? Do you still have the tanks from back then?」
+
+all
+Misa
+「Yes. I still have several left over in the preparation room.」
+％Ｂ
+「Let's use those for the display, then.」
+all
+％Ｂ
+「So about all of your plans for tomorrow...」
+Sora
+「I'm free.」
+
+Misa
+「I also have time.」
+all
+Marika
+「I don't have work, so of course I'll go.」
+
+Rikka
+「No issues for me.」
+all
+Natsuki
+「Ahh, I need to go take photos of the baseball game tomorrow...」
+％Ｂ
+「Okay. We'll just have to get the photos next time, then.」
+I doubt we'd be able to catch everything we want on just one trip anyway. And I was planning on mostly just surveying tomorrow, so next time works too.
+
+all
+％Ｂ
+「Let's split up into two groups for tomorrow. Three people to catch fish, and two people to prepare the tanks.」
+
+％Ｂ
+「Okihara-senpai, may I count on you to be on the fish-catching team? We don't know what kinds of fish to display.」
+
+Misa
+「I understand.」
+％Ｂ
+「I'll also be on the fish-catching team.」
+％Ｂ
+「We'll have to put the fish in cooler boxes filled with seawater and take them back with us like that, so I should be there, since I'm the lone male.」
+
+Natsuki
+「You sure you aren't saying that 'cause you wanna be alone together with Misa-san～?」
+all
+Rikka
+「...」
+％Ｂ
+「I said three people for catching fish, didn't I?」
+all
+Rikka
+「I'll come catch fish too.」
+％Ｂ
+「What? Really?」
+Rikka
+「Do you have a problem with that?」
+％Ｂ
+「No, it's just I never really thought of you as much of an outdoors person.」
+％Ｂ
+「You sure? I think it'll be pretty rough footing and stuff.」
+Rikka
+「That won't cause me any issues.」
+all
+％Ｂ
+「All right, then Narusawa's on the fish-catching team too. Can I count on you two to prepare the fish tanks, then?」
+
+Sora
+「...*nod*」
+Marika
+「Mhm. We'll get them ready and wait for you guys to bring the fish.」
+The two of them nod in response.
+I know I can count on Shinozaki, since she's always been dependable.
+all
+Natsuki
+「This is looking like it'll be interesting～ It's such a shame I won't be able to come along to take pictures～」
+
+dummy
+_00com
+bgm17
+_00grp
+bg111
+_02smh
+_00bup
+bs_rk13_01
+_00bup
+bs_nt01_0201
+all
+_00bup
+_00bup
+all
+_00bup
+bs_ms01_06
+_00bup
+_00bup
+bs_ms01_08
+_00bup
+bs_ms11_02
+all
+_00bup
+_00bup
+all
+_00bup
+bs_sr03_0911
+_00bup
+bs_sr03_03
+_00bup
+bs_sr03_01
+_00bup
+bs_sr02_01
+_00bup
+bs_sr02_02
+_00bup
+bs_sr03_07
+_00bup
+_00bup
+bs_sr03_06
+all
+_00bup
+_00bup
+all
+_00bup
+bs_rk11_0908
+_00bup
+_00bup
+bs_rk11_11
+_00bup
+bs_mr03_0103
+all
+_00bup
+_00bup
+all
+_00bup
+bs_nt02_01
+_00bup
+bs_mr03_0103
+_00bup
+bs_nt02_01
+_00bup
+bs_sr11_0302
+_00bup
+bs_mr03_0103
+all
+_00bup
+_00bup
+all
+_00bup
+bs_ms02_02
+_00bup
+bs_rk03_11
+_00bup
+_00bup
+bs_ms02_03
+_00bup
+bs_ms02_04
+_00bup
+bs_rk03_0911
+_00bup
+bs_rk12_1311
+_00bup
+_00bup
+bs_rk12_1209
+all
+_00bup
+_00bup
+all
+_00bup
+bs_ms01_01
+all
+_00bup
+_00bup
+all
+_00bup
+bs_sr02_01
+_00bup
+_00bup
+bs_ms01_02
+all
+_00bup
+_00bup
+all
+_00bup
+bs_mr22_05
+_00bup
+_00bup
+bs_rk03_02
+all
+_00bup
+_00bup
+all
+_00bup
+bs_nt01_0607
+all
+_00bup
+_00bup
+all
+_00bup
+bs_ms02_01
+_00bup
+bs_nt02_09
+all
+_00bup
+_00bup
+all
+_00bup
+bs_nt02_09
+_00bup
+bs_rk02_03
+all
+_00bup
+_00bup
+all
+_00bup
+bs_rk11_10
+_00bup
+bs_rk11_12
+_00bup
+bs_rk11_1008
+all
+_00bup
+_00bup
+all
+_00bup
+bs_sr01_0302
+_00bup
+bs_mr01_01
+_00bup
+bs_mr01_04
+all
+_00bup
+_00bup
+all
+_00bup
+bs_nt11_0302
+_00bup
+_00bup
+bs_nt11_0403
+_00grp
+_00com

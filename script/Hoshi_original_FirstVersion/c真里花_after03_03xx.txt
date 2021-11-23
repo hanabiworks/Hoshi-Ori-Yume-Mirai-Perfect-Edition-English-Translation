@@ -1,0 +1,592 @@
+﻿Time passed in the blink of an eye after that.
+％Ｂ
+「Yes, if you could do as circumstances demand for that. I'll be stopping by in a bit, so we can speak again then.」
+
+％Ｂ
+「Oh no, thank you very much for everything. It's only a bit more to go, so let's do our best together until the end.」
+
+I hang up.
+Azuma
+「Was that about the Oono residence?」
+％Ｂ
+「Yes. There was apparently some trouble with the supplies, but it seems like it's something that could be handled on site. I'm going to go see how they're doing afterward, but I don't anticipate any issues.」
+
+
+all
+Firm Staff B
+「You've really gotten dependable all of a sudden lately.」
+％Ｂ
+「I'll have been working here for five whole years soon, after all. And I'll be a father soon. I can't allow myself to be unreliable forever.」
+
+
+Azuma
+「You're already looking like a father, too.」
+all
+Firm Staff A
+「How many months pregnant is your wife again?」
+％Ｂ
+「Seven months.」
+Firm Staff B
+「So she's in the stable period of the pregnancy?」
+％Ｂ
+「Yes, things have calmed down.」
+Firm Staff A
+「So it'll be born around summer? You'll need to work hard and make as much money as you can, then.」
+
+Azuma
+「You do your best to make something great. Being an architect's about making places for people to be. You're gonna tell your kid, "This place was made by your old man."」
+
+
+％Ｂ
+「...Yes!」
+That day's still a bit further in the future, but I do want to make something that I can be proud of to my children.
+
+％Ｂ
+「I'll start by making sure everything goes smoothly with the Oono residence.」
+Azuma
+「Yeah. You're finally at the final stage.」
+The Oono residence'll be done soon.
+It's taken a bit longer than originally planned due to last-minute changes in the house plan, but it's really almost complete.
+
+all
+Firm Staff A
+「I hear they're calling it the "house that holds light."」
+That's what they're calling the Oono residence on site.
+I don't know who started calling it that, but it's suddenly become natural to call it that.
+
+％Ｂ
+「The workers on site were apparently talking about how the house was always bright inside, no matter where you were. So that's apparently why it's called that.」
+
+
+Azuma
+「It'll be good to see it done soon, so we can see Oono-san happy.」
+％Ｂ
+「Yes, I'll do my best!」
+all
+I really do want Oono-san and his family members to start living there soon.\n\r
+
+I hope that house can be a place that nurtures the Oonos' happiness.
+And I want my child that's to be born soon to see not just that house, but also the Oonos living happily inside.\n\r
+
+I want to be able to tell my child that this is what their father does as his job.
+％Ｂ
+「I'll head out to the work site, then!」
+Firm Staff A
+「He sure is motivated. We can't let ourselves lose either.」
+Firm Staff B
+「You're right～」
+Azuma
+「All right. How about we get fired up too?」
+Marika
+「So Oono-san's house is almost finished?」
+％Ｂ
+「Yeah, finally. Oono-san says he wants me to bring you to come see it once it's finished too.」
+
+
+Marika
+「Mhm, I'm excited♪」
+She lays a hand on her belly.
+It's really big now.
+％Ｂ
+「Sure has gotten big.」
+Marika
+「Mhm, it's growing real fast. The doctor says everything's progressing fine too. I think it'll be a healthy baby.」
+
+
+％Ｂ
+「Of course. It's our kid we're talking about here.」
+Marika
+「Yeah... You're right♪」
+She smiles peacefully.
+There don't seem to be any issues with Marika's health either.
+％Ｂ
+「It's gotten so big though... Oh, can I touch your belly more?」
+
+Marika
+「Mhm. Touch it lots, okay?」
+I softly touch her belly.
+I've done this so many times already, but I'm always hesitant.
+
+Marika
+「...It's kind of strange.」
+Marika
+「There's a child in here... Mine, and Ryousuke's... Our child...」
+
+Marika
+「There's a child in here... Mine, and yours... Our child...」
+
+％Ｂ
+「Seriously. It's like something out of a dream.」
+Marika
+「Hehe... I felt the same way too, at first. But I think it's slowly started to feel more and more real～ Since I can always feel it in my belly...」
+
+
+％Ｂ
+「So you really can feel it?」
+Marika
+「Mhm, all the time. It's like I'm hugging it in my belly.」
+
+％Ｂ
+「Huh...」
+That's probably a sensation a man could never understand.
+Tap...
+％Ｂ
+「Oh...」
+I felt a gentle impact against my palm.
+Marika
+「It kicked just now. Could you feel it?」
+％Ｂ
+「So that was really a kick, then? That's kinda crazy... I just felt my own child for the first time...」
+
+
+Marika
+「It happens every now and then lately. Our baby's apparently really energetic.」
+
+％Ｂ
+「Really... Really now... It's kinda getting me emotional...」
+I can't stop myself from tearing up.
+Marika
+「What? Are you crying? You're overreacting～」
+％Ｂ
+「I can't help it, I'm really moved...」
+I... don't really know if I actually feel like a father yet...
+But I feel like just now, I felt stronger than ever that I wanted to make sure that this child would be happy.
+
+Marika
+「Okay, there, there～」
+She gently strokes my hair.
+She's already like a mother.
+％Ｂ
+「I wonder if it's going to be a boy or a girl. We'll need to start thinking of a name soon.」
+
+Marika
+「I've already been thinking about it a bit. My parents said they'll let us handle it.」
+
+％Ｂ
+「Really? I'm grateful, but that's a lot of responsibility.」
+My parents apparently don't want to try to influence our decision much either.
+Well, I had already seen that coming, since I know those two.
+But I'm surprised that Marika's parents would say that too.
+I guess that means they just trust us that much.
+Marika
+「It'd be nice if we knew if it were a boy or a girl... but they apparently don't know for sure yet right now.」
+
+％Ｂ
+「Then we should think of names for both boys and girls... Or maybe a name that could go either way.」
+
+
+Marika
+「U-Um.」
+％Ｂ
+「Hm?」
+Marika
+「I feel like... It's just a feeling, but... I think it's a girl.」
+
+％Ｂ
+「Huh? You can tell?」
+Marika
+「Aaahh～ I don't, but it's like I do～」
+％Ｂ
+「Doesn't that mean you do?」
+Marika
+「When I get a little sleepy... or when I've just woken up... I can just kind of imagine it being a girl.」
+
+％Ｂ
+「No way... That's amazing...」
+Marika
+「I won't know for sure until we check, of course～」
+If she's right, then the body of a mother is to be feared...
+％Ｂ
+「Let's start by thinking of girls' names, then.」
+Marika
+「Okay, that sounds good～」
+％Ｂ
+「Let's see... Shuuichi's kid's named Kanon-chan, right?」
+Marika
+「She's so cute～ I called her Non-chan at our wedding.」
+
+Marika
+「I stuck out my finger, and she grabbed it. Her hands were so small～」
+
+％Ｂ
+「Yeah, you're right. That kid was cute... But our kid's gonna be even cuter. She'll grab your finger tight with both hands when you stick it out...」
+
+
+Marika
+「Hehehe... You're so biased.」
+％Ｂ
+「Speaking of, they apparently put the character for flower in her name 'cause it was the season for flowers.」
+
+Marika
+「Oh, really?」
+％Ｂ
+「She was born in May, and there's a park in front of their house... and the flower garden there was apparently really pretty. That's why she's named Kanon-chan.」
+
+
+It was apparently Kaori-san's idea.
+I guess she's still a literature club girl after all.
+Marika
+「Really～ So it's like my name, then. You know how my name has the same character in it?」
+
+％Ｂ
+「Yeah. I remember you were talking about it at our wedding.」
+Marika
+「I think that might've been the first time I mentioned it. There's a lot of things like that, aren't there?」
+
+％Ｂ
+「I guess being married doesn't mean you know everything about each other, huh.」
+Marika
+「Let's learn lots as we go. Together, with this child.」
+
+％Ｂ
+「Yeah. Let's do that.」
+We smile at each other.
+I feel like I can see a beautiful future ahead of us.
+％Ｂ
+「But... yeah, something like that'd be nice.」
+Marika
+「You mean the name, right? Yeah, how do I put it... It'd be nice if it could be a name that celebrates the fact that they were born.」
+
+
+％Ｂ
+「Well, she's supposed to be born in August, which is summer, so... Natsuko?」
+Marika
+「It's cute, but I'm not really sure about that one.」
+％Ｂ
+「Yeah... Natsumi? Sena? Hmm, I can't really think of a good one...」
+
+％Ｂ
+「Or maybe we shouldn't just focus on the "summer" thing. I feel like I just thought of something good...」
+
+％Ｂ
+「If we wanna celebrate them being born... Uhh... Like..」
+
+Marika
+「Oh, did you think of something?」
+％Ｂ
+「Just kind of a vague image... I'll show you some candidate names later.」
+
+Marika
+「Okay. I'll think of some too. Let's look them over and decide together.」
+
+％Ｂ
+「Yeah, let's do that.」
+We smile.
+I wouldn't trade these moments for anything.
+％Ｂ
+「I wonder if our kid's listening in on our conversations too.」
+Marika
+「Oh～ Maybe she is.」
+Marika
+「She probably doesn't understand the words... but I hear they can understand the mood.」
+％Ｂ
+「Oh really.」
+Marika
+「Apparently, it's actually the mommy's emotions.」
+Marika
+「That's why the mommy needs to be happy... They were saying that at the hospital.」
+
+％Ｂ
+「Yeah, I get it.」
+Marika
+「They told me... that I should have my husband tell me he loves me lots...」
+
+％Ｂ
+「I'll say that as much as you want.」
+I turn to face Marika.
+％Ｂ
+「I love you, Marika.」
+Marika
+「Hauh...」
+％Ｂ
+「Thank you... for having my child.」
+Marika
+「Hauuuh～ ...I'm so happyyy...」
+
+Her eyes look at me dreamily as she gently pets her belly.
+She looks so happy.
+Marika
+「Mm, chu...」
+％Ｂ
+「Chu, slrp...」
+Marika
+「Mm, chu, kpf... Slrp... mlh...」
+We kiss over and over again.
+Marika
+「Hauuuh... I love you... toooo... I'm so happy to have... your baby, Ryousuke...」
+
+Marika
+「Hauuuh... I love you... toooo... I'm so happy to have... your baby...」
+
+％Ｂ
+「Marika...」
+Marika
+「Aah, hnh...」
+I gently stroke her boobs.
+They've gotten bigger.
+She said that they might even be E cups now.
+％Ｂ
+「Are we supposed to... stop doing it about now?」
+Marika
+「Oh...! It-It is still okay～」
+Marika
+「My belly's gotten big, and I'm getting toward the end of the pregnancy, so we'll have to stop soon... but it should just barely still be okay now...」
+
+
+Marika
+「I won't be able... to have you show me lots of love for a while, so...」
+
+％Ｂ
+「Then... want me to go take a shower real quick? It's probably best for me to be as clean as possible, for the baby's sake...」
+
+Marika
+「...Okay.」
+She pushes herself against me even more, pouting cutely.
+
+％Ｂ
+「I love you, Marika...」
+Marika
+「Mhm... I love you so much.」
+all
+We kiss passionately again...
+c真里花_9010エッチシーン10
+dummy
+_00com
+bg501
+_00grp
+bgm51
+_00grp
+bg408
+_00bup
+bs_az01_0606
+all
+_00bup
+_00bup
+all
+_00bup
+bs_az01_0202
+all
+_00bup
+_00bup
+all
+_00bup
+bs_az01_0101
+_00bup
+_00bup
+bs_az01_02
+_00bup
+bs_az01_01
+all
+_00bup
+_00bup
+all
+_00bup
+bs_az01_0101
+all
+_00bup
+_00bup
+all
+_00bup
+bs_az11_0202
+_00grp
+bgm52
+_00grp
+bg407
+_00bup
+bu_mr02_0202
+_00bup
+bu_mr02_0101
+_00bup
+_00bup
+bu_mr02_05
+_00bup
+bu_mr02_0404
+_00bup
+_00bup
+bu_mr02_02
+_00bup
+bu_mr02_0707
+_00bup
+bu_mr02_0101
+_00bup
+_00bup
+bu_mr02_04
+_00bup
+bu_mr02_0404
+_00bup
+bu_mr02_0101
+_00com
+_00bup
+_00bup
+bu_mr02_07
+_00bup
+_00bup
+bu_mr02_07
+_00bup
+bu_mr01_0201
+_00bup
+_00bup
+bu_mr01_01
+_00bup
+bu_mr01_0404
+_00bup
+_00bup
+bu_mr01_02
+_00bup
+bu_mr01_08
+_00bup
+bu_mr01_0101
+_00bup
+_00bup
+bu_mr01_04
+_00bup
+bu_mr01_0404
+_00bup
+_00bup
+bu_mr01_02
+_00bup
+bu_mr01_02
+_00bup
+_00bup
+bu_mr01_0201
+_00bup
+bu_mr01_1111
+_00bup
+bu_mr01_1212
+_00bup
+_00bup
+bu_mr01_04
+_00bup
+bu_mr01_1201
+_00bup
+bu_mr01_0101
+_00bup
+bu_mr01_1010
+_00bup
+bu_mr01_0404
+_00bup
+_00bup
+bu_mr01_02
+_00bup
+bu_mr01_0909
+_00bup
+_00bup
+bu_mr01_10
+_00bup
+bu_mr01_0101
+_00bup
+_00bup
+bu_mr01_02
+_00bup
+bu_mr01_1010
+_00bup
+bu_mr01_0202
+_00bup
+bu_mr01_0404
+_00bup
+_00bup
+bu_mr01_0201
+_00bup
+bu_mr02_0303
+_00bup
+_00bup
+bu_mr02_05
+_00bup
+bu_mr02_0404
+_00bup
+bu_mr02_0101
+_00bup
+bu_mr01_0101
+_00bup
+_00bup
+bu_mr01_0201
+_00bup
+bu_mr01_02
+_00bup
+_00bup
+bu_mr01_04
+_00bup
+bu_mr01_1212
+_00bup
+_00bup
+bu_mr01_1201
+_00bup
+bu_mr01_1101
+_00bup
+bu_mr02_0101
+_00bup
+_00bup
+bu_mr02_02
+_00bup
+bu_mr02_0404
+_00bup
+bu_mr02_0505
+_00bup
+bu_mr02_0303
+_00bup
+_00bup
+bu_mr02_04
+_00bup
+bu_mr01_0101
+_00bup
+bu_mr01_0404
+_00bup
+bu_mr01_0101
+_00bup
+bu_mr01_0202
+_00bup
+_00bup
+bu_mr01_0201
+_00bup
+bu_mr01_1201
+_00bup
+_00bup
+bu_mr01_11
+bgm34
+_00bup
+bu_mr01_1111
+_00bup
+bu_mr02_0707
+_00bup
+_00bup
+bu_mr02_11
+_00bup
+bu_mr01_0606
+_00bup
+_00bup
+bu_mr01_0601
+_00bup
+bu_mr01_1106
+_00bup
+bu_mr01_1212
+_00com
+_00bup
+_00bup
+bu_mr01_1201
+_00bup
+_00bup
+bu_mr01_1201
+_00bup
+bu_mr01_1010
+_00bup
+bu_mr01_1111
+_00bup
+bu_mr01_1212
+_00bup
+_00bup
+bu_mr01_10
+_00bup
+bu_mr03_1111
+_00bup
+bu_mr02_0707
+_00bup
+_00bup
+bu_mr02_04
+_00bup
+bu_mr01_1201
+all
+_00bup
+_00bup
+all
+_00grp
+_00com

@@ -1,0 +1,170 @@
+﻿- Sora After - February 27th
+0123
+金
+0227
+金
+I'm submitting my design proposal for the science museum to the city's competition committee today.
+
+％Ｂ
+「Thank you very much!」
+I've done everything I can, the best I can.
+If it doesn't work out... Then that's fine by me.
+...No, I think I might get a bit bitter.
+But even if it really doesn't work out, then I'm sure the effort I put in for this won't go to waste.\n\r
+
+It'll connect to the next endeavor for sure... I'm sure of it.
+Sora's waiting for me when I walk out from city hall.
+Sora
+「...Done?」
+％Ｂ
+「Yeah... Done. I submitted my proposal. As for what happens next, well, god only knows.」
+
+Sora
+「...*shake shake*」
+Sora
+「...Mo-san only knows.」
+％Ｂ
+「W-Well, I guess you could say that, yeah...」
+all
+One of the judges is my mentor, the architect Azuma Morio.
+There's even the harsh condition that if Azuma-san isn't satisfied with any of the designs, everyone fails.
+
+％Ｂ
+「Either way, there's nothing I can do now. All that's left is to sit back and wait for the results.」
+
+Sora
+「...*nod*」
+Sora and I head back to the firm together.
+Sora
+「...? ...Another magazine.」
+Sora holds out another largish envelope to me after checking the mailbox.
+％Ｂ
+「Oh yeah, that's probably one of my usual subscriptions.」
+Sora
+「...There's a stamp that says "Sample Copy" on the front.」
+Sample copy?
+％Ｂ
+「...Wait, is that...」
+Sora
+「...It might be the one Natsu was talking about.」
+％Ｂ
+「Let's open it.」
+Sora
+「...*nod*」
+all
+I unseal the envelope and take out the magazine.
+It's a booklet-style magazine titled "Twenty Amazing Architects!"
+
+There's a sticky note stuck in a certain page.
+％Ｂ
+「...I'm gonna open it.」
+Sora
+「...*nod*」
+all
+I flip to the page with the sticky note.
+％Ｂ
+「...Oh.」
+Sora
+「...Ohh...」
+I see the photos Segawa took of me last month.
+The credits next to them say "Photography: Segawa Natsuki."
+My answers to the email interview are written on the opposite page.
+Sora
+「...What a smile.」
+％Ｂ
+「...It's 'cause you were tickling me.」
+all
+All of the other architects either have a serious expression or a smile.
+
+I'm the only one who looks like he's cracking up.
+％Ｂ
+「...It's, uh... I kinda look like an idiot...」
+Sora
+「...*shake shake*」
+Sora
+「...That's not true... You're the coolest one, Ryou.」
+Sora
+「...That's not true... You're the best-looking one.」
+％Ｂ
+「But look, I'm the only one who looks like he's laughing.」
+Sora
+「...It's very memorable... You might get fan mail.」
+
+％Ｂ
+「Nope, no way.」
+She's way too biased.
+But I guess it's fine since she's proud of me...?
+dummy
+_00com
+bgm51
+bgm51
+bg501
+_00grp
+_00grp
+bg312_01
+_00bup
+bs_sr02_1011
+_00bup
+bs_sr02_01
+_00bup
+bs_sr02_08
+_00bup
+bs_sr02_0910
+all
+_00bup
+_00bup
+all
+_00bup
+bs_sr02_1011
+_00grp
+_00grp
+bg419
+_00bup
+bs_sr03_0911
+_00bup
+_00bup
+bs_sr03_0910
+_00bup
+bs_sr01_09
+_00bup
+bs_sr01_03
+_00bup
+bs_sr01_0302
+all
+_00bup
+_00bup
+all
+_00bup
+bu_sr01_12
+all
+_00bup
+_00bup
+all
+_00bup
+bs_sr01_09
+_00bup
+bu_sr01_03
+all
+_00bup
+_00bup
+all
+_00bup
+bu_sr02_11
+_00bup
+bu_sr02_10
+_00com
+_00bup
+_00bup
+bu_sr02_1011
+_00bup
+_00bup
+bu_sr02_1011
+_00bup
+bu_sr02_11
+_00bup
+_00bup
+bu_sr02_10
+_00bup
+bu_sr02_11
+_00grp
+_00com

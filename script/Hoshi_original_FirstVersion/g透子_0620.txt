@@ -1,0 +1,995 @@
+﻿0619
+木
+0620
+金
+$$smh_OpenCHK
+％Ｂ
+「...Huh. She's not here.」
+I don't see Yukimura.
+I'm panning my gaze over class E, but I don't spot her trademark uniform.
+
+％Ｂ
+「Hey, can I ask you something? You know where Yukimura is?」
+
+Female Student C
+「Yukimura-san? I haven't seen her all day today.」
+％Ｂ
+「Huh?」
+Female Student C
+「Maybe she isn't here today? She disappears every now and then, but she's usually at least at school, though.」
+
+％Ｂ
+「...All right. Thanks.」
+_smh_st_01
+_smh_st_btn01
+_SMH_ST_01
+.........
+......
+...
+％Ｂ
+「...No response.」
+_smh_st_04
+...Well, nothing I can do about that. Guess I'll just have to try again some other day.
+I head to the old school building during lunch break.
+Though there's no point in coming here if Yukimura isn't at school today...
+
+％Ｂ
+「Wait... It's open?」
+I push against the door, and it doesn't seem locked.
+So does that mean... Yukimura's inside?
+Touko
+「Zzz... Zzz...」
+％Ｂ
+「...She's sleeping.」
+Yukimura's familiar sleeping face. It's the same as ever.
+Are my feelings... the only things that have changed?
+I want to know how Yukimura feels about me.
+How important of an existence am I within this girl's heart?
+
+My heart rate climbs.
+A tingling, sweet pain runs through me. It's like my heart's being constricted.
+Touko
+「Nh, nnh... Zzz...」
+I want to move forward, but I also feel like I want to keep our current, comfortable relationship.\n \n\r
+I'm torn between wanting to just watch her peaceful sleeping face, and talking to her so I can learn how she feels.
+
+％Ｂ
+「...What am I supposed to do about this?」
+I don't know what to do with how I feel.
+Yukimura's breathing sounds through the quiet of the old school building. It feels like holy ground here. Like I'm not permitted to disturb her slumber.
+
+Touko
+「Nnh... nh...?」
+％Ｂ
+「Oh... You're awake?」
+Touko
+「Fuaah...gh, nnhh... Morniiing...」
+％Ｂ
+「Morning, she says... You know it's lunchtime, right?」
+Touko
+「I knooow... I was just getting hungryyy...」
+％Ｂ
+「I heard you haven't been in class all day today. You've been here the whole time?」
+
+Touko
+「Mmm... I got here a little while agooo...」
+％Ｂ
+「A little while ago? So you mean... you got to school a bit before lunch?」
+Touko
+「I overslept... Thought I might as well not go to morning classes after that... I'm only here for something after school anyway, sooo...」
+
+％Ｂ
+「...Hm? For something after school?」
+Touko
+「And I overslept... because of you too...」
+％Ｂ
+「Wha?」
+Touko
+「Zzz... Zzz...」
+...She's asleep again.
+She has something to do after school. She overslept because of me.
+This is... about yesterday, isn't it?
+So does that mean Yukimura's thinking about me...?
+Touko
+「...」
+...Is she awake?
+She's just pretending to sleep.
+％Ｂ
+「Yukimura. You're awake, right?」
+Touko
+「...」
+％Ｂ
+「No point in pretending to be asleep. I just saw you look at me.」
+
+Touko
+「...Morning.」
+％Ｂ
+「Morning.」
+Touko
+「...Aren't you cheating? You're supposed to come after school.」
+％Ｂ
+「I'm here because... you weren't in your classroom. You didn't pick up when I called you either, but I thought you might be here, so...」
+
+
+Touko
+「...」
+％Ｂ
+「I'm here to continue where we left off yesterday. I'm not giving up until you get that I'm serious.」
+
+Touko
+「...What am I supposed to do about that?」
+％Ｂ
+「And what am I supposed to do if I don't get a response from you? We're both bothered by this.」
+Touko
+「...I'm more bothered.」
+％Ｂ
+「Could you get up at least? It's hard to talk to you like this.」
+
+Touko
+「You say you want to continue from yesterday, but... I don't think my answer's going to change.」
+
+％Ｂ
+「I came to change it. Could you give me some time to do that? Let's go on a date.」
+
+Touko
+「...Excuse me?」
+％Ｂ
+「I thought for a long time after yesterday... about what I should to do get you to understand how I feel. So let's go on a date.」
+
+Touko
+「W-Wait a second! What do you mean, go on a date...!?」
+％Ｂ
+「All we do is talk here, right? We went home together just once, but that wasn't really a date. I wanna go on a proper date with you.」
+
+
+Touko
+「It-It's not like that would be any different...! We'd be doing pretty much the same thing...!」
+
+％Ｂ
+「Then let's try it out. If I can't change how you feel that way, then I guess nothing can.」
+
+Touko
+「Hgh... B-But...!」
+％Ｂ
+「Give me a chance. I want you to understand that my feelings are the real deal.」
+
+I look right at her and tell her what I want to do.
+If I can somehow get Yukimura to look my way with this... then I'm sure I have a chance.
+
+Touko
+「...Mmm, what should I do. A chance, huh...」
+It's a simple yes or no.
+But it feels like Yukimura's considering a different option altogether.
+Touko
+「I might not give you an answer right away, you know.」
+％Ｂ
+「You mean you'll want time to think?」
+Touko
+「Pretty much. I don't know how long that might be, though.」
+％Ｂ
+「Sure. I don't mind.」
+It's way better than a "No."
+As long as there's another opportunity, I still have a chance to turn the tables.
+Touko
+「Let's do this, then. If you can convince me, then I'll consider both you and the event committee. How's that?」
+
+％Ｂ
+「Great! So I was thinking tomorrow...」
+Touko
+「Let's go now. You said you were thinking for a long time yesterday, right?」
+％Ｂ
+「I'm sorry!? N-Now!? What about afternoon classes!?」
+Touko
+「Just skip!」
+％Ｂ
+「...」
+Yukimura might change her mind if I wait.
+Then fine. I know I shouldn't, but...!
+％Ｂ
+「...Okay. Let's go now. I'll go get my bag.」
+Touko
+「Mm, okaaay. I'll be waiting here.」
+％Ｂ
+「I'll be back right away, all right!? You better not leave!」
+Touko
+「I dunnooo... I might go home if you take too long.」
+％Ｂ
+「Gh... I'll sprint!」
+％Ｂ
+「Hahh... Hahh...!」
+Natsuki
+「Agh!? Y-You scared me! What are you in such a hurry for!?」
+
+％Ｂ
+「Sorry. I'm skipping class for the afternoon. Cover for me.」
+Natsuki
+「Excuse me!? What are you saying!?」
+％Ｂ
+「This is the moment for me. I'm gonna use your advice to the fullest and do my best.」
+
+Natsuki
+「The moment... Oh, I get it. I guess I'll have to help you out too, then!」
+
+all
+I swiftly get my stuff together.
+I meet gazes with Narusawa as I'm doing so.
+％Ｂ
+「I might end up causing trouble for you, Narusawa, but please.」
+Rikka
+「...Could I ask you to do something for me while you're at it?」
+％Ｂ
+「Hm? Do what?」
+Rikka
+「Tell her to stop calling me by that name. It's embarrassing.」
+
+％Ｂ
+「...All right. Got it, Piano-chan.」
+Rikka
+「Wha...!? Even you
+, Hino-kun
+
+...!?」
+％Ｂ
+「Haha, my bad. I'll tell her to rethink your nickname if things go well.」
+
+Rikka
+「...Okay. I hope things go well.」
+It's not just these two.
+Shinozaki and Ousaka have helped me out too.
+There's no way I can let this opportunity slip by.
+Natsuki
+「We'll handle the rest! Do your best out there, man!」
+
+％Ｂ
+「...Yeah!」
+all
+Touko
+「So... what are we going to do?」
+％Ｂ
+「How about we eat something first? I bet you're hungry too, since we left during lunch break.」
+
+Touko
+「That's true. Nothing's really fun on an empty stomach.」
+％Ｂ
+「Oh, right. I was talking to Narusawa before I left. She wanted me to tell you, "Stop calling me Piano-chan."」
+
+Touko
+「Whaaat? I think it's easy to understand. And it's cute.」
+％Ｂ
+「I think so too, but she doesn't like it herself, you know.」
+Now that I think about it... Yukimura doesn't have a nickname for me, does she?
+And I've also never actually seen her call anyone by their names.
+％Ｂ
+「I've never heard you call anyone by name, come to think of it.」
+Touko
+「What? Why bring this up?」
+％Ｂ
+「You always call people by nicknames... Is there a reason for that?」
+Touko
+「Mmm... Just feel like it. It's easier to remember nicknames.」
+％Ｂ
+「So then why don't I have one?」
+Touko
+「You're pretty much the only boy I talk to. There's no reason for me to have a nickname for you, is there?」
+
+％Ｂ
+「...O-Oh, okay.」
+I'm the only guy she talks to. I feel pretty smug about that.
+I stumble over my words as happiness and embarrassment well up within me.
+％Ｂ
+「Then maybe you could call me by my name...」
+Touko
+「Caaan't do that.」
+％Ｂ
+「Wh-Why?」
+Touko
+「Why indeed? Okaaay, that's enough of this conversation. The sun's going to go down if you don't start our date soon. Do you want me to go home?」
+
+
+％Ｂ
+「W-Wait a second! Let's get food first! Then we'll start!」
+
+The days are longer now that it's summer, but I'm pretty sure the time's going to pass really quickly.
+
+Let's eat quickly and get started on our date.
+all
+％Ｂ
+「Let's get something simple... Oh, how about burgers?」
+Touko
+「Okay, sure. I want mine without pickles.」
+％Ｂ
+「Got it. I'll go buy them, so wait here. I'll pay for today, in return for those crêpes the other day.」
+
+all
+％Ｂ
+「Yukimura, I'm... Wait, what?」
+I've returned with the burgers, but Yukimura isn't here.
+I look around, and spot her crouching by the roadside.
+Touko
+「Here, come heeere. I'm not scaryyy.」
+％Ｂ
+「...What are you doing?」
+Touko
+「Hm? I saw a stray cat, so I wanted to pet him.」
+I wish she wouldn't do this. Her disappearing suddenly scared me...
+
+Yukimura and I watch the stray cat as he moves on his way.
+Touko
+「Mmm... I wonder if he's wary of me. He won't come close.」
+％Ｂ
+「That's just how cats are, aren't they? They'll run away if you try to go up to them yourself.」
+
+I once again think about how catlike Yukimura is.
+She's carefree, doesn't take to people easily... and comes across as somewhat removed from everything.
+％Ｂ
+「...Maybe the fact you're so similar makes it even worse?」
+Touko
+「What the heck? Oh, he's coming! Looook, I have tasty meeeat!」
+
+She holds out food to the cat.
+It looks like she's started carrying around jerky for stray cats, like she said she'd do.
+
+Touko
+「Ehehe, good boy... That black coat sure looks hot.」
+The cat lets her pet him. 
+Looks like it's okay to pet him while he's eating.
+Touko
+「Cats sure are cute.」
+％Ｂ
+「Y-Yeah. They are.」
+Touko
+「You guys have it so nice. There's nothing holding you down.」
+She speaks tenderly and enviously.
+There seem to be several different emotions behind her eyes as she pets the black cat.
+
+Touko
+「Oh...!」
+The cat dextrously slips through Yukimura's hands with the jerky still in his mouth.
+
+He disappears from sight without so much as a backward glance.
+％Ｂ
+「Guess they don't really love you just from getting food.」
+Touko
+「That's why they're cute. He was a smart-looking, cool one.」
+
+％Ｂ
+「It's a shame he ran away after you got him to come up to you and everything.」
+Touko
+「They don't let their guard down easily, which makes me wanna do lots for them. Maybe he did it on purpose?」
+
+
+She works hard to try to get them to understand her affections because they don't show how they feel that easily.
+
+...Just like I'm trying to do with her.
+Touko
+「...It's because the relationship gets more involved when I call them by name.」
+％Ｂ
+「Huh?」
+Touko
+「It's the answer to your question earlier. That kinda stuff's a problem. It just makes things painful when you have to say goodbye, don't you think?」
+
+％Ｂ
+「Why'd you tell me? You said it was just because you felt like it earlier.」
+
+Touko
+「...I just felt like it.」
+She hides her feelings, and then reveals them... She has an elusive personality.
+I might be able to get closer with her if I learn to enjoy these little exchanges more.
+
+Touko
+「Anyway, where are you going to take me now?」
+％Ｂ
+「Right. It's a bit of a walk... That fine with you?」
+Touko
+「I don't mind. I don't hate walking, and I'm leaving everything to you today.」
+
+Let's walk while we eat our burgers.
+We're currently headed to... my favorite place in all of Shionagi.
+Touko
+「So this place... is an aquarium. I've only seen it from far away.」
+％Ｂ
+「Yeah. This is a place with good memories for me. You remember Okihara-senpai, from when we went camping? Her dad was the director here.」
+
+
+Touko
+「Huh, really. She did know a lot about fish, after all.」
+％Ｂ
+「It's crazy, right? I think she might be on par with Ousaka's knowledge about stars.」
+Touko
+「She's really pretty, and has big boobs too. That explains the really rich-daughter feel I got from her.」
+
+...I dunno if the boobs have anything to do with that.
+Let's just ignore that. I feel like commenting on it would just make things troublesome.
+
+％Ｂ
+「It's a real shame this place closed down.」
+Touko
+「I wonder why it closed down. The building's still so cool and pretty.」
+
+％Ｂ
+「Oh, you think Marinpia's great too!?」
+Touko
+「Mmm... I don't know if I think it's great, but I think it's cool. Like how it doesn't look like an aquarium.」
+
+％Ｂ
+「Right!? Oh man, I'm so glad you get it! This design's just so good, isn't it!?」
+
+Touko
+「...What's with you? You're so excited all of a sudden.」
+％Ｂ
+「I'm happy. Doesn't it make you happy when other people like what you like?」
+
+Touko
+「...Mm, I guess.」
+％Ｂ
+「You like going on walks and exploring too, right? Doesn't it make you happy when other people like that too?」
+
+Touko
+「Mmm... I don't really know. I don't know if I like it... It's more like I've just always been wandering around by myself.」
+
+％Ｂ
+「Wha?」
+Touko
+「Besides, that time you came with me was the first time I've ever wandered around with someone else. I don't really know if it made me happy or not.」
+
+
+％Ｂ
+「...I'll rephrase the question, then. Were you enjoying yourself back then?」
+
+She was smiling the whole time she was dragging me around.
+She also said messing with me was "the most fun she's had since coming to Shionagi."
+％Ｂ
+「I want you to know more about me... but I want to know about you just as much.」
+
+Touko
+「...」
+％Ｂ
+「If you're having fun, then I'm happy. So I wanna hear about how you felt.」
+
+Touko
+「...No idea. It was a long time ago, so I forgot.」
+％Ｂ
+「A long... It was just a week ago.」
+Touko
+「It was still a long time ago. I try not to remember things like that.」
+
+％Ｂ
+「...I see. Okay, then I'll make some memories for us together. Let's take a photo, Yukimura.」
+
+Touko
+「Huh? A photo... Ah, hey!」
+I step away from Yukimura and point my phone's camera lens at her.
+She looks flustered on the screen.
+％Ｂ
+「Mhm, around there's good. Look this way for me.」
+Touko
+「I-I'm not okay with this...! You can't just say you're taking a photo and...!」
+％Ｂ
+「Don't worry, it'll be fine. We can retake it as many times as we want. Come on, smile!」
+
+Touko
+「That's not the issue here! There's nothing interesting about taking a photo of me, is there!?」
+
+％Ｂ
+「That's not true. I don't have any photos of you.」
+I do actually have the one I got from Segawa, but I'm gonna keep that a secret from Yukimura.
+I want one with a more natural smile... her usual smile.
+％Ｂ
+「It's to commemorate. Gotta make sure we have a keepsake for a certain someone who instantly forgets stuff from a long time ago.」
+
+Touko
+「...You're really mean sometimes, you know that?」
+％Ｂ
+「Oh, I like that face.」
+__photo_tk0620_01
+Touko
+「Ah!? Hey, that wasn't okay! You told me to smile!」
+
+％Ｂ
+「I kinda liked your angry face too. The more keepsakes the better, right?」
+
+Touko
+「...I hope you know I'm never smiling now.」
+__photo_tk0620_02
+Touko
+「Agh, you took another one!?」
+％Ｂ
+「Sorry, sorry! My bad! I just took it on reflex 'cause I never get to see you make that kinda face!」
+
+
+Touko
+「...I wish you wouldn't act like I was a rare animal or something.」
+％Ｂ
+「I'll send you the photos later. Let's take a proper commemorative photo.」
+
+Touko
+「I don't... really need it. There's no point in having photos of myself, is there?」
+
+％Ｂ
+「Don't be that way. Segawa's gonna yell at you if you make light of photos, you know. Besides, didn't you say you'd leave everything up to me today?」
+
+Touko
+「...Just one more, okay?」
+％Ｂ
+「Could you smile a bit, Yukimura...?」
+Touko
+「Nope. This is payback for you being mean.」
+...This is cute in its own way.
+But I still want a proper smile for the commemorative photo.
+％Ｂ
+「Oh, a cat.」
+Touko
+「What? Where!?」
+She looks away from me for a moment.
+I take the opportunity to prepare... and put on a masterpiece of a funny face!
+Touko
+「I don't see it anywheeere... Hey, where did you... Pff... Ahahahah! What the heck! What are you, stupid!? Ahahahahah!」
+
+
+％Ｂ
+「There we go. Thanks for the smile.」
+__photo_tk0620_03
+Touko
+「Ah, that's not fair! But... Ahahah! Ahh... It was funny, so whatever.」
+
+％Ｂ
+「See, there's a good smile. Now we've got a good keepsake for today.」
+
+Touko
+「...You better delete the two before that one.」
+％Ｂ
+「I will not. Those were good photos too.」
+Touko
+「Th-They're embarrassing! They just make me look mean!」
+％Ｂ
+「You wanna take a photo too? You remember how to do it, right?」
+
+Touko
+「I do, but... what would I take a photo of?」
+％Ｂ
+「Me.」
+Touko
+「Mmm... I don't really want one.」
+...She's apparently not interested.
+I wanted her to follow my lead and take a photo there...
+Touko
+「There!」
+％Ｂ
+「...Wha?」
+Touko
+「Ahahah! You looked so depressed! You make pretty cute faces when you get like that!」
+
+O-Oh no...!
+I can't believe I was caught by surprise so easily...!
+Touko
+「How's that! That's payback! Oh, I'm gonna send this to everyone.」
+％Ｂ
+「Wha, wait, wait! That's not fair! Wait, I remember now! You better have deleted that photo from before too!」
+
+
+Touko
+「You're the one who said we should take photos to commemorate, right? So we shouldn't delete photos, riiight?」
+
+％Ｂ
+「Agh, wait! Then at least retake it with me making a better face!」
+all
+We walked around all over the place.
+And to close off the date, we're walking along the seaside park.
+Touko
+「Nnnh...! The wind sure feels nice!」
+％Ｂ
+「Hey, Yukimura. How was today?」
+Touko
+「Mmm... How do I answer that? I don't really know.」
+％Ｂ
+「...Uh.」
+Touko
+「I don't really know how it was as a date, but I do think it was fun. I think I could feel how hard you were trying.」
+
+％Ｂ
+「...I see.」
+But that also means it could've been better.
+To be honest, I can't help but feel I wasn't prepared enough for our date today.
+％Ｂ
+「Then I wanna go into overtime. I'll prepare a little more, so let's go on another date.」
+
+Touko
+「...」
+％Ｂ
+「Could I ask you to hang out with me... until you have a clear answer?」
+Touko
+「...If I feel like it.」
+Yukimura told me why she doesn't call people by name today.
+I understand her reasoning, but I can't help but feel like she's using "It makes goodbyes painful" as an excuse.
+
+％Ｂ
+「...It's just not a good thing.」
+There's no way that being alone's for the better.
+I'm sure Yukimura's forcing herself.
+But then how do I open up her stubborn heart?
+That question's at the heart of my worries.
+％Ｂ
+「Hmm... I guess I'll just have to take it one step at a time.」
+It's like approaching a particularly wary cat.
+I wonder if all I can do is just wait patiently for her to take interest in me.
+
+I want to open up her heart somehow.
+If only there were something to get me started...
+％Ｂ
+「...Hm?」
+Something knocks against my pinky.
+It's the vial of star sand I got from Ousaka.
+Something to make wishes come true...
+％Ｂ
+「...I think I'll give myself an ace in the hole.」
+【％Ｂ】「I've got a favor to #Nask. You free tomorrow?」
+【Marika】「I don't have any plans. #NWhat is it?」
+【％Ｂ】「Could you come shopping #Nwith me? I want your #Nhelp picking out a #Npresent.」
+【Marika】_st_0109
+【Marika】「Meet up in the #Nmarketplace?」
+【％Ｂ】「Got it. Sorry about #Nthis, and thanks.」
+【Marika】「Don't worry about it, #Nokay?」
+【Marika】「I want to help.」
+【％Ｂ】「I really appreciate it.」
+【％Ｂ】「Let's meet on the main #Nstreet tomorrow, then.」
+【％Ｂ】_st_0310
+【Marika】_st_0105
+I'm so grateful for Shinozaki's kindness.
+...I hope I can find something good tomorrow.
+dummy
+_00com
+bgm11
+bgm11
+_00grp
+bg101
+_02smh
+gakuen_door1
+_00grp
+bg102
+_02smh_auto
+_02smh_auto
+_02smh_06tell
+sumaho_call
+se0024_01
+_02smh_auto
+gakuen_chime
+_00grp
+bgm12
+bgm12
+bg117
+kyukan_door2
+_00grp
+bg117
+_00grp
+kyukan_door1
+_00grp
+bg115
+cg_tk02_0111
+_00grp
+cg_tk02_0111
+_00grp
+cg_tk02_0114
+_00grp
+cg_tk02_0122
+_00grp
+cg_tk02_0133
+_00grp
+cg_tk02_0153
+_00grp
+cg_tk02_0133
+_00grp
+cg_tk02_0113
+_00grp
+cg_tk02_0111
+_00grp
+cg_tk02_0122
+_00grp
+cg_tk02_0152
+_00bup
+_00bup
+cg_tk02_0122
+_00grp
+cg_tk02_0152
+_00grp
+cg_tk02_0132
+_00grp
+cg_tk02_0123
+_00grp
+cg_tk02_0132
+_00grp
+bg115
+_00bup
+bs_tk01_06
+_00bup
+bs_tk01_05
+_00bup
+bs_tk01_09
+_00bup
+bs_tk01_10
+_00bup
+bs_tk12_1006
+_00bup
+bs_tk12_09
+_00bup
+bs_tk02_01
+_00bup
+bs_tk02_02
+_00bup
+bs_tk01_02
+_00bup
+bs_tk01_03
+_00bup
+bs_tk01_04
+_00bup
+bs_tk01_02
+_00bup
+bs_tk03_08
+_00grp
+gakuen_door1
+_00grp
+bg101
+_00bup
+bs_nt13_07
+_00bup
+bs_nt01_09
+_00bup
+bs_nt01_08
+_00bup
+_00bup
+bs_nt01_0102
+all
+_00bup
+_00bup
+all
+_00bup
+bs_rk02_0109
+_00bup
+bs_rk02_01
+_00bup
+bs_rk02_06
+_00bup
+bs_rk11_06
+_00com
+_00bup
+bs_rk11_02
+_00bup
+bs_rk11_02
+_00bup
+bs_nt01_0201
+_00bup
+bs_nt03_02
+all
+_00bup
+_00bup
+all
+_00grp
+bgm14
+bgm14
+bg312
+_00bup
+bs_tk01_01
+_00grp
+bg312
+_00bup
+bs_tk01_01
+_00bup
+bs_tk01_02
+_00bup
+bs_tk01_0605
+_00bup
+bs_tk01_0105
+_00bup
+bs_tk03_10
+_00bup
+bs_tk03_02
+_00bup
+bs_tk03_0703
+_00bup
+bs_tk03_08
+all
+_00bup
+_00bup
+all
+_00bup
+bs_tk01_03
+all
+_00bup
+_00bup
+all
+_00grp
+_00grp
+bg312
+_00bup
+bs_tk02_04
+_00bup
+bs_tk02_04
+_00bup
+bs_tk02_03
+_00bup
+bs_tk02_06
+_00bup
+bs_tk02_01
+_00bup
+_00bup
+bs_tk02_04
+_00bup
+bs_tk03_04
+_00bup
+bs_tk03_03
+_00bup
+bs_tk03_1002
+neko2
+_00bup
+bs_tk02_07
+_00bup
+bs_tk02_03
+_00bup
+bs_tk02_0602
+_00bup
+bs_tk12_0906
+_00bup
+bs_tk12_0602
+_00bup
+bs_tk12_12
+_00bup
+bs_tk01_02
+_00bup
+bs_tk01_04
+_00grp
+_00grp
+bg412
+_00bup
+bs_tk02_0207
+_00bup
+bs_tk01_02
+_00bup
+bs_tk03_08
+_00bup
+bs_tk03_01
+_00bup
+bs_tk03_03
+_00bup
+bs_tk01_0912
+_00bup
+bs_tk02_09
+_00bup
+bs_tk02_1206
+_00bup
+bs_tk02_0602
+_00bup
+bs_tk01_13
+_00bup
+bs_tk01_0602
+_00bup
+bs_tk01_02
+_00bup
+bs_tk01_0205
+_00bup
+_00bup
+bs_tk01_10
+_02smh_auto
+b_bg412
+_smh_camera_f02
+_smh_camera_f03
+_00bup
+bu_tk01_0905
+_00bup
+bu_tk12_10
+_00bup
+bu_tk01_07
+_00bup
+bu_tk01_1213
+_00bup
+bu_tk01_0705
+sumaho_camera
+_00grp
+ef_starphoto_f
+_00bup
+bu_tk01_0705
+_00bup
+bu_tk01_10
+_00bup
+bu_tk01_0711
+sumaho_camera
+_00grp
+ef_starphoto_f
+_00bup
+bu_tk01_0711
+_00bup
+bu_tk01_10
+_00bup
+bu_tk01_0605
+_00bup
+bu_tk01_05
+_00bup
+bu_tk01_11
+_00bup
+bu_tk01_05
+_00bup
+bu_tk02_0704
+_00bup
+bu_tk01_0605
+_00bup
+_00bup
+bu_tk01_04
+sumaho_camera
+_00grp
+ef_starphoto_f
+_00bup
+bu_tk01_04
+_00bup
+bu_tk01_09
+_00bup
+_00bup
+bu_tk01_04
+_00bup
+bs_tk01_0402
+_00bup
+bs_tk01_11
+_00bup
+bs_tk01_10
+_00bup
+bs_tk01_01
+_00bup
+bs_tk03_10
+_00bup
+bs_tk03_08
+sumaho_camera
+_00bup
+bs_tk03_04
+_00bup
+bs_tk03_0804
+_00bup
+bs_tk03_0402
+_00bup
+bs_tk03_09
+_00bup
+bs_tk
+all
+_00bup
+_00bup
+all
+_00grp
+bgm15
+bgm15
+bg310e
+bg310e
+cg_tk05_0132
+_00grp
+cg_tk05_0132
+_00grp
+cg_tk05_0133
+_00grp
+cg_tk05_0122
+_00grp
+cg_tk05_0123
+_00grp
+cg_tk05_0122
+_00grp
+cg_tk05_0121
+_00grp
+bgm16
+bgm16
+_00grp
+bg201n
+_02smh_auto
+_02smh_auto
+_02smh_01lime
+_02smh_01lime
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+se0024_01
+_02smh_auto
+_00grp
+_00com

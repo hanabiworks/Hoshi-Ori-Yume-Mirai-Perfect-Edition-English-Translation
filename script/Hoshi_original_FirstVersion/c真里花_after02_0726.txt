@@ -1,0 +1,278 @@
+﻿0506
+土
+0726
+水
+％Ｂ
+「Err, I would like to express my sincere gratitude to all of you for making time in your busy schedules for this...」
+
+Marika
+「Ahaha... That's so stiff!」
+％Ｂ
+「I can't help being stiff about it.」
+all
+Yumi
+「Did you make sure to get a few marriage registration forms?」
+Marika
+「Yep, we went to city hall yesterday. We have spares, so it's fine if we make a few mistakes too.」
+
+She pulls out a sheaf of marriage registration forms neatly tucked away in a folder.
+
+Kouji
+「Marika, I'm going to check one last time. Once you press your stamp, there's no going back.」
+
+Marika
+「Don't worry, I'm not planning on regretting it. I'll start, then～」
+
+all
+She immediately starts writing her way through one of the forms.
+I don't sense even the slightest hint of hesitation from her movements.
+Just seeing that makes me happy.
+Marika
+「Press my stamp, and... Okay! Done.」
+Marika
+「Now then... It's your turn, Ryousuke.」
+Marika
+「Now then... It's your turn.」
+％Ｂ
+「Yeah.」
+I accept the form.
+Gotta make sure I don't make any mistakes.
+all
+％Ｂ
+「Here we go...」
+I was able to fit everything neatly into the spaces.
+Marika
+「Hehe... Perfect.」
+％Ｂ
+「Yeah. Now all I need to do is press my stamp... and...」
+I place my seal.
+Our names have been placed onto the marriage registration form.
+all
+％Ｂ
+「Now then... My new father-in-law. Could I ask you to be our witness?」
+
+Kouji
+「Fine, fine. Look at you two, flirting in front of the parents...」
+
+Marika
+「We're not flirting that much, you know～」
+％Ｂ
+「Y-Yeah... Right?」
+Yumi
+「Fufu... You two don't even realize it yourselves.」
+I-Is that really true?
+Marika
+「Auh～」
+I guess we must've been releasing a lovey-dovey aura without even realizing it...
+all
+Kouji
+「Hmm... I'm not good with these kinds of documents. Bring me my reading glasses.」
+
+Yumi
+「Why didn't you just wear them to start with?」
+Kouji
+「That'd make me look like an old man.」
+Yumi
+「You're right. You're forever young, after all.」
+They're talking amicably.
+Actually, these two are pretty lovey-dovey too...
+Kouji
+「And there we go... Okay, done.」
+My father-in-law's signed and stamped the space as a witness.
+％Ｂ
+「Thank you very much. I'll stop by my parents' house tomorrow and get my father to do the same.」
+
+We need two witnesses, so we've decided to have each of our fathers do it.
+Marika
+「All that's left after that is to submit it to City Hall.」
+Kouji
+「Which means that Marika's become a bride now... We're gonna drink all night, then!」
+
+Marika
+「D-Don't make me drink too much!」
+all
+Kouji
+「What? What's wrong with a bit of family drinking?」
+Yumi
+「That's not a good excuse, you know.」
+Kouji
+「It's fine. Go get us some beer.」
+Yumi
+「Yes, yes.」
+Marika
+「I'm sorry about this.」
+％Ｂ
+「It's all right. I like drinking with him.」
+I've become able to think that recently.
+all
+Eventually, my mother-in-law comes back with beer and glasses in hand.
+
+％Ｂ
+「Let's drink together, Father.」
+Kouji
+「S-Sure...」
+Yumi
+「I think I'll have some too.」
+Marika
+「Oh, then me too～ Just a little tiny bit...」
+％Ｂ
+「Uhh, then... A toast, I guess?」
+Marika
+「Yeah, let's do it. A toast to our families joining together!」
+We clink our glasses together.
+Marika's dad instantly drains his glass.
+Marika and her mom just take tiny sips.
+all
+Yumi
+「Have you fixed up your new home yet?」
+％Ｂ
+「No, not at all so far.」
+We moved into our new house last weekend.
+Marika
+「I'll be going on break starting this week, so I guess I can start tidying up then...」
+
+％Ｂ
+「I'll get some time off next week too, so we'll be able to manage it before the ceremony.」
+
+all
+The ceremony's finally next weekend.
+It had been so far off for so long, but it's suddenly so close.
+Kouji
+「It's still like playing house for now. You need to get it together, to put me at ease sooner.」
+
+Marika
+「Huh? Was that encouragement just now? That's rare.」
+Kouji
+「It-It wasn't encouragement or anything. It's just, well, we live close by. Come around whenever you can.」
+
+Yumi
+「It looks like he's lonely because you're going to be gone, Marika.」
+Marika
+「Whaaat～ ...Really?」
+Kouji
+「I-I never said that! Children leave the nest someday. Everyone knows that. Absolutely everyone...」
+
+
+all
+He looks away and mutters.
+It's enough to let me know just how much he cares about Marika.
+％Ｂ
+「We'll stop by as much as we can. Right, Marika?」
+
+Marika
+「Yeah! We'll come over for sure～」
+The four of us drink.
+It's a warm place to be.
+dummy
+_00com
+bgm51
+_00grp
+bg410
+_00bup
+bs_mr02_0303
+_00bup
+_00bup
+bs_mr02_05
+all
+_00bup
+_00bup
+all
+_00bup
+bs_mr01_0101
+_00bup
+_00bup
+bs_mr01_02
+_00bup
+bs_mr01_01
+_00bup
+bs_mr01_0404
+_00bup
+_00bup
+bs_mr01_0201
+all
+_00bup
+_00bup
+all
+_00bup
+bs_mr01_0202
+_00bup
+_00bup
+bs_mr01_04
+_00bup
+bs_mr03_03
+_00com
+_00bup
+bs_mr03_01
+all
+_00bup
+_00bup
+all
+_00bup
+bs_mr03_0202
+all
+_00bup
+_00bup
+all
+_00bup
+bs_mr01_11
+_00bup
+bs_mr01_09
+all
+_00bup
+_00bup
+all
+_00bup
+bs_mr01_0101
+_00bup
+bs_mr01_0909
+all
+_00bup
+_00bup
+all
+_00bup
+bs_mr01_11
+all
+_00bup
+_00bup
+all
+_00bup
+bs_mr01_0404
+_00bup
+_00bup
+bs_mr01_0201
+_00bup
+bs_mr02_0202
+_00bup
+_00bup
+bs_mr02_05
+kanpai1
+all
+_00bup
+_00bup
+all
+_00bup
+bs_mr02_0101
+_00bup
+_00bup
+bs_mr02_0908
+all
+_00bup
+_00bup
+all
+_00bup
+bs_mr02_0707
+_00bup
+_00bup
+bs_mr02_05
+_00bup
+bs_mr02_0404
+all
+_00bup
+_00bup
+all
+_00bup
+bs_mr01_02
+_00bup
+bs_mr01_0401
+_00grp
+_00com

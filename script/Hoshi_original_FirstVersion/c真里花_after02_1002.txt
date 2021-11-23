@@ -1,0 +1,182 @@
+﻿0825
+金
+1002
+月
+Firm Staff A
+「Man, you really helped me out the other day. It's my treat today, so feel free to drink a bit hesitantly.」
+
+He's talking about when we had that work conversation late at night the other day.
+％Ｂ
+「Don't you mean "drink as much as you want"?」
+
+Firm Staff A
+「Drink moderately, then.」
+％Ｂ
+「I think I'll drink as much as I want. Excuse me, one draft beer for now!!」
+
+Firm Staff A
+「You're cheeky for a newlywed...」
+％Ｂ
+「I don't think being a newlywed has anything to do with it.」
+Firm Staff A
+「Shut up, I'm jealous, okay? So... how's the newlywed life treating you?」
+
+％Ｂ
+「Well... Not bad, I guess?」
+Firm Staff A
+「What's "not bad" supposed to mean? If it's good then just say it's good! That humble part of you's got me feeling like I've lost too...」
+
+
+％Ｂ
+「W-Well... Yes, it is nice...」
+That's right. My newlywed life is wonderful.
+To be honest, I'm kind of terrified of how happy I am.
+But I wouldn't want to brag about it.
+Firm Staff A
+「But I hear you've got it pretty rough? With the Oonos.」
+％Ｂ
+「Oh yeah, it's a huge problem. They want a sudden change of plans.」
+
+Firm Staff A
+「A shotgun wedding for their son, I hear? How is that all you people are getting married like no tomorrow, but I can't make it at all...」
+
+
+％Ｂ
+「The conversation's taken a bit of an intimate turn, hasn't it...」
+％Ｂ
+「Well, they're quite difficult to make anyway...」
+Firm Staff A
+「Hm? What's that mean?」
+％Ｂ
+「Oh, no, nothing...」
+I inadvertently started talking about us.
+We've really gotten into the childmaking mood since then, and so we've been going at it with every intention of making one...
+
+But there aren't any signs along those lines as of now.
+I figured it'd be easy as pie to do if we just didn't use contraceptives, but I guess it's actually pretty difficult.
+
+Firm Staff A
+「So how are things going with the Oono residence? The contractor doesn't like it, right?」
+
+％Ｂ
+「Well, I tried pretty hard to ask him, and finally managed to get him to agree.」
+Firm Staff A
+「Wow, I'm surprised that foreman said okay to that. He's the kinda stubborn old man you don't see much of anymore, isn't he?」
+
+％Ｂ
+「I went to the construction site for a while, helped out and stuff... and it looks like he's finally approved of me recently.」
+
+
+Firm Staff A
+「Hoh, you've gotten pretty good. Things are just different for newlyweds after all...」
+
+％Ｂ
+「Please don't link everything to being a newlywed.」
+Though I guess he's right that knowing Marika's there for me when I get home is a huge motivator.
+
+Firm Staff A
+「I kinda want to drink a ton! All right! We're gonna drink 'til the break of dawn tonight!」
+
+％Ｂ
+「No, I'll be going home at a normal time...」
+Eventually, after declining my coworker's invitation to go for another round, I return to my wonderful, wonderful newlywed home.
+
+％Ｂ
+「I'm hooome.」
+Marika
+「Oh, w-welcome back! I thought you were going to be home late tonight.」
+
+％Ｂ
+「The coworker I was drinking with said he didn't wanna keep a newlywed away from home for too long, 'cause he'd feel bad.」
+
+Though it was actually the opposite...
+Marika
+「Oh really～ It's a bit messy right now, because I thought you'd be home later...」
+
+It's like she says. The room's kinda cluttered.
+But that's weird.
+It's usually so tidy...
+Marika
+「U-Umm... Well, you know how it's your birthday soon? I've been preparing for that～」
+
+She looks like a kid who's been spotted doing mischief.
+We've talked about my birthday before already, and it's not like the date changes from year to year, so it shouldn't be a surprise or anything...
+
+％Ｂ
+「You gonna do something special?」
+She always gives me a present and a homemade meal... but I guess that won't be all this year?
+
+Marika
+「That's something to look forward to on the day of! I hope you're excited. Do you think you'll be able to come home early that day?」
+
+
+％Ｂ
+「I think so. Or more like, if that's the case, then I'll make that my top priority.」
+
+Marika
+「That's great! I'll be waiting with lots of tasty food ready, then♪ And...」
+
+
+And she goes red as she trails off.
+％Ｂ
+「And what?」
+Marika
+「Oh, nothing! Look forward to it, okay♪」
+Marika
+「More importantly... Umm... Your welcome-home kiss...」
+％Ｂ
+「Oh yeah, right. Okay, come here.」
+
+Marika
+「Mhm♪ Chu...」
+It's a bit late, but we do our usual nighttime kiss.
+This'll be my first birthday since we've been married. I'm kinda excited.
+dummy
+_00com
+bgm21
+_00grp
+bg416
+_00grp
+bgm52
+_00grp
+bg407n
+_00bup
+bs_mr01_09
+_00bup
+_00bup
+bs_mr01_10
+_00bup
+bs_mr01_04
+_00bup
+_00bup
+bs_mr01_10
+_00bup
+bs_mr01_1111
+_00bup
+bs_mr01_0404
+_00bup
+_00bup
+bs_mr01_01
+_00bup
+bs_mr01_0202
+_00bup
+_00bup
+bs_mr01_0201
+_00bup
+bs_mr01_10
+_00bup
+bs_mr01_1111
+_00bup
+bs_mr01_1212
+_00bup
+_00bup
+bs_mr01_10
+_00bup
+bu_mr01_02
+_00bup
+_00bup
+bu_mr01_0606
+_00bup
+bu_mr01_1201
+_00grp
+_00com

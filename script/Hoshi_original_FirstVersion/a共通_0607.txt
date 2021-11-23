@@ -1,0 +1,1269 @@
+﻿0606
+金
+0607
+土
+We're all going to the campground tomorrow.
+Well, the more the merrier... so I'm gonna try inviting Yukimura along too.
+
+_smh_st_01
+_smh_st_btn01
+_SMH_ST_01
+％Ｂ
+「...Huh? She's not picking up.」
+There's no answer, even after trying for a while.
+If the dial tone's ringing, then her phone shouldn't be out of juice again...
+
+％Ｂ
+「Oh well... Guess I'll leave a message.」
+_smh_st_05
+_smh_st_btn02
+...Does Yukimura even check her messages?
+It might be a good idea to call her again later.
+％Ｂ
+「We're all gonna hang out together tomorrow. You wanna come with? I'll call again later.」
+
+_smh_st_04
+I hope this can be an opportunity for her to get to know Shinozaki and the others better.
+
+...And me too, of course.
+％Ｂ
+「Right, I should get ready too. I should go shopping!」
+
+It's important to be prepared if you want to have a safe and fun camping experience.
+
+$$smh_OpenCHK
+So I'm gonna go to the big marketplace grocery store instead of the nearby small shops.
+
+We're all supposed to bring some kind of food.
+
+I'm in charge of bringing drinks and curry roux.
+I volunteered myself, since I wasn't about to leave the heavy and cumbersome drinks to any of the girls.
+
+％Ｂ
+「I'll just buy a bunch of the big bottles. Mineral water and oolong tea of course, and...」
+
+There are lots of different kinds of carbonated drinks. I could see people having lots of different preferences.
+％Ｂ
+「Guess I'll ask people over LIME.」
+【％Ｂ】「Got a question for you #Nguys.」
+【Marika】「What is it?」
+Shinozaki responds immediately.
+【％Ｂ】「I'm headed toward the #Nsupermarket on 1st #Nright now. Any requests #Nfor drinks for tomorrow?」
+【Sora】「Plum soda.」
+【Marika】「I like plum soda too. #NBut isn't that a #Nseasonal thing?」
+【Sora】「Comes in cans.」
+【％Ｂ】「Uhh～ Cans are bulky, so #NI dunno about those.」
+【Sora】_st_0313
+【Misa】「Perhaps orange juice? I #Nrecommend a straight-#Nproduced variety!」
+【％Ｂ】「Straight-produced?」
+【Misa】「It's a way of making #Norange juice not from #Nconcentrate, so one can #Nfully enjoy an all-#Nnatural taste!」
+【Marika】「That's the kind that #Nthey sell in bottles at #Ngift shops, isn't it?」
+【％Ｂ】「I think bottles may #Nalso be difficult.」
+【Natsuki】「It's gotta be ginger #Nale! Ginger ale, no #Ncontest! Ginger ale #Nginger ale ginger ale #Nginger ale ginger ale #Nginger ale ginger ale」
+You're scaring me! Why do you like ginger ale that much!?
+【Sora】「If we want soft drinks #Nthen cola is good.」
+【Marika】「It might be nice to #Nhave a sports drink if #Nwe're going to be #Nactive.」
+【Natsuki】「Aquarius.」
+【Sora】「Pocari.」
+【Marika】「Ahaha... Everyone wants #Nsomething completely #Ndifferent.」
+【Natsuki】「Maybe we should just #Nlet the person buying #Nthe drinks handle it?」
+【％Ｂ】「You sure?」
+【Sora】_st_0310
+【Marika】_st_0109
+【Misa】_st_0220
+【％Ｂ】「Got it. I'll handle it.」
+【％Ｂ】_st_0307
+％Ｂ
+「Phew.」
+$$smh_OpenCHK
+So I guess the gist of it is that people want soft drinks, fruit juice, and sports drinks.
+
+As for the exact variety... I'll just see what's cheap once I'm there.
+I resume walking.
+％Ｂ
+「Oh. This song...」
+I've heard it before.
+Where was it again...
+Right, I remember.
+It's "A Fragment of Emotion."
+It's the theme song for Shionagi's Tanabata Festival. I heard it lots back when I was a kid.
+
+I stop, reveling in the nostalgia. I take a look at the CD shop to see...
+
+％Ｂ
+「Narusawa Meguru?」
+There's a poster with a photo of someone playing the piano, and the name of her debut album.
+
+She seems different, but her facial features strongly resemble Narusawa.
+Now that I think about it, I remember hearing her sister also plays piano...
+％Ｂ
+「Wait, what!? Narusawa's little sister's a professional pianist!?」
+I'm so shocked I say it out loud.
+I take a close look at the small print outlining her profile on the poster.
+
+She's won many impressive awards.
+She's from Shionagi City. Her mother is apparently a pianist known as Narusawa Sayaka.
+I already heard from Shinozaki and Segawa that Narusawa's mother is a pianist.
+
+It doesn't say anything about Narusawa herself on here, but this has to be her sister.
+
+％Ｂ
+「3,000 yen...」
+％Ｂ
+「...I've gone and bought it.」
+It might be because I've been listening to Narusawa play piano lately.
+Well, it won't be a bad thing to immerse myself in some fine arts for once.
+I'll enjoy the CD once I'm home. I start heading toward my destination again.
+
+？？？／律佳
+「...」
+...Flutter.
+A girl with long hair catches my eye as she walks past me.
+A sweet citrus scent tickles my nostrils.
+all
+％Ｂ
+「Oh...」
+_00cutinBS
+That was Narusawa just now.
+I grab a basket at the entrance as I follow after her.
+Natsuki
+「Ohh, hoh～ She's cute in her casual clothes too... Those refined lady types sure know how to score their points～」
+
+％Ｂ
+「Yeah, they do...」
+_00cutinBS
+％Ｂ
+「Wait. Segawa!?」
+Natsuki
+「You're late. I was tired of waiting.」
+％Ｂ
+「I don't remember saying we should meet up...」
+Natsuki
+「I was already heading this way when you mentioned it on LIME. I figured I might as well wait for you.」
+
+
+Natsuki
+「And so here, take these.」
+all
+％Ｂ
+「...Excuse me?」
+...Thunk.
+The basket in my hands grows heavy from the huge number of potatoes she just threw in.
+
+Natsuki
+「Potatoes. That's what I'm in charge of.」
+％Ｂ
+「That's not what I meant. Why'd you put it in my―」
+Natsuki
+「Come on, let's go.」
+Segawa starts walking.
+％Ｂ
+「Sigh... Couldn't you at least listen to me?」
+_00cutinBS
+Natsuki
+「She picks the bargain brands without hesitating... but she doesn't touch the weird imported ones... She's unexpectedly housewifeish...」
+
+
+％Ｂ
+「Isn't that normal if you live alone?」
+Narusawa's walking a ways ahead of us.
+We're not observing her, but she stands out, so we can't help but notice what she does.
+
+_00cutinBS
+Natsuki
+「Oh, she grabbed a cheesecake cup! Those are so good...」
+
+％Ｂ
+「Huh. So Narusawa eats sweet stuff.」
+_00cutinBS
+Can't say I really expected that.
+_00cutinBS
+Natsuki
+「Mmm, judging by the food and daily necessities, it looks like she really does live alone.」
+
+％Ｂ
+「Of course she does. Her family lives overseas, right?」
+Natsuki
+「I dunnooo～ You can't really be sure, you know? She might live with a lover or something.」
+
+％Ｂ
+「I wouldn't wanna find out that a classmate of mine lives with a lover in a place like this. I wouldn't know what to think of her when I see her next.」
+
+
+Natsuki
+「Doesn't stealing a girl away get you fired up?」
+％Ｂ
+「It does not.」
+all
+And also...
+％Ｂ
+「Hey, Segawa...」
+Natsuki
+「Hm? What is iiit?」
+％Ｂ
+「I dunno if my arm can take this much longer.」
+We put some bottles in the basket when we got to the food aisle.
+
+In case you're wondering, Segawa picked ginger ale for the soft drink, and wouldn't take no for an answer.\nEven though the cola was 20 yen cheaper...
+
+
+And as a result...
+The basket has about ten liters' worth of bottles and a pile of potatoes in it.
+I feel like my right arm's about to tear off.
+Natsuki
+「Do your best, man.」
+％Ｂ
+「If you really wanna help, then at least hold half of the potatoes...」
+Natsuki
+「Honestly now. Fine, let's go check out already. It looks like Rikka's just about to go herself anyway.」
+
+all
+％Ｂ
+「Oh, wait a second. I need to get curry roux first.」
+I go over to the aisle with seasonings and dried goods and take a look at the options.
+％Ｂ
+「How spicy do we want it?」
+I like it on the spicy side, but I have to take account of the girls too, so maybe somewhat milder?
+
+Natsuki
+「Why not just buy two different levels of spiciness? I hear mixing them turns out pretty good, and if people don't like it spicy then we can make a pot of just mild curry.」
+
+
+％Ｂ
+「Good idea. Let's do that.」
+I toss a box of mild and a box of medium-hot curry roux into the basket and carry them to the register.
+
+_00cutinBS
+Natsuki
+「She's brought her own bag... Rikka's looking more and more like a housewife.」
+_00cutinBS
+％Ｂ
+「She's just saving money... And why didn't you bring any, Segawa? You knew about this, right?」
+
+I didn't think I'd be charged for bags.
+I tried to be as cheap as possible, so I have a single, completely full bag.
+Natsuki
+「I've never needed a bag 'cause I only ever buy juice or snacks here.」
+
+％Ｂ
+「I see... Oh!」
+all
+We step through the automatic door to see Narusawa standing there.
+Rikka
+「What do you want?」
+She might've thought we were following her because we were watching her shop.
+
+％Ｂ
+「We didn't really need anything from you... Sorry. I was just curious.」
+
+Rikka
+「Curious? I was just doing some grocery shopping.」
+％Ｂ
+「I know, but...」
+Natsuki
+「Seeing a girl the same age shopping for groceries is a pretty lub-dub moment for a guy, you know?」
+
+％Ｂ
+「Yeah, it... I mean, no, Segawa.」
+％Ｂ
+「I'm seriously sorry.」
+Rikka
+「It's fine. It's not like I'm mad anyway.」
+Rikka
+「So you're out shopping together with Segawa-san
+, Hino-kun
+
+? If you're on a date, you two should focus more on enjoying yourselves than on caring about what I'm doing.」
+
+We just ran into each other.
+I guess... you could call this a date?
+％Ｂ
+「We just happened to run into each other.」
+Natsuki
+「Now that's mean. I waited for you to show up.」
+％Ｂ
+「That's 'cause you wanted me to hold your stuff.」
+Natsuki
+「That's not true, you know. Though I did feel like you'd do it without complaining.」
+
+Natsuki
+「That's not true, you know. Though I did feel like you'd do it without complaining.」
+
+...She's got me figured out.
+％Ｂ
+「I guess... you could call this a date?」
+Reasons aside, it was just the two of us shopping.
+Natsuki
+「That's true. I waited for 
+Hino
+him
+, so I guess you could call it that.」
+
+Natsuki
+「You wanna join us on our date, Rikka?」
+Rikka
+「I'll have to decline.」
+Natsuki
+「Oh no. You've been rejected.」
+％Ｂ
+「Pretty sure I wasn't the one who got rejected just now.」
+Rikka
+「...I understand very well now that the two of you are very close.」
+all
+Narusawa sighs, looking bored. I should tell her what we're actually here for.
+％Ｂ
+「We're gonna go camping tomorrow. So we're here buying food.」
+
+Rikka
+「Camping?」
+％Ｂ
+「Yeah. I joined this committee called the event organization committee.」
+％Ｂ
+「My job's to help out clubs that can't participate in the Tanabata Festival because they don't have enough members.」
+
+
+Natsuki
+「But we don't really know each other because we've only just met. So that's why we're going camping!」
+
+Rikka
+「I'm sorry. Maybe I'm stupid or something. I don't get the logic.」
+
+％Ｂ
+「Don't worry. I had no idea what was going on when it first came up either.」
+
+As to why it has to be camping if we want to deepen friendships... That's something only Segawa knows.
+
+Natsuki
+「When you go camping, you all become better friends by cooking together and sitting around a bonfire.」
+
+Natsuki
+「Friendship! Fire! Cooking! That's camping!!」
+％Ｂ
+「...Sounds like the three main ingredients to a shounen manga.」
+Natsuki
+「Oh, right, Rikka. You come too!」
+Natsuki
+「And let me take photos of you! Your formidable stealth capabilities make it so I have the least photos of you out of anyone.」
+
+
+Rikka
+「It's for the graduation album, right? I don't need any photos of me.」
+Natsuki
+「You might be fine with it, but I'm not. Having any missing fragments of our memories would be a stain on my dignity as a grad-alb committee member.」
+
+
+Rikka
+「Sigh... Fine. Go ahead.」
+Narusawa wearily turns to face Segawa.
+Natsuki
+「Hmm? What are you doing?」
+Rikka
+「Hurry up and take a photo.」
+Natsuki
+「Ngaaaaaahhh! Noooo! You don't get it! Photos aren't something you just take!」
+
+Natsuki
+「It's a moment, frozen in time, with the mood, the subject's impression, the ambiance just oozing out! It all combines into a single photograph!」
+
+Natsuki
+「I don't wanna just take a photo of the one person who ended up not being in a group photo and add it on later to the top-right corner or something! Get it!?」
+
+
+Rikka
+「Your analogy is impossible to understand.」
+％Ｂ
+「I also kinda feel like I get it, but I don't.」
+Natsuki
+「You definitely need to also go, Rikka. I'm gonna capture your best moments over and over, and teach you how incredible photos can be.」
+
+
+Rikka
+「I don't want to learn.」
+％Ｂ
+「Come on, Segawa. You shouldn't try to force her like that.」
+all
+％Ｂ
+「Hey, Narusawa. You sure you don't wanna come with?」
+Rikka
+「Why would I? I don't have anything to do with the event organization committee, and I'm not in any clubs either.」
+
+Hmm... She just doesn't seem interested.
+Try a little harder.
+I dunno if I should be too persistent...
+％Ｂ
+「We decided to do this in the first place 'cause we all don't know each other that well. The committee and club stuff comes second.」
+
+％Ｂ
+「I was hoping it'd be great if we could be better friends, since we sit next to each other and all. What do you think?」
+
+Rikka
+「...」
+Rikka
+「...I'm sorry.」
+％Ｂ
+「Okay. But you're always welcome to show up if you change your mind.」
+
+It probably wouldn't be good to just keep hounding her.
+％Ｂ
+「Anyone's allowed to come. You can show up if you end up feeling like it.」
+I tell her where and when we're meeting up tomorrow.
+Rikka
+「If I feel like it.」
+％Ｂ
+「That's good enough for me. Later then.」
+Rikka
+「Yes. Goodbye.」
+She then walks away and enters a nearby pharmacy.
+Natsuki
+「She's gone. She should just come.」
+％Ｂ
+「I'm sure she has her reasons.」
+Natsuki
+「Reasons, huh... Well, I guess we can just have fun by ourselves.」
+％Ｂ
+「Yeah. Oh, do you mind if I try to invite another person?」
+
+Natsuki
+「Sure you can. I'm all for walk-ins!」
+％Ｂ
+「Got it. I'll see if I can get in contact with her.」
+Natsuki
+「Okay, it's all you! I'm looking forward to tomorrow!」
+all
+％Ｂ
+「Ahh... It's so heavy... I need to take a break...」
+A nice wind blows through the park during the evening, probably because we're in a coastal area.
+I'm just kinda walking around after finishing shopping, enjoying the cool air, when I spot a familiar silhouette.
+
+_00cutinBS
+％Ｂ
+「Is that... Yukimura?」
+She's crouched down by some shrubs... What's she doing?
+_00cutinBS
+I get a little closer.
+I couldn't see it earlier because it was hidden in Yukimura's shadow, but there's a little ball of brown fur at her feet.
+
+Touko
+「Meow～ Good boy～ ...You're such a friendly cat, aren't you?」
+She's petting a cat and cooing to it, apparently oblivious to my presence.
+Touko
+「How does it feel? Does it feel nice, meow～? I can give you some snacks if you're hungry～」
+
+I think I'll just keep watching for a bit.
+You probably don't get to see this side of Yukimura that often.
+Touko
+「Do you have a family? And are you a boy? Or are you a girl?」
+Touko
+「I see, I see, so you're a boy～ I hope you can find a bride soon～」
+
+...She's having an actual conversation!
+Can she understand cat language!?
+Touko
+「Hehe, you're so cute. You've got this nice, straight tail that looks pretty cool.」
+
+Touko
+「Ahaha, are you embarrassed? Your whiskers and nose are twitching, you know.」
+
+Touko
+「The round ones are cute, but slender ones like you are nice too. And you have these pretty tiger stripes too.」
+
+Touko
+「Meow, meow-meooow.」
+...Wow, Yukimura.
+She's totally just having a normal conversation with a cat.
+Touko
+「Ahahah! Here, heeere～ It feels good here, doesn't it? Meooow～」
+
+Touko
+「Meow meow meooow, meow, meooow. Hehe, you have little white socks on your feet. You're sooo cute.」
+
+What a strange sight.
+Yukimura and a cat before me, bathed in the light of the setting sun. It has this warm, nostalgic feel to it.
+
+Touko
+「Huh?」
+％Ｂ
+「Oh...」
+I accidentally make a sound when I step forward without thinking.
+The comfortable mood shatters when the cat and Yukimura notice me.
+Touko
+「...Were you watching just now?」
+％Ｂ
+「...My bad.」
+Touko
+「Spying on people isn't really nice, is it?」
+％Ｂ
+「I-I didn't mean to! It was just hard to call out to you, 'cause I feel like you don't act that way that much!」
+
+Touko
+「Well, it's fine. Not like I care what people think about me.」
+％Ｂ
+「...Sorry about that just now. Looks like the cat ran away too... I'm so sorry.」
+Touko
+「...Come on, don't apologize so seriously. You'll make me feel bad.」
+
+Touko
+「It's fine, I don't mind. Anyway, what are you doing here?」
+
+％Ｂ
+「I'm on the way back from shopping... Oh, right. I called you this morning. I left a message. Did you listen to it?」
+
+
+Touko
+「Nooope. I don't really know how to do it.」
+％Ｂ
+「Oh, come on... So you don't know anything about tomorrow then, right? It's a good thing I ran into you here, then.」
+
+Touko
+「About tomorrow? What are you talking about?」
+％Ｂ
+「We're all gonna go camping tomorrow. I was wondering if you wanted to come with.」
+
+Touko
+「...Why?」
+％Ｂ
+「Why...? 'Cause it'll be more fun with more people?」
+I don't really understand why Yukimura asked.
+Do I really need a reason to invite someone to hang out?
+％Ｂ
+「You can make some new friends, too. Everyone's great, so you don't need to worry or anything.」
+
+Touko
+「Mmm... I don't really feel like it. I've never done anything like that before, and I'm more the kinda person that just does whatever alone.」
+
+
+％Ｂ
+「We're all gonna make curry together. Don't knock it 'til you try it.」
+Touko
+「Huh. Well that certainly sounds like it could be fun.」
+％Ｂ
+「...You don't sound sincere about that at all.」
+Touko
+「Is that so? If you think so, then I guess that's how it is?」
+％Ｂ
+「It's not like you have something to do tomorrow, right?」
+Touko
+「Not really. You'll have to ask tomorrow's me if I'm doing anything.」
+
+％Ｂ
+「Just come with us, then. Segawa said she'd welcome walk-ins too.」
+
+Touko
+「Yeah, but still... I don't think I will, since I wouldn't be any kind of useful if I showed up. Later then.」
+
+
+％Ｂ
+「Agh, hey!? Yukimura!?」
+all
+She's gone.
+She was kinda unapproachable about it, in a different way than Narusawa.
+％Ｂ
+「We'll be waiting for you tomorrow! Let me know, all right!?」
+％Ｂ
+「And... Yukimura never contacted me.」
+I haven't gotten any mail or calls since then.
+What should I do... Should I try it one more time?
+Call her one more time.
+Just keep waiting.
+Let's try calling her just one more time.
+_smh_st_01
+_smh_st_btn01
+_SMH_ST_01
+I hope she picks up this time...
+_smh_st_02
+_smh_st_btn02
+_smh_st_02
+_smh_st_btn05
+Touko
+『Yes, hello?』
+％Ｂ
+「Oh, you picked up... Wait, were you asleep?」
+Touko
+『Mmm... Yeah, I was... So did you want something?』
+％Ｂ
+「Did you think about whether you'd come camping with us tomorrow?」
+Touko
+『...I already said I wouldn't, didn't I?』
+％Ｂ
+「The goal's to become better friends. You should come have fun with us. It won't just be making curry... Hey, Yukimura?」
+
+Touko
+『...Zzz... Zzz...』
+...Dammit. She's asleep.
+I doubt she'd remember if I kept talking like this anyway, so...
+％Ｂ
+「Good night. I'll call you again tomorrow morning.」
+_smh_st_04
+I'll try inviting her one last time tomorrow morning.
+And if she still says no, then there's nothing more I can do.
+％Ｂ
+「I hope she decides to come...」
+I already told her in person earlier, so it might not be a good thing to be too in her face about it.
+
+％Ｂ
+「I guess there's nothing else I can do. I'll just hope she's contacted me by morning.」
+
+But still... is Yukimura the type that doesn't look at her phone on weekends?
+I feel like normally you'd realize someone called when you see the notification or the voicemail.
+％Ｂ
+「...No, I doubt it.」
+I think about when I exchanged contact information with Yukimura the other day.
+I wouldn't be surprised if she didn't care about her mail or call history at that rate.
+I guess I'll try contacting her one more time tomorrow morning.
+And if she still says no, then there's nothing more I can do.
+％Ｂ
+「...I hope she comes.」
+I open the window and lie spread-eagle on my bed.
+It's still not exactly summer. The wind's cold.
+％Ｂ
+「I guess this wind'll get warmer too, soon enough.」
+Once that happens, it'll be time for fans and air conditioning.
+The stars sure are pretty.
+I can see each and every one, way clearer than back in Kanagawa.
+
+I can also just see way more of them in general.
+I can understand why Ousaka's so obsessed with them.
+I never really thought about it back when I was a kid... but the stars really are beautiful in this city.
+
+Maybe I should ask Ousaka for some constellations to be on the lookout for over LIME.
+Send her a message.
+Figure it out myself.
+Let's see...
+【％Ｂ】「I'm looking at the stars #Nright now. Are there any #Nconstellations that are #Neasy to spot?」
+I wonder if she'll respond...
+【Sora】「The spring constellations are still visible at this time of year.」
+Oh, there's a reply!
+Spring? Can't say I really know of any spring constellations off the top of my head.
+I guess I'll ask her how I should go about looking for them.
+I start to type.
+But then...
+【Sora】「The Big Dipper is in the #Neastern sky. If you followwhere its handle points, #Nyou can see two first-#Nmagnitude stars next to #Neach other.」
+She continues on before I could even ask.
+Even I know the Big Dipper.
+【Sora】「The first is Arcturus, #Nwhich is in Boötes, the #Nherdsman constellation. #NThe second is Spica, #Nwhich is in Virgo.」
+【Sora】「If you look at those two, you can see another brightstar to the right.」
+【Sora】「That one's Denebola, a #Nsecond-magnitude star in #NLeo. Arcturus, Spica, and Denebola make up a #Nformation called the #NSpring Triangle.」
+More and more messages fly in, without so much as a pause to let me respond.
+It looks like Ousaka's habit of becoming talkative when it comes to stars is just as apparent over LIME.
+
+【Sora】「Arcturus and Spica are #Nalso called the Married #NStars, because of their #Norange and blue-white #Ncolor, respectively.
+【Sora】「It's a bit hard to see, #Nbut you can see the #Nsecond-magnitude star in #NCanes Venatici near the #Nend of the Big Dipper's #Nhandle.」
+【Sora】「If you connect that star #Nwith the Spring Triangle, it forms the Great #NDiamond.」
+I look up at the stars while keeping track of the incoming messages... and I can actually see the especially bright stars that she's talking about, among the countless others.
+
+No new messages. Looks like she's done.
+I can finally respond.
+【％Ｂ】「You're amazing, Ousaka.」
+【Sora】「?」
+【％Ｂ】「You don't just know about stars. You're good at #Nteaching others about #Nthem too.」
+【Sora】「I'm happy you understood.」
+【％Ｂ】「It was really easy to #Nunderstand. Just a #Nsecond.」
+Let's see. Let me switch out of the LIME app for a second.
+And then turn on the camera.
+_starphoto
+I wonder if it'll come out okay...
+Hm... It's kinda hard to get the focus right when you take photos of the night sky.
+$$smh_OpenCHK
+...It's a little blurry... but I'm sure Ousaka will get it.
+
+Let's see now, switch back to LIME...
+Paste in the photo I just took...
+【％Ｂ】「It's this, right?」
+【％Ｂ】_st_0401
+【Sora】_st_0310
+I'll also reply with a stamp.
+【％Ｂ】_st_0308
+【％Ｂ】「Teach me more about the #Nstars sometime.」
+【Sora】「No problem.」
+【Sora】「It's a promise.」
+Looks like she's back to the usual Ousaka now that we're not talking about stars.
+I can't help but smile when I see the disparity in our conversation.
+
+【％Ｂ】「Let's do it under a real #Nstarry sky together next #Ntime.」
+【Sora】_st_0307
+I flip my phone screen off after seeing Ousaka's reply stamp.
+She really loves the stars.
+She's good at teaching others about them, too. I hope we can find something that makes use of those parts of Ousaka's skillset for the Tanabata Festival.
+I catch sight of that CD while I'm thinking.
+It's the one I bought earlier today. Narusawa Meguru's classical music album.
+No, I should try figuring it out myself first.
+It's just a guess, but I have the feeling that Ousaka's looking up at the stars at her own place right now.
+I wouldn't wanna bother her.
+％Ｂ
+「Let's see... Constellations are just what you get when you connect bright stars, right?」
+％Ｂ
+「There's an orangish one and a bluish one. Wonder what those ones are...」
+
+％Ｂ
+「...Wait, are those Mars and Mercury? Hm? Can you see those without a telescope?」
+
+％Ｂ
+「...Phew.」
+I give up on thinking about it.
+There's an entire sky's worth of stars before my eyes.
+That's enough for me.
+％Ｂ
+「Time for a change of pace.」
+％Ｂ
+「How about I enjoy a bit of culture with some fine art appreciation?」
+I place the CD in my stereo set.
+Narusawa Meguru's debut album begins playing.
+Chopin, Liszt, Rachmaninoff... Even I know their names, at least.
+
+I'm not familiar enough to know pieces by their titles, but some of them sound familiar.
+
+And the last track of disc two... the bonus track, is "A Fragment of Emotion."
+
+$$smh_OpenCHK
+％Ｂ
+「...Maybe I should've been a little more insistent on having her come.」
+I'm thinking back to when I talked to Narusawa today.
+In the week that I've been at that school... Segawa's still pretty much the only person other than me that I've seen trying to talk to her.
+
+I've never seen Narusawa try to talk to anyone either.
+Segawa told me to keep on trying to strike up a conversation with her...
+
+％Ｂ
+「But even if she didn't, I'd still wanna be friends with her, since we got to know each other and all.」
+
+I roll over in my bed.
+The melodies from the CD seem different somehow from Narusawa's piano, but also similar... I think.
+
+％Ｂ
+「Oh... I should've asked.」
+About whether Narusawa Meguru is Narusawa's sister or not.
+％Ｂ
+「Oh well.」
+There'll be lots more opportunities to ask her.
+％Ｂ
+「Fuaaahh～ ...Ngh...nh, nnnh...」
+Eventually, amidst the pleasant music...
+I slowly... fall asleep.
+dummy
+_00com
+bgm11
+_00grp
+bg201
+_02smh_auto
+_02smh_auto
+_02smh_06tell
+sumaho_call
+se0024_01
+se0024_01
+_02smh_auto
+_00grp
+bg312
+bgm12
+_00grp
+bg312
+_02smh
+_02smh
+_02smh_auto
+_02smh_auto
+_02smh_01lime
+_02smh_01lime
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+se0024_01
+_02smh_auto
+_00_mess
+_02smh
+bgm45
+bg312
+_00grp
+_00grp
+bg312
+bg312
+_00grp
+bg312
+_00grp
+bgm13
+_00grp
+bg312
+_00grp
+bg312
+_00cutincg_macro
+bg312
+bu_rk13_10
+all
+_00bup
+_00bup
+all
+bs_rk13_1001
+none
+_00bup
+bu_nt13_1010
+_00bup
+_00bup
+bu_nt13_0902
+_00bup
+bs_nt02_0204
+_00bup
+bs_nt02_01
+_00bup
+_00bup
+bs_nt02_0201
+_00bup
+bu_nt01_02
+all
+_00bup
+_00bup
+all
+kago_ireru
+_00bup
+bs_nt13_0210
+_00bup
+_00bup
+bs_nt13_0101
+_00bup
+bs_nt13_0202
+_00bup
+bs_nt
+_00grp
+bgm14
+_00grp
+bg312
+bs_rk02_07
+none
+_00bup
+bs_nt01_0808
+bs_rk03_01
+none
+_00bup
+bs_nt01_0909
+bs_rk03_08
+none
+_00bup
+bs_nt02_1004
+_00bup
+bs_nt02_0909
+_00bup
+bs_nt02_1102
+all
+_00bup
+_00bup
+all
+_00bup
+bs_nt02_0204
+_00bup
+bs_nt01_01
+_00bup
+bs_nt11_0413
+_00bup
+_00bup
+bs_nt11_0201
+all
+_00bup
+_00bup
+all
+_00bup
+bs_nt01_0213
+_00bup
+_00bup
+bs_nt01_0201
+_00grp
+_00grp
+bg312
+bs_rk02_09
+none
+_00bup
+bs_nt01_13
+_00bup
+bs_nt01_13
+_00bup
+bs_nt02_1004
+all
+_00bup
+_00bup
+all
+auto_door
+_00bup
+bs_rk02_04
+_00bup
+bs_rk02_0505
+_00bup
+bs_rk01_01
+_00bup
+_00bup
+bs_rk01_0708
+_00bup
+bs_rk01_0708
+_00bup
+bs_nt01_0501
+_00bup
+bs_rk01_0810
+_00bup
+bs_rk01_11
+_00com
+_00bup
+_00bup
+bs_rk01_08
+_00bup
+bs_rk01_01
+_00bup
+bs_nt01_08
+_00bup
+bs_nt01_0208
+_00com
+_00bup
+bs_rk01_01
+_00bup
+bs_nt01_08
+_00bup
+bs_nt02_0204
+_00com
+_00bup
+bs_nt02_02
+_00bup
+bs_rk01_0111
+_00bup
+bs_nt01_08
+_00bup
+bs_rk13_0707
+all
+_00bup
+_00bup
+all
+_00bup
+bs_rk13_0110
+_00bup
+_00bup
+bs_nt11_02
+_00bup
+_00bup
+bs_nt11_0102
+_00bup
+bs_rk13_07
+_00bup
+_00bup
+bs_rk13_1111
+_00bup
+bs_nt13_02
+_00bup
+bs_nt03_0502
+_00bup
+_00bup
+bs_nt03_0102
+_00bup
+bs_nt13_02
+_00bup
+bs_nt13_01
+_00bup
+_00bup
+bs_nt13_02
+_00bup
+bs_rk03_08
+_00bup
+_00bup
+bs_rk03_01
+_00bup
+bs_nt13_0205
+_00bup
+_00bup
+bs_nt13_0905
+_00bup
+bs_rk03_0607
+_00bup
+_00bup
+bs_rk01_08
+_00bup
+bs_nt01_08
+_00bup
+bs_rk01_01
+_00bup
+bs_nt01_0405
+_00bup
+_00bup
+bs_nt01_05
+_00bup
+bs_nt01_04
+_00bup
+_00bup
+bs_nt01_0405
+_00bup
+bs_nt01_1205
+_00bup
+_00bup
+bs_nt01_12
+_00bup
+bs_rk11_0707
+_00bup
+bs_nt03_04
+_00bup
+_00bup
+bs_nt03_0402
+_00bup
+bs_rk03_0705
+all
+_00bup
+_00bup
+all
+_00bup
+bs_rk03_0705
+_00bup
+bs_rk11_0701
+_00bup
+_00bup
+bs_rk11_0711
+_00bup
+bs_rk11_0707
+_00bup
+bs_rk11_0801
+_00bup
+bs_rk11_0105
+_00bup
+bs_rk12_0404
+_00bup
+bs_rk
+_00bup
+bs_nt01_0208
+_00bup
+bs_nt01_0204
+_00bup
+_00bup
+bs_nt01_02
+_00bup
+bs_nt01_01
+_00bup
+bs_nt01_0102
+_00bup
+_00bup
+bs_nt03_02
+all
+_00bup
+_00bup
+all
+_00grp
+bgm15
+bg310e
+_00grp
+bg310e
+bu_tk02_02
+bg310e
+_00bup
+bs_tk03_0404
+_00bup
+bs_tk03_0402
+_00bup
+_00bup
+bs_tk03_09
+_00bup
+bs_tk02_0202
+_00bup
+_00bup
+bs_tk02_03
+neko2
+_00bup
+bs_tk02_04
+_00bup
+_00bup
+bs_tk02_13
+_00bup
+bs_tk01_04
+_00bup
+bs_tk03_0304
+_00bup
+_00bup
+bs_tk03_08
+_00bup
+bs_tk03_0202
+_00bup
+_00bup
+bs_tk03_03
+_00bup
+bs_tk03_0403
+neko2
+_00bup
+bs_tk03_0404
+neko2
+_00bup
+bs_tk03_0304
+_00bup
+_00bup
+bs_tk03_04
+food_one
+_00bup
+bs_tk03_1111
+_00bup
+bs_tk01_08
+_00bup
+bs_tk01_0505
+_00bup
+bs_tk01_0805
+_00bup
+bs_tk02_07
+_00bup
+_00bup
+bs_tk02_12
+_00bup
+bs_tk02_02
+_00bup
+_00bup
+bs_tk02_03
+_00bup
+bs_tk01_0805
+_00bup
+bs_tk01_05
+_00bup
+bs_tk01_0506
+_00bup
+bs_tk13_0707
+_00bup
+bs_tk13_0105
+_00bup
+_00bup
+bs_tk13_10
+_00bup
+bs_tk13_03
+_00bup
+_00bup
+bs_tk13_07
+_00bup
+bs_tk13_0303
+_00bup
+_00bup
+bs_tk13_0902
+_00bup
+bs_tk03_07
+_00bup
+_00bup
+bs_tk03_08
+_00bup
+bs_tk03_0403
+_00bup
+bs_tk
+all
+_00bup
+_00bup
+all
+_00grp
+bgm16
+bg503
+_00grp
+bg201n
+_02smh_auto
+_02smh_auto
+_02smh_06tell
+sumaho_call
+sumaho_tsunagaru
+se0024_01
+se0024_01
+_02smh_auto
+mado_open
+bg503
+_00grp
+bg503
+_00grp
+bg201n
+_02smh
+_02smh_auto
+_02smh_auto
+_02smh_01lime
+_02smh_01lime
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00grp
+bg503
+_00_mess
+_00grp
+bg201n
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_02smh_auto
+_00grp
+bg503
+_02smh_auto
+bg503
+_00grp
+ef_starphoto
+_00grp
+ef_starphoto_b
+_00grp
+ef_starphoto
+_00grp
+ef_starphoto_b
+_00grp
+ef_starphoto
+sumaho_camera
+_00grp
+ef_starphoto_f
+_00grp
+ef_starphoto
+_00grp
+bg201n
+_02smh
+_02smh_auto
+_02smh_auto
+_02smh_01lime
+_02smh_01lime
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+se0024_01
+_02smh_auto
+_00grp
+bg503
+_00grp
+bg201n
+bgm45
+bg201n
+_00grp
+bg201n
+_02smh
+bg503
+_00grp
+bg201n
+_02smh
+_00grp
+_black
+_00com

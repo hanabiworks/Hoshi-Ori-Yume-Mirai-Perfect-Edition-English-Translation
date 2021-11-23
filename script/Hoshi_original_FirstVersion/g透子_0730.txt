@@ -1,0 +1,366 @@
+﻿0729
+火
+0730
+水
+$$smh_OpenCHK
+Touko
+「Hm? Uh... Huh? The key... Where'd I put it again...?」
+She starts patting herself down.
+But she doesn't seem to feel it anywhere. She starts looking through her bag too.
+
+Touko
+「Wha...!? I can't find it! Where'd it go...!?」
+％Ｂ
+「It's not in one of your bag's pockets or lodged between your stuff or anything? Keys can end up in pretty tight spaces.」
+
+Touko
+「I know, but...! I don't usually put it in here...!」
+％Ｂ
+「Touko. Calm down. You'll find it if you look for it calmly.」
+Touko
+「It's not here either...! Why!? How...!?」
+She keeps searching through her bag as if she hadn't heard me.
+She's so frantic... Something feels a bit off.
+％Ｂ
+「Maybe you forgot it at home? You remember where you put it this morning?」
+
+Touko
+「I don't know...! Where!? Where'd it go...!?」
+％Ｂ
+「Stop! Calm down! Let's calm down first, and go inside. Then we can start looking for it! I'm sure it's just gotten tucked in somewhere in your bag or something!」
+
+Touko
+「...Okay. Sorry.」
+We searched her bag, her pockets... but we didn't find her key, even after a long, thorough search.
+
+％Ｂ
+「You might've dropped it somewhere... Since you don't usually put it in your bag.」
+
+I don't recall ever seeing Touko put the key in her bag after using it.\n\r
+
+I remember she always put it in her pocket.
+There's a chance she put it somewhere else this time and lost it that way, but we've looked for it for this long and still can't find it... We have to start considering that she might've genuinely lost it.
+
+
+％Ｂ
+「Let's think through things from the beginning. When was the last time you used the key?」
+Touko
+「...Mm, yesterday. I didn't use it when we left, so it was in the morning.」
+％Ｂ
+「So you haven't seen it for a whole day. But you were here the whole day yesterday, so that makes things easier.」
+
+The possibilities include... inside the old school building, Touko's house, the path to and from school... or somewhere inside the school.
+
+％Ｂ
+「We can't exactly go out and look through our route to school right now... so let's start here at school.」
+
+Touko
+「...Okay.」
+We've looked up to here, and haven't found the key.
+Looks like she didn't drop it between her getting to school and going to the event committee office.
+％Ｂ
+「We can't really do this just by ourselves... Touko. Let's have the others help too. You fine with that?」
+
+Touko
+「...Do you think they'll help?」
+％Ｂ
+「Of course they will. Let's ask the one who's closest first.」
+％Ｂ
+「Shuuichi, I need a favor.」
+Shuuichi
+「Hm? What is it? I'm not giving you any of my lunch.」
+％Ｂ
+「I don't care about your lunch! No, I want you to help us find something.」
+Shuuichi
+「You lose something?」
+％Ｂ
+「Touko's key. We think she dropped it somewhere in the school.」
+Shuuichi
+「A key... Got it. I'll let the other event committee members know.」
+％Ｂ
+「That'd be great. Let me know as soon as you hear anything.」
+Shuuichi
+「What's it look like? How big is it, and what's it shaped like?」
+％Ｂ
+「It's about... let's see, it's a bit bigger than a normal key. Got kind of an elaborate design at the head. It's an old brass key, and it's important to her.」
+
+
+Shuuichi
+「Brass... Okay. I'll get the word out as much as I can.」
+
+％Ｂ
+「Where do people turn lost items in?」
+Shuuichi
+「Mostly either here or the student council. You know how there's some stuff that students wouldn't want the teachers to know about.」
+
+That's true.
+I think we can raise the chances of finding it if we cast our net here.
+
+Shuuichi
+「I'll ask the student council too. I was just thinking of heading over there anyway.」
+
+％Ｂ
+「Sorry about this. Thanks for everything.」
+％Ｂ
+「All right, next thing.」
+【％Ｂ】「I've got a favor I #Nwanna ask you guys, if #Nthat's okay.」
+【Natsuki】_st_0211
+【Natsuki】「What's up?」
+【％Ｂ】「Touko's apparently lost #Nher key for the old #Nschool building.」
+【％Ｂ】「Sorry about this, but #Ncould you help us look #Nfor it?」
+Touko
+「...Are you sure you want to ask them like that? They're all busy...」
+all
+【Marika】「You mean that one with #Nthe cute design?」
+【％Ｂ】「Right. The big one.」
+【Marika】_st_0109
+【Rikka】「A key, okay. I don't #Nreally walk around that #Nmuch, but I'll keep it #Nin mind.」
+【Natsuki】「I'll search every nook #Nand cranny of the #Ngrounds. You owe me ice #Ncream if I find it.」
+【％Ｂ】「Sure thing.」
+【Sora】_st_0107
+【Sora】「I'll only be looking #Ndown today.」
+【Misa】「Sora-san, you must take #Nproper care to look #Nforward as you walk.」
+【Misa】「I will also keep this #Nkey in mind today.」
+【Misa】_st_0220
+【％Ｂ】「That'd be great. If any #Nof you find it, you can #Nget any one thing you #Nwant at the Tanabata #NFestival, my treat.」
+【％Ｂ】「You said you want ice #Ncream, Segawa?」
+【Natsuki】「Wait a second! I want #Nsomething better then!」
+【Sora】_st_0307
+【Rikka】「I'll contact you again #Nif I find it.」
+【Misa】_st_0218
+【Marika】_st_0103
+【Natsuki】_st_0204
+【％Ｂ】_st_0314
+Touko
+「...Why are they all helping me?」
+％Ｂ
+「What's up? You say something?」
+Touko
+「...No, it's nothing. I'm going to go look for it.」
+all
+％Ｂ
+「Agh, Touko! I'll let you know if anything happens, so you better have your phone on you!」
+
+Shuuichi
+「The key hasn't been turned in yet, and I haven't gotten any leads on it either. It might be pretty hard since everyone's busy preparing for the festival.」
+
+％Ｂ
+「Really...」
+Shuuichi
+「I've got the committee members telling every club they go to about the key. I'm sure we'll find it, so don't be so depressed.」
+
+Touko
+「...Mhm. Thanks for everything.」
+We still haven't found the key. I've run out of things to say to encourage Touko.
+I know I shouldn't just stay silent, but I don't know what I should say.
+
+Touko
+「I guess there's nothing I can do about it. It must've disappeared off to somewhere if we can't find it after this much searching.」
+
+％Ｂ
+「Wha...?」
+Touko
+「There's no point in worrying about what's already happened. What's gone won't come back.」
+
+Her smile pains my heart.
+I can't do anything. I can't support her... I'm frustrated with how pathetic I am.
+
+Touko
+「I'll do my job properly tomorrow. Sorry for making such a fuss today.」
+
+％Ｂ
+「...But there are still places we haven't looked... Maybe we should try for just a little longer?」
+
+Touko
+「It's fine. It's my fault for not taking care of it properly.」
+all
+She turns on her heel and starts walking.
+I... can't imagine that as anything but her deliberately hiding her expression from me.
+
+Is there anything I can do?
+That key was so precious to Touko.
+If we end up never finding it... then is Touko going to have to keep on forcing herself to smile like that, with its absence skewering her heart?
+
+％Ｂ
+「...That's not okay.」
+I roll my own key to the old school building in my hand as I think.
+There wouldn't be any point in duplicating this key and handing that to her.
+I'm sure that it wasn't being able to unlock the old school building that was meaningful to her. It was the key itself.
+
+％Ｂ
+「I'm gonna search more thoroughly tomorrow. I'll go to school early by myself.」
+
+【％Ｂ】「Sorry, Shuuichi's #Nmaking me do some work. #NI'm gonna go to school #Nearly tomorrow.」
+I think about Touko as I send the message.
+She's on her own right now... What's going through her mind?
+【Touko】「Mm, got it.」
+【Touko】「See you tomorrow.」
+dummy
+_00com
+bgm11
+bgm11
+_00grp
+bg117
+_02smh
+_00bup
+bs_tk02_07
+_00bup
+bs_tk01_1105
+_00bup
+bs_tk01_10
+kaban_asaru
+_00bup
+bs_tk01_0705
+bgm22
+bgm22
+_00bup
+bu_tk02_10
+kaban_asaru
+_00bup
+bu_tk02_08
+kaban_asaru
+_00bup
+bu_tk02_08
+_00bup
+bu_tk01_13
+_00grp
+bgm12
+bgm12
+_00grp
+bg115
+_00bup
+bs_tk01_06
+_00bup
+bs_tk01_0605
+_00bup
+bs_tk01_06
+_00grp
+bg102
+_00grp
+bg102
+_00bup
+bs_tk02_06
+_00grp
+gakuen_door1
+_00grp
+bg104
+_00bup
+bs_sy01_08
+_00bup
+bs_sy01_10
+_00bup
+bs_sy01_0807
+_00bup
+bs_sy11_08
+_00bup
+bs_sy11_02
+_00bup
+bs_sy01_01
+_00bup
+bs_sy01_02
+gakuen_door1
+_00grp
+bg102
+_02smh_01lime
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00bup
+bs_tk02_06
+all
+_00bup
+_00bup
+all
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00bup
+bs_tk01_12
+se0024_01
+_02smh_auto
+_00bup
+bs_tk02_1201
+_00bup
+_00bup
+bs_tk02_0906
+_00bup
+bs_tk
+all
+_00bup
+_00bup
+all
+_00grp
+_00grp
+bg502
+bgm24
+bgm24
+_00grp
+bg104e
+_00bup
+bs_sy01_08
+_00bup
+bs_sy01_01
+_00bup
+bs_sy01_01
+_00bup
+bs_tk01_06
+gakuen_door1
+_00grp
+_00grp
+bg103e
+_00bup
+bs_tk02_09
+_00bup
+bs_tk12_0602
+_00bup
+bs_tk12_1312
+_00bup
+bs_tk12_13
+_00bup
+bs_tk01_0602
+_00bup
+bs_tk03_03
+all
+_00bup
+_00bup
+all
+bg502
+_00grp
+bg201n
+_00grp
+bg201n
+key_sway
+_02smh_auto
+_02smh_auto
+_02smh_01lime
+_02smh_01lime
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+se0024_01
+_02smh_auto
+_00grp
+_00com

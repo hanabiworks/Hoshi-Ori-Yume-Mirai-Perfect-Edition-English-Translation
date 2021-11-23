@@ -1,0 +1,309 @@
+﻿0715
+火
+0716
+水
+$$smh_OpenCHK
+％Ｂ
+「Hup... And!」
+I'm carrying more water tanks from the second chemistry classroom to the old school building.
+％Ｂ
+「Phew... They're pretty heavy even when they're empty.」
+Misa
+「Please don't overexert yourself.」
+％Ｂ
+「Don't worry. I'm just glad we ended up being able to use the old school building.」
+
+Misa
+「Yes... Really.」
+Marika
+「We'll be able to display lots of tanks here.」
+Misa
+「Yes. It's all thanks to you two.」
+％Ｂ
+「I'll go get the next tank, then.」
+Misa
+「Thank you very much.」
+Marika
+「He's trying hard, isn't he?」
+Misa
+「Yes. He's done so much for me.」
+Marika
+「Of course. He's doing it for the person he loves.」
+Misa
+「Wha!? ...Oh... Um... Well, you see...」
+Marika
+「Please don't get embarrassed now. I'm happy as long as you two are happy. Hehe...」
+
+
+Misa
+「Y-Yes... I'm very happy to hear that from you.」
+all
+％Ｂ
+「Where should I put this tank?」
+Misa
+「Oh, please place that one there.」
+all
+％Ｂ
+「Roger that. Hmph... All right.」
+I place the tanks according to Misa-senpai's instructions.
+％Ｂ
+「Phew... We've gotten about half of them over here.」
+There's still a lot of tanks to carry over.
+％Ｂ
+「By the way, where's Segawa?」
+Marika
+「She said she had grad-alb committee work today.」
+％Ｂ
+「Then what about Yukimura and the others?」
+Misa
+「I have not seen them today.」
+％Ｂ
+「Oh, so I guess they're all taking today off...」
+all
+Rikka
+「...We're doing work, you know.」
+Touko
+「We're helping out Fluffyhead here.」
+％Ｂ
+「You're helping Ousaka?」
+Sora
+「...*nod*」
+Rikka
+「The "sea full of stars" isn't going to just be tanks and fish, right?」
+Sora
+「...Ritsu and Tou are pretty useful.」
+Rikka
+「...Ritsu?」
+Touko
+「Now, now. Let her have it. Anyway, we've been getting LEDs and stuff ready in the astronomy clubroom today.」
+
+
+Touko
+「We just figured that a certain someone might've forgotten about this side of the project, since he's been running around all over the place because he's so happy he's got a girlfriend.」
+
+％Ｂ
+「Uh... W-Well... Thanks for covering me. So how are things going with you guys?」
+
+Sora
+「...No issues.」
+％Ｂ
+「Then let's start setting your stuff up once we're finished carrying the water tanks here.」
+
+all
+Touko
+「So about how many tanks do you have left?」
+Misa
+「About half of them are still in the second chemistry classroom.」
+Touko
+「Half... So we'll still have some space left over after all of them are in here. Why don't we add a few more, then?」
+
+％Ｂ
+「Huh? ...Add a few more, as in tanks?」
+Rikka
+「That's true... It might be nice to place as many as we possibly can, now that we're allowed to use this big classroom.」
+
+Marika
+「Oh, I agree too.」
+％Ｂ
+「But then Ousaka's side is...」
+all
+Sora
+「...I prepared extra lights.」
+all
+％Ｂ
+「Hm... What do you think, Misa-senpai?」
+Misa
+「Let's see. As Rikka-san says, it may be nice to add a few more tanks now that we have this larger space.」
+
+
+％Ｂ
+「If we increase the number of tanks, then that means we'd want more fish too, right?」
+
+all
+So does that mean the two of us might get to go to Urashima Island again to catch new fish?
+
+I glance at her.
+Misa
+「...」
+Our eyes meet.
+Her cheeks are a little red.
+Looks like she was thinking the same thing.
+all
+％Ｂ
+「W-Well... If we're going to do that...」
+Misa
+「Please leave it to us!」
+Rikka
+「To... us?」
+all
+Marika
+「They're just heads over heels, aren't they?」
+Touko
+「It's really blatant, isn't it?」
+Sora
+「...Mm.」
+dummy
+_00com
+_02smh
+bgm15
+_00grp
+bg115_20
+suisou_oku
+_00bup
+bs_ms01_10
+_00bup
+bs_ms01_01
+_00bup
+bs_ms01_01
+_00bup
+bs_mr03_0103
+_00bup
+bs_ms01_02
+_00bup
+bs_ms01_03
+_00bup
+bs_mr01_0102
+_00bup
+bs_ms01_01
+_00bup
+bs_mr01_02
+_00bup
+bs_ms02_11
+_00bup
+bs_mr03_02
+_00bup
+_00bup
+bs_mr03_03
+_00bup
+bs_ms02_10
+all
+_00bup
+_00bup
+all
+_00bup
+bs_ms01_0102
+all
+_00bup
+_00bup
+all
+suisou_oku
+_00bup
+bs_mr01_01
+_00bup
+bs_ms01_0108
+_00bup
+bs_mr01_01
+all
+_00bup
+_00bup
+all
+gakuen_door1
+_00bup
+bs_rk03_01
+_00bup
+bs_tk01_02
+_00bup
+bs_rk03_01
+_00bup
+bs_tk01_02
+_00bup
+bs_sr03_01
+_00bup
+bs_rk03_01
+_00bup
+bs_rk03_0805
+_00bup
+bs_sr03_03
+_00bup
+bs_rk11_0708
+_00bup
+bs_tk01_04
+_00bup
+bs_rk11_02
+_00bup
+bs_tk03_08
+_00bup
+_00bup
+bs_tk03_03
+_00bup
+bs_sr02_01
+all
+_00bup
+_00bup
+all
+_00bup
+bs_tk01_02
+_00bup
+bs_tk01_02
+_00bup
+bs_ms01_0102
+_00bup
+bs_ms01_01
+_00bup
+bs_tk03_03
+_00bup
+_00bup
+bs_tk03_0402
+_00bup
+bs_tk03_02
+_00bup
+bs_ms01_01
+_00bup
+bs_rk03_0203
+_00bup
+bs_mr02_03
+all
+_00bup
+_00bup
+all
+_00bup
+bs_sr02_01
+all
+_00bup
+_00bup
+all
+_00bup
+bs_ms01_0408
+_00bup
+_00bup
+bs_ms01_01
+all
+_00bup
+_00bup
+all
+_00bup
+bu_ms01_13
+_00bup
+bu_ms02_1104
+all
+_00bup
+_00bup
+all
+_00bup
+bs_ms01_0106
+_00bup
+bs_rk11_0108
+all
+_00bup
+_00bup
+all
+_00bup
+bs_mr01_02
+_00bup
+bs_rk11_0108
+_00bup
+bs_mr01_02
+_00bup
+bs_tk01_0802
+_00bup
+bs_rk11_02
+_00bup
+bs_mr01_02
+_00bup
+bs_tk01_0802
+_00bup
+bs_sr01_0302
+_00bup
+bs_rk11_02
+_00grp
+_00com

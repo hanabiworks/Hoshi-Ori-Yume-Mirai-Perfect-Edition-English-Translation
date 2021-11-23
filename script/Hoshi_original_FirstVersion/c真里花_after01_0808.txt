@@ -1,0 +1,181 @@
+﻿0807
+日
+0808
+月
+％Ｂ
+「Yes! This is the Azuma Morio Architectural Firm! Thank you very much! I actually just sent you a fax on the matter!」
+
+
+％Ｂ
+「Thank you very much!」
+％Ｂ
+「All right, now I need to call the contractor, and then...」
+Firm Staff A
+「You seem like you're in a good mood today.」
+％Ｂ
+「Huh? Do I? I'm always in a good mood, though.」
+Firm Staff B
+「It's because you passed the subject portion of the first-class exam, right? Congratulations.」
+％Ｂ
+「Thank you very much! I can't relax yet, since there's still the drafting exam in October... but I'll definitely pass that too!」
+
+
+Firm Staff A
+「S-Sure... You're really raring to go.」
+％Ｂ
+「Like I said, that's not...」
+Azuma
+「A woman for sure.」
+％Ｂ
+「Urghh!!」
+all
+Firm Staff B
+「Oh? Looks like he's right.」
+％Ｂ
+「N-No... I'm just really passionate about work...」
+Azuma
+「When a man gets passionate about work, it's because of a woman, ten times out of ten.」
+％Ｂ
+「Ten times out of... Azuma-san, is that why you work?」
+
+Azuma
+「Of course.」
+What a comeback....
+Azuma
+「Something happened, right?」
+％Ｂ
+「Well, uh...」
+She may have accepted my proposal... but we haven't told her parents about it yet.\n\r
+
+I'll need to pass the second exam for that, so...
+％Ｂ
+「I'm sure I'll be able to tell you all what it is soon, so if you could please wait a little longer...」
+
+Azuma
+「That so? Sure, then. Get excited and work as hard as you'd like.」
+
+％Ｂ
+「...Yes!」
+all
+First, I have to pass the first-class exams.
+I'll tell Marika's parents about our engagement after that.
+And I'll finish the Oono residence case too.
+...Or so I thought.
+％Ｂ
+「Huh? Seriously?」
+Marika
+「Yes, seriously～ My dad found out that you proposed to me...」
+
+％Ｂ
+「I-Is... that so...」
+Her dad's face comes to mind. I haven't seen him in a while.
+Marika
+「Sorry... I was going to keep it a secret from him until after you passed your exams...」
+
+Marika
+「But I was trying to tell just my mom, and he happened to overhear us... I'm so sorry!」
+
+
+％Ｂ
+「N-No... It's fine. It's not like it's a lie that I proposed or anything. So... what'd your dad say?」
+
+Marika
+「He was kinda bright red.」
+％Ｂ
+「K-Kinda bright red?」
+Marika
+「I thought his head was going to explode.」
+％Ｂ
+「I see...」
+Marika
+「And... he said to invite you over sometime...」
+Marika
+「And... he said to invite you over sometime...」
+％Ｂ
+「To invite me over?」
+Well... Yeah, that makes sense.
+Marika
+「Is the weekend okay? I can tell him you're busy and can't come if you want...」
+
+％Ｂ
+「No, I'll go. I think it'd be good to say it properly anyway. This weekend works fine.」
+
+
+Marika
+「...Okay. Got it. I'll let him know, then.」
+％Ｂ
+「Please tell him I'm excited to see him.」
+all
+I automatically go into formal mode.
+Telling her parents, huh.
+I've met them a lot already, but this really makes me nervous.
+It would've been nice if I could've had more time to prepare myself... but there's nothing I can do about that now.
+
+dummy
+_00com
+bgm17
+denwa_yobidashi
+bg408
+denwa_toru
+_00grp
+bg408
+_00bup
+bs_az11_1313
+all
+_00bup
+_00bup
+all
+_00bup
+bs_az01_0202
+_00bup
+bs_az01_08
+_00bup
+bs_az01_0101
+_00bup
+bs_az01_0202
+_00bup
+_00bup
+bs_az01_01
+all
+_00bup
+_00bup
+all
+_00grp
+_00grp
+bg405n
+bgm21
+_00bup
+bs_mr01_07
+_00bup
+_00bup
+bs_mr01_06
+_00bup
+bs_mr01_10
+_00bup
+bs_mr03_09
+_00bup
+_00bup
+bs_mr03_10
+_00bup
+bs_mr03_08
+_00bup
+bs_mr03_07
+_00bup
+bs_mr01_05
+_00com
+_00bup
+bs_mr01_07
+_00bup
+_00bup
+bs_mr01_0605
+_00bup
+bs_mr02_01
+_00bup
+_00bup
+bs_mr02_02
+all
+_00bup
+_00bup
+all
+_00grp
+_00com

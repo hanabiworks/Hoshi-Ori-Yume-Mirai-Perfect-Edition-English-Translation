@@ -1,0 +1,168 @@
+﻿0623
+月
+0624
+火
+$$smh_OpenCHK
+％Ｂ
+「Nnh... nnnh... aagh...」
+I grope blindly to stop my alarm.
+My arms feel like lead.
+％Ｂ
+「...I feel... kinda heavy...」
+I sit up in bed.
+％Ｂ
+「Whoa... Everything's all warped.」
+It's like someone took the familiar sight of my room and elongated it.
+My breaths feel hot.
+My eyelids feel heavy.
+Everything just feels sluggish and heavy...
+％Ｂ
+「...I've gone and done it...」
+I've been trying to stay as healthy as I can, since I've been living alone...
+
+％Ｂ
+「...I bet it's because of yesterday...」
+I plunged into a torrential downpour to save the telescope.
+I wasn't out for even a minute, but I got soaked all the way down to my underwear.
+
+I prioritized drying the telescope over my own clothes.
+And that's led to this.
+％Ｂ
+「...Ugh... Brrh...! It-It's so cold...?? Aghh... Crap... Do I have a thermometer?」
+
+Or more like, do I have any medicine...?
+％Ｂ
+「～～Ughh～ ...I feel dizzy... I'll call the school and tell them I won't be coming in today...」
+
+I call the school's number on my cell phone.
+I hope they don't think I'm faking it if I'm calling myself in sick...
+_smh_st_02
+_smh_st_btn02
+_smh_st_02
+_smh_st_btn05
+％Ｂ
+「Oh... Hello? This is ％Ａ ％Ｂ, from class 2-C... Yes... Good morning... I currently have a fever... Yes... I'd like to call in sick for today... Yes...」
+
+
+％Ｂ
+「I'll call again depending on how I'm doing as to whether I'll be coming tomorrow... Yes... Thank you very much... Excuse me, then.」
+
+_smh_st_04
+％Ｂ
+「Phew... They approved that surprisingly quickly.」
+％Ｂ
+「Now then... I think I'll just sleep...」
+％Ｂ
+「...Wait, I can't sleep yet.」
+I have to take some medicine before that.
+I'll need to force myself to eat something too, and I should get a sports drink or something to stay hydrated too.
+
+％Ｂ
+「And I have to do all of that myself... Living alone sucks.」
+
+I stumble out of bed.
+Let's just get everything I need ready before I get back in bed.
+％Ｂ
+「I'll need a change of clothes for when I get sweaty too... Sigh... This is such a pain...」
+...Wait, what?
+Is this... a dream?
+I see... a starry sky.
+Several bright stars, glittering in a deep darkness.
+It's pretty... and strangely nostalgic...
+It's not like the night sky's ever gone away or changed. I wonder why I feel nostalgic...?
+
+And there's... someone next to me.
+Who is it...?
+Who's this... sitting next to me?
+％Ｂ
+「You connect that star, and that one like this and... you get the airplane constellation!」
+？？？
+「...That isn't a constellation.」
+％Ｂ
+「Then you connect that and that... The tank constellation!」
+？？？
+「...That's not one either.」
+％Ｂ
+「Ghh... Then show me a fun summer constellation.」
+？？？
+「...Those stars. Connect those five like a W.」
+％Ｂ
+「W... The W constellation!」
+？？？
+「...No. Cassiopeia. She's a queen from Greek mythology, and Princess Andromeda's mom.」
+
+％Ｂ
+「So she's the mom of an android princess!」
+？？？
+「...Princess Andromeda.」
+％Ｂ
+「You know lots of hard words.」
+？？？
+「...Mhmh.」
+％Ｂ
+「...Aagh...?」
+％Ｂ
+「...What... time is it...?」
+I check my phone next to my bed.
+％Ｂ
+「...The hell... 5 p.m. already...」
+I sit up.
+％Ｂ
+「...Ahh... I feel a little better... but I think I still have a fever.」
+It doesn't look like my temperature's actually gone down either.
+I measured 37.5 degrees after I ate breakfast earlier.
+I took some over-the-counter pills and went to sleep, but it had gone up to 38.2 degrees when I checked earlier a little past noon.
+
+％Ｂ
+「...I guess the over-the-counter stuff's not good enough... I'll have to go to the doctor's if it doesn't go down tomorrow...」
+
+％Ｂ
+「Sigh... I feel like I had a kinda nostalgic dream... What was it again...?」
+
+I forgot it already...
+My thought process might be a little muddled from the fever...
+I've been looking at the stars a lot with Ousaka lately, so maybe that stuff's mixing into my thoughts.
+
+％Ｂ
+「...It's still too early to take my pills for the night... I'll sleep a little more, and take them after I eat dinner...」
+
+I burrow back into my sheets.
+dummy
+_00com
+_00grp
+_black
+_02smh
+clock_alarm
+bgm11
+bgm11
+_00grp
+b_bg201
+b_bg201
+_00grp
+b_bg201
+_02smh_06tell
+sumaho_tsunagaru
+se0024_01
+se0024_01
+_02smh_auto
+_00grp
+_00grp
+_00grp
+b_bg503
+_00grp
+bg503
+bgm03
+bgm03
+_00grp
+_00grp
+_00grp
+b_bg201e
+bgm15
+bgm15
+b_bg201e
+bed_gosogoso
+_00grp
+b_bg201e
+_00grp
+_00grp
+_00com

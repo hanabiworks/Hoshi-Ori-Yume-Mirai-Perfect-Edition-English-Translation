@@ -1,0 +1,219 @@
+﻿0613
+金
+0615
+日
+％Ｂ
+「Ahh... Now I'm refreshed!」
+$$smh_OpenCHK
+I enjoyed playing futsal for the first time in forever over the weekend.
+Emptying my mind to play sports has gotten my heart feeling a lot lighter.
+Being active seems to get me functioning better in general.
+I should come here to exercise every now and then from now on.
+Sora
+「...What are you doing?」
+％Ｂ
+「Whoa!? You scared me, Ousaka...! Don't suddenly say stuff from behind me like that.」
+
+Sora
+「Got it. I'll take care from now on.」
+％Ｂ
+「I'm just on the way back from getting some exercise. How about you?」
+Sora
+「...Shopping?」
+％Ｂ
+「...What are you asking me for?」
+Sora
+「...Market investigation? I'm going to the marketplace to buy things I need.」
+％Ｂ
+「Things you need? ...What are you buying things for?」
+Sora
+「Stargazing. I'm going to buy summer equipment. There are lots of things I need to prepare for the Tanabata Festival.」
+
+％Ｂ
+「You decided what you're gonna do? I've got no plans, so you mind if I come with? Going on your own's gonna be rough, I bet.」
+
+Sora
+「...*nod*」
+all
+Sora
+「Thanks for today. You were a big help.」
+％Ｂ
+「Want me to walk you home? That's a lot of bags.」
+Sora
+「...This much is fine. I always carry the telescope to the rooftop like this.」
+
+％Ｂ
+「Haha, all right. Be careful then.」
+Sora
+「...Wait. There's something I want to give you.」
+％Ｂ
+「Hm? What?」
+Sora
+「Thanks for today. Have it.」
+She hands me a small gift bag.
+It's been wrapped cutely as a present, with a star-shaped sticker on it.
+
+％Ｂ
+「...When'd you buy this?」
+Sora
+「Bought it at the general store. Open it. I think it's good. I'm sure you'll like it too
+, Ryou
+
+.」
+％Ｂ
+「...Is this a keychain?」
+It's star sand. It says "Wish Upon a Star" on the packaging.
+...Though the "Clearance: 300 Yen" sticker on it ruins everything.
+
+Sora
+「The stars have great power. They can make wishes come true. Making wishes come true for 300 yen. Reasonable.」
+
+％Ｂ
+「...Ousaka, you know you shouldn't talk about how much it cost, right? And if you wanna give something as a present, you should get them to take the price tag off...」
+
+
+Sora
+「...? But it was a good value.」
+...Whatever. Presents aren't about the price tag.
+It's a sign of Ousaka's goodwill. I'll gratefully accept it.
+Sora
+「Hope your wish comes true.」
+％Ｂ
+「Yeah, same. I'll think of a wish.」
+Sora
+「Then... see you.」
+all
+％Ｂ
+「Ahh... Refreshing. Taking a bath always feels great.」
+I took a bit of a shower after futsal, but washing away your sweat isn't enough to get the fatigue out of your bones.
+
+I've washed away a day's worth of sweat and fatigue... but the emotions in my heart are still there. I can't wash those away.
+
+％Ｂ
+「...」
+It's only been two days.
+I haven't seen her or heard her voice for just two days... and it feels so unsatisfying.
+
+％Ｂ
+「I... like Yukimura.」
+I can feel a faint emotion take hold in me as I say it out loud.
+My heart feels just the slightest bit lighter.
+I want to see her face. I want to talk to her.
+I want it to be tomorrow already.
+％Ｂ
+「I... wonder what she's doing right now.」
+If I wanna hear her voice then I should just call her.
+If I want it to be more casual, then I can just talk to her over LIME.
+％Ｂ
+「...Gh.」
+But what would I talk to her about if I was going to call her?
+What would I tell her if I was going to contact her?
+％Ｂ
+「I'll have to do something about this... How am I supposed to look her in the eye from now on?」
+
+...I can just think about that tomorrow.
+There won't be any issues if I mentally prepare myself by then.
+【％Ｂ】「I'll come by tomorrow #Nafter school.」
+％Ｂ
+「There's... probably no point in waiting for a response.」
+She'll probably respond tomorrow, if not tonight.
+I guess I'll just go to bed now...
+％Ｂ
+「...Oh, right. This.」
+The small vial on my desk catches my eye.
+It's the star sand Ousaka gave me.
+％Ｂ
+「The stars have great power, she said...」
+I don't know what my wish is yet.
+I get up from my bed, grab the vial, and think.
+％Ｂ
+「...I know what my wish is.」
+"The stars have great power."
+I'll believe Ousaka's words. Let's make a wish.
+I walk up to the window, still holding the vial.
+I look up at the night sky and say the wish in my heart.
+％Ｂ
+「...I wish to have courage.」
+dummy
+_00com
+bgm11
+bgm11
+bg501
+_00grp
+bg312
+_02smh
+_00bup
+bs_sr03_01
+_00bup
+bu_sr03_01
+_00bup
+bs_sr02_01
+_00bup
+bs_sr02_04
+_00bup
+bs_sr02_05
+_00bup
+bs_sr02_01
+_00bup
+bs_sr03_01
+all
+_00bup
+_00bup
+all
+_00grp
+bgm13
+bgm13
+_00grp
+bg312e
+_00bup
+bs_sr02_01
+_00bup
+bs_sr02_1001
+_00bup
+bs_sr01_0809
+_00bup
+bs_sr11_01
+_00bup
+bs_sr02_0811
+_00com
+_00bup
+bs_sr02_01
+_00bup
+bs_sr02_0811
+_00bup
+bs_sr02_07
+_00bup
+bs_sr02_1011
+_00bup
+bs_sr03_03
+all
+_00bup
+_00bup
+all
+_00grp
+bgm16
+bgm16
+_00grp
+bg201n
+mado_open
+bgm37
+bgm37
+bg505
+_00grp
+_00grp
+cg_tk25_0144
+_00grp
+_00grp
+bg201n
+_02smh_auto
+_02smh_auto
+_02smh_01lime
+_02smh_01lime
+_00_mess
+_00_mess
+se0024_01
+_02smh_auto
+curtain_open
+_00grp
+bg505
+_00com

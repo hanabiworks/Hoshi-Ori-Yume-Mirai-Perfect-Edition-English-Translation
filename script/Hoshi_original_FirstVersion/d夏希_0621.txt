@@ -1,0 +1,688 @@
+﻿0620
+金
+0621
+土
+$$smh_OpenCHK
+Natsuki
+「You're laaaate! How could you be here later than me when you're supposed to be the assistant!?」
+
+％Ｂ
+「What do you mean, late... It's still thirty minutes before we're supposed to meet up...」
+I remember Okihara-senpai said that the last time we were here, Segawa got here before anyone else and got a seminar on fish from Senpai beforehand.
+
+Which is exactly why I decided to come decently early today too, just in case...
+
+％Ｂ
+「How early did you get here...?」
+Natsuki
+「Whaaat? About an hour before the time we agreed on, I guess...?」
+％Ｂ
+「That's way too early. What the heck was the point of the meet-up time then?」
+
+Natsuki
+「You think so? Maybe we should've made the meet-up time an hour earlier, then?」
+
+I bet Segawa would probably have just come an hour earlier than that if we did...
+
+％Ｂ
+「Ugh... You're always so crazy about taking photos.」
+Natsuki
+「Ahaha. Yeah, it's just way too much fun for me.」
+％Ｂ
+「Well, that's fine... So where are we shooting? Around the rocks again?」
+
+Natsuki
+「No... I'm planning on doing it a different way today.」
+％Ｂ
+「A different way?」
+Natsuki
+「Hey... Do you know what's important when you're taking photos?」
+％Ｂ
+「Huh? Uhh, stuff like focus, exposure, and composition...?」
+Natsuki
+「Wrooong. Those are important too of course, but there's something that's even more important.」
+
+％Ｂ
+「What's that?」
+Natsuki
+「To become a part of the subject's world.」
+％Ｂ
+「...How very philosophical...」
+Natsuki
+「Parents take photos from the viewpoint of a child when they take pictures of their kids, right? And if you're trying to take a picture of an athlete, you need to match your breathing to theirs.」
+
+
+Natsuki
+「And when you take scenery photos, you let yourself melt away into the scenery itself.」
+
+％Ｂ
+「...I kinda feel like I get what you're trying to say.」
+Natsuki
+「So taking that into account, about those fish photos I took last week. Those are from the human perspective. Which makes them into specimens. It's like you said. They're the kinda photos you'd see in field guides.」
+
+
+％Ｂ
+「You don't want field guide photos? They're nice, pretty photos.」
+Natsuki
+「Misa-san wanted me to take photos of them "living in their natural habitat." The photos aren't supposed to be for a field guide.」
+
+％Ｂ
+「Oh... B-But she said those photos were fine―」
+Natsuki
+「Yeah. Those are probably good photos on their own. That's why Misa-san okayed them. But I'm not okay with them...!」
+
+
+Natsuki
+「Do you really think I'd be satisfied if I ended up taking photos that weren't the ones that she requested?」
+
+Natsuki
+「A cameraman takes the photos that people want them to take, and more! There's no way a photo that I'm not okay with myself could satisfy the client's wishes!」
+
+
+She's getting really passionate...
+She seems to be in some kind of a super-serious mode right now...
+Natsuki
+「That's why I decided. I'm going to redo all of those photos!」
+all
+She suddenly starts taking her clothes off.
+％Ｂ
+「H-Hey! ...What the heck are you doing!?」
+She tosses aside article after article of clothing before my eyes.
+％Ｂ
+「Wait... Wait a second! I know there's no one around, but you can't just―」
+
+Natsuki
+「Tadaaa! How do I look? I look good, right♪」
+％Ｂ
+「Wha... Oh... You're wearing a swimsuit...」
+She pulls her camera out from her bag after stripping down to her swimsuit.
+It's covered in a transparent plastic case.
+Is that... a waterproof case?
+％Ｂ
+「Wait a second... You're not... Are you planning on diving?」
+Natsuki
+「Of course! The world of fish is underwater. Which means that if I want to get the same perspective so I can take pictures of them, I need to also go underwater!」
+
+
+So that's how she's going to do this...
+％Ｂ
+「I get what you're trying to say, but you need to calm down. The beach isn't open yet.」
+
+Natsuki
+「But they're doing swimming classes in gym at school already.」
+％Ｂ
+「That's 'cause we have a temperature-controlled indoor pool. It's not even close to the same as Shionagi's sea.」
+Natsuki
+「Stop nitpicking! I'm the one who's going in the water. Anyway, counting on you to support me!」
+
+all
+She starts running toward the water.
+％Ｂ
+「Agh, hey! You can't just say that! Don't be─」
+all
+$$chr_gkbr
+Natsuki
+「～～～～～～! ～～～!!」
+...She immediately comes running back after going up to her knees in water.
+Natsuki
+「What the heck!? What the heck!? It's so cold! I thought the ocean would be warm 'cause the sun's out today!」
+
+％Ｂ
+「Oh, come on... The ocean's nothing like a pool, so there's no way it'd get warm that easily...」
+
+Natsuki
+「R-Really? Is that how it works!?」
+％Ｂ
+「I'll do the underwater photography. I'm gonna go home and grab my swimsuit, so wait a bit.」
+
+Natsuki
+「No. Photography is my job.」
+％Ｂ
+「But it's dangerous to get in the ocean when it's this cold.」
+Natsuki
+「And that's why I had you come along.」
+％Ｂ
+「Huh?」
+Natsuki
+「You're going to watch over me. I'll come up when you tell me to.」
+
+Natsuki
+「I'll do everything you say.」
+％Ｂ
+「Uh... gh...」
+Natsuki
+「Please.」
+％Ｂ
+「...Fine. You better come up right away.」
+Natsuki
+「Okay! Thanks!」
+all
+She smiles happily and starts running back toward the water.
+This time, she takes her time getting used to the cold water by dipping her toes in first.
+％Ｂ
+「Phew...」
+But man... What else could I say with those trusting eyes turned toward me like that?
+
+Segawa might trust me a lot more than I thought she did.\n \n\r
+
+That makes me happy.
+I watch over Segawa from above.
+She spots a fish, gently submerges herself in the water, and slowly, stealthily approaches so she doesn't scare it, trying to get a shot.
+
+
+Natsuki
+「Pfah... Hahh, hahh... Aghh, so close... I almost got a good shot, but it got away.」
+
+％Ｂ
+「It's been about half an hour, so you should get out for a bit.」
+Natsuki
+「...Can I go for just a little longer? I wanna try getting that one that got away one more time.」
+
+％Ｂ
+「Segawa.」
+Natsuki
+「Uh... Okaaay.」
+She reluctantly, but still obediently gets out from the water.
+$$chr_gkbr
+Natsuki
+「It's cold! So cold! What the heck!? It's warmer in the water!」
+
+％Ｂ
+「Oh, you just think that. Your body would only get colder if you had stayed in the water.」
+
+Natsuki
+「Uuughh... But it's way too cold out here...」
+％Ｂ
+「It's 'cause you're wet. Hurry up and dry off with a towel before you catch a cold.」
+Natsuki
+「Ah... A towel...」
+％Ｂ
+「Wha...?」
+You've gotta be kidding me...
+％Ｂ
+「...You didn't bring a towel?」
+Natsuki
+「...」
+％Ｂ
+「...You're...! How the hell do you forget to bring a towel when you're planning on swimming!?」
+Natsuki
+「Aha, ahaha... Just slipped my mind...」
+％Ｂ
+「...On that note, there's something I wanna ask you...」
+Natsuki
+「Mhm?」
+％Ｂ
+「You... brought underwear, right?」
+Natsuki
+「...」
+％Ｂ
+「You...! You're kidding! What are you, a grade schooler!? How obsessed with this stuff can you get!?」
+
+Natsuki
+「Oh man, I'm surprised myself. I didn't think I was this focused on the photography. Gotta hand it to myself.」
+
+She's so positive it's become a double-edged sword for her...
+％Ｂ
+「The beach houses aren't open yet, so let's go buy a towel at the closest convenience store.」
+
+Natsuki
+「It-It's fine... I can just dry myself off with my own clothes for now.」
+％Ｂ
+「That's just gonna make your clothes wet. How are you gonna go home like that?」
+
+Natsuki
+「I-I'll go home wet.」
+％Ｂ
+「Dumbass. You'll get sick for sure.」
+I take off my own shirt and hand it to her.
+％Ｂ
+「Here, wear this.」
+Natsuki
+「Wha... But then you'll have to go home wet.」
+
+％Ｂ
+「I'll be fine 'cause I'm not cold already. Just wear it.」
+Natsuki
+「But...」
+I walk up to her and drape the shirt around her shoulders while she's hesitating.
+％Ｂ
+「There's less exposed skin this way, so it's better now, right?」
+Natsuki
+「Y-Yeah...」
+％Ｂ
+「Now make sure you sit in the sun so you can raise your body temperature again. No getting back in the water until then, all right?」
+
+Natsuki
+「...Okay.」
+all
+She sits down on the spot.
+I move to sit to the left of her─
+but then I decide to sit on her right.
+Natsuki
+「...? Why on that side?」
+％Ｂ
+「Just kinda felt like it.」
+Natsuki
+「...Oh.」
+She looks away bashfully. She must've realized why I sat on her right side.
+
+The reason is simple. I'm sitting upwind of her this way.
+Natsuki
+「...Thanks...」
+％Ｂ
+「You're welcome.」
+％Ｂ
+「More importantly, how are your fingertips? Do they hurt from the cold?」
+Natsuki
+「Uh... Oh, um... They're cold, but they don't hurt, so it's fine.」
+％Ｂ
+「Try touching my arm then.」
+I hold my upper arm out toward her.
+％Ｂ
+「Just do it.」
+She hesitantly touches my arm.
+％Ｂ
+「...Ghh... That's so cold...!」
+Natsuki
+「...You're warm.」
+％Ｂ
+「K-Keep touching for a bit... Think of it as an organic hand warmer.」
+Natsuki
+「You sure?」
+％Ｂ
+「...Yeah, but just my arm, all right? No touching my back or stomach.」
+Natsuki
+「...Are you just playing hard to get?」
+％Ｂ
+「Wha...?」
+Touch♪
+％Ｂ
+「Ghhhhhhhhhh!!?」
+Natsuki
+「Ahah, you're sooo warm!」
+％Ｂ
+「Y-You... You're so...!」
+She's touching my sides and face now. That hesitation from earlier's nowhere to be seen.
+％Ｂ
+「Wha!? Wait!? Hih!? Uih!? Hyaoh!?」
+Natsuki
+「Ahahahahah, your reactions are way too funny!」
+％Ｂ
+「It's cold! Stop, it's cold! Seriously, it's cold!」
+Natsuki
+「Fufufu! Just be a good boy and hand over your body heat as tribute. Here, is that cold? It's soooo warm for me♪」
+
+％Ｂ
+「Y-You...! You're getting too carried away!」
+Natsuki
+「You're the one who said it was okay to touch. And you were even playing hard to get. You were pretty much just telling me to touch you, weren't you?」
+
+
+％Ｂ
+「I wasn't playing hard to get! I told you not to touch 'cause it's seriously cold! Stop it, or I'll―」
+
+
+Natsuki
+「You're finished! Touch!」
+She wraps herself around me with a hug.
+％Ｂ
+「Nooooooooooo!?」
+Natsuki
+「Ahahahah, you're so warm♪ You're a full-body warmer!」
+％Ｂ
+「F-Full-body warmer... Come on...」
+Natsuki
+「This is really warm, you know. Ahh, it's kinda relaxing.」
+
+％Ｂ
+「Ugh... I don't even care anymore, just do whatever...」
+Natsuki
+「Mhm, I'll do whatever...」
+Female Tourist A
+「Wow, people are already swimming. Is the beach open over here already?」
+
+Female Tourist B
+「There's no way. Maybe they're surfers. It's still too cold for the beach right now.」
+Female Tourist A
+「They look like a regular couple. Maybe they're just on a date? Oh, but the girlfriend's wearing a swimsuit.」
+
+Female Tourist B
+「She's hugging her boyfriend because it's so cold. Looks like it's too early for the beach here after all.」
+
+％Ｂ
+「...」
+Natsuki
+「...」
+％Ｂ
+「...Uhh... Ahem.」
+Natsuki
+「Nh... nnh...」
+We slowly pull away.
+Natsuki
+「We... We were... mistaken for a couple...」
+％Ｂ
+「W-Well... I can see why... Yeah...」
+Natsuki
+「...I guess I might've been... hugging you...?」
+％Ｂ
+「...Yeah, you were... hugging me...」
+Natsuki
+「Okay...」
+％Ｂ
+「Y-Yeah...」
+Natsuki
+「...I-I think my body temperature's gotten up a decent amount now.」
+％Ｂ
+「Y-Yeah, looks like it... Your face is bright red.」
+Natsuki
+「Yours too...」
+％Ｂ
+「...Really...」
+Natsuki
+「...Okaaay... I'm plenty warm now, so I think I'll go try to get some photos again...」
+％Ｂ
+「Be... Be careful...」
+Natsuki
+「Yeah... Oh... Thanks for your shirt.」
+％Ｂ
+「No... No problem.」
+Natsuki
+「...I'm going...」
+％Ｂ
+「Right...」
+all
+It's more ridiculously embarrassing than it is awkward...
+dummy
+_00com
+bgm14
+bgm14
+bg507
+bg507
+_02smh
+_00bup
+bs_nt11_0405
+_00grp
+bg311
+_00bup
+bs_nt11_04
+_00bup
+bs_nt01_0208
+_00bup
+_00bup
+bs_nt01_0204
+_00bup
+bs_nt01_08
+_00bup
+_00bup
+bs_nt01_0804
+_00bup
+bs_nt01_0102
+_00bup
+bs_nt01_0201
+_00bup
+_00bup
+bs_nt01_02
+_00bup
+bs_nt01_1208
+_00bup
+bs_nt01_0108
+_00bup
+_00bup
+bs_nt01_02
+_00bup
+bs_nt03_02
+_00bup
+bs_nt03_0201
+_00bup
+_00bup
+bs_nt03_02
+_00bup
+bs_nt03_0205
+_00bup
+bs_nt02_04
+_00bup
+_00bup
+bs_nt02_0204
+_00bup
+bs_nt02_1105
+_00bup
+_00bup
+bs_nt02_11
+_00bup
+bs_nt02_1104
+_00bup
+_00bup
+bs_nt02_11
+_00bup
+bs_nt11_0312
+_00bup
+bs_nt11_12
+_00bup
+_00bup
+bs_nt11_1208
+_00bup
+bs_nt01_02
+_00bup
+_00bup
+bs_nt01_01
+all
+_00bup
+_00bup
+all
+_00bup
+bs_nt13_0102
+_00bup
+_00bup
+bs_nt13_02
+_00bup
+bs_nt13_03
+_00bup
+bs_nt11_0102
+_00bup
+_00bup
+bs_nt11_02
+_00bup
+bs_nt11_0201
+_00bup
+bs_nt01_02
+_00bup
+bs_nt03_05
+_00bup
+_00bup
+bs_nt03_0302
+_00bup
+bs_nt
+all
+_00bup
+_00bup
+all
+ashioto_hashiru
+mizu_chapu
+ashioto_hashiru
+all
+_00bup
+_00bup
+all
+_00bup
+bs_nt02_0807
+_00bup
+_00bup
+bs_nt02_0807
+_00bup
+bs_nt01_0710
+_00bup
+_00bup
+bs_nt01_07
+_00bup
+bs_nt01_06
+_00bup
+_00bup
+bs_nt01_0607
+_00bup
+bs_nt01_1208
+_00bup
+_00bup
+bs_nt01_12
+_00bup
+bs_nt01_0208
+_00bup
+bs_nt01_0201
+_00bup
+_00bup
+bs_nt01_02
+_00bup
+bs_nt01_12
+_00bup
+bs_nt01_06
+_00bup
+bs_nt13_0102
+_00bup
+bs_nt
+all
+_00bup
+_00bup
+all
+_00grp
+_00grp
+bg311
+_00bup
+bs_nt02_05
+_00bup
+bs_nt02_11
+_00bup
+bs_nt02_05
+_00bup
+bs_nt01_0610
+_00bup
+_00bup
+bs_nt02_08
+_00bup
+bs_nt02_0806
+_00bup
+_00bup
+bs_nt02_0807
+_00bup
+bs_nt01_08
+_00bup
+bs_nt02_0607
+_00bup
+bs_nt12_03
+_00bup
+_00bup
+bs_nt12_0103
+_00bup
+bs_nt02_0201
+_00bup
+bs_nt12_0603
+_00bup
+bs_nt01_1102
+_00bup
+_00bup
+bs_nt01_0702
+_00bup
+bs_nt01_0609
+_00bup
+_00bup
+bs_nt01_06
+_00bup
+bs_nt12_0604
+_00bup
+bs_nt12_0205
+_00bup
+bs_nt01_1208
+_00bup
+bs_nt01_06
+_00bup
+bs_nt01_10
+_00bup
+bs_nt02_0706
+_00bup
+bs_nt02_0605
+all
+_00bup
+_00bup
+all
+_00bup
+bu_nt01_08
+_00bup
+bu_nt02_0704
+_00bup
+bu_nt02_0608
+_00bup
+bu_nt02_0701
+_00bup
+bu_nt02_05
+_00bup
+_00bup
+bu_nt02_0506
+_00bup
+bu_nt02_05
+_00bup
+bu_nt01_13
+_00bup
+bu_nt01_0208
+_00bup
+bu_nt01_13
+_00bup
+bu_nt01_0301
+_00grp
+cg_nt04_0144
+_00grp
+cg_nt04_0144
+_00grp
+cg_nt04_0111
+_00grp
+cg_nt04_0133
+_00grp
+cg_nt04_0122
+_00grp
+cg_nt04_0133
+_00grp
+cg_nt04_0144
+_00grp
+cg_nt04_0111
+_00grp
+cg_nt04_0122
+_00grp
+cg_nt04_0144
+_00grp
+bg311
+_00grp
+cg_nt04_0155
+_00grp
+cg_nt04_0125
+_00grp
+bg311
+_00bup
+bs_nt02_0604
+_00bup
+_00bup
+bs_nt02_0607
+_00bup
+bs_nt02_0605
+_00bup
+bs_nt02_0601
+_00bup
+bs_nt02_03
+_00bup
+bs_nt02_0704
+_00bup
+bs_nt13_0905
+_00bup
+_00bup
+bs_nt13_0906
+_00bup
+bs_nt13_0601
+_00bup
+_00bup
+bs_nt13_06
+_00bup
+bs_nt13_0906
+_00bup
+bs_nt
+all
+_00bup
+_00bup
+all
+_00grp
+_00com

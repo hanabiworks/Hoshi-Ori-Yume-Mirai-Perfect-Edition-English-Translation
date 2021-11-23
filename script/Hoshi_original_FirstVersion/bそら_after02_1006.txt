@@ -1,0 +1,218 @@
+﻿0901
+月
+1006
+月
+The exterior of Shuuichi's house is done by October.
+Shuuichi
+「Ohh... Oohhhhh! It's definitely a capital-L Love Nest for Kaori and me! I love it!」
+
+％Ｂ
+「R-Really...」
+I was personally going for a "spacious and stylish" design...
+
+Well, if "capital-L Love Nest" is what he wants, then that's fine...
+Shuuichi
+「When's this going to be fully completed?」
+％Ｂ
+「It's progressing pretty steadily, so the interior'll be done by December. You'll be able to live in it by the end of the year if you want.」
+
+Shuuichi
+「So I'll be able to welcome the new year in a new home! I like the sound of that! Thanks so much, man.」
+
+％Ｂ
+「What are you talking about? I should be the one thanking you for deciding to entrust a newly opened firm with something as big as a house.」
+
+We exchange a firm handshake and thank each other.
+I head to Azuma-san's firm in the afternoon.
+It's to have him check over the final blueprint for the cultural hall that I've drafted.
+
+％Ｂ
+「...What do you think?」
+Azuma
+「Yeah... Hmmh...」
+％Ｂ
+「U-Um...? Is there a problem of some sort?」
+Azuma
+「...Not good...」
+％Ｂ
+「...What!?」
+Azuma
+「I don't have anything left to complain about.」
+％Ｂ
+「Wha... Please don't do that. You're going to give me a heart attack.」
+Azuma
+「Still though, I'm surprised you've done this well on your first facility design. It's impressive.」
+
+％Ｂ
+「Thank you very much.」
+No matter what happens, it always makes me happy when Azuma-san praises me.
+
+Azuma
+「The rest's up to my firm now. You can move onto a different job now.」
+
+％Ｂ
+「But I need to be there for the meeting with the contractors―」
+Azuma
+「I told you it's up to us, didn't I? Just let us handle it. It's a distributed effort.」
+
+％Ｂ
+「Uh huh...」
+...Wait a second, did Azuma-san take on all of the bureaucratic work so I could fully concentrate on the design and blueprint drafting...?
+
+
+％Ｂ
+「...」
+Well, I doubt he'd give me an answer if I asked him.
+He's never honest when it comes to these sorts of things...
+Azuma
+「What? You still got something you wanna say?」
+％Ｂ
+「...Thank you very much... Teacher.」
+I bow my head low to him.
+I try to communicate all of my gratitude and thoughts with the gesture.
+Azuma
+「...Hmph... Either way, don't worry about it. I'll still have you come by when construction's about to start, though.」
+
+all
+He waves me away and leaves the room.\n \n\r
+
+I bow my head low once more to his back.
+Sora
+「...Good evening.」
+％Ｂ
+「Yeah, evening.」
+Sora shows up after work while I'm finishing up some work.
+She seems excited in general.
+Sora
+「...I want to show you something.」
+％Ｂ
+「Hm? What?」
+She pulls out a small vial about three centimeters tall from her bag.
+
+There's white, star-shaped sand inside.
+％Ｂ
+「Oh, it's star sand!」
+Sora
+「...It got delivered to the science museum today.」
+％Ｂ
+「Yeah, this is what I was talking about!」
+Sora
+「...We're planning on handing them out in bags labeled with "Shooting Star Children."」
+％Ｂ
+「I like it. I bet the kids'll love it. I think it's just the something extra you wanted for your show.」
+
+Sora
+「...*nod*」
+Sora
+「...Hearing you say that makes me feel more confident. Thank you, Ryou.」
+
+Sora
+「...Hearing you say that makes me feel more confident. Thank you.」
+
+％Ｂ
+「I hope it goes well. I just submitted the blueprint for the cultural hall to Teacher today myself. That's one big job done.」
+
+
+Sora
+「...That's good. Can you take a bit of a break now?」
+％Ｂ
+「Yeah. Let's line up our breaks sometime next month or so and take a trip together. I'm pretty tired, so I wanna relax a little.」
+
+Sora
+「...*nod*」
+％Ｂ
+「How about we see the stars from some hot springs again?」
+Sora
+「...*nod*」
+％Ｂ
+「We'll do that, then.」
+We imagine our hot springs trip for next month as we look at the star sand.
+As if we were making a wish on the "Shooting Star Children" in our hands.
+dummy
+_00com
+bgm52
+bgm52
+bg501
+_00bup
+bs_sy01_0302
+_00bup
+bs_sy01_01
+_00bup
+bs_sy01_0302
+_00grp
+bgm51
+bgm51
+_00grp
+bg408
+_00bup
+bs_az11_06
+_00bup
+bs_az11_08
+_00bup
+bs_az11_05
+_00bup
+bs_az01_08
+_00bup
+bs_az01_01
+_00bup
+bs_az01_02
+_00bup
+_00bup
+bs_az01_01
+_00bup
+bs_az01_08
+_00bup
+_00bup
+bs_az01_0108
+_00bup
+bs_az01_0107
+_00bup
+bs_az01_08
+_00bup
+_00bup
+bs_az01_01
+all
+_00bup
+_00bup
+all
+_00grp
+bgm52
+bgm52
+bg419n
+after_zimusyo_door1
+_00grp
+bg419n
+_00bup
+bs_sr03_03
+_00bup
+bs_sr01_02
+_00bup
+bs_sr01_0302
+_00bup
+bs_sr01_02
+_00bup
+bs_sr02_10
+_00bup
+bs_sr02_1011
+_00bup
+bs_sr02_10
+_00com
+_00bup
+_00bup
+bs_sr02_11
+_00bup
+_00bup
+bs_sr02_11
+_00bup
+bs_sr02_10
+_00bup
+_00bup
+bs_sr02_1008
+_00bup
+bs_sr02_1011
+_00bup
+bs_sr02_11
+_00bup
+bs_sr02_1011
+_00grp
+_00com

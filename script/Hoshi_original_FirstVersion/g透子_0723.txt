@@ -1,0 +1,291 @@
+﻿0722
+火
+0723
+水
+％Ｂ
+「It's so hot... Maybe I should cool off somewhere while I wait...」
+
+$$smh_OpenCHK
+We need to take care to not get heatstroke.
+We'll probably wander around a bit before lunch, so maybe we should start by getting something cool to drink first.
+
+Touko
+「Thanks for waiting. You're early again today.」
+％Ｂ
+「Oh, you're here already? Same for you. There's still half an hour before when we're supposed to meet up.」
+
+Touko
+「I just thought you'd be here by around now. Ahaha, it looks like I'm really starting to get you.」
+
+％Ｂ
+「Oh, come on now. Don't think you understand me with just that. I'm a deep man, with lots of nuances.」
+
+Touko
+「Mmm... You sure it's not that you cause lots of nuisances?」
+％Ｂ
+「You sound like Shuuichi...」
+Touko
+「Agh, I don't wanna be lumped together with Four-Eyes-kun. Maybe I should wear glasses too?」
+
+Touko with glasses... Now that I'm imagining it... It doesn't sound bad.
+It'd have to be ones with a red plastic frame.
+Touko
+「Mmm...? You're making a dirty face, you know. I see... So you have a glasses fetish too...」
+
+％Ｂ
+「I do not! I just thought it'd probably look cute!」
+
+Touko
+「Ehehe, thanks. Getting complimented like that makes me want to try it too.」
+
+She's got me playing her game.
+I don't want to be losing like this. Let's counterattack.
+％Ｂ
+「Hmm... Glasses and your school uniform... A swimsuit could work too... Maybe we could go all the way... with a maid uniform...?」
+
+Touko
+「Wha, hey... Wh-What...? Your eyes are scary...」
+％Ｂ
+「Don't worry about it. I'm just imagining things. Something sporty would be good too... Basketball, soccer... or maybe we could do something out there and go for a martial arts uniform...」
+
+Touko
+「N-No, no, that's embarrassing! Don't say stuff like that out loud!」
+
+％Ｂ
+「Hmph. That's what you get for calling me a pervert over and over.」
+Touko
+「Geez... You need to tell me those things when it's just the two of us. I won't be able to do it for you otherwise, you know.」
+
+％Ｂ
+「Wha...?」
+Touko
+「I'll consider it if you just tell me. I'm interested in those kinds of things too.」
+
+％Ｂ
+「...Ugh. I can never win.」
+Touko
+「Ahahah! I won, I won! Today's snacks are your treat, then!」
+
+％Ｂ
+「Yeah, yeah. Then how about we go and get some drinks right now? Today's crazy hot.」
+
+Touko
+「That sounds like a good idea. Let's rest up somewhere nice and cool before we go shopping.」
+
+all
+％Ｂ
+「The city's starting to get serious about Tanabata Festival preparations.」
+Touko
+「You're right. I'm sure this whole city's going to transform on the day of the festival.」
+％Ｂ
+「It's been a long time since the last time I was here for that... I'm looking forward to seeing what it'll be like.」
+
+Touko
+「What was it like before?」
+％Ｂ
+「I don't really remember too well... but I think it was a pretty huge festival. There was stuff like goldfish scooping, balloon fishing, shooting galleries... I remember I walked around a bunch of festival stalls.」
+
+
+Everything I saw was so new to me. It was a lot of fun to play with the stuff at the stalls.\n \n\r
+I remember my friends and I would try to see who could bounce their superball the highest, and how I really wanted a glowing wristband.
+
+Touko
+「Ahaha, sounds like what a boy would do. So you were a little rascal?」
+％Ｂ
+「That makes me sound like I was just some brat...」
+Touko
+「Well, you are a bully, aren't you? You always seem like you're having so much fun when you're bullying me.」
+
+％Ｂ
+「Th-That's different! Besides, that's not bullying, it's more like it's the flip side to my love... All guys are like that!」
+
+
+Touko
+「I don't know what any other boys are like. You were the first boy to bully me.」
+
+You're telling me this now?
+And here, out in the city like this?
+％Ｂ
+「And besides, I bet you were a tomboy! You love messing around!」
+
+Touko
+「I was a good girl. Everyone thought I was a serious girl who was well behaved and didn't cause trouble.」
+
+％Ｂ
+「...I can't imagine that at all.」
+Touko
+「What the heck, how ruuude! I'm still a good girl!」
+％Ｂ
+「But you went out and had tons of fun when you went to stuff like this, didn't you?」
+
+Touko
+「Mmm... Well, I guess I wanted to try eating cotton candy and candied apples.」
+％Ｂ
+「You've never had those?」
+Touko
+「Mhm. I've never been to a festival in general. They only sell those at stalls at festivals, right? My parents were both busy with work, so I never had anyone to go with.」
+
+
+％Ｂ
+「...」
+Touko
+「Ahaha... I'm not really good at talking about the past, so that's enough from me.」
+
+I feel bad about asking her that.
+I'm sure she'd just say she doesn't mind if I apologized.
+
+I want her to experience that fun atmosphere.
+Nothing would make me happier than if Touko were happy with me.
+
+Touko
+「I'm looking forward to the Tanabata Festival.」
+％Ｂ
+「...Yeah. Let's have a ton of fun. Together.」
+all
+％Ｂ
+「Hm?」
+【Marika】「The day after tomorrow #Nseems to work for #Neveryone, so we will be #Nhaving our lunchbox #Nparty then!」
+【Marika】「Please assemble at the #Nold school building on #Nthat day with your #Nlunchboxes!」
+【Marika】_st_0108
+％Ｂ
+「Oh, it's the lunchbox party. Shinozaki was really excited for this.」
+【Sora】_st_0310
+【Rikka】「Normal lunch food is #Nfine, right?」
+【Misa】「I think it is. I will #Nprepare a little more #Nfood than I usually do #Nfor lunch.」
+【Misa】_st_0220
+【Natsuki】_st_0204
+【Natsuki】「The day after tomorrow, #Ngot it!」
+Touko
+「...The day after tomorrow. I wonder if I'll be able to make a lunch for that.」
+％Ｂ
+「Yeah, we'll have to do our best for then. Let's respond.」
+
+Touko
+「...Okay.」
+all
+【％Ｂ】「Got it. I'll have #Nsomething ready.」
+【Touko】「I'll try my best too.」
+【％Ｂ】_st_0307
+She squeezes my hand tight after she sends the message.
+I squeeze back to reassure her.
+all
+【Marika】「I'm looking forward to #Nit. Don't forget to be #Nthere, everyone!」
+【Marika】_st_0103
+Don't worry, Touko. It won't turn out that way.
+Even if you do mess up, it'll eventually just become something to laugh about later... as a good memory.
+dummy
+_00com
+bgm14
+bgm14
+bg507
+bg507
+bg312
+_00grp
+bg312
+_02smh
+_00bup
+bs_tk02_03
+_00bup
+bs_tk01_02
+_00bup
+_00bup
+bs_tk01_04
+_00bup
+bs_tk01_05
+_00bup
+bs_tk01_10
+_00bup
+_00bup
+bs_tk01_05
+_00bup
+bs_tk03_08
+_00bup
+bs_tk03_0402
+_00bup
+bs_tk03_11
+_00bup
+bs_tk01_10
+_00bup
+bs_tk01_11
+_00bup
+bs_tk03_08
+_00bup
+bs_tk03_04
+_00bup
+bs_tk03_03
+all
+_00bup
+_00bup
+all
+_00grp
+_00grp
+bg312
+_00bup
+bu_tk02_03
+_00bup
+bu_tk02_02
+_00bup
+bu_tk02_04
+_00bup
+bu_tk03_08
+_00bup
+bu_tk03_0908
+_00bup
+bu_tk02_13
+_00bup
+bu_tk02_0507
+_00bup
+_00bup
+bu_tk02_12
+_00bup
+bu_tk02_09
+_00bup
+bu_tk02_02
+_00bup
+bu_tk02_0602
+_00bup
+bu_tk02_1102
+all
+_00bup
+_00bup
+all
+sumaho_vibe_one
+_02smh_01lime
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00bup
+bs_tk01_06
+_00bup
+bs_tk01_01
+all
+_00bup
+_00bup
+all
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00bup
+bu_tk01_11
+all
+_00bup
+_00bup
+all
+_00_mess
+_00_mess
+_00_mess
+se0024_01
+_02smh_auto
+_00bup
+bu_tk01_0602
+_00grp
+_00com

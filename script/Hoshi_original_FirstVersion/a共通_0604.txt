@@ -1,0 +1,2849 @@
+﻿0603
+火
+0604
+水
+$$smh_OpenCHK
+％Ｂ
+「Today's haul looks pretty good.」
+I walk through the halls with coffee, cutlet sandwiches, and hot dogs in hand.
+
+My old school had a pretty small cafeteria and store for how many students we had, so you'd have to go early to get anything good.
+
+But that's not the case here. There's still lots of stuff left by the time lunch rolls around.
+
+％Ｂ
+「Now then, where to eat...」
+I asked Shuuichi over LIME if he wanted to eat with me, but apparently a teacher asked him to do something.
+
+Shinozaki and Segawa are both eating lunch with girl friends, so it's just me on my lonesome.
+
+％Ｂ
+「Oh!」
+I know. The weather's nice, so I bet it'd feel great eating up on the roof.\n\r
+
+Ousaka might be up there.
+...No dice.
+The doors to the rooftop are locked.
+It's a pain to go downstairs back to the classroom at this point.
+％Ｂ
+「Guess I'll just eat in whatever empty classroom I can find with some good lighting.」
+I wander around the fourth floor.
+This floor's quiet during breaks, since there aren't any general-use classrooms here.
+
+％Ｂ
+「...Hm? Is that Narusawa?」
+_00cutinBS
+I can see a familiar silhouette in the second music classroom.
+
+It's Narusawa eating alone.
+％Ｂ
+「I wonder if she always eats here.」
+_00cutinBS
+She's just idly carrying food to her mouth with her chopsticks.
+She looks incredibly bored.
+There's no way her food tastes good if she's eating it like that.
+_00cutinBS
+％Ｂ
+「...God, I'm nosy.」
+But there's no point in just thinking about it.
+I push open the door, painfully aware of how this is going to look.
+％Ｂ
+「Ohhh, lots of light in here! Now this is the perfect spot for lunch!」
+
+I talk loudly and look around.
+It'll be easier to dispel any doubts the other person may have if I just go about it boldly.
+
+Narusawa just looks at me. She doesn't even look surprised. She then looks back down at her lunch.
+
+％Ｂ
+「This is a pretty nice spot, Narusawa.」
+％Ｂ
+「I've actually been roaming far and wide across the school to look for a place to eat. I wanna eat here too. Can I sit next to you?」
+
+Rikka
+「...」
+Rikka
+「...I don't own this room. There's no need to ask me.」
+
+all
+I'll take that as a yes. I sit down near Narusawa.
+It's great that I've sat down and all...
+And I should've seen it coming...
+But Narusawa's just eating silently. She's not even attempting to make conversation.
+
+I should be the one to start.
+I have to make sure to talk about something we can both relate to.
+％Ｂ
+「Your lunch looks pretty good.」
+It's a small, girly lunch that looks well balanced with lots of vegetables.
+
+I remember Segawa said her parents live overseas, so does that mean...?
+％Ｂ
+「Did you make that yourself?」
+Rikka
+「I did.」
+％Ｂ
+「Huh... I'm impressed.」
+％Ｂ
+「I actually came back here before my parents, so I'm living alone for now.」
+
+％Ｂ
+「But I've never really made food before, so I'm really struggling on a daily basis.」
+
+％Ｂ
+「I've really come to appreciate people who're good at cooking.」
+Rikka
+「I don't really think being able to cook's that impressive or that hard...」
+
+Oh! Narusawa actually responded to me normally!
+It's a minor thing, but I'm real happy about it.
+I can't stop it from showing through in my voice.
+％Ｂ
+「That's 'cause you can cook, Narusawa. How'd you get that good?」
+
+Rikka
+「It wasn't something I consciously chose to become good at. It was just necessary.」
+
+％Ｂ
+「But still, it's amazing that you were able to get that good that way!」
+Rikka
+「...Do you want some or something?」
+％Ｂ
+「Huh?」
+Rikka
+「You've been staring at my lunch this whole time.」
+％Ｂ
+「Oh! Sorry! I didn't mean it like that. Sorry if it came across in a weird way.」
+
+
+Rikka
+「...I don't care.」
+I should start eating my cutlet sandwich.
+But still, I'm sitting here with my mass-produced sandwich, and she's got her beautiful handmade lunch.
+
+It's so obvious which tastes better...
+Rikka
+「You're looking again.」
+％Ｂ
+「...My bad. I've only eaten ready-made stuff recently, and...」
+
+Rikka
+「...Here.」
+She picks up some bacon-wrapped asparagus with her chopsticks...
+Places it on top of the lid of her lunchbox, and hands it to me.
+I'm dumbstruck by the completely unexpected turn of events.
+％Ｂ
+「Uh... I can eat this?」
+Rikka
+「I gave it to you so you could. It's hard to eat with you staring like that.」
+
+％Ｂ
+「I guess I should apologize...」
+I don't think I'd be able to relax if someone were openly staring at me eat.
+
+％Ｂ
+「I'll gladly eat that, then... Amh, mgmg.」
+％Ｂ
+「Whoa! This is great! This tastes amazing!」
+Rikka
+「All I did was wrap bacon around asparagus and grill it.」
+％Ｂ
+「No, I don't even know how to start describing how well this was grilled!」
+Rikka
+「I see...」
+She responds to my compliments by reaching toward her lunch with her chopsticks again.
+Is it just me, or does her expression look a little softer than usual?
+
+％Ｂ
+「Oh, I know. Wanna try some of my cutlet sandwich?」
+Rikka
+「I'm fine. That's yours.」
+％Ｂ
+「But you gave me some of your lunch, right? So this is repayment.」
+％Ｂ
+「I had a bit earlier. It's actually pretty good, you know. Here.」
+I take the half of the sandwich I haven't bitten into, place it on top of the lunchbox lid, and hand it to her.
+
+Rikka
+「I can't take this much for just one bacon-asparagus. And you're a guy, so you'll be hungry if you only have that much, right?」
+
+％Ｂ
+「It's fine. I can just go buy more if I get hungry.」
+Rikka
+「That wouldn't be efficient. I wouldn't be able to eat all of this, since I have my lunch too.」
+
+Rikka
+「Apologies for using my hands.」
+She wipes the ends of her chopsticks with a handkerchief, uses them to cut a small notch in the sandwich, and tears a piece off with her hands.
+
+Rikka
+「There. That should be enough for me.」
+She has a bite-size piece of the sandwich in her hand.
+She returns the rest to me.
+Rikka
+「Let's try it... Hamhamh... Nkh.」
+Rikka
+「...I think this may be the first time I've ever had a cutlet sandwich.」
+％Ｂ
+「Oh? Really? I guess it might be a bit of a heavy food for a girl.」
+
+％Ｂ
+「So what do you think about your first cutlet sandwich?」
+Rikka
+「The cutlet's soaked in the sauce, and the cabbage has a balanced texture.」
+
+％Ｂ
+「Uhh... Which means?」
+Rikka
+「It was good.」
+％Ｂ
+「I'm glad you liked it. Though I guess that's weird to say, since it's store bought.」
+all
+Narusawa begins eating her own lunch again. The conversation ends.
+But it doesn't feel as awkward as it did before.
+I'm glad I decided to man up and talk to her.
+And having a quiet lunch like this isn't so bad once in a while.
+But...
+I dunno how I'd feel if I ate my lunch alone every day.
+I wonder if she gets lonely.
+Here in this big, silent... closed-off world, day after day. I wonder what she thinks about.
+
+I wonder why... she's always playing piano alone.
+％Ｂ
+「Hey, Narusawa. You gonna join any clubs or anything?」
+Rikka
+「Not interested.」
+％Ｂ
+「So then... What are you always playing piano by yourself for?」
+Rikka
+「...」
+A distinct pause.
+Rikka
+「There's no reason. I play alone because I want to.」
+It's a vague answer that isn't satisfying to me at all.
+Shinozaki, Segawa, and I are going around all the clubs after school.
+We're finishing up yesterday's job.
+％Ｂ
+「Let's start with the cooking club today.」
+Marika
+「They must be in the home ec classroom. We'll need to go down to the first floor.」
+all
+We've been walking in circles around this big school since yesterday.
+We're going down the list in order, but it's an unexpectedly large amount of work.
+
+It's not like the list's written with the most optimal route in mind, so we've been moving back and forth through the building over and over.
+
+％Ｂ
+「You're fine with this, Segawa?」
+Natsuki
+「Hmm? I'm always walking around after school, after all.」
+
+Natsuki
+「And that ends up being a workout which beautifies my legs. Here, just look at how graceful they are.」
+
+She pulls up her skirt to show off her thighs.
+％Ｂ
+「Hey. I can see your underwear again.」
+Natsuki
+「Hm? Again?」
+％Ｂ
+「...No, nothing... Never mind.」
+Marika
+「But your legs really are nice and thin, Segawa-san. Maybe I should try a little harder...」
+
+Natsuki
+「You're fine the way you are, Marika. The softer look suits you more.」
+
+Marika
+「I-Is that a compliment～?」
+Natsuki
+「Of course it is. Guys like legs like yours, Marika, since they look like they'd be nice to touch. You should be more confident.」
+
+
+Marika
+「Uuuh... I dunno if I should be happy～」
+This conversation isn't one a guy can join.
+I'll just pretend I don't hear them.
+％Ｂ
+「Thank you very much for your cooperation. Now, if you'll excuse us.」
+％Ｂ
+「Phew... That's the cooking club, done... What's next on the list, Shinozaki?」
+Marika
+「Let's see... The history club, so that's the third floor. They're apparently using the social studies and economics classroom as their clubroom.」
+
+％Ｂ
+「Ugh... We're going upstairs again?」
+I spot a girl wearing a very unique school uniform standing with her back to us on the way to the stairs.
+
+_00cutinBS
+％Ｂ
+「Is that... Yukimura?」
+She's talking to someone.
+I'm pretty sure I recognize them from somewhere...
+Marika
+「Isn't that the president of the softball club? We talked to her yesterday, remember?」
+
+％Ｂ
+「Oh yeah... Now that you mention it.」
+She's the one we spoke to when we went to the softball club yesterday to ask about the club's plans for the Tanabata Festival.
+
+％Ｂ
+「Huh... So Yukimura's in the softball club?」
+She didn't seem like she'd be the type to be in a club when I met her yesterday...
+_00cutinBS
+Natsuki
+「Hey... You know that girl?」
+％Ｂ
+「You mean Yukimura? Yeah... a bit. Although I only know that she transferred in here before I did.」
+
+Natsuki
+「That's right, she did. I've tried asking her for a photo before, since she's a transfer student, but I haven't gotten a yes yet.」
+
+Natsuki
+「I've gone for it lots of times, but she always disappears off to somewhere after school.」
+
+all
+Probably to the old school building.
+She must've made that place her sanctuary immediately after transferring.
+Natsuki
+「I asked my friends in class E about her, but she apparently doesn't talk much to her classmates either. I'm surprised you managed to get to know her.」
+
+
+％Ｂ
+「Uh...」
+Crap.
+I forgot that it's supposed to be a secret that I met Yukimura in the old school building.
+％Ｂ
+「Well, I don't really... Uhh... How about you, Shinozaki? You don't know anything about Yukimura?」
+
+Natsuki
+「Wait a second. What are you trying to change the subject for?」
+％Ｂ
+「No, I'm not...」
+Marika
+「I don't really know her, since I haven't spoken with her... but I've at least heard rumors about her.」
+
+％Ｂ
+「Rumors?」
+all
+_00cutinBS
+Touko
+「...Oh.」
+_00cutinBS
+Yukimura suddenly turns around toward us and smiles.
+_00cutinBS
+Touko
+「I'm so sorry. It looks like the people I was waiting for are here, so I'll be leaving now.」
+
+I can hear her voice from down the hall.
+"People she's waiting for"... Is she talking about us?
+_00cutinBS
+Touko
+「Mmm... And to be honest, I'm not really interested, so please don't expect too much.」
+
+_00cutinBS
+_00cutinBS
+And then she turns her back to the third year and walks over to us.
+
+Touko
+「Sorry for the wait!」
+...But we have no idea what's going on, so we just stare at her.
+
+Touko
+「...Hey. Could you help me out for now?」
+She whispers to us.
+I guess she's telling us to pretend that she was waiting for us to show up.
+％Ｂ
+「S-Sure.」
+all
+We try smiling awkwardly at her.
+The softball club president watches us for a bit, but eventually gives up and leaves.
+
+Touko
+「...Sigh. Finally.」
+％Ｂ
+「Uhh... You sure that was okay? She seemed pretty serious.」
+Touko
+「It's fine. That's the president of the softball club. She's been really harping on me to join. I'm usually pretty good about avoiding her, but I messed up today.」
+
+
+％Ｂ
+「Oh, so you're not in the softball club?」
+Touko
+「Nope. Though I did participate in their practice for just a bit.」
+all
+Natsuki
+「I see. So that rumor really is true, then.」
+％Ｂ
+「Oh, right. You mentioned that earlier, right Shinozaki?」
+Marika
+「Yeah... There's a rumor about a transfer student going around making trouble in the clubs. She'd show up at athletic clubs and beat their best players. And that's apparently Yukimura-san...」
+
+
+all
+Touko
+「What an awful way of putting it. I didn't go to make trouble. I showed up just because they were so insistent on coming to at least one practice of theirs.」
+
+
+Natsuki
+「And then you apparently participate in club activities and beat regular players, crush the team aces, break records... How much of that's true?」
+
+
+Touko
+「Mmm... I guess most of it? Since I've got people from lots of different clubs showing up at my classroom every day to try to recruit me.」
+
+％Ｂ
+「Wow, that's crazy...」
+So Yukimura's actually really talented at sports?
+It's a bit hard to believe after yesterday. I figured she was someone really laid back and casual...
+
+％Ｂ
+「But you're still not joining any clubs even though you can do all that? They're all trying to recruit you, too. Feels like a bit of a shame...」
+
+
+Touko
+「I already told them right from the get-go that I wasn't planning on joining any clubs. This is all a huge bother to me.」
+
+
+all
+Natsuki
+「Hey... She seems kinda difficult, don't you think?」
+％Ｂ
+「Oh, come on, Segawa...」
+Marika
+「I think she's a bit scary...」
+Even Shinozaki...
+She didn't come across that way when I talked to her in the old school building yesterday, though...
+
+all
+Touko
+「By the way, what are you doing here with pretty girls on either side of you?」
+％Ｂ
+「...I'd like it if you wouldn't say something that could cause misunderstandings.」
+Touko
+「I'm just telling it like it is. A rose to your right, a sunflower to your left. Aren't you popular? Nice job!」
+
+all
+Natsuki
+「What the heck, she's the best! I've heard lots of rumors about her being unfriendly, but it turns out they're just rumors!」
+
+
+Marika
+「Y-Yeah, you're right. She seemed a bit scary at first, but that's not the case at all.」
+
+％Ｂ
+「You two...」
+The rose is clearly happy.
+And the sunflower's blushing, but she's happy too.
+I bet I'm the only one here who looks as tired as he feels...
+Natsuki
+「I'll introduce myself. I'm Segawa Natsuki.」
+Marika
+「It's nice to meet you, Yukimura-san. I'm Shinozaki Marika.」
+Natsuki
+「Can I call you Touko? I can, right?」
+Natsuki's as assertive as ever...
+Touko
+「Sure. Mmm... and in exchange, can I call you Camera-chan? I can, right?」
+
+Natsuki
+「C-Camera...? S-Sure, I don't mind...」
+Touko
+「And... since you have that cute flower hairpiece, you'll be Flower-chan.」
+Marika
+「O-Okay...」
+...And Yukimura's not gonna lose to Segawa on that front.
+％Ｂ
+「We're in the middle of helping out the event committee. We're going around to all the clubs to see what they're gonna do for the Tanabata Festival.」
+
+Touko
+「The Tanabata Festival... Oh yeah, I know about that. I heard it's in August instead of July over here.」
+
+Marika
+「Yeah, it is. It's traditional. All of Shionagi gets really into it.」
+
+Natsuki
+「That's why our school holds a Tanabata Festival in August too.」
+
+Touko
+「Huh, really. That does sound fun.」
+％Ｂ
+「Are you gonna participate as part of a club or something, Yukimura?」
+Touko
+「Ahaha. Didn't you guys just watch me reject a recruitment offer?」
+Natsuki
+「So you don't wanna join any clubs or committees?」
+Touko
+「Spending the springtime of my youth doing sports just isn't me. And I just get bored of humanities clubs or committees. I think they just don't suit my personality.」
+
+
+all
+She glances toward the old school building as she says so.
+She immediately returns her gaze toward us.
+Touko
+「Well then, I wouldn't want to get in the way of your work. I'll be going home now.」
+％Ｂ
+「All right. Take care.」
+That must be Yukimura telling me, "I won't be going to the old school building today."
+
+Touko
+「Oh, right. Also...」
+％Ｂ
+「Hm?」
+Touko
+「Thanks for earlier. You really helped me out! Bye then!」
+
+She turns around after thanking us and disappears down the hallway.
+Marika
+「...She wasn't like what the rumors say.」
+Natsuki
+「She really wasn't. I wonder if she'll let me get a photo of her sometime. You ask her for me.」
+
+％Ｂ
+「Uh... Sure, I'll try.」
+Natsuki
+「Phew... We're finally done.」
+％Ｂ
+「Yeah... We're done.」
+all
+We're taking a break in a classroom.
+I check off the last club on our list.
+All that's left to do is to take this list back to the committee room and hand it to Shuuichi.
+
+％Ｂ
+「...」
+There's actually something that's been on my mind since yesterday.
+The very bottom of the list.
+There are two clubs that have been clearly marked with a highlighter.
+It says "Not Participating" next to them.
+The astronomy and naturalist clubs.
+Natsuki
+「Now then, let's get back, turn in that list, and go home.」
+Marika
+「Yeah.」
+％Ｂ
+「Hey... Can that wait a bit? There's something I wanna check up on...」
+
+Marika & Natsuki
+「Huh?」
+％Ｂ
+「We're from the event committee. We'd like to speak about the Tanabata Festival.」
+I speak toward the door, but there's no response.
+％Ｂ
+「Excuse me... May we come in?」
+Marika
+「H-Hey... I don't really think it's a good idea to go inside without permission～」
+Natsuki
+「It's fine. The naturalist club might use this room after school, but it's still the second chemistry classroom. Everyone's allowed in.」
+
+Marika
+「B-But classes are usually in the first chemistry classroom. We almost never use this one. I hear it's always locked, too...」
+
+
+Natsuki
+「...Do you know why that is?」
+Marika
+「Huh? ...Is there a reason?」
+Natsuki
+「Rumor is, they're raising mysterious organisms in this classroom, and they conduct suspicious experiments on those every day.」
+
+Ousaka said something similar.
+Marika
+「M-Mysterious organisms!? Suspicious experiments!? Wh-What could those be～!?」
+
+Natsuki
+「I don't know any details either... Wait a second. Marika, are you scared?」
+
+Marika
+「Uuuh... I-I can't help it... What if the rumors are true...? We'll get caught too, and be used for suspicious experiments...」
+
+Natsuki
+「Ahaha, don't worry! It's just a rumor.」
+％Ｂ
+「Anyway, we're going in.」
+Marika
+「A-Are we really?」
+Natsuki
+「Now, now. 
+Hino'll 
+This guy'll 
+be your shield if anything happens. C'mon, let's go.」
+
+Marika
+「Kyaaaaaaaaaahhh!?」
+Shinozaki screams as soon as she sees what's inside the room.
+Natsuki
+「Oh god... What is all this?」
+_00cutinBS
+_00cutinBS
+_00cutinBS
+_00cutinBS
+_ef_ryusen03
+_ef_ryusen04
+Glass containers lined up on experiment tables.
+There are mysterious, translucent organisms slowly undulating within.
+_00cutinBS
+Natsuki
+「You've gotta be kidding me... I can't believe the rumors are true...」
+_00cutinBS
+Shinozaki's got tears in her eyes.
+Segawa's so shocked that she can't even bring her camera to bear.
+
+％Ｂ
+「...I get it now.」
+_00cutinBS
+Marika
+「U-Um!?」
+_00cutinBS
+Natsuki
+「Hey! You shouldn't get so close!」
+I walk up to the containers and look at the organisms from up close.
+
+％Ｂ
+「...I knew it.」
+The moment I realize the identity of the contents of the containers―
+_00cutinBS
+Misa
+「Welcome to the sea of jellies.」
+_00cutinBS
+Marika
+「Kyah!?」
+_00cutinBS
+Natsuki
+「Hyaaaaahhh!?」
+_00cutinBS
+_00cutinBS
+The two of them scream and fall over in response to the sudden voice from behind.
+
+_00cutinBS
+Misa
+「Jellyfish were first born before the Cambrian explosion that led to the evolution of most other animals. They are a reminder of what life was like in its most primitive form.」
+
+
+_00cutinBS
+Misa
+「Jellyfish have floated through the sea like this for six hundred million years. While other creatures continued the hectic process of evolution... they have simply continued to float and propel themselves through the water.」
+
+
+I remember that voice, and those words.
+I only heard them just yesterday.
+_00cutinBS
+_00cutinBS
+_00cutinBS
+_00cutinBS
+Misa
+「Welcome to the naturalist club.」
+The owner of the voice reveals herself.
+She's wearing the uniform of Shionagi Academy today, but those sparkling eyes and smile leave no doubt that it's the girl I met yesterday at the aquarium... Okihara Misa-san.
+
+
+％Ｂ
+「I knew it. You're a member of the naturalist club.」
+Misa
+「Yes. I'm Okihara Misa, from class 3-A.」
+And then she... Okihara-senpai smiles brightly.
+Misa
+「It seems we meet again
+, Hino Ryousuke-san
+
+.」
+％Ｂ
+「Yes. I'm ％Ａ ％Ｂ, from class 2-C. And these two are Shinozaki Marika, and Segawa Natsuki, also second years.」
+
+I introduce myself again, as well as Shinozaki and Segawa.
+all
+Marika
+「H-Hello... I'm Shinozaki.」
+Natsuki
+「Nice to meet you, Misa-san.」
+％Ｂ
+「You just met an upperclassman and you're already calling her by first name?」
+Natsuki
+「Huh? Why not? It'll make it easier for us to get along.」
+all
+Misa
+「Yes, first name is fine. It's very nice to meet you, Natsuki-san and Marika-san.」
+
+all
+all
+％Ｂ
+「Um, thank you very much for everything yesterday.」
+Misa
+「Oh no. I'm happy that you enjoyed it.」
+％Ｂ
+「Yes, I definitely did.」
+_00cutinBS
+Natsuki
+「Hey... What's he talking about? What'd he do with her yesterday?」
+
+_00cutinBS
+Marika
+「N-No idea... I don't know either...」
+_00cutinBS
+Natsuki
+「Speaking of which, he said he was stopping by somewhere yesterday... So was that for a date or something?」
+
+_00cutinBS
+Marika
+「Wha... No... But I thought he went to Marinpia yesterday...」
+_00cutinBS
+Natsuki
+「Huh? Isn't Marinpia an aquarium? So then those two went on a date, right?」
+
+_00cutinBS
+Marika
+「B-But Marinpia's already closed down... and it's not like I know for sure he went there...」
+
+
+_00cutinBS
+Natsuki
+「Hm. Looks like it'll be fastest to hear from the people in question. Hey, yesterday―」
+
+_00cutinBS
+Marika
+「N-No, Segawa-san! You can't ask them～!」
+_00cutinBS
+_00cutinBS
+Shinozaki and Segawa sure are making a lot of noise over there.
+all
+Natsuki
+「Mgh... Mphhhh...!?」
+Shinozaki's desperately holding Segawa's mouth closed with both hands...
+％Ｂ
+「...What are you guys doing?」
+Marika
+「N-Nothing! Don't worry about it, okay～?」
+％Ｂ
+「Uh, I'm super worried...」
+Misa
+「Ufufu. They're very interesting people.」
+％Ｂ
+「By the way, Shinozaki... Maybe you should pull your hands away? Looks like Segawa's having a rough time.」
+
+Marika
+「Huh? ...Oh, I'm sorry!」
+Natsuki
+「Bhah! Hahh, hahh... Hey, so what's your relationship with Misa-san?」
+
+Marika
+「Oh no... She asked it...」
+％Ｂ
+「Huh? Where'd that come from?」
+Natsuki
+「Did you two go on an aquarium date yesterday?」
+％Ｂ
+「Excuse me!?」
+A date...?
+What kinda bizarre misunderstanding is that?
+all
+Even Okihara-senpai looks shocked by that question...
+all
+％Ｂ
+「Y-You guys―」
+I tell them about what happened at Marinpia Shionagi.
+％Ｂ
+「So it's just that she let me in. It wasn't a date or anything. Get it now?」
+
+Natsuki
+「I get that it wasn't a date. But then how'd she let you into an aquarium that's already closed down?」
+
+％Ｂ
+「Well that's 'cause―」
+And then I realize that I don't know the answer to that myself.
+all
+％Ｂ
+「...Why is that, exactly?」
+Misa
+「Oh, yes. Marinpia Shionagi was actually operated by a corporation owned by my father.」
+
+
+Misa
+「I'm familiar with all the employees, and so I asked them to let us in yesterday. I do find it quite difficult to part with that aquarium.」
+
+
+％Ｂ
+「How about that? Good enough for you guys?」
+all
+Natsuki
+「So they say. Good for you, Marika. It wasn't a date.」
+Marika
+「I-I wonder why you're saying that to me～」
+Natsuki
+「That's enough about yesterday. So why'd you come here today, then? It's not just to say thanks for yesterday, is it?」
+
+
+all
+I guess it's my turn to explain things to Okihara-senpai this time.
+％Ｂ
+「I'm... no, we're actually here to talk about the Tanabata Festival in August. We're currently helping the event committee...」
+
+
+I pull out the list.
+％Ｂ
+「But the naturalist club says that it isn't participating. I was wondering what the reason for that was.」
+
+Misa
+「The reason for not participating...」
+Natsuki
+「Excuse me... Could I ask one thing first? What kinda club's the naturalist club?」
+
+Marika
+「Hey, Segawa-san...」
+Natsuki
+「I'm in the grad-alb committee, and even I've only heard rumors that the club conducts suspicious experiments in the second chemistry classroom. So I was wondering if you could tell me what you do, you know?」
+
+％Ｂ
+「Oh my god. That was such a rude thing to say just now...」
+Misa
+「Oh no, it's fine. Her question is certainly valid, and I believe her impression of the club is correct.」
+
+all
+Misa
+「Members of the naturalist club each take on a theme of their choice, interact with nature personally, and conduct research.」
+
+Misa
+「Raising local marine wildlife such as these jellyfish is also one of our activities. This is my research subject, by the way.」
+
+
+She seems a bit bashful, but also proud.
+
+I recall how she acted at the aquarium yesterday.
+She seemed honestly happy and excited when she was explaining the contents of each of the tanks.
+
+Misa
+「We had many more various marine creatures before, but we have parted with them now. So these ones are the only ones we have...」
+
+
+Marika
+「Why did you part with them?」
+Misa
+「I am actually the only current member of the naturalist club.」
+％Ｂ
+「Huh? Really?」
+Misa
+「Yes. I am the president and sole member of the naturalist club, so it was difficult for me to maintain many tanks on my own...」
+
+So that's why she had to let the ones she couldn't take care of go.
+Looks like this is another one of the single-member clubs that Ousaka mentioned.
+Marika
+「Why do you think you haven't had any new members join?」
+Misa
+「Well... I'm not quite sure myself.」
+
+Natsuki
+「Maybe there wasn't enough PR? You need to be active about getting new members to join.」
+
+Natsuki
+「Every club's desperate to get new members in April. They're always doing everything they can to showcase their activities to get people interested at orientation and stuff.」
+
+
+Natsuki
+「I get that it's a lot of work by yourself, but you need to do stuff like that too, Misa-san.」
+
+％Ｂ
+「...What's with you and saying stuff like that to an upperclassman?」
+
+Natsuki
+「I'm just telling it like it is.」
+Misa
+「I did do my best on that front... but it seems it didn't go well.」
+
+Natsuki
+「Wha... Were you at the club introductions during orientation, Misa-san?」
+Misa
+「Yes... I was...」
+Natsuki
+「Ohh... N-Now that I think about it, I feel like I might remember there being a super-pretty upperclassman that was really passionate about fish and the ocean...」
+
+％Ｂ
+「You're not really doing great at following up here, you know.」
+all
+Marika
+「I remember. You described the sea near Shionagi in great detail, didn't you? It was very informative, since I didn't know anything on the subject.」
+
+
+
+Misa
+「Thank you very much! I'm very happy to hear that!」
+
+all
+％Ｂ
+「Now that's how you do it, Segawa.」
+Natsuki
+「Sh-Shut up! I said I remembered her! I just didn't realize that she was advertising the naturalist club!」
+
+
+Marika
+「I also didn't realize... I'm sorry.」
+all
+Misa
+「Oh no, it's fine. It is true that I got too enraptured in talking about the sea, and didn't actually touch upon what the naturalist club does.」
+
+
+Misa
+「I believe it was a lack of PR, just as you said, Natsuki-san. I only have myself to blame.」
+
+％Ｂ
+「But...」
+Misa
+「Once I graduate, the naturalist club will suspend activities. I regret it... but there is nothing I can do.」
+
+％Ｂ
+「...No. I think it's too early to give up.」
+I hold up the Tanabata Festival list.
+％Ｂ
+「There's still an opportunity to advertise your club. The Tanabata Festival!」
+％Ｂ
+「You can put up a symposium or something at the festival. That would let you showcase your club's activities, and I'm sure some students would be interested.」
+
+
+％Ｂ
+「As long as even one new member joins, the naturalist club would be able to continue its activities after you graduate. What do you think? Would you like to participate in the Tanabata Festival?」
+
+
+But she smiles silently and slowly shakes her head.
+Misa
+「I appreciate your sentiments, but I'm afraid I will have to decline.」
+
+％Ｂ
+「Why?」
+Misa
+「As you can see, the only animals currently being kept by the naturalist club are these jellyfish. There would not be nearly enough variety for a symposium.」
+
+
+Misa
+「And also, it is undeniable that the naturalist club's activities are rather dull. I believe it may be unavoidable that others may not find this interesting.」
+
+
+％Ｂ
+「But...」
+Keep trying.
+Give up.
+％Ｂ
+「But didn't you just say that you'd regret the naturalist club disappearing? The club can continue if there's even one more member.」
+
+
+I know it's not my place, but I try persisting.
+Misa
+「Even if that were to be the case, then that would mean that the new member would be faced with a similar situation as mine. If so, then it may be for the best for the club to end after I graduate...」
+
+
+She smiles a little sadly.
+％Ｂ
+「I... see. If you say so...」
+
+There's no use forcing it... Is there?
+％Ｂ
+「But I don't think it'd be impossible...」
+Okihara-senpai smiles a bit in response.
+It's a bit of a sad smile.
+Misa
+「Thank you very much for thinking about the naturalist club. However, I will still have to decline participating in the Tanabata Festival.」
+
+Misa
+「Of course, I will continue observing these jellyfish until I graduate. You may come by any time, if you'd like. I would welcome your interest!」
+
+
+Marika
+「
+Hino-kun... 
+...
+Did you go in because you wanted the naturalist club to participate?」
+
+％Ｂ
+「Hm? Yeah... Though it didn't work out...」
+Natsuki
+「You know, you only just transferred in here. Why are you so into the Tanabata Festival? It's not like you're actually in the event committee, so you don't need to go that far, do you?」
+
+％Ｂ
+「Well, you're right that I've never participated in the Tanabata Festival here. But Shionagi City's Tanabata Festival's crazy fun 'cause everyone participates, right?」
+
+
+％Ｂ
+「So I just thought it'd be nice if all of the students could participate in this school's festival too... That's all.」
+
+
+Natsuki
+「Huh, you were thinking about something like that?」
+％Ｂ
+「...Is that weird?」
+Marika
+「No... I think it's great～ That part of you hasn't changed at all since you were a kid.」
+
+Natsuki
+「And Marika praises you again.」
+Marika
+「B-But... that's the truth...」
+Natsuki
+「Well, it's fine. You're right that the more people participate, the more good memories we'll all have, and the graduation album'll be that much better.」
+
+
+Marika
+「It's a shame about the naturalist club... but there's still another club, right?」
+
+％Ｂ
+「Yeah... The astronomy club.」
+Natsuki
+「The astronomy club... I don't know what that club does either. Does it even have members?」
+
+％Ｂ
+「It does. And the astronomy club definitely does stuff. Probably every day.」
+We're climbing the stairs to the rooftop.
+I didn't see Ousaka in the clubroom.
+I'm sure she's looking through the astronomy telescope on the rooftop again right now.
+Natsuki
+「Hey, you know the rooftop's off limits to students, right?」
+Segawa seems a bit weary.
+Natsuki
+「Even grad-alb committee members can't go up there unless there's an event or we have a legitimate reason. Plus, it's locked.」
+
+％Ｂ
+「Yeah, and she's got a legitimate reason.」
+Marika
+「A legitimate reason?」
+％Ｂ
+「You'll see.」
+The door to the rooftop's unlocked.
+Which means that Ousaka's gotta be up here.
+％Ｂ
+「Let's see...」
+_00cutinBS
+I look around to see the telescope placed near the railings, and a suspicious-looking hooded figure behind it, looking warily at us through sunglasses.
+
+
+Marika
+「Wow, so cool...」
+Natsuki
+「Another weird one... Let's take a photo for now, shall we?」
+_00cutinBS
+Ousaka shrinks herself down even further, as if trying to run away from Segawa's camera.
+
+％Ｂ
+「Don't hide, Ousaka. Come here.」
+Not like she's actually managing to hide herself anyway.
+Sora
+「...」
+％Ｂ
+「What's wrong?」
+Ousaka doesn't come near me. She seems genuinely suspicious of us.
+Maybe she's freaked out 'cause she's never met Shinozaki and Segawa before?
+％Ｂ
+「Uhh... Don't worry. They're both good people.」
+Sora
+「...Suspicious.」
+％Ｂ
+「Huh? Suspicious? ...You mean us?」
+Sora
+「...*nod*」
+...If we're talking suspicious, I'd say Ousaka beats us hands down.
+
+Sora
+「...You were in the second chemistry classroom just now.」
+％Ｂ
+「Wha... Oh, you were watching?」
+I realize that the telescope's pointed toward the school.
+％Ｂ
+「Yeah, we were. What about it?」
+Sora
+「...You must have been there to undergo a top-secret experiment to fuse with the mysterious organisms.」
+
+％Ｂ
+「Why would I do that!?」
+But I wonder what'd happen if I fused with a jellyfish.
+％Ｂ
+「I came here to talk with you. Just come over here.」
+She still seems a little hesitant, but she finally comes over toward us.
+
+Marika
+「H-Hey... Why are you wearing sunglasses?」
+Sora
+「...They're not sunglasses. They're polarized lenses. They only let light through one way, to reduce irregular reflections. They're very useful.」
+
+
+Ousaka takes off her hood and sun... I mean, polarized lenses, so we can get a proper look at her face.
+
+Natsuki
+「Oh. She's cute.」
+％Ｂ
+「This is Ousaka. She's a first year, and the president of the astronomy club.」
+I introduce her to Shinozaki and Segawa.
+％Ｂ
+「This is Shinozaki Marika. The one with the camera's Segawa Natsuki. They're both second years like me.」
+
+Marika
+「Nice to meet you, Ousaka-san.」
+Sora
+「...*nod*」
+Natsuki
+「You two are acquaintances already?」
+％Ｂ
+「Well... More or less, yeah.」
+Natsuki
+「...There was Misa-san earlier, too. You only just transferred, but you're pretty good...」
+
+％Ｂ
+「...Don't say it like that.」
+Sora
+「What did you want to talk about?」
+％Ｂ
+「Huh? Oh, right.」
+all
+I hold the Tanabata Festival list out toward her.
+％Ｂ
+「The astronomy club apparently isn't participating in the Tanabata Festival, so I just wanted to hear the reason why.」
+
+Sora
+「...Because it's just me.」
+％Ｂ
+「But it's not like you can't participate if it's just you, right? You could put up a display, or let people try out the astronomy telescope and stuff.」
+
+Sora
+「...」
+％Ｂ
+「I get it if that's not really for the best, since I bet that thing's expensive. But I really loved getting to see through and touch that thing. I think it might be fun.」
+
+
+Marika
+「She let you use the telescope? I'm so jealous～」
+Sora
+「...He said it was great how you could get a great view of things you didn't usually get to look at.」
+Marika
+「Um... Things you don't usually get to look at?」
+％Ｂ
+「I-I was talking about looking at stuff like the moon and the ocean, up close! And I meant "great view" as in getting to see lots of detail!」
+
+I'm scared of the way Ousaka says things. I feel like people might misunderstand.
+％Ｂ
+「Anyway, it's your call, but wanna try participating?」
+Sora
+「...」
+She doesn't nod like she always does.
+
+Sora
+「...I'm not interested in festivals. So I'm not participating.」
+Natsuki
+「This probably isn't going to work.」
+Marika
+「...What are you going to do?」
+Try persuading her.
+Give up.
+％Ｂ
+「But this'll be your first Tanabata Festival, right? So maybe you could make some good memories...」
+
+％Ｂ
+「You know, you might be able to make some friends that also like stars.」
+Sora
+「...All I want is to be able to take my time looking at the stars. That's what makes me happy.」
+
+all
+...I guess not.
+Doesn't seem like she'll change her mind.
+And Ousaka's president, so if she decides not to participate, then I guess there's nothing I can do.
+
+all
+％Ｂ
+「...So the astronomy club's not participating, then?」
+Sora
+「...*nod*」
+％Ｂ
+「Okay. Sorry for getting in the way of your club's activities.」
+Sora
+「...I don't mind.」
+She then turns away and walks back toward the telescope.
+
+all
+％Ｂ
+「We should head back too.」
+I lead our group off the rooftop.
+all
+I look over at Ousaka one more time just before I go through the door.
+％Ｂ
+「...」
+Ousaka said she was happy as long as she could take her time looking at the stars.
+
+But... she seems strangely lonely, sitting there looking through the telescope by herself.
+
+all
+％Ｂ
+「I'm back.」
+Shuuichi
+「Hey. That took you quite some time.」
+％Ｂ
+「Yeah... Long story.」
+Shuuichi places a bookmark in his book and places it down on the desk.
+Shuuichi
+「What happened to Segawa and Shinozaki?」
+％Ｂ
+「They left already. It's dark out, and it just happened to be around when the bus comes.」
+
+％Ｂ
+「Here's the paperwork I picked up.」
+I hand him the papers I retrieved from the clubs.
+％Ｂ
+「Hey... About the clubs that aren't participating.」
+Shuuichi
+「Hm? Oh, you mean the astronomy and naturalist clubs.」
+％Ｂ
+「I actually stopped by those two clubs earlier. Asked them if they'd change their minds about participating.」
+
+％Ｂ
+「...But they both said no.」
+Shuuichi
+「I see... Nothing to do about it. The clubs are allowed to decide whether they want to participate or not. There are always clubs that don't every year.」
+
+
+％Ｂ
+「I get that... but I still think it'd be fun if we could all get together to enjoy it.」
+
+
+Shuuichi
+「Each club's got its own reasons. The event committee wants everyone to participate, of course...」
+
+all
+Shuuichi opens a drawer to put the list away.
+His book falls off the desk.
+Shuuichi
+「Whoops...」
+It falls at my feet and his bookmark falls out.
+I pick it up gently.
+There are words written on the back.
+"I wish the literature club could get more members."
+％Ｂ
+「...What's this?」
+...A wish?
+I saw there were words written on it before, which I was curious about, but...
+％Ｂ
+「This isn't a bookmark. It's... a tanzaku for Tanabata.」
+Shuuichi
+「...」
+％Ｂ
+「Are you in the literature club?」
+Shuuichi
+「No.」
+He extends a hand, and I give him back his book and bookmark―the tanzaku.
+Shuuichi
+「This was a gift. From an upperclassman who graduated.」
+％Ｂ
+「Hmm...」
+That sounds a bit vague.
+Shuuichi
+「There's no literature club at this school right now. There was last year, but the only member graduated, so now it's suspended.」
+
+
+％Ｂ
+「So that person who graduated was the only member?」
+Shuuichi
+「Yeah... Her name's Kaori-san. She was always reading on her own after school.」
+
+％Ｂ
+「Huh. Completely different from you.」
+Shuuichi
+「Yeah... Haha.」
+Wait... Isn't he gonna snap back at me like always?
+...It's kinda messing with me.
+all
+Shuuichi
+「I knew about her because I was in the event committee last year.」
+
+Shuuichi
+「I was running around to every club every time we had a major event, just like you were yesterday and today.」
+
+Shuuichi
+「Last year, the literature club was the only club not participating. I went to her club over and over trying to persuade her to participate, because I wanted every club to.」
+
+
+Shuuichi
+「But she never did. The literature club doesn't have anything to present, and as for activities, all she did was just read on her own... was her reason.」
+
+
+％Ｂ
+「...」
+It's the same as the naturalist club... as Okihara-senpai.
+Shuuichi
+「I told her I'd help her with anything she needed, as a member of the event committee... but she still said no. Though it's not like I had the power to do anything like that as a first year.」
+
+
+Shuuichi
+「And one day, I asked her, "Isn't it lonely just reading books by yourself?" She told me she was happy being able to just read.」
+
+
+％Ｂ
+「...」
+...Ousaka said something similar.
+$$smh_OpenCHK
+Shuuichi
+「But... I still felt like she seemed lonely, somehow.」
+％Ｂ
+「...」
+Shuuichi
+「We always have people hang tanzaku from bamboo for the festival. We get each of the clubs to put its goals down and stuff.」
+
+Shuuichi
+「We gave this tanzaku to the literature club. Though she never participated, and she didn't say she wanted anything, so she never ended up submitting it.」
+
+
+Shuuichi
+「I went to see her again later, for another event. And then I just happened to see this in between the pages of the book she was reading.」
+
+
+Shuuichi
+「I was like, "What, so you were lonely, then"...」
+％Ｂ
+「...」
+Shuuichi
+「I started going to the library whenever I had time after that. Though all I did was just read across the table from her.」
+
+Shuuichi
+「We didn't really talk either, other than me asking her for recommendations every now and then. But... if me being there could make her even a little less lonely... then I thought it might be okay.」
+
+％Ｂ
+「...You've always been such a show-off.」
+Shuuichi
+「Oh, shut up.」
+Shuuichi laughs and complains to conceal his embarrassment.
+Shuuichi
+「But I still think about it now.」
+Shuuichi
+「If I had been more assertive, I might've been able to let her experience lots of fun memories.」
+
+Shuuichi
+「And same for the Tanabata Festival. If only I had tried harder to convince her... I regret it now.」
+
+％Ｂ
+「...」
+Shuuichi
+「Uh... What am I even blabbing on about this for?」
+
+％Ｂ
+「No...」
+all
+I understand what he's trying to say.
+We may argue, but he and I are similar.
+So I'm sure that I'll regret things if I don't do anything more either.
+If only I had been more serious about persuading Okihara-senpai and Ousaka about the festival... Like that.
+
+What... can I do?
+％Ｂ
+「But perhaps that's just me trying to make myself happy?」
+I'm thinking back on the day's events while sipping the instant coffee I made.
+
+％Ｂ
+「I do want the two of them to enjoy the Tanabata Festival, of course.」
+
+％Ｂ
+「But the thing is, I also have the reason of not wanting to regret this...」
+
+％Ｂ
+「It might be that what I'm trying to do is only going to end up bothering them.」
+
+Azuma
+「...Hey, can I stop you for a second?」
+％Ｂ
+「Yes? What is it, Teacher?」
+Azuma
+「Well... You know, uh... You're free to think over things about your school life, but why are you doing that here in my firm?」
+
+％Ｂ
+「Huh? But you're the one who told me I could come whenever I want, Teacher.」
+Azuma
+「No, I just said every now and then... and what's with the "Teacher"?」
+％Ｂ
+「You told me you didn't like being called "Mr.," so that's what I'm calling you instead.」
+Azuma
+「You're missing the point...」
+％Ｂ
+「I don't want to miss any opportunities from being hesitant. I plan on coming here quite often from now on, so I'll be in your care.」
+
+Azuma
+「God, you're shameless. Though it's not like I'm one to talk...」
+％Ｂ
+「Huh? What do you mean?」
+Azuma
+「I'm saying I did something similar back when I was young.」
+％Ｂ
+「What did you do? Please tell me, Teacher.」
+Azuma
+「Stop with the Teacher.」
+％Ｂ
+「Master, then. Please tell me, my dear Master.」
+Azuma
+「...Teacher's fine.」
+A story from the unknown past of Azuma Morio, the architect whom I so admire.
+I'm crazy curious.
+Azuma
+「I've got an architect that I respect too. There was a time when I'd send him letters pretty much every single day, 'cause I wanted to be his disciple.」
+
+
+Azuma
+「I just wanted to meet him once and have him look at my designs. I guess my letters were pretty much threats, looking back on it now.」
+
+％Ｂ
+「Hmhm. And what happened?」
+Azuma
+「I got a reply back one day. "Just come over to my studio if you want to come that badly."」
+
+％Ｂ
+「Ohh! And you went, of course.」
+Azuma
+「I packed up all my bags that day, vacated my apartment, and grabbed all the money I had, and went to France.」
+
+％Ｂ
+「Huh? You vacated your apartment? ...France?」
+
+Azuma
+「I pretty much convinced myself that he'd have no choice but to take me in if I went that far.」
+
+Oh! So that's what I should do!
+Azuma
+「Just so you know, I'm not going to let you live here if you do the same thing.」
+
+...Guess not.
+％Ｂ
+「Oh, but if it was France, then that means the architect you respect is...」
+
+Azuma
+「Jean-Marc Denue.」
+％Ｂ
+「Se...Seriously? You mean, the Jean-Marc Denue?」
+Azuma
+「Oh, you know about him?」
+％Ｂ
+「How could I not... He's a world-renowned master! The House on Lac du Bourget, the Palace de Malmaison, and the Montespan plan!」
+
+
+Azuma
+「...You know more about him than I do.」
+％Ｂ
+「Did you meet him...? Denue? No, more importantly... did you get him to take you in!?」
+
+Azuma
+「Hmm... I didn't have much money back then, so I went to France by boat... Denue was over ninety years old at the time...」
+
+Azuma
+「He died of old age while I was still on the boat.」
+％Ｂ
+「What!?」
+Azuma
+「Oh man, did that put a wrench in my plans! I was so set on becoming his disciple, but things turned out completely different.」
+
+
+Azuma
+「Plus, I hadn't even thought about how to get back. I was in France with nowhere to live, no job, no money. Seriously thought I was gonna die.」
+
+
+％Ｂ
+「That's no laughing matter...」
+Azuma
+「Well, I ended up living with one of Denue's disciples, through his name. The disciple wasn't too famous at the time, but he still did great work.」
+
+
+Azuma
+「I pretty much learned the foundations of my work from him. In a way, he might've been a better teacher for me than Denue ever could've been. You never know what's gonna happen in life.」
+
+
+％Ｂ
+「Uh huh...」
+Azuma
+「Anyway, there's never anything wrong with just deciding to act. It's good to think things over, but it's not bad to decide quick and act quick following how you feel either.」
+
+
+Hm... Wait.
+％Ｂ
+「Um... Is that perhaps your advice for me concerning my worries?」
+
+Azuma
+「...」
+％Ｂ
+「You're telling me not to worry about how, but to just act, and things will follow from there... Right?」
+
+Azuma
+「Oh, come on... Don't do that to someone when they're giving you advice. You're making me embarrassed for saying it!」
+
+％Ｂ
+「I-I'm very sorry...」
+He got mad at me...
+But to think I got advice from Teacher...
+Azuma
+「What are you grinning for?」
+％Ｂ
+「No... Nothing.」
+Crap. I can't stop smiling from how happy I am.
+Azuma
+「Ugh... Whatever. I'll give you one more piece of advice. When you're lost, ask yourself what you should do first.」
+
+Azuma
+「Most of the time, you already know the answer. Though you might not have realized it yet.」
+
+％Ｂ
+「Ask myself...?」
+Azuma
+「As an example. Why do you want to be an architect so bad?」
+
+％Ｂ
+「Uh...」
+Why did I decide I wanted to be an architect?
+all
+％Ｂ
+「Uhh... So I moved when I was in elementary school, but I just couldn't get settled in the new house in Kanagawa.」
+
+
+％Ｂ
+「My parents told me that we'd go back to Shionagi one day, have a new house constructed, and we'd all live there together. I'm sure they were just trying to comfort me.」
+
+
+％Ｂ
+「But after hearing those words, I started thinking about the ideal house that I'd want to live in.」
+
+
+Azuma
+「Hoh. And?」
+％Ｂ
+「And then... I started out by looking through home catalogs... and eventually I started reading books on architecture, found out about you, and encountered the works of lots of other architects, too...」
+
+
+Azuma
+「That still isn't an actual reason why you want to be an architect, you know.」
+％Ｂ
+「That's... Uh...」
+...Huh?
+That's weird.
+The reason I wanna become an architect is...
+％Ｂ
+「...」
+He smiles when he sees me hesitate.
+Azuma
+「What's wrong? Can't spit it out?」
+％Ｂ
+「I'm sorry... I... can't think of a concrete answer at the moment...」
+Azuma
+「Hm... And that's what I'm talking about. The answer's inside you. But you have to ask yourself, first.」
+
+Ask myself... Huh.
+Azuma
+「And so anyway, I'm gonna do work. You go home.」
+％Ｂ
+「Oh, you're going to work? Would you like help with anything? I'll do anything, just say the word, Teacher!」
+
+Azuma
+「Go・home.」
+％Ｂ
+「...And so I got kicked out.」
+Marika
+『Ahaha. I think you're to blame there
+, Hino-kun
+
+.』
+Shinozaki called me on my way home.
+She apparently wanted to check in with me after she went home before I did.
+I told Shinozaki about how I dropped by his firm and talked about the Tanabata Festival with him.
+
+Marika
+『But Azuma-san sounds really nice. He might've been complaining, but he still gave you good advice as an adult.』
+
+％Ｂ
+「Oh yeah. He's the person I respect as my teacher, so of course.」
+Marika
+『I hope he approves of you one day.』
+％Ｂ
+「Yeah... I hope so too...」
+Marika
+『What's wrong?』
+％Ｂ
+「Hey... Am I just being nosy with what I'm doing after all?」
+
+％Ｂ
+「If they say they don't wanna participate, then maybe it's better to just leave them be, and not do anything unnecessary?」
+
+％Ｂ
+「What do you think?」
+Marika
+『Mmm... It's a hard question. It'd be nice if Okihara-senpai and Ousaka-san had fun participating... but I wouldn't want to force them to either.』
+
+
+％Ｂ
+「Yeah...」
+Marika
+『But... I understand how you feel
+, Hino-kun
+
+.』
+％Ｂ
+「Huh?」
+Marika
+『It hasn't even been a week since I've met you again... 
+
+
+But I think I might have a good idea what you're thinking
+
+, Hino-kun
+
+.』
+％Ｂ
+「Seriously?」
+Marika
+『I think it's because I knew you well when we were kids.』
+
+％Ｂ
+「...Shinozaki?」
+Marika
+『...Are you free tomorrow? There's something I want to show you. Can you come over to my house after school tomorrow?』
+
+％Ｂ
+「Uh... Sure, I can.」
+Marika
+『It's a promise, then. No making plans for tomorrow after school, okay?』
+
+％Ｂ
+「Sure. Got it.」
+She wants to show me something...
+What could it be?
+dummy
+_00com
+bgm12
+_00grp
+bg102
+_02smh
+_00grp
+bg501
+_00grp
+_00grp
+bg110
+_00grp
+bg102
+bs_rk02_0706
+bg105
+bs_rk02_09
+none
+gakuen_door1
+_00grp
+bg105
+_00bup
+bs_rk02_04
+_00bup
+bs_rk02_09
+_00bup
+bs_rk02_0101
+_00bup
+bs_rk02_0409
+all
+_00bup
+_00bup
+all
+_00bup
+bu_rk02_0901
+_00bup
+bu_rk02_0904
+_00bup
+bu_rk02_0504
+_00bup
+bu_rk02_0605
+_00bup
+_00bup
+bu_rk02_06
+_00bup
+bu_rk01_0111
+_00bup
+bu_rk01_0108
+_00bup
+bu_rk02_0401
+_00bup
+bu_rk02_0901
+_00bup
+bu_rk02_0605
+_00bup
+bu_rk01_0105
+_00bup
+bu_rk01_0808
+_00bup
+_00bup
+bu_rk01_07
+_00bup
+bu_rk01_01
+_00bup
+bu_rk01_0105
+_00bup
+bu_rk02_07
+_00bup
+bu_rk02_0701
+_00bup
+bu_rk02_0510
+_00bup
+bu_rk02_0810
+_00bup
+bu_rk02_05
+_00bup
+_00bup
+bu_rk02_04
+_00bup
+bu_rk02_0605
+_00bup
+bu_rk01_0108
+_00bup
+bu_rk01_0110
+_00bup
+bu_rk01_0213
+_00bup
+_00bup
+bu_rk01_0201
+_00bup
+bu_rk02_09
+_00bup
+_00bup
+bu_rk02_0901
+_00bup
+bu_rk02_0705
+_00bup
+bu_rk02_0905
+_00bup
+bu_rk02_02
+all
+_00bup
+_00bup
+all
+bg105
+_00grp
+bg105
+_00bup
+bu_rk02_0901
+_00bup
+bu_rk02_0105
+_00bup
+bu_rk02_0401
+_00bup
+bu_rk02_09
+_00grp
+bgm15
+_00grp
+bg110
+_00bup
+bs_mr02_01
+_00bup
+bs_nt13_0201
+_00bup
+bs_mr01_01
+_00bup
+_00bup
+bs_mr01_0201
+all
+_00bup
+_00bup
+all
+_00bup
+bs_nt13_0201
+_00bup
+_00bup
+bs_nt13_0202
+_00bup
+bs_nt13_0201
+_00bup
+_00bup
+bs_nt13_0306
+_00bup
+bs_nt13_1010
+_00bup
+bs_mr01_02
+_00bup
+bs_nt13_1010
+_00bup
+_00bup
+bs_mr01_04
+_00bup
+bs_nt13_0102
+_00bup
+_00bup
+bs_nt13_0302
+_00bup
+bs_mr01_11
+_00bup
+bs_nt13_0102
+_00bup
+_00bup
+bs_nt03_0102
+_00bup
+bs_nt03_01
+_00bup
+bs_mr01_10
+_00grp
+_00grp
+bg102
+_00bup
+bs_mr03_02
+_00bup
+_00bup
+bs_mr03_01
+_00grp
+bg110
+bs_tk13_07
+none
+_00bup
+bs_mr03_04
+_00bup
+bs_nt01_1313
+_00bup
+bs_nt02_0410
+_00bup
+_00bup
+bs_nt02_1010
+_00bup
+bs_nt02_1004
+all
+_00bup
+_00bup
+all
+_00bup
+bs_nt02_1004
+_00bup
+_00bup
+bs_nt02_0204
+_00bup
+bs_nt01_0208
+_00bup
+bs_mr03_07
+_00bup
+bs_nt01_0204
+_00bup
+_00bup
+bs_mr03_09
+all
+_00bup
+_00bup
+all
+bs_tk03_0303
+none
+bs_tk03_0402
+none
+bs_tk03_0302
+none
+bs_tk03_0707
+none
+bs_tk02_02
+none
+_00bup
+bs_tk01_0304
+_00bup
+bu_tk01_0505
+all
+_00bup
+_00bup
+all
+_00bup
+bs_tk01_0612
+_00bup
+bs_tk01_0805
+_00bup
+_00bup
+bs_tk01_0612
+_00bup
+bs_tk01_0202
+all
+_00bup
+_00bup
+all
+_00bup
+bs_mr03_0101
+_00bup
+bs_nt02_04
+_00bup
+_00bup
+bs_nt02_0204
+_00bup
+bs_mr03_07
+_00bup
+_00bup
+bs_mr03_09
+_00bup
+bs_mr03_10
+all
+_00bup
+_00bup
+all
+_00bup
+bs_tk01_0512
+_00bup
+_00bup
+bs_tk01_0611
+_00bup
+bs_nt01_0808
+_00bup
+bs_tk02_0906
+_00bup
+_00bup
+bs_tk02_02
+_00bup
+bs_tk02_0606
+_00bup
+_00bup
+bs_tk02_05
+all
+_00bup
+_00bup
+all
+_00bup
+bs_mr03_10
+_00bup
+bs_nt02_1005
+_00bup
+bs_mr03_07
+all
+_00bup
+_00bup
+all
+_00bup
+bs_tk01_0302
+_00bup
+_00bup
+bs_tk01_04
+_00bup
+bs_tk03_0808
+_00bup
+_00bup
+bs_tk03_09
+all
+_00bup
+_00bup
+all
+_00bup
+bs_mr02_02
+_00bup
+bs_nt01_0702
+_00bup
+_00bup
+bs_nt02_01
+_00bup
+bs_mr02_05
+_00bup
+_00bup
+bs_mr02_0102
+_00bup
+bs_nt01_0202
+_00bup
+bs_mr02_0201
+_00bup
+_00bup
+bs_mr02_0202
+_00bup
+bs_nt01_0101
+_00bup
+_00bup
+bs_nt01_0102
+_00bup
+bs_mr02_0201
+_00bup
+bs_tk03_0202
+_00bup
+bs_nt01_0101
+_00bup
+_00bup
+bs_tk03_0808
+_00bup
+bs_tk03_04
+_00bup
+bs_nt01_0810
+_00bup
+_00bup
+bs_nt01_0808
+_00bup
+bs_tk03_0903
+_00bup
+bs_mr01_11
+_00bup
+bs_tk03_01
+_00bup
+_00bup
+bs_tk03_02
+_00bup
+bs_mr01_02
+_00bup
+_00bup
+bs_mr01_01
+_00bup
+bs_nt01_0101
+_00bup
+bs_tk03_0303
+_00bup
+bs_tk01_0404
+_00bup
+bs_nt01_0206
+_00bup
+bs_tk01_0611
+_00bup
+_00bup
+bs_tk01_08
+all
+_00bup
+_00bup
+all
+_00bup
+bu_tk01_1205
+_00bup
+bs_tk02_0202
+_00bup
+bs_tk02_07
+_00bup
+bs_tk02_03
+_00bup
+_00bup
+bs_tk02_0404
+_00bup
+bs_tk
+_00bup
+bs_mr01_0101
+_00bup
+bs_nt01_0201
+_00bup
+bs_nt01_0202
+_00bup
+_00bup
+bs_nt01_0102
+_00bup
+bs_nt01_0202
+_00grp
+bgm12
+_00grp
+bg101e
+_00bup
+bs_nt13_0910
+all
+_00bup
+_00bup
+all
+bg101e
+_00grp
+bg101e
+_00bup
+bs_mr03_01
+_00bup
+bs_nt02_0202
+_00bup
+bs_mr03_03
+_00bup
+bs_mr01_08
+_00bup
+bs_nt01_0808
+_00grp
+bgm21
+_00grp
+bg102e
+knock_otoko
+_00bup
+bs_mr02_06
+_00bup
+bs_mr02_06
+_00bup
+bs_nt13_0202
+_00bup
+_00bup
+bs_nt03_0201
+_00bup
+bs_mr02_11
+_00bup
+_00bup
+bs_mr02_09
+_00bup
+bs_nt13_0510
+_00bup
+bs_mr02_06
+_00bup
+bs_nt03_0505
+_00bup
+bs_mr22_08
+_00bup
+_00bup
+bs_mr22_08
+_00bup
+bs_nt13_0910
+_00bup
+_00bup
+bs_nt13_10
+_00bup
+bs_mr22_10
+_00bup
+bs_nt13_0102
+_00bup
+_00bup
+bs_nt13_0202
+_00bup
+bs_mr03_11
+_00bup
+bs_nt13_0102
+_00com
+_00grp
+gakuen_door1
+bgm22
+_00grp
+_black
+bg111e
+_00bup
+bs_mr22_10
+_00bup
+bs_nt01_0909
+bg111e
+bu_nt01_1313
+none
+bu_mr22_08
+none
+bu_mr03_07
+none
+bu_nt01_0909
+none
+bu_ms03_0101
+none
+bu_mr03_11
+none
+bu_nt13_07
+none
+bgm92
+bu_ms03_0202
+none
+bu_ms03_04
+none
+_00grp
+bg111e
+_00bup
+bs_ms23_0101
+_00bup
+bs_ms01_0101
+_00bup
+bs_ms01_0303
+_00bup
+bs_ms01_0202
+_00com
+all
+_00bup
+_00bup
+all
+_00bup
+bs_mr02_11
+_00bup
+bs_nt13_03
+_00bup
+bs_nt13_02
+_00bup
+bs_nt13_0210
+all
+_00bup
+_00bup
+all
+_00bup
+bs_ms01_03
+_00bup
+_00bup
+_00bup
+bs_ms01_02
+bs_mr
+_00bup
+_00bup
+bs_mr
+bs_nt
+_00bup
+_00bup
+bs_nt
+_00bup
+bs_ms02_0202
+_00bup
+bs_ms02_0301
+bu_nt13_1010
+none
+bu_mr02_09
+none
+bu_nt13_05
+none
+bu_mr02_06
+none
+bu_nt13_10
+none
+bu_mr02_11
+none
+bu_nt13_0303
+none
+bu_mr01_09
+none
+all
+_00bup
+_00bup
+all
+_00bup
+bs_mr01_09
+_00bup
+bs_nt01_0710
+_00bup
+bs_mr01_11
+_00bup
+bs_nt01_0710
+_00bup
+bs_ms01_02
+_00bup
+bs_mr03_07
+_00bup
+bs_nt01_07
+_00bup
+bs_mr03_07
+_00bup
+bs_nt01_0705
+_00bup
+_00bup
+bs_nt01_0605
+_00bup
+bs_nt01_04
+_00bup
+bs_mr03_10
+_00bup
+bs_nt01_0213
+all
+_00bup
+_00bup
+all
+_00bup
+bs_ms01_13
+all
+_00bup
+_00bup
+all
+_00grp
+bgm15
+_00grp
+bg111e
+_00bup
+bs_nt02_0204
+_00bup
+_00bup
+bs_nt02_0205
+all
+_00bup
+_00bup
+all
+_00bup
+bs_ms01_0203
+_00bup
+_00bup
+_00bup
+bs_ms01_01
+_00bup
+bs_ms01_0303
+_00bup
+_00bup
+_00bup
+bs_ms01_11
+all
+_00bup
+_00bup
+all
+_00bup
+bs_mr02_05
+_00bup
+bs_nt02_0102
+_00bup
+_00bup
+bs_nt02_0201
+_00bup
+bs_mr02_11
+_00bup
+bs_nt02_02
+_00bup
+_00bup
+bs_nt02_0205
+_00bup
+bs_nt02_0201
+all
+_00bup
+_00bup
+all
+_00bup
+bs_ms01_01
+_00bup
+bs_ms01_08
+_00bup
+bs_ms01_04
+_00bup
+bs_ms01_04
+_00bup
+bs_nt03_10
+_00bup
+_00bup
+bs_nt03_0210
+_00bup
+bs_mr02_06
+_00bup
+bs_nt13_0904
+_00bup
+_00bup
+bs_nt13_01
+_00bup
+bs_ms01_1111
+_00bup
+_00bup
+_00bup
+bs_ms01_12
+all
+_00bup
+_00bup
+all
+_00bup
+bs_ms01_0201
+_00bup
+_00bup
+_00bup
+bs_ms01_01
+_00bup
+bs_ms01_0102
+_00bup
+_00bup
+_00bup
+bs_ms01_07
+_00bup
+bs_ms01_12
+_00bup
+_00bup
+_00bup
+bs_ms01_10
+_00bup
+bs_mr03_07
+_00bup
+bs_ms01_11
+_00bup
+bs_ms01_03
+_00bup
+_00bup
+_00bup
+bs_ms01_01
+_00bup
+bs_mr03_09
+_00bup
+bs_ms01_1111
+_00bup
+_00bup
+bs_nt13_10
+_00bup
+_00bup
+bs_nt03_0910
+_00bup
+bs_nt03_0905
+_00bup
+_00bup
+bs_nt03_05
+_00bup
+bs_nt03_0410
+_00bup
+bs_nt11_0208
+_00bup
+bs_ms02_0606
+_00bup
+_00bup
+_00bup
+bs_ms02_08
+_00bup
+bs_nt01_0808
+_00bup
+bs_ms02_12
+_00bup
+bs_nt02_0303
+_00bup
+_00bup
+bs_nt02_0403
+all
+_00bup
+_00bup
+all
+_00bup
+bs_mr02_02
+_00bup
+_00bup
+bs_mr02_05
+_00bup
+bs_mr02_0103
+_00bup
+_00bup
+bs_ms03_0302
+_00bup
+_00bup
+_00bup
+bs_ms03_01
+all
+_00bup
+_00bup
+all
+_00bup
+bs_nt02_0307
+_00bup
+bs_nt02_1005
+_00bup
+_00bup
+bs_nt02_0404
+_00bup
+bs_nt02_1004
+_00bup
+_00bup
+bs_mr02_09
+all
+_00bup
+_00bup
+all
+_00bup
+bs_ms13_05
+_00bup
+_00bup
+_00bup
+bs_ms13_02
+_00bup
+bs_ms13_04
+_00bup
+_00bup
+_00bup
+bs_ms13_0302
+_00bup
+bs_ms01_03
+_00bup
+_00bup
+_00bup
+bs_ms01_0201
+_00bup
+bs_ms01_0813
+_00bup
+bs_ms01_03
+_00bup
+bs_ms02_04
+_00bup
+_00bup
+_00bup
+bs_ms02_01
+_00bup
+bs_ms02_0606
+_00bup
+_00bup
+_00bup
+bs_ms02_08
+_00bup
+bs_ms02_1006
+_00bup
+_00bup
+_00bup
+bs_ms02_01
+_00bup
+bs_ms02_0301
+_00bup
+_00bup
+_00bup
+bs_ms02_10
+_00bup
+bs_ms02_0301
+_00bup
+bs_ms02_0101
+_00bup
+_00bup
+_00bup
+bs_ms02_0304
+_00bup
+bs_ms01_02
+_00bup
+_00bup
+_00bup
+bs_ms01_0102
+_00bup
+bs_ms01_01
+_00grp
+bgm12
+_00grp
+bg102e
+_00bup
+bs_mr01_07
+_00bup
+bs_nt02_10
+_00com
+_00bup
+bs_nt02_0205
+_00bup
+_00bup
+bs_nt02_0211
+_00bup
+bs_mr01_0101
+_00bup
+bs_nt02_0204
+_00bup
+bs_mr01_04
+_00bup
+_00bup
+bs_mr01_02
+_00bup
+bs_nt02_0909
+_00bup
+bs_mr01_10
+_00bup
+bs_nt02_0102
+_00bup
+_00bup
+bs_nt02_0202
+_00bup
+bs_mr03_01
+_00bup
+_00bup
+bs_mr03_02
+_00bup
+bs_nt01_0208
+_00bup
+_00bup
+bs_nt01_0212
+_00bup
+bs_nt01_0213
+_00grp
+_00grp
+bg110e
+_00bup
+bs_nt13_0610
+_00bup
+bs_nt13_1010
+_00bup
+bs_mr03_07
+_00grp
+gakuen_door_tetsu1
+bgm16
+_00grp
+bg107e
+bu_sr33_2426
+none
+_00bup
+bs_mr02_06
+_00bup
+bs_nt01_1313
+camera_1shot
+_00grp
+_00bup
+bs_sr33_2426
+_00bup
+bs_sr33_2427
+_00bup
+bs_sr33_2425
+_00bup
+bs_sr33_2424
+_00bup
+bs_sr33_2426
+_00bup
+bs_sr33_2426
+_00bup
+bs_mr02_05
+_00bup
+bs_sr33_21
+_00bup
+_00bup
+bs_sr33_2130
+_00bup
+bs_sr33_21
+_00bup
+bs_sr03_01
+_00bup
+bs_sr02_0112
+_00bup
+bs_nt01_02
+_00bup
+bs_mr02_02
+_00bup
+bs_sr02_0101
+_00bup
+bs_sr02_0101
+_00bup
+bs_nt03_10
+_00bup
+bs_nt13_0602
+_00bup
+_00bup
+bs_nt13_0902
+_00bup
+bs_mr02_04
+_00bup
+bs_sr02_04
+all
+_00bup
+_00bup
+all
+_00bup
+bs_sr02_08
+_00bup
+_00bup
+bs_sr02_01
+_00bup
+bs_sr02_05
+_00bup
+bs_mr01_03
+_00bup
+bs_sr02_09
+_00bup
+bs_sr02_09
+_00bup
+bs_mr03_07
+_00bup
+bs_sr02_0804
+_00bup
+bs_sr03_01
+_00bup
+_00bup
+bs_sr03_08
+_00bup
+bs_nt02_0504
+_00bup
+bs_mr03_05
+_00bup
+bs_sr03_01
+_00bup
+bs_sr03_0104
+_00bup
+_00bup
+bs_sr03_0804
+_00bup
+bs_sr03_01
+all
+_00bup
+_00bup
+all
+all
+_00bup
+_00bup
+all
+_00bup
+bs_sr02_0109
+_00bup
+bs_sr02_0108
+_00bup
+bs_sr
+all
+_00bup
+_00bup
+all
+_00bup
+bs_mr03_09
+_00bup
+bs_nt02_0511
+all
+_00bup
+_00bup
+all
+_00bup
+bs_sr33_0308
+all
+_00bup
+_00bup
+all
+_00grp
+gakuen_door1
+bgm12
+_00grp
+bg104e
+_00bup
+bs_sy01_03
+_00bup
+bs_sy01_01
+_00bup
+bs_sy01_08
+_00bup
+bs_sy01_07
+_00bup
+_00bup
+bs_sy01_0102
+_00bup
+bs_sy01_08
+_00bup
+_00bup
+bs_sy01_07
+all
+_00bup
+_00bup
+all
+hon_otosu
+_00bup
+bs_sy01_10
+bgm31
+_00bup
+bs_sy01_07
+_00bup
+bs_sy01_08
+_00bup
+bs_sy01_01
+_00bup
+bs_sy01_0705
+_00bup
+_00bup
+bs_sy01_07
+_00bup
+bs_sy01_01
+_00bup
+_00bup
+bs_sy01_02
+_00bup
+bs_sy01_0302
+all
+_00bup
+_00bup
+all
+_02smh
+bg103e
+bg102e
+bg502
+_00grp
+bg104e
+_02smh
+_00bup
+bs_sy01_0705
+_00bup
+_00bup
+bs_sy01_07
+_00bup
+bs_sy01_08
+_00bup
+bs_sy01_01
+_00bup
+_00bup
+bs_sy01_03
+_00bup
+bs_sy01_07
+_00bup
+_00bup
+bs_sy01_08
+_00bup
+bs_sy01_0302
+_00bup
+bs_sy01_01
+_00bup
+_00bup
+bs_sy01_02
+_00bup
+bs_sy01_0701
+_00bup
+_00bup
+bs_sy01_03
+_00bup
+bs_sy01_0302
+_00bup
+bs_sy01_08
+_00bup
+bs_sy01_05
+_00bup
+_00bup
+bs_sy01_0708
+_00bup
+bs_sy01_07
+_00bup
+bs_sy01_0902
+all
+_00bup
+_00bup
+all
+bg502
+_00grp
+bgm13
+_00grp
+bg408n
+_00bup
+bs_az11_11
+_00bup
+bs_az11_08
+_00bup
+_00bup
+bs_az11_0805
+_00bup
+bs_az11_1004
+_00bup
+_00bup
+bs_az11_11
+_00bup
+bs_az11_05
+_00bup
+bs_az11_01
+_00bup
+bs_az01_02
+_00bup
+bs_az01_08
+_00bup
+bs_az01_1004
+_00bup
+bs_az01_01
+_00bup
+bs_az01_0801
+_00bup
+_00bup
+bs_az01_08
+_00bup
+bs_az01_02
+_00bup
+_00bup
+bs_az01_01
+_00bup
+bs_az01_0302
+_00bup
+bs_az01_13
+_00bup
+bs_az01_08
+_00bup
+bs_az01_01
+_00bup
+bs_az01_02
+_00bup
+bs_az01_1004
+_00bup
+bs_az01_08
+_00bup
+bs_az01_05
+_00bup
+bs_az01_11
+_00bup
+bs_az01_08
+_00bup
+_00bup
+bs_az01_0804
+_00bup
+bs_az01_01
+_00bup
+bs_az01_02
+_00bup
+_00bup
+bs_az01_0301
+_00bup
+bs_az01_08
+_00bup
+_00bup
+bs_az01_01
+_00bup
+bs_az01_07
+_00bup
+bs_az01_10
+_00bup
+_00bup
+bs_az01_04
+_00bup
+bs_az01_04
+_00bup
+bs_az01_08
+_00bup
+_00bup
+bs_az01_01
+_00bup
+bs_az01_06
+_00bup
+bs_az01_01
+all
+_00bup
+_00bup
+all
+_00bup
+bs_az01_02
+_00bup
+bs_az01_13
+_00bup
+bs_az01_0301
+_00bup
+bs_az01_0302
+_00bup
+bs_az01_01
+_00bup
+bs_az01_08
+_00bup
+bu_az01_04
+_02smh
+_00grp
+bgm16
+_00grp
+bg301n
+_02smh_01lime
+_00com
+_00com
+_00com
+se0024_01
+_02smh_auto
+_00com

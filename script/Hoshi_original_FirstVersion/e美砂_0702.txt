@@ -1,0 +1,363 @@
+﻿0701
+火
+0702
+水
+$$smh_OpenCHK
+％Ｂ
+「Fuaaaaaahhhh... afhh...」
+Marika
+「Wow... What a yawn. Are you sleepy?」
+
+％Ｂ
+「Hm? Yeah... More or less. I was looking into something.」
+I got caught up in looking up stuff about Marinpia Shionagi last night, and ended up going to sleep really late.
+
+
+Marika
+「Hmm... You're really pumped, aren't you?」
+％Ｂ
+「You've got that right! ...Wait, for what?」
+
+Marika
+「Huh? What do you mean what? Exams, obviously...」
+％Ｂ
+「...I'm sorry? Exams?」
+Marika
+「Our finals are soon.」
+％Ｂ
+「...Finals?」
+Marika
+「Yeah. Our first-semester finals are next week... and you were up late studying for them, right?」
+
+％Ｂ
+「U-Uhh... Yeah... I was.」
+...I completely forgot about them.
+Marika
+「We'll need to do our best this year too. We won't be able to worry about the Tanabata Festival if we fail and end up in supplementary lessons... Let's get good scores so we can work on preparing without worrying about anything.」
+
+
+％Ｂ
+「Y-Yeah... Let's do that.」
+After school.
+％Ｂ
+「We're all here again?」
+Touko
+「Huh? Well, I am in charge of feeding the fish.」
+
+Marika
+「That was my role, you know～」
+all
+Rikka
+「We're just curious about how the tanks are doing. It's natural to feel a sense of duty about your work, isn't it?」
+
+
+Sora
+「...I just kind of showed up.」
+all
+Natsuki
+「You all seem relaxed even though it's almost finals. Oh, you there! I like that swimming just now!」
+
+％Ｂ
+「You're one to talk.」
+Natsuki
+「I'm here because I have grad-alb committee work to do here.」
+％Ｂ
+「...The fish have nothing to do with that.」
+all
+Misa
+「But I'm very happy that you all seem to have taken a liking to them.」
+
+％Ｂ
+「I apologize for apparently having turned this room into a lounge of some kind...」
+
+Misa
+「Oh no, it's fine. It's a good thing that it's lively.」
+％Ｂ
+「I... see.」
+Those words seem to take on a different meaning coming from her.
+And I feel like her smile just doesn't have much energy either.
+Misa
+「And aquariums have a soothing effect, so I recommend studying for your exams in this room. You'll find yourselves more focused.」
+
+
+Touko
+「Huh, then can I come every day from now on?」
+Misa
+「Of course you can. I'd love it if you did.」
+％Ｂ
+「You don't have to force yourself, Okihara-senpai.」
+Misa
+「Force myself? I would genuinely welcome it.」
+％Ｂ
+「Well... If you say so.」
+all
+Natsuki
+「Hey, more importantly, what are we going to do about the display venue?」
+％Ｂ
+「Well, the main issue is... whether we'll be able to convince Yamashita-sensei and the rest of the event committee next meeting.」
+Marika
+「O-Of course we're going to～! We're here today so we can figure out how to do that! Right!?」
+
+
+％Ｂ
+「Hmm... Yeah, pretty much.」
+Misa
+「Excuse me... When would the next meeting be?」
+Marika
+「The day after tomorrow... The preparation period for finals begins after that, so things may become even more difficult for us if we don't get permission to use the old school building at that meeting.」
+
+
+Misa
+「The day after tomorrow...」
+She looks worried again.
+％Ｂ
+「Don't worry. There's still time!」
+I speak cheerfully.
+％Ｂ
+「Please don't worry. We'll definitely convince them all.」
+Okihara-senpai's expression brightens just a bit at my words.
+
+Natsuki
+「Though you haven't said anything specific.」
+％Ｂ
+「It'll be fine. We'll definitely do something about it!」
+Marika
+「Yeah, that's right! We'll definitely do something about this! So let's do our best!」
+
+Misa
+「You're right... I also believe things will go well.」
+％Ｂ
+「Yeah! Let's do it!」
+％Ｂ
+「And with that being said, we're done for today.」
+Marika
+「What!? We're done...?」
+％Ｂ
+「Sorry, but there's somewhere I wanna go.」
+Marika
+「Somewhere you want to go?」
+％Ｂ
+「The library by the station. I wanna borrow some books before it closes. Speaking of which, it's pretty late. So anyway, I'll be leaving!」
+
+
+Marika
+「U-Um～ ...Awawa... He left...」
+
+Natsuki
+「Looks like he's planning something again.」
+Marika
+「Planning something...?」
+Natsuki
+「Remember how he secretly set up traps without telling us back when we went out to catch fish? It's the same as back then. I'm sure he's trying to set something up.」
+
+
+Marika
+「I wonder what he's planning on doing～」
+Misa
+「...」
+I place the books I borrowed from the library on my desk.
+Shionagi City commerce white papers, climate reports for local small business, trend reports for capital investments in small-to-medium service enterprises, et cetera.
+
+％Ｂ
+「Can't really find stuff like this at the school library.」
+I flip through some pages while I wait for my computer to start up.
+
+I see lots of complicated words and figures. The kind I wouldn't learn in school.
+
+％Ｂ
+「...Should I really be doing this?」
+Our finals are coming up.
+The exams include stuff that I haven't learned yet, since I transferred in halfway through.
+I really should be studying, but...
+％Ｂ
+「Guess I can't help my personality.」
+I ended up not getting enough sleep last night because I was looking up stuff relating to Marinpia Shionagi.\n\r
+
+I'd feel gross stopping partway.
+％Ｂ
+「Now then... Let's continue where we left off last night.」
+I compose myself and resume my research.
+This is all so I can convince Yamashita-sensei and the other committee members.
+dummy
+_00com
+_02smh
+bgm12
+_00grp
+bg301
+_00bup
+bs_mr01_0806
+_00bup
+_00bup
+bs_mr01_01
+_00bup
+bs_mr01_02
+_00bup
+bs_mr01_0108
+_00bup
+bs_mr03_0103
+_00bup
+bs_mr03_02
+_00bup
+_00bup
+bs_mr03_01
+_00bup
+bs_mr01_01
+_00bup
+_00bup
+bs_mr01_04
+_00grp
+bgm15
+_00grp
+bg111_01
+_00bup
+bs_tk01_0105
+_00bup
+_00bup
+bs_tk01_0402
+_00bup
+_00bup
+bs_mr01_06
+all
+_00bup
+_00bup
+all
+_00bup
+bs_rk03_0605
+_00bup
+_00bup
+bs_rk03_01
+_00bup
+_00bup
+bs_sr02_01
+all
+_00bup
+_00bup
+all
+_00bup
+bs_nt01_0206
+_00bup
+_00bup
+bs_nt03_02
+_00bup
+bs_nt03_01
+camera_1shot
+_00grp
+_00bup
+bs_nt13_03
+all
+_00bup
+_00bup
+all
+_00bup
+bs_ms01_0102
+_00bup
+bs_ms01_02
+_00bup
+bs_ms01_03
+_00bup
+bs_ms01_01
+_00bup
+_00bup
+bs_ms01_03
+_00bup
+bs_ms01_03
+_00bup
+bs_tk03_03
+_00bup
+_00bup
+bs_tk03_0403
+_00bup
+bs_ms01_02
+_00bup
+bs_ms01_0201
+_00bup
+_00bup
+bs_ms01_01
+all
+_00bup
+_00bup
+all
+_00bup
+bs_nt11_1106
+_00bup
+_00bup
+bs_nt11_04
+_00bup
+bs_nt11_04
+_00bup
+bs_mr03_0603
+_00bup
+_00bup
+bs_mr03_02
+_00bup
+bs_nt01_0212
+_00bup
+bs_ms01_10
+_00bup
+bs_mr03_01
+_00bup
+bs_mr03_0701
+_00bup
+_00bup
+bs_mr03_09
+_00bup
+bs_ms02_08
+_00bup
+bs_ms02_0710
+_00bup
+bs_nt11_1106
+_00bup
+bs_nt11_0201
+_00bup
+bs_mr12_05
+_00bup
+_00bup
+bs_mr12_02
+_00bup
+bs_ms01_01
+_00bup
+_00bup
+bs_ms01_02
+_00bup
+bs_nt01_08
+_00bup
+bs_ms01_0108
+_00bup
+bs_mr01_0106
+_00bup
+bs_nt01_0212
+_00bup
+bs_ms01_04
+_00bup
+bs_mr01_08
+_00bup
+bs_nt01_0208
+_00bup
+bs_ms01_10
+gakuen_door1
+_00bup
+bs_mr01_0109
+_00bup
+bs_nt11_03
+_00bup
+bs_ms01_1304
+_00bup
+bs_mr01_08
+_00bup
+bs_nt02_09
+_00bup
+_00bup
+bs_nt02_01
+_00bup
+bs_mr01_0809
+_00bup
+bs_ms01_0110
+_00grp
+bgm16
+bg505
+bg201n
+hon_oku
+_00grp
+bg201n
+_00grp
+_00com

@@ -1,0 +1,325 @@
+﻿0712
+土
+0713
+日
+Touko
+「...」
+$$smh_OpenCHK
+％Ｂ
+「What's wrong? You're just staring off into nowhere... You feeling sick or something?」
+Touko
+「Oh, no, I'm fine. I was just thinking about something. Sorry about that.」
+We're on another date today.
+It's a little past 1 p.m. We just got done having a relaxed lunch.
+Touko's been like this all day.
+She showed up late for once, and she's been out of it ever since our date started... It's like her mind's been elsewhere the entire day.
+
+％Ｂ
+「Well, as long as you aren't feeling sick or anything. It's pretty hot today. Wanna take a break somewhere cool?」
+
+She's clearly down for some reason... I'm worried.
+I think she might be tired or something.
+Touko
+「Mm, I'm okay. Anyway... could you tell me about your dreams?」
+
+％Ｂ
+「Huh? I've told you already, haven't I?」
+Touko
+「It's fine, isn't it? I wanna hear a little more about your dreams.」
+％Ｂ
+「...Sure, but you better not laugh, all right? I'm pretty sure this is gonna end up sounding pretty embarrassing.」
+
+I search through my heart.
+I look for the feelings at the core of my dream―to become an architect.
+％Ｂ
+「I think it's amazing to be able to make people smile. And not just that, but reassure them and move their hearts... I wanna help support those feelings.」
+
+
+％Ｂ
+「I looked into a lot of things, and found out about architects. I've been studying for a long time, ever since I decided to become an architect. I still want to be one now just as much... no, even more than I did before.」
+
+
+％Ｂ
+「I wanna make a place that's fun, and warm... and comfortable, where people always smile. I wanna become an architect who can support other people's smiles. I'm doing my best now so I can make that dream come true.」
+
+
+Touko
+「...」
+％Ｂ
+「...Come on, it's embarrassing when you don't say anything like that...」
+Touko
+「No, I was just thinking about how amazing it is. You have a proper dream and a road you want to move along.」
+
+all
+She steps away from my side and starts walking toward the sea.
+For some reason... it feels like she might just melt away into the water and disappear.
+
+Touko
+「I'm sure... people will forget. Because it isn't possible for something to stay the same forever.」
+
+％Ｂ
+「What?」
+Touko
+「Like Jellyfish-senpai's aquarium, for example... No matter how nice a building it is, it still might become something that only exists in the memories of the people who live in Shionagi and in records, and... disappear.」
+
+
+％Ｂ
+「Touko...?」
+Touko
+「Disappear, as if it had never existed in the first place. So then... was there a point to it being there at all?」
+
+It'd be easy enough to deny what she's saying.
+...But is there any point in just trying to console her with empty words when I don't even know what's at the root of this?
+
+Touko
+「...Sorry. Forget that just now.」
+I walk toward her and take her hand.
+If words won't work, then I can use my actions.
+Touko
+「...Your hand's so warm
+, Ryousuke-kun
+
+.」
+％Ｂ
+「Your hand's a bit cold. It's perfect for me, since it's a bit hot.」
+Her hand... is trembling just a little in mine.
+I wrap my hands around hers, to push away the doubts she's holding in her heart.
+
+％Ｂ
+「You can depend on me. I don't know how much help I'll be... but I wanna be there for you as much as possible.」
+
+Touko
+「...Mhm.」
+all
+％Ｂ
+「From the architectural firm...? Mr. Azuma?」
+_smh_st_02
+_smh_st_btn02
+_smh_st_02
+_smh_st_btn05
+％Ｂ
+「Yes, hello?」
+Azuma
+『I have something I wanted to ask you about. I want a student's opinion on something, so could you come by sometime in the near future?』
+
+％Ｂ
+「You want a student's opinion? Yes, I understand. I'll check to see when I can, and get back to you as soon as possible.」
+
+Azuma
+『That'd be great. No need to rush. Just come by when you're free.』
+
+_smh_st_04
+Touko
+「Was that from Mr. Azuma?」
+％Ｂ
+「Yeah. He says he wants a student's opinion on something. I'll make plans to go when I've got a break between committee work.」
+
+
+Touko
+「You should just go now. We don't have any plans for what we're doing after this anyway, and talking to your teacher about work is important, isn't it?」
+
+％Ｂ
+「Huh? But...」
+Touko
+「You need to treasure your dreams. Don't you think you should work hard for those, instead of some pointless date?」
+
+％Ｂ
+「Th-Then how about you come with me? He said he wanted a student's opinion, so having more should...」
+
+Touko
+「Mmm... I can't. I'd just be in the way, and I'd fall asleep when I get bored. It'd be rude to your teacher.」
+
+
+％Ｂ
+「No, that's not...」
+Touko
+「It's fine, it's fine. We were together all day yesterday, and we'll see each other again tomorrow. You don't have to worry about me.」
+
+
+all
+Azuma
+「...I thought I said you didn't need to rush to come here.」
+％Ｂ
+「Well, it's a bit of a long story... I was on a date with Touko, and she just told me to go now and sent me on my way.」
+
+Azuma
+「And you came here by yourself after that? Why didn't Touko-chan come with you?」
+
+％Ｂ
+「I asked her if she wanted to... but she said she wouldn't be useful even if she came.」
+Azuma
+「...Let me tell you something. I know I asked you to come here and all, but a man who makes a woman lonely will never be able to do satisfying work.」
+
+
+％Ｂ
+「Gh... I-I'll bear that in mind.」
+Azuma
+「I'll talk to you about something before we get to stuff for work. Listen up. A man should always carry both work and his woman in his heart, no matter where he goes. When I was your age...」
+
+
+all
+_smh_st_01
+_smh_st_btn01
+_SMH_ST_01
+_smh_st_02
+_smh_st_btn02
+_smh_st_02
+_smh_st_btn05
+％Ｂ
+「...Hello? Touko?」
+Touko
+『...Mm. What's wrong?』
+％Ｂ
+「Sorry about today. How I left in the middle of our date.」
+Touko
+『You don't have to worry about it. I was the one who told you to go.』
+％Ｂ
+「Yeah, but Mr. Azuma was angry with me. He said a man who makes a woman lonely isn't someone who can do good work.」
+
+Touko
+『Ahaha, he sure is different, isn't he? The way he thinks is just as show-offish as he looks.』
+
+％Ｂ
+「Wha, is that a show-off's way of thinking!? I totally took it to heart!」
+
+Touko
+『Specifically the way he says "a woman." I'm sure he's done his fair share of mischief too.』
+
+％Ｂ
+「...Anyway, that aside. I gotta make it up to you. You might be fine with it, but I'm not.」
+
+Touko
+『...Okay. I'll be waiting.』
+％Ｂ
+「Let me talk it over in detail with you tomorrow. We can set up a date plan while we're doing committee work.」
+
+Touko
+『...Mm, yeah.』
+％Ｂ
+「...Touko? You listening to me?」
+Touko
+『Mm? Mhm, I'm listening. Ahaha, maybe I'm a bit sleepy.』
+
+％Ｂ
+「My bad, let's get to bed, then. Night, Touko.」
+
+Touko
+『...Mm. Night.』
+_smh_st_04
+...She sure was out of it today.
+I'll ask her about it again tomorrow.
+dummy
+_00com
+bgm12
+bgm12
+bg310
+_00bup
+bs_tk02_09
+_00grp
+bg310
+_00bup
+bu_tk02_09
+_02smh
+_00bup
+bu_tk02_0602
+_00bup
+bu_tk01_02
+_00bup
+bu_tk01_0402
+_00bup
+bu_tk01_02
+_00bup
+bu_tk01_01
+_00bup
+bu_tk01_0402
+_00bup
+_00bup
+bu_tk01_0602
+all
+_00bup
+_00bup
+all
+bgm03
+bgm03
+_00bup
+bs_tk02_09
+_00bup
+bs_tk02_01
+_00bup
+_00bup
+bs_tk02_0902
+_00bup
+bs_tk02_1202
+_00bup
+_00bup
+bs_tk02_0603
+_00bup
+bs_tk02_1202
+_00bup
+bu_tk02_07
+_00bup
+bu_tk02_13
+_00com
+_00bup
+bu_tk02_0602
+_00bup
+bu_tk02_1102
+all
+_00bup
+_00bup
+all
+se0020
+_02smh_06tell
+bgm12
+bgm12
+sumaho_tsunagaru
+se0024_01
+se0024_01
+_02smh_auto
+_00bup
+bs_tk01_0105
+_00bup
+bs_tk01_02
+_00bup
+bs_tk01_0402
+_00bup
+bs_tk02_0602
+_00bup
+bs_tk02_04
+all
+_00bup
+_00bup
+all
+_00grp
+bgm15
+bgm15
+_00grp
+bg408
+_00bup
+bs_az01_11
+_00bup
+bs_az01_07
+_00bup
+bs_az01_08
+_00bup
+bs_az01_04
+all
+_00bup
+_00bup
+all
+_00grp
+bgm16
+bgm16
+bg505
+_00grp
+bg201n
+_02smh_auto
+_02smh_auto
+_02smh_06tell
+sumaho_call
+sumaho_tsunagaru
+se0024_01
+se0024_01
+_02smh_auto
+_00grp
+_00com

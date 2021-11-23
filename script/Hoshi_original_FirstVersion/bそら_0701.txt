@@ -1,0 +1,250 @@
+﻿0630
+月
+0701
+火
+$$smh_OpenCHK
+％Ｂ
+「I have a once-in-a-lifetime request for you, Narusawa-san.」
+Rikka
+「...I'm not letting you borrow my notes.」
+Once-in-a-lifetime request, shot down.
+％Ｂ
+「Wha...!? Um, seriously! I'm begging you!」
+Rikka
+「I'm not saying it to be mean. I have my own studying to do for exams.」
+
+％Ｂ
+「C-Couldn't you do something about that, please!? I'm begging you! Narusawa-sama! Rikka-sama!」
+
+I clap my hands together and bow.
+Rikka
+「Wha, don't call me weird names! People are looking at us!」
+
+％Ｂ
+「Please, come on! The exams have stuff that I haven't learned at this school 'cause I transferred in. I'm seriously in trouble at this rate!」
+
+
+％Ｂ
+「I heard from Sora that you have to take supplementary lessons if you fail. I won't be able to help with the Tanabata Festival if that happens... Come on, please! Please! I'm begging you!」
+
+
+Rikka
+「Geez... Fine. But give them back as soon as you're done copying the parts you don't know, okay?」
+
+
+Natsuki
+「Of course! I'm in your debt, Rikka-sama!」
+％Ｂ
+「...」
+Rikka
+「...」
+％Ｂ
+「Segawa... You too...?」
+Natsuki
+「I only need math and physics... so please, Rikka-sama! Please let me borrow your notes!」
+
+Rikka
+「What is wrong with you two...?」
+all
+After-school club activities are on hold starting today to allow for studying.\n\r
+
+So Sora and I decided to meet up on the roof for lunch break.
+％Ｂ
+「...But you're only allowed to be on the roof for astronomy club activities, right? You sure we should be up here to eat lunch?」
+
+
+Sora
+「...No issues.」
+She pulls out a notebook.
+She flips it open to a page with a diagram of what looks like a pie chart split into twelve segments, and points to the center.
+
+Sora
+「...Studying sundials.」
+I see... Astronomy club activities indeed...
+％Ｂ
+「By the way, you sure you don't need to be eating with your friends?」
+Sora
+「...*nod*」
+Sora
+「...I'm always with my friends in class. But I can only see you during lunch break right now.」
+
+
+
+
+Sora
+「...And they all were really happy to let me go when I told them I was going to be eating with you.」
+
+
+
+
+％Ｂ
+「Really... Well, it's only until exams are over anyway.」
+Sora
+「...*nod* I want them to be over soon.」
+％Ｂ
+「Hm?」
+Sora
+「...Because we can watch the stars together again once they're over.」
+She's so casual about saying something so sweet.
+Sora
+「...Are you okay for exams?」
+％Ｂ
+「Yeah, I got Narusawa to lend me her notes. Okihara-senpai said she'd go over her old exams with me too, so I'm feeling like I'll be able to manage.」
+
+
+Sora
+「...I wish I could teach you.」
+％Ｂ
+「The sentiment's more than enough.」
+％Ｂ
+「Anyway, I'll do my best to not fail any exams. And I'll be looking into stuff for getting the planetarium idea to work out too.」
+
+Sora
+「...You don't need to overwork yourself. Focus on studying.」
+％Ｂ
+「I know. Don't worry, I know my limits.」
+％Ｂ
+「I've got my schedule planned out more or less. I'm gonna eat after I get home today, and then study until about ten.」
+
+
+％Ｂ
+「I'll take a bath after that, and then do some research for the planetarium for about an hour. And then I'll study some more. That's pretty much the plan.」
+
+
+Sora
+「...How late are you going to study until?」
+％Ｂ
+「Until I can't do any more, obviously.」
+Sora
+「...」
+％Ｂ
+「Don't be so worried. I'll be fine. Though I am worried about how I'm gonna wake up the next day...」
+
+I'll probably be fine if I set like five alarms, each one five minutes apart.
+
+Sora
+「...I'll wake you up then.」
+％Ｂ
+「Hm?」
+Sora
+「...I'll send you a message on LIME in the morning. I'll call you if you don't respond. How about that?」
+
+％Ｂ
+「You're not starting with the phone call?」
+Sora
+「Actually typing a reply to the message will wake you up.」
+％Ｂ
+「I get it... but you know, I might not reply on purpose 'cause I wanna hear your voice.」
+
+Sora
+「...No issues.」
+％Ｂ
+「You sure?」
+Sora
+「Getting to hear your voice in the morning would make me happy too.」
+
+
+
+She flushes a little bashfully.
+dummy
+_00com
+bgm11
+bgm11
+_00grp
+bg101
+_02smh
+_00bup
+bs_rk03_01
+_00bup
+bs_rk03_08
+bgm21
+bgm21
+_00bup
+bs_rk02_05
+_00bup
+_00bup
+bs_rk02_0506
+_00bup
+bs_rk02_0312
+_00bup
+_00bup
+bs_rk02_0612
+_00bup
+bs_rk02_06
+_00bup
+_00bup
+bs_rk02_0308
+_00bup
+_00bup
+bs_nt13_0102
+_00bup
+bs_rk02_0805
+_00bup
+bs_nt01_0610
+_00bup
+_00bup
+bs_nt01_0510
+_00bup
+bs_rk02_06
+all
+_00bup
+_00bup
+all
+_00grp
+gakuen_chime
+bgm12
+bgm12
+_00grp
+bg107
+_00bup
+bs_sr03_08
+_00bup
+bs_sr03_01
+_00bup
+bs_sr03_0310
+_00bup
+bs_sr02_01
+_00bup
+bs_sr02_1008
+_00com
+_00bup
+_00bup
+bs_sr02_1004
+_00bup
+bs_sr02_10
+_00com
+_00bup
+bs_sr02_1011
+_00bup
+bs_sr02_10
+_00bup
+bs_sr03_0110
+_00bup
+bs_sr03_0706
+_00bup
+bs_sr03_0310
+_00bup
+_00bup
+bs_sr03_08
+_00bup
+bs_sr03_0904
+_00bup
+bs_sr03_0701
+_00bup
+bs_sr03_03
+_00bup
+bs_sr02_10
+_00bup
+_00bup
+bs_sr02_10
+_00bup
+bs_sr02_1008
+_00bup
+bs_sr02_11
+_00bup
+bs_sr02_10
+_00com
+_00bup
+bs_sr02_11
+_00grp
+_00com

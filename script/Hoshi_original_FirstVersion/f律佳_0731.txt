@@ -1,0 +1,209 @@
+﻿0729
+火
+0731
+木
+$$smh_OpenCHK
+Shuuichi
+「―Hm. So no issues, then?」
+％Ｂ
+「None so far. We've still got a lot of last-minute adjustments to do, but we should have something close to the end product by this weekend.」
+
+I'm reporting the Shionagi Friends' progress to Shuuichi after finishing up for the day.
+
+％Ｂ
+「It's crazy helpful to have Segawa and Yukimura helping out when they aren't even in the committee.」
+
+Shuuichi
+「Segawa aside, it'd be great if Yukimura could just keep going like this and join the committee...」
+
+％Ｂ
+「I doubt that'll happen. Yukimura probably wouldn't wanna be a part of any kind of organization or whatever.」
+
+She probably values her freedom too much for that.
+
+The Shionagi Friends is just another one of the things she likes.
+But that doesn't mean she's irresponsible either.
+She's a real mystery.
+all
+Ishizuka
+「Great work today!」
+Rikka
+「Yes, you too. Oh...」
+I catch Rikka's eye as she comes back from working with the concert team.
+Rikka
+「Ehehe.」
+％Ｂ
+「Haha.」
+We both laugh at the unexpected fortune of running into each other like this.
+Ishizuka
+「Now, now, Narusawa-san. You can leave after we're done with our report. I understand you're happy your boyfriend's here, but it'll only be for a little longer.」
+
+Rikka
+「Ah, uh... I'm sorry.」
+all
+Ishizuka
+「Nirasawa-kun. The concert team's work is on schedule. Stage construction begins the day after tomorrow. We'll get the equipment in on the 4th, and we'll be doing a day-before rehearsal on the 5th.」
+
+Shuuichi
+「Understood. I'm sure things will be chaotic with the contractors' vehicles and the building materials, so be careful so no accidents occur.」
+Ishizuka
+「I know. Anyway, that's all for the concert team today. Okay Narusawa-san, you may now be as lovey-dovey as you'd like with your boyfriend.」
+
+Rikka
+「I-I won't do that!」
+Ishizuka
+「You probably haven't gotten to spend much time with him with all the practicing you've been doing with Meguru-san recently, right? What if he finds another girl because he's lonely?」
+Rikka
+「Hehe. He's not the type to do something like that.」
+She smiles as she gives an immediate response.
+％Ｂ
+「Besides, we always walk to and from school together. We might have less time for the two of us, but we're still enjoying ourselves.」
+
+Ishizuka
+「Oh dear... I was trying to tease her, but I ended up on the receiving end of their bragging.」
+
+Shuuichi
+「It's awful how they do it so naturally, isn't it?」
+Shuuichi
+「Yes, come in. The door is unlocked.」
+all
+Asakura
+「Please excuse me.」
+％Ｂ
+「Oh...」
+I feel like I've seen her before somewhere...
+Where was it again?
+Rikka
+「You're Asakura-senpai, aren't you? What can we help you with today?」
+Asakura
+「Ohh. You're the girl who came to our class that one time. Thanks again for that.」
+
+Asakura-senpai... Came to our class that one time...
+...Right. She's an upperclassman we met when we were confirming participation for the Shio-cademy Fest.
+Asakura
+「I have a bit of a request today.」
+Asakura
+「Do you think we could participate after all?」
+Rikka
+「Wha... Um, that's...」
+Asakura
+「Our drummer who ducked out came back. She says she wants to play together with us again, one last time.」
+
+Asakura
+「I know we're in the wrong here. But would it be possible somehow?」
+
+Asakura
+「Please!!」
+Asakura-senpai bows her head so hard it looks like she's about to get on her hands and knees.
+Rikka
+「...」
+Rikka looks at her uncomfortably in silence.
+Because she knows that she can't do anything for her.
+It's not Rikka who says something to Asakura-senpai, but Ishizuka-san.
+
+all
+Ishizuka
+「We've already finalized the program for this year, and we do not have the space to add you at this stage. We're very sorry for not being able to help you.」
+Asakura
+「I see... Please don't apologize. I didn't think we'd be able to anyway. Thank you very much.」
+
+She bows her head again and leaves.
+Rikka
+「...」
+Ishizuka
+「Don't look so guilty. I wish we could do something for them too. But there's nothing we can do.」
+
+Ishizuka
+「There are always several people like that every year. We can't fulfill everyone's requests.」
+
+Ishizuka
+「You couldn't say anything because you knew that, right?」
+Unlike Rikka, Ishizuka-san seems relatively unfazed.
+She must have a lot more experience with things like these.
+But Rikka's not used to it. It doesn't seem to be sitting too well with her.
+I wish something could be done for them too, but we can't do anything if all the slots are filled...
+
+％Ｂ
+「It's like Ishizuka-san says, right? It's a shame, but it's not something you need to beat yourself up over.」
+
+I pat her on the head to comfort her.
+Rikka
+「She was so serious about her request... She must really love music.」
+％Ｂ
+「It's the same for you, right? You'll just have to play their share of music too.」
+
+Rikka
+「Mhm... You're right.」
+dummy
+_00com
+bgm17
+_00grp
+bg104e
+_02smh
+_00bup
+bs_sy11_07
+_00bup
+bs_sy11_0107
+_00bup
+bs_sy01_08
+gakuen_door1
+all
+_00bup
+_00bup
+all
+_00bup
+bs_rk02_0902
+_00bup
+_00bup
+bs_rk02_0213
+_00bup
+bs_rk01_04h
+_00bup
+bs_rk01_0402h
+_00bup
+bs_rk11_0810
+all
+_00bup
+_00bup
+all
+_00bup
+bs_sy01_02
+_00bup
+bs_rk12_08h
+_00bup
+bs_rk01_03
+_00bup
+bs_rk01_02
+_00bup
+_00bup
+bs_sy01_09
+knock_onna
+_00bup
+bs_sy01_01
+gakuen_door1
+all
+_00bup
+_00bup
+all
+_00bup
+bs_rk03_02
+_00bup
+bs_rk03_0607
+_00bup
+_00bup
+bs_rk03_0708
+_00bup
+bs_rk03_0608
+all
+_00bup
+_00bup
+all
+gakuen_door1
+_00bup
+bs_rk11_07
+_00bup
+bs_rk11_10
+_00bup
+bs_rk11_1102
+_00grp
+_00com

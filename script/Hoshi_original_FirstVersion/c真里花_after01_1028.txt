@@ -1,0 +1,172 @@
+﻿1009
+日
+1028
+金
+Firm Staff A
+「Heeey, Hino. Could you make two copies of this?」
+
+Firm Staff A
+「Heeey. Could you make two copies of this?」
+
+％Ｂ
+「Huh? Uh...」
+Firm Staff A
+「Come on, don't space out like that. I need this copied.」
+
+％Ｂ
+「Oh... I'm sorry. Right away!」
+My senior coworker's words had gone in one ear and out the other.
+Firm Staff A
+「You gotta get it together.」
+％Ｂ
+「I'm very sorry!」
+Firm Staff B
+「You can't blame him. Today's the day they announce the results of the drafting exam, right?」
+Firm Staff A
+「Huh? Is it really?」
+％Ｂ
+「Oh... Yes, actually...」
+Firm Staff A
+「So that means... that the results are probably already up on the internet by now, right?」
+
+％Ｂ
+「They probably are, but I'm at work right now... So I thought I'd check afterward.」
+I'd probably fall straight into despair if I failed.
+I thought I'd try to distract myself with work during the day, but I guess I just can't help but think about it.
+
+Firm Staff A
+「No, no. You need to check stuff like this right away. Go on and check.」
+
+Firm Staff B
+「That's right. It's not like you'll die if you fail.」
+％Ｂ
+「Well of course, but...」
+But I've got my own circumstances.
+Circumstances that make it so I definitely can't let myself fail.\n\r
+For Marika's sake... For the sake of a promise made between two men...
+％Ｂ
+「...Hm?」
+That's when my phone rings.
+Did I get a message or something?
+I glance at the screen just in case...
+【Marika】「I looked up your #Nexaminee ID! It says #Nyou passed!!」
+【Marika】_st_0104
+％Ｂ
+「...What?」
+I passed?
+Firm Staff B
+「Oh, mail from your family?」
+Firm Staff A
+「Look at his face... Looks like he must've passed.」
+％Ｂ
+「D-Does it... seem that way?」
+Firm Staff B
+「That's the kind of face most people make when they pass the first-class exams.」
+％Ｂ
+「H-Hahaha... I-Is that so... Th-That's exactly the case... I passed the first-class exams.」
+
+
+Firm Staff B
+「Well, congratulations.」
+Firm Staff A
+「That's great. Now you're the real deal too.」
+％Ｂ
+「Oh no, that's... But still, thank you very much.」
+
+I thought I'd be more jump-up-and-down levels of happy.
+But it's more like I'm just relieved. I'm all limp.
+％Ｂ
+「Phew...」
+Azuma
+「I hear you passed, Hino.」
+Azuma
+「Hey. I hear you passed.」
+％Ｂ
+「Oh... Yes! Thanks to your help!」
+Azuma
+「All right, then let's wrap things up early today and go celebrate. How about we go all out for once!」
+
+Firm Staff A
+「Seriously? Lucky us♪」
+Firm Staff B
+「I'll go put in a reservation, then! There's a place I've been wanting to go to～♪」
+
+％Ｂ
+「I'm sorry, Chief. Thank you very much.」
+
+Azuma
+「You've done well to pass on the first try.」
+％Ｂ
+「It's all thanks to your training. I'll do my best to be of use to this firm.」
+
+Azuma
+「Hm, that's a good mindset. I think I'll let you handle this job, then.」
+
+He lays down a heavy folder onto my desk with a thud.
+Azuma
+「Get this sorted out by the end of the day.」
+％Ｂ
+「Wha... A-All of this? And more importantly, am I really allowed to do that?」
+
+This is the kind of work that the senior coworkers do. They told me it was still too early for me to work on this stuff.
+Azuma
+「Of course you are. You're a first-class architect.」
+
+％Ｂ
+「Ye...Yes! I'll do my best!」
+Azuma
+「Get this done today, then. You won't make it in time for the celebration party if you don't hurry, you know.」
+
+％Ｂ
+「Yes!」
+all
+Firm Staff A
+「And my copies too!」
+％Ｂ
+「Yes!」
+I feel like doors have opened before my eyes. I've finally begun.
+The sensation of finally being able to leap into a wide world that I've always wanted to be in.
+
+But this is still just the beginning.
+And knowing that gives me even more strength.
+dummy
+_00com
+bgm17
+_00grp
+bg408
+_00com
+sumaho_vibe_one
+_02smh_01lime
+_00_mess
+_00_mess
+_00_mess
+_02smh_auto
+_00bup
+bs_az01_02
+_00com
+_00bup
+bs_az01_13
+_00bup
+bs_az01_01
+_00bup
+bs_az11_06
+_00bup
+_00bup
+bs_az11_02
+file_oku
+_00bup
+bs_az11_08
+_00bup
+bs_az01_06
+_00bup
+bs_az01_01
+_00bup
+_00bup
+bs_az01_02
+all
+_00bup
+_00bup
+all
+bg501
+_00grp
+_00com

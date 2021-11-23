@@ -1,0 +1,749 @@
+﻿0701
+火
+0702
+水
+$$smh_OpenCHK
+I dunno what it is...
+But Narusawa's been acting kinda weird this morning.
+Rikka
+「...」
+I can tell she's been glancing at me.
+％Ｂ
+「Uh... Is something up?」
+Rikka
+「...! Wha... Um... Well, you see...」
+Rikka
+「...It's almost homeroom, isn't it? I don't remember what our first period class is...」
+％Ｂ
+「Wasn't it English grammar?」
+Rikka
+「Right... That's right. How silly of me to forget...」
+Natsuki
+「...Tch!」
+％Ｂ
+「...」
+And during one of our morning breaks...
+Rikka
+「Um, could you come with me for a bit?」
+％Ｂ
+「...Huh? Where to?」
+Rikka
+「Uuuuhh～～ ...n, you idiot... There's no way I could say that.」
+
+％Ｂ
+「Huh? Idiot?」
+Did I do something wrong?
+all
+She attempts to leave the classroom.
+％Ｂ
+「Wait, Narusawa...!」
+Rikka
+「Don't follow me!」
+％Ｂ
+「Wha...? But you just told me to...」
+Rikka
+「I'm going to the bathroom. Geez, you pervert!」
+all
+％Ｂ
+「Whaaat～～」
+That's just too unreasonable.
+Natsuki
+「...Tch!」
+％Ｂ
+「...」
+all
+I can't take it anymore.
+I have Narusawa come out into the hall with me during lunch break.
+％Ｂ
+「Is there something you wanna talk to me about?」
+Rikka
+「There's... nothing, no.」
+％Ｂ
+「Can you look me in the eye and say that?」
+Rikka
+「Look you in the...」
+She glances upward... and slooowly looks to the right.
+％Ｂ
+「Oh, you looked away.」
+Rikka
+「It's strange to even force people to look you in the eye. Don't say I didn't warn you if I try to scratch you.」
+
+％Ｂ
+「Since when were you a monkey?」
+Rikka
+「Oh? Cats scratch too, you know. Most animals apparently take direct eye contact as a sign of aggression.」
+
+
+Rikka
+「Which means that telling someone to look you in the eye is the same as picking a fight with them.」
+％Ｂ
+「We are human beings. We have the convenience of living in a culture that uses language.」
+Rikka
+「Language, you say... Did you know? Not even sign language is universal throughout the world.」
+％Ｂ
+「Now wait a second, we both speak the same language, don't we!? We understand each other!」
+％Ｂ
+「What's up with you today, Narusawa? You're seriously acting weird today. If there's something wrong, then I want you to say it properly.」
+
+Rikka
+「Oh... Hino-kun... Uuuh, uuuh～～ ...But there's no way I can say it here... You brute!!」
+Rikka
+「Oh... ％Ａ-kun... Uuuh, uuuh～～ ...But there's no way I can say it here... You brute!!」
+all
+She runs away with a bright red face.
+％Ｂ
+「Okay, seriously. What's going on?」
+Natsuki
+「Tchhh...」
+％Ｂ
+「...」
+Yeah. I know.
+I already know that Segawa's pulling the strings behind the scenes.
+She's probably told Narusawa something she shouldn't have.
+But it must really be something if Narusawa's acting this strangely about it.
+
+all
+I could corner Segawa and interrogate her, but it'd probably just be better to ask Narusawa directly.
+It doesn't seem like anything too serious from what I've seen, so I think it's fine to wait and see for a little longer.
+
+But now it's after school, and Narusawa still hasn't told me anything.
+She's been acting weird all day.\n\r
+I guess I should be glad she's acting normally toward the others.
+Marika
+「I'm kind of looking forward to all of us studying together.」
+
+Touko
+「We've got lots of snacks, right? And Piano-chan has lots of CDs at her house too.」
+
+all
+Misa
+「Fufu, you shouldn't think only of playing before we get there, okay? I will be teaching you as best as I am able.」
+
+
+Sora
+「Good to have a third year with us.」
+all
+Natsuki
+「Aaahh～ ...I feel like I won't make it in time starting now. I've been skipping class a lot, so I'm not really confident...」
+
+Misa
+「What are your grades usually like?」
+Natsuki
+「I'm good at memorizing things, but to be honest I'm bad at math and science... and I'm absolutely done for in English when practicals are involved.」
+Touko
+「I got a 40 for my midterms at my last school. Though I got a 90 on the finals before that.」
+
+all
+Natsuki
+「Why'd it drop so much? Did something happen?」
+Touko
+「Mmm～ Not really. The passages for the test questions were kinda boring. So I just kinda guessed.」
+
+
+Rikka
+「Do interesting test passages exist?」
+all
+Touko
+「They do. There are ones that make you want to read more, ones that make you want to doodle in the margins, ones that make you want to curl up in a kotatsu and eat oranges, and so on.」
+
+
+％Ｂ
+「You've got a really interesting kinda sensitivity to that stuff, huh. But you can do pretty well if you feel like it, right?」
+
+Touko
+「Pretty much.」
+all
+Natsuki
+「Waaait... Am I the one who's worst off here?」
+
+Sora
+「I can teach you math. Because math and astronomy go hand in hand.」
+
+Natsuki
+「...Thanks... Sora.」
+all
+％Ｂ
+「How about you, Narusawa? You gonna be all right for your exams?」
+Rikka
+「...! Ah...uh...uuuh... I don't even need to think about it... since I've been sitting in class.」
+
+...Crap.
+I talked to her naturally, but she's suddenly on edge.
+
+Luckily, it looks like the others are too focused on other conversations to notice.
+Rikka
+「Uuuh～」
+Hmm～ ...How long's this gonna go on for?
+all
+The sound of pens on paper fills the room.
+We're mostly silent, other than occasionally asking Okihara-senpai questions.
+
+Though Yukimura's apparently lost interest already, since she's just sitting there eating chocolate pretzels. At least she's being careful not to make much noise.
+
+But there is one thing that's on my mind.
+Rikka
+「...」
+It's still happening.
+Narusawa looks at my face every now and then and goes red.
+Or I guess it's not actually my face, but my mouth...?
+I've wiped my mouth with the back of my hand, but it doesn't look like there's anything stuck there.
+all
+Natsuki
+「Aaaaghhh～～～!! I'm done!! I'm so done!! My brain's gonna evaporate if I keep doing this!!」
+
+Segawa tears at her hair and throws in the towel.
+
+Sora
+「Natsu's brain is going to disappear. This is serious.」
+Misa
+「She has been working hard on the math that she doesn't like, hasn't she? Let's take a short break, then.」
+
+％Ｂ
+「Yes, let's do that.」
+all
+Marika
+「Pheeew... I'm actually a little tired too～」
+
+Rikka
+「I'll go get something to drink then. I have iced tea, iced coffee, apple juice, and barley tea. Does anyone want anything specific?」
+
+
+all
+Everyone makes their own separate requests.
+％Ｂ
+「I'll help out too.」
+I should be the one to carry this many glasses, as the guy.
+Rikka
+「Uuh... Please do.」
+Narusawa still seems on edge, but she seems to understand my line of reasoning and nods.
+
+We move to the kitchen and start getting the tea set ready.
+％Ｂ
+「Should I just put the glasses on this tray?」
+Rikka
+「Mhm...」
+...I shouldn't let this continue for much longer.
+％Ｂ
+「Segawa said something to you, didn't she?」
+Rikka
+「Wha... Why do you ask?」
+％Ｂ
+「'Cause you've clearly been acting weird today.」
+Rikka
+「...」
+She must be aware of it herself... She stays silent, and doesn't refute it.
+She eventually relents and opens her mouth.
+Rikka
+「...Kissing.」
+％Ｂ
+「Kissing?」
+Rikka
+「I was embarrassed back when you confessed... and I couldn't respond properly...」
+
+Rikka
+「So when I told Segawa-san about that... She said that if I didn't let you kiss me, you'd get tired of me and cheat on me...」
+
+％Ｂ
+「Ahh, I get it. God, Segawa. Why would you say something that weird to her?」
+
+Rikka
+「I don't want you to hate me...」
+％Ｂ
+「There's no way I'd hate you just 'cause you didn't let me kiss you.」
+
+Rikka
+「What do you mean, "just"... I'm honestly really troubled over here, you know.」
+％Ｂ
+「My bad. But it really is a "just" to me.」
+％Ｂ
+「I wouldn't break up with you just 'cause we didn't get to kiss. How about you?」
+
+Rikka
+「I like you too, even without kissing you...」
+％Ｂ
+「See? There you go.」
+We're both beginners when it comes to love. Everything we do will be for the first time.
+
+We'll have doubts in our hearts like this, and so we'll have to learn how to take care of those one by one.
+
+I get closer, and hold her hand.
+We'll slowly take these "first times" and change them into "experience."
+It's going to be fun for sure.
+And I know that from the way her eyes light up before me.
+
+We stare into each other's eyes.
+％Ｂ
+「Hey, Narusawa... Is it all right if I kiss you?」
+Rikka
+「Wha, n-now? But the others are over there...」
+％Ｂ
+「They won't find out. There's a wall. But I won't if you don't want to.」
+Rikka
+「...」
+Rikka
+「Okay... Do it. My heart was beating like crazy before when you had just confessed, but I think I'm okay now.」
+Rikka
+「I want to continue where we left off... I want you to have my precious first kiss.」
+
+She slowly closes her eyes, tilts her chin upward, and goes up on tiptoe.
+I gently hold her by the shoulders.\n\r
+I want to sweep her off her feet and give her a passionate kiss right here and now.
+She's just that cute as she waits for me to kiss her.
+
+But we need to be quiet.
+Natsuki
+「Everyone's just hanging out in the living room anyway, so no one's gonna know～」
+
+％Ｂ
+「Y-Yeah, you're right.」
+Sora
+「...*gulp*」
+Marika
+「A-A kiss...」
+％Ｂ & Rikka 
+「...Huh?」
+all
+Rikka
+「...!」
+％Ｂ
+「Y-You... You guys...!」
+Segawa and Shinozaki are peering in from across the kitchen counter, which Ousaka's hiding behind.
+
+...Ousaka probably couldn't see us from behind the others.
+all
+Yukimura's off on her own, engrossed in her snacking.
+Those mustard-leaf shrimp rice crackers must really be something.
+all
+Okihara-senpai's in the living room with both hands over her face, peering out through a small gap between her fingers.
+
+It appears you're at the age where you're curious about those things...
+Also, that reaction makes it obvious she was watching us.
+all
+Natsuki
+「Ahh～ ...You can just think of me as the cameraman for a drama filming. Don't mind me, please continue, go ahead.」
+
+Sora
+「I am the first star of the evening, shining in the night sky. No one but the stars are watching. Go ahead.」
+
+Marika
+「Th-Then, I think I'm a garden gnome, maybe? Go ahead?」
+all
+Rikka
+「Uuh... Uuuuh～～ ...Uuuuuhh～～」
+She seems especially embarrassed about them seeing her face when she was expecting a kiss.
+She's making this cute moaning sound with her face red.
+％Ｂ
+「...Wanna do it?」
+Rikka
+「Of course not!」
+She's not actually angry. She seems to have understood my intent.
+It's easier to get through this with humor. Less embarrassing too.
+
+all
+I confirm to make sure that Segawa and the others have indeed run away back to the living room, and turn back toward Narusawa.
+
+％Ｂ
+「Sorry, Narusawa. I was just so happy to hear you wanted to kiss too. I was careless.」
+Rikka
+「You're not the only one to blame. I wanted you to do it too. So we're even. Hehe.」
+
+
+％Ｂ
+「Thanks. I'll take these to the others, then.」
+all
+I lift up the tray with the glasses and cookies.
+And then... a tug.
+I feel something pulling on me just a bit as I move to go to the living room.
+Narusawa's grabbed my sleeve.
+％Ｂ
+「Hm? What's up?」
+Rikka
+「One day... Whenever you want to do it is fine...」
+Rikka
+「I'll be waiting... for your kiss.」
+％Ｂ
+「...O-Okay.」
+It takes a lot to resist the urge to kiss her right then and there.
+dummy
+_00com
+bgm21
+_00grp
+bg101
+_02smh
+_00bup
+bs_rk02_04
+_00bup
+bs_rk12_08h
+_00bup
+bs_rk02_1211
+_00bup
+bs_rk02_1213
+_00bup
+_00bup
+bs_rk02_0609
+_00bup
+bs_nt13_11
+_00grp
+_00grp
+bg101
+chair_hiku
+_00bup
+bs_rk02_0311
+_00bup
+bs_rk02_12
+_00bup
+_00bup
+bs_rk02_1106
+all
+_00bup
+_00bup
+all
+_00bup
+bs_rk02_03h
+_00bup
+bs_rk02_0312h
+_00bup
+bs_rk
+all
+_00bup
+_00bup
+all
+_00bup
+bs_nt13_11
+_00bup
+bs_nt13_11
+all
+_00bup
+_00bup
+all
+_00grp
+_00grp
+bg102
+_00bup
+bs_rk01_01
+_00bup
+bs_rk01_11
+_00bup
+bs_rk01_07
+_00bup
+_00bup
+bs_rk02_07
+_00bup
+bs_rk01_12
+_00bup
+_00bup
+bs_rk01_0610
+_00bup
+bs_rk01_05
+_00bup
+bs_rk03_05
+_00bup
+bs_rk13_13
+_00bup
+_00bup
+bs_rk13_0803
+_00com
+_00bup
+bs_rk11_11
+_00bup
+bs_rk11_11h
+_00bup
+_00bup
+bs_rk12_0611h
+_00bup
+bs_rk12_1112h
+_00bup
+bs_rk11_11h
+_00bup
+_00bup
+bs_rk12_0611h
+_00bup
+bs_rk12_1112h
+all
+_00bup
+_00bup
+all
+_00bup
+bs_nt13_11
+_00bup
+bs_nt13_11
+all
+_00bup
+_00bup
+all
+_00grp
+bgm15
+_00grp
+bg301e
+_00bup
+bs_mr02_02
+_00bup
+_00bup
+bs_tk03_02
+_00bup
+_00bup
+bs_tk03_04
+all
+_00bup
+_00bup
+all
+_00bup
+bs_ms01_01
+_00bup
+_00bup
+bs_ms01_03
+_00bup
+_00bup
+bs_sr02_10
+all
+_00bup
+_00bup
+all
+_00bup
+bs_nt13_0910
+_00bup
+bs_nt13_0910
+_00bup
+bs_ms01_01
+_00bup
+bs_nt01_06
+_00bup
+bs_tk03_07
+_00bup
+_00bup
+bs_tk03_02
+all
+_00bup
+_00bup
+all
+_00bup
+bs_nt01_08
+_00bup
+bs_tk03_02
+_00bup
+_00bup
+bs_nt01_06
+_00bup
+bs_tk13_02
+_00bup
+_00bup
+bs_tk13_07
+_00bup
+bs_tk13_04
+_00bup
+bs_rk01_11
+all
+_00bup
+_00bup
+all
+_00bup
+bs_tk03_03
+_00bup
+bs_tk11_01
+all
+_00bup
+_00bup
+all
+_00bup
+bs_nt01_10
+_00bup
+_00bup
+bs_sr02_09
+_00bup
+bs_nt13_09
+all
+_00bup
+_00bup
+all
+_00bup
+bs_rk12_1208h
+_00bup
+_00bup
+bs_rk12_11h
+_00bup
+bs_rk02_12h
+all
+_00bup
+_00bup
+all
+_00grp
+bgm12
+bg401e
+pen3
+_00grp
+bg401e
+_00bup
+bs_rk12_04
+_00bup
+bs_rk12_1207h
+all
+_00bup
+_00bup
+all
+_00bup
+bs_nt01_0405
+_00bup
+bs_nt01_04
+_00bup
+_00bup
+bs_sr03_09
+_00bup
+bs_nt01_04
+_00bup
+bs_ms03_04
+_00bup
+bs_sr03_09
+_00bup
+_00bup
+bs_ms03_03
+all
+_00bup
+_00bup
+all
+_00bup
+bs_mr12_0102
+_00bup
+_00bup
+bs_rk03_0802
+_00bup
+_00bup
+bs_rk03_0203
+all
+_00bup
+_00bup
+all
+_00bup
+bs_rk13_14
+_00grp
+_00grp
+bg401e
+_00bup
+bs_rk11_13h
+_00bup
+bs_rk11_0910
+_00bup
+bs_rk12_06
+bgm34
+_00bup
+bs_rk12_1309h
+_00bup
+bs_rk01_07h
+_00bup
+bs_rk01_0810h
+_00bup
+bs_rk01_0711h
+_00bup
+bs_rk11_0610h
+_00bup
+_00bup
+bs_rk11_07h
+_00bup
+bs_rk13_15
+_00bup
+bs_rk03_09h
+_00bup
+_00bup
+bs_rk03_0607h
+_00bup
+bs_rk03_14
+_00bup
+bs_rk01_13h
+_00bup
+bs_rk01_1403h
+_00bup
+bu_rk01_14h
+_00bup
+bs_nt03_0403
+_00bup
+bs_sr03_10
+_00bup
+bs_mr22_11
+_00bup
+bu_rk11_09
+all
+_00bup
+_00bup
+all
+bgm21
+_00bup
+bs_nt03_0403
+_00bup
+bs_sr03_10
+_00bup
+bs_mr22_11
+_00bup
+bs_rk03_1409
+all
+_00bup
+_00bup
+all
+_00bup
+bs_tk02_04
+all
+_00bup
+_00bup
+all
+_00bup
+bs_ms02_14
+all
+_00bup
+_00bup
+all
+_00bup
+bs_nt02_0709
+_00bup
+_00bup
+bs_nt02_01
+_00bup
+_00bup
+bs_sr03_08
+_00bup
+_00bup
+bs_sr03_02
+_00bup
+bs_nt02_0709
+_00bup
+bs_sr03_08
+_00bup
+bs_mr03_11
+_00bup
+_00bup
+bs_mr03_02
+all
+_00bup
+_00bup
+all
+_00bup
+bu_rk02_12h
+_00bup
+bu_rk01_1206h
+_00bup
+bu_rk01_12h
+all
+_00bup
+_00bup
+all
+bgm34
+_00bup
+bs_rk01_11h
+_00bup
+bs_rk01_0702h
+_00bup
+_00bup
+bs_rk01_0203h
+_00bup
+bs_rk01_03h
+all
+_00bup
+_00bup
+all
+_00bup
+bu_rk03_14h
+_00bup
+bu_rk03_1402h
+_00bup
+bu_rk03_1503h
+_00bup
+bu_rk03_15h
+_00grp
+_00com

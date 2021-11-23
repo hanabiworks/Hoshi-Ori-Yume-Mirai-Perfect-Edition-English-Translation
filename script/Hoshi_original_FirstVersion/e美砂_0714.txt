@@ -1,0 +1,421 @@
+﻿0713
+日
+0714
+月
+$$smh_OpenCHK
+Now that I've gotten through finals okay, it's time to resume my duties as a member of the event committee.
+
+First, we need to start moving the water tanks and fish from this room to the old school building.
+
+Misa
+「Though it would be difficult to move the water tanks as they are due to their weight. Let's transfer the fish and water into separate containers to empty out the tanks, and then move them.」
+
+
+Misa
+「Please take care not to harm the fish when you transfer them. Similarly, the water should not change temperature too much―」
+
+all
+Natsuki
+「Hmm...」
+Marika
+「Is something the matter, Segawa-san?」
+Natsuki
+「Hm? It's just... Don't you feel like Misa-san seems a little different from usual? Maybe she's wearing makeup or something...」
+
+Marika
+「What? ...Why do you think so?」
+Natsuki
+「Just kiiinda feels like she's gotten real pretty since before finals. She looks a bit different from before through the camera lens, you know?」
+
+Marika
+「...Now that you mention it, I think I can see it too.」
+Touko
+「Maybe she's in love or something?」
+Marika
+「What? ...Okihara-san is?」
+Touko
+「You know how they say women get prettier when they're in love.」
+Marika
+「Okihara-san... in love...」
+Rikka
+「You hear that one a lot, but what about boys?」
+Touko
+「Mmm... Maybe they get real energetic? Like they just run around spinning their wheels because they're so happy?」
+
+Sora
+「...There's someone like that here.」
+all
+％Ｂ
+「Urrghhh...!」
+Misa
+「U-Um...? Like I said, you don't need to carry the tanks with the water still inside...」
+
+％Ｂ
+「It-It's okay... Ghh... Th-This isn't... that... hea, vy... Ghhh...!」
+
+Natsuki
+「Ah... You're right, he does seem weirdly energetic.」
+Rikka
+「And the wheel-spinning is obvious too.」
+Touko
+「'Round and 'round.」
+Marika
+「So then the person that Okihara-san's in love with is...?」
+％Ｂ
+「U-Uhh... Just so you know, I can... gh... h-hear everything you're saying over there...」
+
+Misa
+「Wah... Please don't overexert yourself.」
+％Ｂ
+「I-I'm fine... I'm going to put this down for a bit...」
+I was trying to carry the tank with a bit of water still inside, since the bucket was already full, but it looks like I can't...
+
+
+all
+I place the tank down.
+％Ｂ
+「Uhh, everyone. There's something I wanna talk to you all about.」
+Misa
+「Oh...」
+I glance over at Misa-senpai.
+Looks like she knows what I wanna talk about.
+all
+I wanted to wait a little longer to announce things, since it only happened two days ago...\n\r
+
+But it looks like everyone's figured it out already.
+％Ｂ
+「I confessed to Misa-senpai.」
+Natsuki
+「Gave up and came clean, eh?」
+Touko
+「And, aaand? How'd you respond?」
+all
+Misa
+「I accepted his feelings...」
+all
+Marika
+「Really... You and Okihara-san...」
+Touko
+「Hmm, I think it works. You two kinda feel like a good match.」
+Sora
+「...*nod*」
+Natsuki
+「Either way, it's something to celebrate.」
+Marika
+「Mhm... I'm kind of happy. I thought the two of you would go well together.」
+
+Marika
+「I see... So you're finally dating... I'm... so glad...」
+
+Natsuki
+「Wait, Marika, what are you crying for?」
+％Ｂ
+「Uhh...」
+all
+Misa
+「I-I apologize for our personal matters...」
+Natsuki
+「You don't need to apologize. Let's go all out and celebrate! Okay, let's take a photo to commemorate you two dating first! Everyone around these two!」
+
+
+
+Marika
+「O-Okaaay～!」
+Touko
+「Seems kinda fun. Surround them!」
+Rikka
+「I-I'm going to be in this too?」
+Sora
+「...Everybody happyyy.」
+Natsuki
+「Here we gooo!」
+Misa
+「O-Okaaay...」
+We take a bit of a cramped commemorative photo.
+％Ｂ
+「G-Geez... That was pretty rough.」
+Misa
+「Hehe... Yes, really.」
+We're on our way back from carrying some water tanks.
+The two of us smile at each other.
+Misa
+「But it very much warmed my heart. I didn't know that having our relationship commemorated could make me so happy.」
+
+
+％Ｂ
+「I felt the same way. We should be grateful for our friends.」
+
+Misa
+「Yes! Hehe... It's only further making me feel that I must do my best!」
+
+％Ｂ
+「Yes, really.」
+％Ｂ
+「Oh, I know. I actually have a suggestion for the display.」
+
+Misa
+「A suggestion? What would that be?」
+
+％Ｂ
+「If it's all right with you―」
+all
+I tell her the idea I've thought up.
+Misa
+「That... is wonderful! I would love to use that idea!」
+
+％Ｂ
+「Really? I'm glad.」
+Misa
+「But... will we make it in time?」
+％Ｂ
+「I plan on finishing it in time for the Tanabata Festival, of course.」
+Misa
+「If that would cause you undue strain, then I personally would not...」
+
+Misa
+「If that would cause you undue strain, then I personally would not...」
+
+％Ｂ
+「Don't worry. It might be a bit more work, of course, but this is also something I myself want to do.」
+
+％Ｂ
+「You could call it a bit of payback... Either way, I want to try it. In fact, please let me do this!」
+
+
+Misa
+「I understand. If you really wish to, then I would love to ask you to do so.」
+
+％Ｂ
+「Thank you very much. I'll definitely make it something that you can be satisfied with!」
+
+dummy
+_00com
+_02smh
+bgm15
+_00grp
+bg111_01
+_00bup
+bs_ms01_01
+_00bup
+_00bup
+bs_ms01_02
+_00bup
+bs_ms01_03
+_00bup
+_00bup
+bs_ms01_04
+all
+_00bup
+_00bup
+all
+_00bup
+bs_nt02_1011
+_00bup
+bs_nt02_1011
+_00bup
+bs_mr01_0108
+_00bup
+bs_nt01_0206
+_00bup
+_00bup
+bs_nt01_04
+_00bup
+bs_mr01_08
+_00bup
+bs_nt01_1106
+_00bup
+_00bup
+bs_nt01_04
+_00bup
+bs_mr01_0108
+_00bup
+bs_nt01_1106
+_00bup
+bs_tk01_02
+_00bup
+bs_mr01_0108
+_00bup
+bs_nt01_08
+_00bup
+bs_mr01_09
+_00bup
+bs_tk03_03
+_00bup
+bs_nt01_0206
+_00bup
+bs_mr03_0105
+_00bup
+bs_rk11_0111
+_00bup
+bs_tk01_02
+_00bup
+_00bup
+bs_tk01_0403
+_00bup
+bs_sr01_01
+all
+_00bup
+_00bup
+all
+_00bup
+bs_ms01_09
+_00bup
+bs_nt11_11
+_00bup
+bs_rk11_08
+_00bup
+bs_tk03_08
+_00bup
+bs_mr01_08
+_00bup
+bs_ms01_1008
+all
+_00bup
+_00bup
+all
+suisou_oku
+_00bup
+bs_ms01_0108
+_00bup
+bs_ms01_03
+all
+_00bup
+_00bup
+all
+_00bup
+bs_nt02_1009
+_00bup
+bs_nt02_1009
+_00bup
+bs_tk01_04
+all
+_00bup
+_00bup
+all
+_00bup
+bs_ms01_03
+_00bup
+_00bup
+bs_ms01_0203
+all
+_00bup
+_00bup
+all
+_00bup
+bs_nt02_0201
+_00bup
+bs_tk01_04
+_00bup
+bs_mr01_0201
+_00bup
+bs_tk01_02
+_00bup
+_00bup
+bs_tk01_03
+_00bup
+bs_nt02_0201
+_00bup
+bs_sr02_1011
+_00bup
+bs_tk01_02
+_00bup
+bs_mr01_0201
+_00bup
+bs_nt11_01
+_00bup
+bs_mr01_0104
+_00bup
+_00bup
+bs_mr01_04
+_00bup
+bs_mr01_11
+_00bup
+bs_nt01_08
+all
+_00bup
+_00bup
+all
+_00bup
+bs_ms01_1008
+_00bup
+bs_nt03_02
+_00bup
+_00bup
+bs_mr02_03
+_00bup
+bs_mr02_03
+_00bup
+bs_ms03_06
+_00bup
+bs_tk03_04
+_00bup
+bs_mr02_03
+_00bup
+bs_ms03_06
+_00bup
+bs_tk03_04
+_00bup
+bs_rk03_09
+_00bup
+bs_sr02_11
+_00bup
+bs_mr02_03
+_00bup
+bs_ms03_06
+_00bup
+bs_tk03_04
+_00bup
+bs_rk03_02
+_00bup
+bs_nt01_01
+_00bup
+bs_ms03_10
+camera_1shot
+_00grp
+_00grp
+bgm13
+_00grp
+bg102e
+_00bup
+bs_ms02_0304
+_00bup
+bs_ms02_0402
+_00bup
+_00bup
+bs_ms02_03
+_00bup
+bs_ms01_01
+_00bup
+_00bup
+bs_ms01_02
+_00bup
+bs_ms01_0108
+_00bup
+_00bup
+bs_ms01_01
+all
+_00bup
+_00bup
+all
+_00grp
+_00grp
+bg102e
+_00bup
+bs_ms01_06
+_00bup
+_00bup
+bs_ms01_02
+_00bup
+bs_ms01_0108
+_00bup
+bs_ms01_09
+_00com
+_00bup
+bs_ms01_10
+_00bup
+bs_ms13_02
+_00bup
+_00bup
+bs_ms13_01
+_00grp
+_00com

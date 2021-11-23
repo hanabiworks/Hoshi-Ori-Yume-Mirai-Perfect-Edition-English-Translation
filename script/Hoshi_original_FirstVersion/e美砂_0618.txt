@@ -1,0 +1,656 @@
+﻿0617
+火
+0618
+水
+$$smh_OpenCHK
+The next day.
+％Ｂ
+「Hmm... Hey, what do you think about this?」
+I'm showing Narusawa the sketch that I redrew last night.
+Rikka
+「...You're still doing this?」
+％Ｂ
+「I've redone it a lot since yesterday. I changed where I'm gonna put it, and I think it's come out pretty decent.」
+
+
+％Ｂ
+「The event committee's got a meeting today after school. I'm gonna present it there, so I thought I'd get you to check over it.」
+
+
+Rikka
+「More importantly... You really want the opinion of someone like me?」
+％Ｂ
+「Yeah, 'cause you've got a good feel for this kinda stuff. You give great feedback too.」
+
+Rikka
+「...I didn't know you were the type to use flattery like that. But there's no need for that to get me to give you my opinion.」
+
+She accepts the sketchbook from me, looking a little flustered.
+
+...And it's not flattery. I really do think that.
+Rikka
+「...You're right. It looks a lot more atmospheric than yesterday's drawing.」
+％Ｂ
+「Right? I tried setting it in one of the classrooms in the old school building.」
+Rikka
+「...You went in the old school building?」
+％Ｂ
+「Uh... Ah... No... I didn't. It's just a setting for the concept art.」
+
+Rikka
+「Hmm... Just a setting... And so... are these constellations on the fish tanks going to be drawings?」
+
+％Ｂ
+「No, we're planning on using photos.」
+Rikka
+「Photos... But you're going for an overall nighttime theme, right? So that means you'd probably be dimming the lights a lot too.」
+
+％Ｂ
+「Yeah, we would be.」
+Rikka
+「So wouldn't photos or drawings be hard to see in the dark?」
+％Ｂ
+「...Oh!」
+all
+Right, now that she mentions it...
+It's just like she says. If the room's dark, then you won't be able to see the constellation photos as well.
+
+But turning the lights up would mess with the whole starry night aquarium's theme.
+
+...This seems like a pretty big issue.
+％Ｂ
+「Crap... I can't believe I hadn't thought of that before...」
+This is the same as back when Teacher tested me back at the firm!\n\r
+
+What the heck am I doing...
+Rikka
+「...How about you actually make them light up?」
+％Ｂ
+「Huh? ...Light up?」
+Rikka
+「Why not actually make the constellations light up, instead of using photos? Maybe you could put small light bulbs on the tanks or something... You know, because stars emit light.」
+
+
+％Ｂ
+「Make the constellations light up... Maybe we could use LEDs or something...」
+Rikka
+「Just so you know, I don't know much about those kinds of things, so this is just me saying what came to mind. If I'm saying something off the mark―」
+
+
+％Ｂ
+「That's it, Narusawa!」
+all
+I have her give my sketchbook back and draw LED constellations into the concept art.
+
+％Ｂ
+「I see... We could use LEDs to actually make the constellations light up... I knew you had a great feel for this kinda stuff, Narusawa!」
+
+Rikka
+「...That kind of flattery isn't going to get any more than this out of me, you know.」
+％Ｂ
+「Yeah, but you've already given me way more than enough.」
+all
+％Ｂ
+「All right! I'm gonna go show this to the others right now!」
+Rikka
+「What? ...Oh, but we need to switch classrooms right now!」
+After school.
+It's finally time for the event committee meeting.
+Shinozaki and I are gonna have to present our plans before everyone in the event committee.
+
+all
+Shuuichi
+「Err, as for the topic of today's meeting, 
+Hino and Shinozaki 
+these two 
+have an important announcement. Take it away.」
+
+％Ｂ
+「Roger that.」
+all
+Segawa's got her camera in hand as usual, and is standing in the corner of the room.
+all
+Ousaka, Narusawa, and Yukimura are here too.
+Ousaka was a given, and I asked both Narusawa and Yukimura to attend the meeting.
+
+all
+I wanted Okihara-senpai to be here too, of course, but her class has career consultations today, so she unfortunately couldn't be here.
+
+
+We've gotta make sure this presentation goes well, so we can bring Okihara-senpai the good news!
+
+Natsuki
+「Now, it's finally time.」
+all
+Touko
+「...I don't really like these kinds of situations.」
+
+Rikka
+「...You should have just not come, then.」
+Touko
+「But he said he wanted me to be here no matter what. And what about you then, Piano-chan? What are you doing here?」
+
+Rikka
+「...I'm in the same boat. He said he wanted me to attend this meeting.」
+Touko
+「Huh, I didn't think you'd be the type to participate in something like this.」
+Rikka
+「Same goes for you.」
+Touko
+「Fair enough.」
+all
+I'll start by explaining that the astronomy club's declared nonparticipation because of Ousaka's wishes.
+
+％Ｂ
+「First, I have one announcement to make. While the astronomy club had decided on participating in the Tanabata Festival after all, after much deliberation, it has decided to resume nonparticipation.」
+
+
+Sora
+「...」
+I expected that reaction.
+Of course they'd react that way.
+％Ｂ
+「However, Ousaka Sora, the president of the astronomy club, has stated her desire to participate in the Tanabata Festival as an individual.」
+
+％Ｂ
+「And so while the astronomy club itself will not be participating, the result of this will essentially be a collaborative effort between the astronomy and naturalist clubs.」
+
+％Ｂ
+「In addition to this, the naturalist club will be submitting its plan for the collaborative project. I would like to receive the event committee's approval for the plan today.」
+
+
+％Ｂ
+「Shinozaki.」
+Marika
+「O-Okay!」
+At my signal, Shinozaki holds up the sketchbook and flips the page.
+The project name is written on the first page in big lettering.
+all
+％Ｂ
+「The naturalist club's display will be a "sea full of stars."」
+Rikka
+「...Oh... He changed the name from starry night aquarium.」
+Touko
+「I thought of that.」
+Rikka
+「...That's pretty good.」
+Touko
+「Thanks.」
+all
+％Ｂ
+「In a nutshell, it will be a mini aquarium. We will place several fish tanks inside a room and display live fish within.」
+
+
+％Ｂ
+「However, as one may expect from the name, the theme will be the nighttime sea. We will be dimming the lights, and set up the display with that theme in mind for the fish tanks as well.」
+
+
+％Ｂ
+「The general concept will be something like this.」
+Shinozaki flips to the next page.
+Revealing the overall concept art that I drew.
+Shuuichi
+「About the fish tanks. What are those things lighting up on them?」
+all
+％Ｂ
+「These are constellations. We will create constellations on each of the fish tanks using LEDs as stars.」
+
+Shuuichi
+「I get it now. So that's why it's a sea full of stars.」
+all
+Touko
+「I heard you were the one who thought of that?」
+Rikka
+「...What about it?」
+Touko
+「Nooothing. I thought that was pretty good.」
+Rikka
+「...Thank you.」
+all
+I continue the presentation.
+I explain carefully, but still enthusiastically. I want everyone to be as interested as possible in Okihara-senpai and Ousaka's ideas, and the combination of Yukimura and Narusawa's feedback.
+
+
+The key to giving a successful presentation is getting the audience to be even a little interested in what you're talking about.
+
+％Ｂ
+「And as the general ambiance would be similar to a planetarium, we believe it may also be interesting as a date spot for couples... How about it, Shuuichi?」
+
+
+Shuuichi
+「Come on, why would you call me out like that!?」
+Everyone laughs at us messing around.
+It's a good mood.
+Shuuichi
+「Well, the plan seems interesting. And it's a collaboration between the naturalist and astronomy clubs like you said.」
+
+
+Shuuichi's opinion is the first of various positive responses among the event committee.
+
+Shuuichi
+「Now then everyone, what do you think? I personally don't think there are any issues with this plan.」
+
+Event Committee Member A
+「Hm... Yeah. I think this could work.」
+Shuuichi
+「Then let's say it's been approved.」
+all
+％Ｂ
+「All right!」
+Marika
+「We did it～!」
+Shinozaki and I high-five.
+Natsuki
+「Now that's a good shot right there!」
+all
+I can see Yukimura and Narusawa smiling in the corner of the room too.
+They're clapping in our direction.
+Touko
+「Good for you, Fluffyhead.」
+Sora
+「...Mm.」
+Touko
+「Why don't you act a little happier, Piano-chan?」
+Rikka
+「...This is me, happy.」
+I'm glad everything went well.
+all
+Let's go tell Okihara-senpai right away once the meeting's over!
+％Ｂ
+「Excuse me!」
+Misa
+「Oh
+, Ryousuke-san
+
+!」
+Okihara-senpai's already finished her meeting, and she's been waiting to know how it went in the second chemistry classroom.
+
+％Ｂ
+「We did it! The event committee's approved of the plan!」
+Misa
+「Really?」
+％Ｂ
+「Here, see? Take a look at this!」
+all
+I show Okihara-senpai the formal paperwork with the event committee seal of approval on it.
+
+Misa
+「Hahh...」
+Misa
+「Thank you so very much!」
+She suddenly wraps her arms around me.
+％Ｂ
+「O...Oh...?」
+My eyes go wide at her sudden hug, just like Ousaka's did back then.
+
+Oh man...
+This is making my heart go crazy...
+This is, um... I dunno... Maybe I should hug her back here...?
+
+％Ｂ
+「...Gulp.」
+But the moment I awkwardly raise my arms... Okihara-senpai slips away from me.
+
+Misa
+「I am genuinely so happy that you would give form to my idea like this!」
+
+％Ｂ
+「Y-Yes... Well... Yes.」
+I'm kinda relieved, kinda disappointed...
+％Ｂ
+「...Everyone else was happy too. The others and the entire event committee said it sounded interesting.」
+
+Misa
+「I will have to thank them all afterward too.」
+％Ｂ
+「Yes...」
+Is she gonna hug Yukimura and Narusawa like that too?
+I kinda wanna see their reactions.
+Misa
+「And once again
+, Ryousuke-san
+
+. Thank you so very much.」
+
+％Ｂ
+「Uhh... No, this is just me doing my job as an event committee member.」
+Misa
+「I think it's just incredible!」
+％Ｂ
+「Wha?」
+Misa
+「You put my idea into concrete form in just a few days, asked many other people for their opinions, got them to lend their aid, and made it more and more wonderful...」
+
+
+Misa
+「I respect you deeply, from the bottom of my heart at the moment.」
+％Ｂ
+「Oh no, it really wasn't...」
+I figured she'd be happy, but I didn't think she'd compliment me like this.
+
+It's kinda embarrassing...
+％Ｂ
+「Y-You're praising me far too much. Let's stop there. I'll end up getting a big head if you say any more.」
+
+
+Misa
+「Is that so? I will refrain for now, then. But it is all true.」
+
+％Ｂ
+「A-And it's still only an approval for the plan so far. We'll need to start preparing if we want this to be successful for the actual festival.」
+
+Misa
+「Yes, let's do our best!」
+She nods vigorously.
+％Ｂ
+「And so, where specifically should we get started?」
+Misa
+「Well... Perhaps preparing the fish tanks and gathering the fish. One cannot start an aquarium without fish to display.」
+
+％Ｂ
+「That's true... Okay, then I guess we can start there?」
+Misa
+「Yes!」
+dummy
+_00com
+_02smh
+bgm13
+_00grp
+bg101
+_00bup
+bs_rk11_0101
+_00bup
+bs_rk11_0105
+_00bup
+bs_rk11_07
+_00bup
+bs_rk03_06
+_00bup
+_00bup
+bs_rk03_0302
+_00bup
+bu_rk03_02
+_00bup
+bs_rk11_02
+_00bup
+bs_rk11_11
+_00bup
+bs_rk03_08
+_00bup
+_00bup
+bs_rk03_10
+_00bup
+bs_rk03_01
+_00bup
+_00bup
+bs_rk03_08
+_00bup
+bs_rk03_0611
+all
+_00bup
+_00bup
+all
+_00bup
+bs_rk11_0111
+_00bup
+bs_rk11_02
+_00bup
+_00bup
+bs_rk11_0302
+_00bup
+bs_rk11_03
+_00bup
+bs_rk11_07
+_00bup
+_00bup
+bs_rk11_0807
+all
+_00bup
+_00bup
+all
+_00bup
+bs_rk13_06
+all
+_00bup
+_00bup
+all
+_00bup
+bs_rk11_1108
+_00grp
+gakuen_chime
+bgm17
+_00grp
+bg104
+_00bup
+bs_mr01_01
+all
+_00bup
+_00bup
+all
+_00bup
+bs_sy01_08
+_00com
+all
+_00bup
+_00bup
+all
+_00bup
+bs_nt01_01
+all
+_00bup
+_00bup
+all
+_00bup
+bs_sr02_01
+_00bup
+bs_tk01_05
+_00bup
+bs_rk03_01
+all
+_00bup
+_00bup
+all
+camera_1shot
+_00grp
+_00bup
+bs_nt02_0209
+all
+_00bup
+_00bup
+all
+_00bup
+bs_tk01_06
+_00bup
+_00bup
+bs_rk03_01
+_00bup
+bs_tk13_07
+_00bup
+_00bup
+bs_tk13_02
+_00bup
+bs_rk03_07
+_00bup
+bs_tk03_0302
+_00bup
+bs_rk13_06
+_00bup
+bs_tk03_08
+all
+_00bup
+_00bup
+all
+gakuen_gaya1
+_00bup
+bs_sr03_01
+_00bup
+bs_mr02_06
+_00bup
+bs_mr01_01
+all
+_00bup
+_00bup
+all
+_00bup
+bs_rk11_0108
+_00bup
+bs_tk01_03
+_00bup
+bs_rk11_0108
+_00bup
+bs_rk11_02
+_00bup
+bs_tk03_02
+all
+_00bup
+_00bup
+all
+_00bup
+bs_mr03_01
+_00bup
+bs_sy01_08
+all
+_00bup
+_00bup
+all
+_00bup
+bs_sy01_08
+_00bup
+bs_sy11_01
+all
+_00bup
+_00bup
+all
+_00bup
+bs_tk01_03
+_00bup
+bs_rk03_01
+_00bup
+bs_tk01_03
+_00bup
+bs_rk03_0605
+_00bup
+bs_tk03_08
+_00bup
+_00bup
+bs_tk03_09
+_00bup
+bs_rk13_06
+all
+_00bup
+_00bup
+all
+_00bup
+bs_sy01_0506
+gakuen_gaya2
+_00bup
+bs_sy11_07
+_00bup
+_00bup
+bs_sy11_01
+_00bup
+bs_sy01_02
+_00bup
+bs_sy01_01
+_00bup
+bs_sy01_03
+all
+_00bup
+_00bup
+all
+hakusyu1
+_00bup
+bs_mr22_03
+hitouch
+_00bup
+bu_mr22_02
+_00bup
+bs_nt13_0302
+camera_1shot
+_00grp
+all
+_00bup
+_00bup
+all
+_00bup
+bs_sr02_1011
+_00bup
+bs_tk01_02
+_00bup
+bs_rk03_02
+_00bup
+bs_tk03_02
+_00bup
+bs_sr03_03
+_00bup
+bs_tk01_03
+_00bup
+bs_rk03_0605
+_00bup
+bs_tk01_04
+all
+_00bup
+_00bup
+all
+_00grp
+bgm15
+gakuen_door1
+_00grp
+bg111
+_00bup
+bs_ms02_02
+_00com
+_00bup
+bs_ms01_06
+all
+_00bup
+_00bup
+all
+_00bup
+bs_ms11_03
+_00bup
+bs_ms01_0206
+_00bup
+bu_ms03_03
+dakituku
+_00bup
+bs_ms03_07
+_00bup
+bs_ms01_06
+_00bup
+_00bup
+bs_ms01_02
+_00bup
+bs_ms01_01
+_00bup
+bs_ms01_02
+_00bup
+bs_ms01_01
+_00com
+_00bup
+bs_ms01_03
+_00bup
+bs_ms01_02
+_00bup
+bs_ms01_0201
+_00bup
+_00bup
+bs_ms01_07
+_00bup
+bs_ms01_03
+_00bup
+bs_ms01_0201
+_00bup
+_00bup
+bs_ms01_07
+_00bup
+bs_ms01_0206
+_00bup
+bs_ms01_0408
+_00bup
+_00bup
+bs_ms01_02
+_00bup
+bs_ms01_0307
+_00grp
+_00com

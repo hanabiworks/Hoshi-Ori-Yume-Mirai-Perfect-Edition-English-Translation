@@ -1,0 +1,862 @@
+﻿Touko
+「Mmm... Is this right...? Am I supposed to write my maiden name for this?」
+
+Time really waits for no man.
+It's been about half a year since Touko and I got engaged.
+We met with each other's parents and started looking for a venue for the ceremony.
+Preparing for our wedding while keeping up our usual busy schedule was harder than we had ever imagined.
+
+I have my eye on the first-class architect qualification exam.
+I've already started studying for it. It's never too early.
+Touko's done her best every day while supporting my efforts.
+Now that things have calmed down a little, we've decided to finally submit our formal marriage registration.\n\r
+
+And so we're currently filling out the paperwork for that.
+％Ｂ
+「Yeah, looks like it. You can just write Yukimura there. Whoa, I feel like I haven't said your last name in forever.」
+
+Touko
+「Ahaha, you're right. It reminds me of back when we first met.」
+％Ｂ
+「Yeah... I never would've imagined things would turn out this way. You never took me seriously at all back then.」
+
+Touko
+「I didn't think this would happen either. That I'd be getting married to that boy who was so persistent about getting me to join the event committee.」
+
+We reminisce over fond memories while we fill out the marriage registration form.\n \n\r
+Our memories of the time we spent in the old school building are precious to us, and they're still vivid in our minds even now.
+
+Touko
+「I wish I could show the two of us from back then this form. They'd never believe it. It'd be fun.」
+
+In retrospect, there were lots of different possibilities for my future back then... but I've chosen to be with Touko.
+
+A chance encounter became a lifelong connection, and now it's linked to my future.
+I don't regret the path I've chosen, and I know for sure I don't want Touko to have any regrets either.
+
+％Ｂ
+「We might not be able to communicate with the past, but we can with the future. Like your mom and dad's time capsule.」
+
+Touko
+「Ahaha, that'd be kinda embarrassing. My dad was crazy embarrassed when I told him we found that.」
+
+
+％Ｂ
+「But don't you think it'd be nice to have something physical to remember things by? Like photos or a video or something. I wanna make something for us too.」
+
+Touko
+「Mmm... Let's seeee, then wanna record a video? Okay, a statement for us in the future, please!」
+
+She points her phone at me.
+Wait, we're doing this already!?
+％Ｂ
+「Wha!? Wait, you can't just start recording out of nowhere!」
+Touko
+「Ahahah! This'll be great to look back on in the future! Come on, you need to say something profound!」
+
+％Ｂ
+「I don't have anything ready! Cut! We're redoing this!」
+
+Touko
+「Nooope. Oh, let's play this back for everyone at the ceremony. They'd love it for sure.」
+
+％Ｂ
+「Seriously, don't! People are gonna make fun of me for the rest of my life!」
+Touko
+「Whaaat, but I like this venue's ceremony style! This dress is cuter!」
+
+We're picking out a style for our wedding ceremony.
+It's been a while since I've seen Touko get this demanding.
+％Ｂ
+「...Did you look at the price? This one's half as expensive.」
+
+Touko
+「Mmm～...! Oh, why don't we just make the wedding rings cheaper to make up for it!? Let's adjust the other things a little～! Pleeease～!」
+
+
+％Ｂ
+「Yeah, but... It's not like we can just skimp on food, so...」
+
+$$chr_jumploop
+Touko
+「This one this one～! I wanna weaar～ thiiis～ dreeess～! It has to be this ooone～! It's the cutest ooone～!」
+
+...Oh god.
+That look on her face is telling me she's never gonna back down on this...
+Which reminds me, back when we went to go check out the venues...
+The planners at every single one we went to kept whispering, "The woman's opinion is everything for a marriage"...
+
+％Ｂ
+「...Sigh. Ugh... Yes, fine... They said we could make the invitations by hand to save money, so I guess I'll take the time to do that...」
+
+
+And I'll get the flowers from somewhere cheap too.
+Oh, that one client I got to know before was a florist, if I recall... I'll try asking them.
+
+Touko
+「Eheheeeh. Thanks, I love you! Okay then, what should I get for the reception dress...? The Japanese style one's nice, but a color dress is the way to go!」
+
+
+％Ｂ
+「...You have to pick from this list.」
+Touko
+「Whaaat～!? Those aren't that cuuute～! Oh, how about this one!? It says it's made from Japanese materials! It's cute and cool! I want this ooone～!」
+
+
+％Ｂ
+「...Touko. Are you listening to me...?」
+...This one's crazy expensive too...!
+We're already way over the budget we set for ourselves. The number on the calculator's almost double what we said we'd spend.
+
+Touko
+「But it's a once-in-a-lifetime ceremony, Ryousuke. I want you to have me when I'm pretty, and I think it'd be more exciting for everyone too.」
+
+
+Touko
+「But it's a once-in-a-lifetime ceremony. I want you to have me when I'm pretty, and I think it'd be more exciting for everyone too.」
+
+
+％Ｂ
+「...That's not fair.」
+Guess we'll strike the candle-lighting thing from the list too...
+I'll have to figure out some way to make my own attire cheaper to make up for the rest.
+Touko
+「Ehehe. Sorry for being selfish.」
+She apologizes playfully.
+The fact that I let stuff like this slide must be why people always say she's got me in the palm of her hand...
+
+Touko
+「That's the first one, then. The second one can be...」
+％Ｂ
+「Excuse me!? You're getting two!? No! Absolutely not! I'm never letting you do that!」
+
+Touko
+「Whaaat, you cheapskate! There's so many other dresses I'm interested in! I can't wear ones like these except for a ceremony!」
+
+
+％Ｂ
+「Just wear it for a photo! That's the most I'm gonna compromise with you!」
+
+Touko
+「Whaaat～!? There's no point if I don't show everyone～! I'm never backing down on this either～!」
+
+...I guess we'll be locked in combat again tonight.
+Are we really gonna be able to settle on things before the ceremony...?
+％Ｂ
+「Touko. Segawa said she'd organize the after-party. She was like, "Allow the organization master to handle this!"」
+
+I haven't seen Segawa and the others in a while.
+I've been so busy since starting my job that I haven't had the opportunity to see them.
+
+Touko
+「Ahaha, she's the same as ever. I haven't seen Natsuki in forever.」
+She smiles happily.
+We're nothing but grateful toward Segawa for agreeing to do this. Especially since she must be busy with her own life.
+
+％Ｂ
+「You haven't seen the others since you started working either, right?」
+Touko
+「No? I've been talking with Marika about the wedding and stuff.」
+
+％Ｂ
+「Excuse me!? When!?」
+Touko
+「Though I haven't seen Misa and Rikka in ages because they're apparently busy. Oh, I saw Sora the other day too.」
+
+...You couldn't have invited me along?
+I was doing so much to connect you guys back in high school... I'm feeling kinda lonely now.
+
+Touko
+「What about you
+, Ryousuke
+
+? You're going to invite Four-Eyes-kun, right?」
+
+％Ｂ
+「I'll send out an invitation... but I haven't seen him in a while 'cause we've both been busy.」
+Touko
+「You need to cherish your friendships, you know. They're all important people who helped us come together.」
+
+％Ｂ
+「Hm? What's that?」
+She pulls out a small box.
+She's holding it really preciously... What's inside?
+Touko
+「It's my treasure. I've decided to use these for our ceremony.」
+all
+％Ｂ
+「Oh, these are...」
+The box is filled with a small stack of paper.
+It's the tanzaku with everyone's wishes to Touko that I ran all over the school to get, and a bamboo decoration.
+
+Touko
+「I want to make a bamboo decoration to put next to the welcome board. It won't be the right season, but it's perfect for us... It'd be a bit of a wonderful extra thing, won't it?」
+
+％Ｂ
+「Now these take me back... Still, though... I'm surprised you kept these. I thought they burned these along with the bamboo.」
+
+Touko
+「Four-Eyes-kun gave them to me in secret. He said, "Take good care of your memories."」
+
+...When'd he do that?
+Dammit, Shuuichi... You're pretty cool.
+The hell's the point of my heart twinging for Shuuichi?
+Touko
+「I'm sure it'll make everyone feel all nostalgic. I wanna give something back to everyone who's taken care of us until now... and I want them to keep watching us now.」
+
+
+％Ｂ
+「...Yeah. Let's make all the proper preparations so we don't embarrass ourselves.」
+Touko
+「Ehehe... Our rings are pretty.」
+The two of us went to pick up our wedding rings together.
+I was thinking about something Ousaka said when we were ordering them, so I left the design up to Touko if she promised to let me handle the stone settings.
+
+Ousaka told us about the two stars known as the Married Stars.
+She said I was Arcturus, and Touko was Spica.
+I took inspiration from that conversation and had gemstones set into the insides of our rings.
+
+A sapphire to symbolize the blue-white light of Spica for mine.
+A fire opal to symbolize the orange light of Arcturus for Touko's.
+
+Touko
+「I'm amazed you remembered the stars Sora told us about. That was back when she showed them to us up on the roof, right?」
+
+％Ｂ
+「Actually, I secretly checked with Ousaka before we put in the order. I remembered Spica right away, but I had to ask about Arcturus.」
+
+
+Touko
+「Yeah. They were so pretty. That was the first time I ever looked through a telescope... but I can still remember how those stars glittered back then.」
+
+
+all
+She closes her eyes in nostalgia.
+We've been thinking about the past a lot as we've been moving through preparing for our wedding.
+％Ｂ
+「Remember what Ousaka said? About how Arcturus and Spica are slowly getting closer.」
+
+Touko
+「Yeah, I think she said... they'd be closest in fifty thousand years? Ahaha, we'll have to live for a long time to see that.」
+
+％Ｂ
+「Yeah. But we're together now. We beat the stars.」
+
+We just "liked" each other back then.
+We spent many long years together, spinning out a single thread along the way.
+And I'm sure... that thread is our future. It shines brighter than any star in the sky.
+Touko
+「Ahaha, what the heck? What's the point in competing with the stars?」
+％Ｂ
+「Figured we might as well compete with the heavy hitters. Don't you think Ousaka'd get excited about this conversation?」
+
+Touko
+「Mmm... I feel like she'd have a comeback. Like, "You two are still nothing compared to the stars."」
+
+Our good old friends.
+I'm sure they'll come to our wedding... and celebrate our union with the same smiles as back then.
+
+Touko
+「Oh, right. Did you make the invitations?」
+％Ｂ
+「Yeah. All that's left is to check over the addresses and send them out.」
+Touko
+「Is it okay if I write in messages for everyone? I'd get embarrassed saying them directly, so I wanted to at least write out my gratitude.」
+
+
+％Ｂ
+「Oh, I like that idea. I might write something too.」
+Touko
+「Whaaat? Then you write first! It'd be embarrassing if you saw what I wrote.」
+
+％Ｂ
+「It's embarrassing for me too, you know. You're the one who came up with the idea, so you go first.」
+
+Touko
+「I don't wannaaa! I can't believe you want to peek at secrets between girls... You perv!」
+
+％Ｂ
+「Hmph, say whatever you want. You're not gonna fool me.」
+
+Touko
+「...You used to get freaked out over things like this before. It was cute.」
+It appears I have lost my cuteness.
+Not that I ever really thought I had any in the first place.
+％Ｂ
+「We need to ask Mr. Azuma to give a speech too. Hope he doesn't say anything weird.」
+
+Touko
+「Mmm... Who knows? I feel like he'd say, "That's not my thing," and run away.」
+
+％Ｂ
+「We'll force him. He won't have a choice if we plan it out in advance, right? Let's make him squirm a bit.」
+
+Touko
+「Ahaha, you sure have gotten strong. You never used to say things like that. I feel sorry for Mr. Azuma.」
+
+
+％Ｂ
+「...Touko. You're not convincing anyone if you smile like that while you say it.」
+
+It's only a little longer until our ceremony.
+Now that we've more or less finished with preparations, we're taking our time planning out our honeymoon.
+
+Touko
+「Mmm... Hawaii's a classic, but Europe sounds nice too...! Hey, let's do like three honeymoons!」
+
+
+％Ｂ
+「How are we gonna get time off for all that...? It took a ton of effort for us to both get a week off, remember...?」
+
+
+Touko
+「Mmhhh... We're getting married thooough... Couldn't they let us be at least a little selfish?」
+
+And even if we did manage to get the time off for that, I'd probably keel over once I saw all the work we'd have to do to make up for it once we got back.
+
+I've really become a genuine working adult, haven't I...
+Touko
+「If we're going to go to lots of different places, then it should be somewhere continental, not an island... Oh, a world heritage site tour sounds great too! A week just isn't enooough...」
+
+
+％Ｂ
+「...So I guess it's a trip around the world now.」
+Touko
+「We have to make lots of memories. And... making a baby on our honeymoon sounds nice too.」
+
+Touko's really started to want a kid now that the wedding's coming up.
+We've started having more definite discussions about our future recently.
+％Ｂ
+「Oh yeah, I've been working on this bit by bit whenever I had some time to spare. Take a look.」
+
+Touko
+「Mm? What's this?」
+I hand her the blueprint I finished earlier today.
+I'm sure this is still in the far future... but this is my way of giving our happiness physical form. By drawing out a new place for us to belong.
+
+％Ｂ
+「I was thinking our house could be something like this. I wanna hear your opinion too, so let's take our time and start thinking about it together.」
+
+Touko
+「Wow...! Wow, wow! When'd you make this!?」
+Her eyes shine as she looks at the blueprint.
+I want to create a place where we're always smiling.
+The feelings I had in my heart when I looked at Mr. Azuma's Marinpia Shionagi were the inspiration for me to want to be an architect.
+
+I packed those same feelings into this blueprint.\n \n\r
+
+So Touko and I, and the child we'll have someday in the future... So that we could always be smiling.
+Touko
+「So I see two children's rooms... Does that mean you want two kids?」
+
+％Ｂ
+「Uhh... Yeah. 'Cause we both didn't have any siblings, you know? I thought it'd be more fun if we had more than one kid around.」
+
+Touko
+「Mhm, that's true... Do you want a boy or girl?」
+
+％Ｂ
+「Let's see... I think I want a girl. I bet she'd be pretty just like you.」
+
+Touko
+「I think... I think I want a boy. A healthy boy who's just like you
+, Ryousuke
+
+.」
+Touko
+「Ahaha, I guess we'll have to have two kids for sure. Oh, a boy-girl set of twins might be nice.」
+
+％Ｂ
+「I dunno if we could handle two at once... We've never raised kids before or anything...」
+
+Touko
+「Don't worry. Your mom and dad said they'd help. They're looking forward to our baby so much.」
+
+％Ｂ
+「Excuse me!? When did you even talk to them about that!?」
+Touko
+「A little while ago. We talked about it when I went to have your mom teach me her cooking.」
+
+
+％Ｂ
+「Ugh... You guys always get along so well.」
+Touko
+「Your mom and dad said they wanted it to be a girl. They were having lots of fun picking out the crib and toys.」
+
+％Ｂ
+「...They sure are moving fast.」
+They're way too excited...
+If you're gonna do that, then do it after we announce we've got a baby on the way...
+Touko
+「Let's make a warm home together. The happiest home in the world.」
+％Ｂ
+「Yeah. We'll have to do our best at work for that.」
+Touko
+「Ahaha, that's true. We're compleeetely out of savings after the wedding and the honeymoon.」
+
+％Ｂ
+「...Let's stop talking about this. You're dragging me back to reality.」
+Touko
+「Daddy's going to work reeeal hard, okaaay? You wanna live in a nice, big house, don't yooou?」
+
+％Ｂ
+「There's no one in there yet! It's too early to rub your belly and talk to it like that!」
+
+Touko
+「You never knooow. We might've made a baby when we did it last night. And I want you to do your best tonight too.」
+
+
+We're shaping our future, bit by bit.
+There's a happiness that only we can make, that only we can have... I have to make that into reality. Together with Touko.
+
+Today's my birthday. It's also the day of our wedding.
+We decided to hold the ceremony on the same date as the proposal.
+Touko's wearing a pure white dress.
+Lots of different thoughts and expressions fill my mind, but there's only one thing that ends up coming out.
+％Ｂ
+「...You're beautiful.」
+Touko
+「Mhm, thanks. You look cool too
+, Ryousuke
+
+.」
+I was nervous, but seeing Touko's calmed me down a bit.
+She makes my heart race more than anyone else, but she also comforts me just as much.
+And today... I'll pledge my everlasting love to her.
+Touko
+「The day's finally here
+
+, Ryousuke
+
+... I'll be your bride, starting today.」
+The path here was a long one... but when I think back, it seems like it all passed in an instant.\n \n\r
+All of the various emotions I've felt along the way well up within me, one after another, now that Touko's wearing this dress in front of me.
+
+％Ｂ
+「We've been able to get here thanks to the support of lots of people. Let's announce ourselves to all of them today.」
+
+Touko
+「Mhm. I hope we can repay them at least a little this way.」
+Today's our wedding... but we're also considering it an opportunity for us to repay our favors.
+
+All our friends who connected us back on that day of the Tanabata Festival.
+Mr. Azuma, and our fellow coworkers at the firm. The people who've supported us through our work.
+And of course, my parents and Touko's parents.
+There are others too... I want to extend our gratitude to all of the people who've watched over and helped us.
+
+％Ｂ
+「If we hold our heads high and tell them, "We are happy," I'm sure they'll smile for us.」
+
+Touko
+「...Yeah. I might cry a bit, though.」
+Lots of memories come to mind.
+But it's still too soon to get emotional and teary.
+％Ｂ
+「Come on, you can't cry yet. You're gonna ruin your makeup if you cry now.」
+
+Touko
+「Hgh... Mhm, I'm okay. Ehehe, sorry about that. Let's talk about something else, then.」
+
+Touko
+「Mmm... I know. Is there still more to your dream from now on
+, Ryousuke
+
+?」
+％Ｂ
+「Huh? More to my dream... I'll get my first-class qualification, and become independent someday...」
+
+Touko
+「I wanna hear about what comes after that. Anything's fine, so tell me.」
+
+Hmm... I'd only be able to say something really vague.
+Because I need to overcome lots of obstacles in order to make my dream a reality.
+
+％Ｂ
+「Let's see... I still wanna make a place that makes people smile. I'll find out in what ways I can make that idea into reality... So I guess that's how my dream's gonna keep going.」
+
+
+I can't say anything specific just yet.
+But I'll get my qualifications, and build up lots and lots of experience... And one day, I want to be involved in something big, to make lots of people smile.
+
+％Ｂ
+「I don't know how much power I have, but I wanna find out. I'm sure there's gonna be lots of hard and painful times... but as long as the possibility exists, I wanna go for it.」
+
+
+Touko
+「You'll have to pass your exams first. You're studying lots even though you're so busy. I'm sure you'll be fine.」
+
+％Ｂ
+「Yeah. I can't be uncool in front of you, after all. I dunno what I'd do if you fell out of love with me.」
+
+Touko
+「Ahaha, yeah. I want you to always show me your cool side.」
+
+％Ｂ
+「It's the same for me, you know. I want you to always be cute for me.」
+
+Touko
+「Mmm... Being cute isn't the only good part of a woman, you know. I'll do my best to make sure you fall in love with me more
+, Ryousuke
+
+.」
+...Is it okay for me to love her more than I do now?
+I'll need to put in as much effort as possible, to make sure I can be the kind of man Touko will fall more in love with too.
+
+Touko
+「My turn now. Can I tell you... about my dream?」
+
+％Ｂ
+「...Yeah. Please tell me.」
+Touko
+「My dream's to support you
+, Ryousuke
+
+. The happy things, the sad things, the fun things, the painful things... I want to split aaall of it evenly between the two of us, and support your dreams that way.」
+
+
+
+
+
+Touko
+「My dream is to always walk beside you... and treasure and protect your dream.
+
+
+」
+
+％Ｂ
+「Touko...」
+Touko
+「I'm sure... that it's something only I can do. It's my dream and mine alone. These feelings haven't changed... and won't change in the future either.」
+
+She smiles quietly at me.
+It's the happiest smile I've ever seen from her.
+Touko
+「Let's... make your dream come true someday. You made my wish come true. I'm sure you'll be able to make your dream come true too
+
+
+, Ryousuke
+
+.」
+I want to protect this smile for the rest of my life.
+I vow to treasure this smile, no matter what happens.
+Touko
+「I know! Let's go make a wish at Shionagi Academy's Tanabata Festival next year. I'm sure it'll come true if we make a wish on a star there.」
+
+％Ｂ
+「Yeah. Let's do that. And the effect will double if we write it together on a tanzaku.」
+
+We'll go back once more to where everything began for us.
+Let's hold hands there, and wish on a star together.
+We'll entrust the future with our dreams... to deliver them to us in the future.
+Female Venue Staff
+「Are you ready? Please come out to the ceremony area if you are.」
+
+％Ｂ
+「We understand. Thank you very much.」
+Now then. It's time to turn the page to a new chapter in my life.
+I'm sure the path ahead of me won't be easy. I'll bump into walls over and over, and I might lose sight of the path I should tread at times, and end up lost.
+
+
+...But I'm not worried.
+I'm not alone. Touko will always be by my side.
+No matter what happens from now on... Touko and I will support each other and overcome it all.
+％Ｂ
+「All right... Let's go, Touko. They're waiting for us.」
+Touko
+「...Yes, dear.」
+$$smh_OpenCHK
+dummy
+_00com
+bgm32
+bgm32
+bg505
+_00grp
+bg407n
+_00bup
+bs_tk01_06
+_00bup
+bs_tk02_04
+_00bup
+bs_tk01_05
+_00bup
+bs_tk01_0402
+_00bup
+bs_tk02_04
+_00bup
+bs_tk03_1113
+_00bup
+_00bup
+bs_tk03_08
+_00bup
+bs_tk12_1201
+_00bup
+_00bup
+bs_tk12_02
+_00bup
+bs_tk02_04
+sumaho_ok
+_00bup
+bs_tk01_0402
+_00bup
+bs_tk01_04
+_00bup
+bs_tk03_09
+_00bup
+_00bup
+bs_tk03_04
+_00grp
+_00grp
+bg407n
+_00bup
+bu_tk01_1107
+_00bup
+bu_tk01_1011
+_00bup
+_00bup
+bu_tk01_04
+_00bup
+bu_tk01_1109
+_00bup
+bu_tk01_1107
+_00bup
+bu_tk01_0711
+_00bup
+bu_tk02_04
+_00bup
+_00bup
+bu_tk02_03
+_00bup
+bu_tk01_10
+_00bup
+_00bup
+bu_tk01_04
+_00bup
+bu_tk01_1104
+_00bup
+bu_tk02_12
+_00com
+_00bup
+_00bup
+bu_tk02_1303
+_00bup
+_00bup
+bu_tk02_1303
+_00bup
+bu_tk03_09
+_00bup
+bu_tk03_04
+_00bup
+bu_tk03_11
+_00bup
+_00bup
+bu_tk03_05
+_00bup
+bu_tk01_10
+_00bup
+_00bup
+bu_tk01_0712
+_00bup
+bu_tk01_0711
+_00grp
+_00grp
+bg407n
+_00bup
+bs_tk02_07
+_00bup
+bs_tk02_04
+_00bup
+bs_tk02_03
+_00bup
+bs_tk02_0402
+_00bup
+_00bup
+bs_tk02_03
+_00bup
+bs_tk01_02
+_00com
+_00bup
+bs_tk01_0402
+_00bup
+bs_tk01_02
+_00bup
+bs_tk01_0802
+all
+_00bup
+_00bup
+all
+_00bup
+bs_tk02_13
+_00bup
+_00bup
+bs_tk02_04
+_00bup
+bs_tk02_02
+_00bup
+bs_tk02_1102
+_00grp
+bg503
+_00grp
+bg310n
+_00bup
+bu_tk02_04
+_00bup
+bu_tk02_02
+_00bup
+bu_tk02_1304
+all
+_00bup
+_00bup
+all
+bg503
+_00bup
+bs_tk02_02
+_00bup
+bs_tk02_04
+_00bup
+bs_tk02_02
+_00grp
+bg310n
+_00bup
+bu_tk01_02
+_00bup
+bu_tk02_0402
+_00bup
+bu_tk02_07
+_00bup
+bu_tk02_12
+_00bup
+bu_tk01_11
+_00bup
+bu_tk01_03
+_00bup
+bu_tk01_04
+_00grp
+bg407n
+_00grp
+bg407n
+_00bup
+bs_tk01_05
+_00bup
+_00bup
+bs_tk01_0604
+_00bup
+bs_tk01_11
+_00bup
+_00bup
+bs_tk01_0705
+_00bup
+bs_tk03_02
+_00bup
+_00bup
+bs_tk03_04
+_00bup
+bs_tk03_0705
+_00bup
+bs_tk03_0402
+_00bup
+_00bup
+bs_tk03_13
+_00bup
+bs_tk01_0205
+_00bup
+bu_tk01_09
+_00bup
+_00bup
+bu_tk01_04
+_00bup
+bu_tk01_0402
+_00bup
+bu_tk02_03
+_00bup
+bu_tk02_04
+_00bup
+_00bup
+bu_tk12_1102
+_00bup
+bu_tk12_13
+_00com
+_00bup
+bu_tk02_02
+_00bup
+_00bup
+bu_tk02_04
+_00bup
+bu_tk02_03
+_00bup
+bu_tk01_03
+_00bup
+bu_tk01_04
+_00bup
+bu_tk02_1102
+_00bup
+bu_tk02_04
+_00bup
+bu_tk02_1303
+_00bup
+bu_tk02_1204
+_00bup
+_00bup
+bu_tk02_13
+_00bup
+bu_tk02_0402
+_00grp
+bg501
+_00grp
+bgm53
+bgm53
+cg_tk22_0111
+_00grp
+cg_tk22_0111
+_00grp
+cg_tk22_0121
+_00com
+_00grp
+cg_tk22_0113
+_00com
+_00grp
+cg_tk22_0111
+_00grp
+cg_tk22_0122
+_00grp
+cg_tk22_0123
+_00grp
+cg_tk22_0111
+_00com
+_00grp
+cg_tk22_0113
+_00grp
+cg_tk22_0111
+_00grp
+cg_tk22_0113
+_00grp
+cg_tk22_0111
+_00com
+_00grp
+cg_tk22_0113
+_00com
+_00grp
+cg_tk22_0121
+_00com
+_00grp
+cg_tk22_0123
+_00grp
+cg_tk22_0131
+_00grp
+cg_tk22_0133
+_00com
+_00grp
+cg_tk22_0113
+_00grp
+cg_tk22_0111
+knock_onna
+after_zimusyo_door2
+_02smh
+bgm75
+bgm75
+_00grp
+cg_tk22_0111
+_00grp
+cg_tk22_0133
+__white
+_02smh
+_00com

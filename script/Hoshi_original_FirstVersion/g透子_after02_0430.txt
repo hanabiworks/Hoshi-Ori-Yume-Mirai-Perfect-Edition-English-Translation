@@ -1,0 +1,113 @@
+﻿0408
+水
+0430
+木
+We've hit a long spring holiday streak just as I've gotten a tiny bit used to working.
+It happened suddenly while I was helping Touko with her studying.
+Touko
+「...I wanna play! I wanna play I wanna play I～ wanna～ plaaaaay～!」
+
+％Ｂ
+「Whoah!? Y-You scared me out of my skin!」
+$$chr_jumploop
+Touko
+「I don't wanna stay in the house aaall～ the time and just studyyy～! My butt's going to start growing roots! I'm going to get mold growing on my skiiin～ It's a holidaaaaaay～!」
+
+
+Touko's stress must've built up from all the studying. She's finally exploded.
+
+I think Touko's really done great to be this dedicated about studying until now.
+But... I wish she wouldn't suddenly complain like this without warning.
+％Ｂ
+「Haha, it looks like some things never change. That's reassuring.」
+Touko
+「Mmhhh... Are you trying to say I'm a kid? I can't help it, I can't take it anymooore! Mmhh～!」
+
+
+She puffs up her cheeks.
+It's some kind of protest... but it just makes her look cute.
+Touko
+「Hey, aren't you tired from aaall the work you've been doing since you got hired? I think it might be about time to take a breather, you knooow?」
+
+
+％Ｂ
+「Yeah... Mr. Azuma told me I should make sure to take a proper break over this holiday. It'd be nice for us to go out and have fun for once.」
+
+Touko
+「Mhm! Yay, our first date in a while!」
+She seems so happy.
+Teacher also told me, "Stop working all the time and go have fun with Touko-chan too."
+
+I can tell from Touko's smile that I haven't been able to give her the attention she's wanted because I've been so busy with work.
+
+All right. I'll use my time off of work for Touko.
+Let's have tons of fun and blow away the fatigue in our bodies and our hearts.
+％Ｂ
+「Wanna go on a trip somewhere, since it's a long holiday? Oh, but I wonder if we'd be able to reserve anywhere this late...」
+
+Touko
+「No, we don't need to do anything special. I wanna go on a normal date.」
+
+％Ｂ
+「You sure? I dunno when I'll be able to get a lot of time off like this again.」
+
+Touko
+「Mhm. I can save going on a trip as a reward for when I pass the exam. So work hard and make lots of money until then, okay? Ehehe, an overseas trip... I've never gone outside of Japan on a trip before.」
+
+
+％Ｂ
+「...You know what my salary is, right? People who just started don't make much.」
+...Though I guess I'll grab a pamphlet or something at some point.\n \n\r
+She'll probably start wanting to go somewhere crazy if I promise something beforehand, so I'll figure out a destination and a budget in secret first.
+
+Touko
+「You're off of work starting the day after tomorrow, right? Let's go on a date then, okay?」
+
+％Ｂ
+「All right, got it. I'll do my best to make sure I can finish up everything by tomorrow.」
+
+Touko
+「Mhm! Ehehe, I'm so excited...! Okay! I'll keep going for a little longer too!」
+
+dummy
+_00com
+bgm51
+bgm51
+bg501
+bg407
+_00grp
+bg407
+_00bup
+bu_tk01_0609
+_00bup
+_00bup
+bu_tk01_1107
+_00bup
+bu_tk03_0711
+_00bup
+bs_tk03_07
+_00bup
+bs_tk01_0709
+_00bup
+_00bup
+bs_tk01_11
+_00bup
+bs_tk12_1107
+_00bup
+_00bup
+bs_tk12_12
+_00bup
+bs_tk02_04
+_00bup
+bs_tk02_02
+_00bup
+bs_tk01_02
+_00bup
+_00bup
+bs_tk01_04
+_00bup
+bs_tk01_03
+_00bup
+bs_tk02_04
+_00grp
+_00com

@@ -1,0 +1,119 @@
+﻿1206
+日
+0114
+月
+％Ｂ
+「Huh? Ueda-san's quitting?」
+Firm Staff A
+「Yeah, seems like it. It's gonna be pretty rough to lose a planner at this time of year...」
+
+It's painful when coworkers leave.
+It's only been a year, but Ueda-san's still someone I've experienced pain and joy with, and he was skilled too... His loss will probably be painful for the firm.
+
+％Ｂ
+「Mr. Azuma, are you planning on recruiting a new staff member?」
+Azuma
+「We'll keep going as is for now. I'm actually in the middle of interviewing someone new right now. We won't need to recruit anyone if they're hired.」
+
+
+Firm Staff A
+「Huh, are they experienced?」
+Azuma
+「No, they're someone who only just graduated university last year. They're currently studying a field that we want in our firm, so I'm expecting good things of them... but we'll see.」
+
+
+So that means... they're the same age as me.
+I feel nostalgic when I think about how things were like for me last year.
+％Ｂ
+「I see, so I'm finally going to have a junior coworker... It feels a bit strange.」
+
+Azuma
+「You're barely past a chick. You can act the part of a senior staff member once you're able to do good work on your own.」
+
+
+％Ｂ
+「Th-That's not what I meant! Hey, what's so funny!?」
+
+Firm Staff A
+「Hahaha, no, I was just laughing because you looked so happy! Having a junior coworker's not all it's cracked up to be! You'll always be worrying about them catching up to you!」
+
+
+Azuma
+「Just like you, yeah. You two might be swapping desks next year, you know.」
+
+Firm Staff A
+「Wha, Mr. Azuma!? That wouldn't take just a year, right!?」
+
+Azuma
+「...」
+Firm Staff A
+「Why aren't you saying anything!? Listen here, 
+
+Hino, 
+
+I'm not giving up this spot, all right!?」
+Azuma
+「Speaking of which... I got the results for that design competition last month. You won. Good job.」
+
+％Ｂ
+「Did I really!? All right! I really thought I could do it...!」
+
+I'm glad I put in all that effort!
+This is the first time my work's been acknowledged since I started working here!
+Azuma
+「I'll have to reward you for placing
+, Hino
+
+. How about you participate in the planning phase for our next project?」
+
+％Ｂ
+「Can I really!? I'd love to!」
+Firm Staff A
+「But I only got to do that in my third year! Isn't that a little too soon!?」
+
+Azuma
+「Don't worry, I'm not expecting too much from you. Though I am expecting you to surprise me with a young person's unique perspective.」
+
+％Ｂ
+「I'll do my very best! I can't wait to receive your guidance!」
+all
+I'll be able to give Touko some good news before we find out if she passed her exam.
+I hope she's just as happy about this as I am...!
+dummy
+_00com
+bgm51
+bgm51
+_00grp
+bg408
+_00bup
+bs_az01_11
+_00bup
+bs_az11_08
+_00bup
+bs_az01_11
+_00bup
+bs_az01_06
+_00bup
+_00bup
+bs_az01_0813
+_00bup
+bs_az01_08
+_00bup
+bs_az01_13
+_00com
+_00bup
+bs_az01_07
+_00bup
+_00bup
+bs_az01_02
+_00bup
+bs_az01_01
+_00com
+_00bup
+bs_az01_02
+all
+_00bup
+_00bup
+all
+_00grp
+_00com

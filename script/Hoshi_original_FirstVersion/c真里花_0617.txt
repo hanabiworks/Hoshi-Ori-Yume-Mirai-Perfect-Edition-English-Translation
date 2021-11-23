@@ -1,0 +1,200 @@
+﻿0616
+月
+0617
+火
+$$smh_OpenCHK
+％Ｂ
+「This should be everything we need for tools and materials.」
+A glass cutter, an L-crank, masking tape, and caulking tools.\n \n\r
+
+All that's left is the actual glass.
+Marika
+「I got permission to use the old school building's glass～」
+Shinozaki handled the negotiations for using the glass.
+
+Natsuki
+「I know it was gonna be thrown out anyway, but I'm still surprised you got permission that easily.」
+Marika
+「I asked them to let us make good use of it, because it'd be a waste to just throw it all away. "It'd be wasteful otherwise" is a universal persuader.」
+
+
+Rikka
+「You can't really say no as an educator if you phrase it that way.」
+％Ｂ
+「That's some shrewd thinking, Shinozaki.」
+all
+Marika
+「I-I don't think it's that big of a deal～」
+all
+％Ｂ
+「Okay! Then let's get started!」
+Natsuki
+「What's our first step?」
+％Ｂ
+「I've drawn out some diagrams, so first we'll need to cut the glass according to these.」
+
+Marika
+「What? We're not using it like this?」
+％Ｂ
+「Nope, it's too big right now.」
+
+Misa
+「If we were to make water tanks out of whole sheets of this glass, I believe we would end up with tanks big enough for one ton of water.」
+
+Marika
+「Huh? That much? Eeek～」
+
+Natsuki
+「But how are we going to cut the glass?」
+all
+％Ｂ
+「It's actually pretty easy to cut glass, if you have the proper tools.」
+
+Misa
+「We will be using this glass cutter, yes?」
+％Ｂ
+「Yes. It'll be easy with that.」
+all
+Sora
+「It's smaller than I expected.」
+％Ｂ
+「I guess it's more like you put the edge against the glass and break it there, instead of cutting it.」
+
+all
+You cut the glass, remove any jagged edges, and temporarily fix them in place with the L-clamp.
+And then all you need to do is fill in the gaps between the glass with caulk, and you're done.
+
+It isn't anything difficult on paper.
+But there are apparently a few tricks to actually doing it, so I won't know how well it'll turn out until I actually try.
+
+Natsuki
+「That seems fun. Let's get to work.」
+
+％Ｂ
+「All right, let's get started!」
+all
+％Ｂ
+「Phew... Like this, I guess?」
+It took longer than I had expected, but we've managed to finish the caulking stage.\n\r
+
+It may be simple, but it still takes time to do something you're not used to.
+But that also means that it'll get easier as I get more used to it.
+Touko
+「Is it done now?」
+％Ｂ
+「Pretty much. All that's left is to wait for the caulk to harden, and then we can put some water in to test.」
+
+
+％Ｂ
+「It's apparently best to wait at least a day or so for it to dry completely.」
+
+
+Rikka
+「So that means we're done for today.」
+％Ｂ
+「That's right.」
+all
+We should wait until we know it can hold water before we start working on the next one.\n\r
+
+It'd be annoying if we started making more and then found some critical design flaw afterward.
+Marika
+「I hope it comes out nicely.」
+％Ｂ
+「Yeah. C'mon, you better hold water!」
+all
+I gently pat my hand on the glass.
+dummy
+_00com
+_02smh
+bgm12
+_00grp
+bg115_10
+_00bup
+bs_mr03_0202
+_00bup
+_00bup
+bs_mr03_01
+_00bup
+_00bup
+bs_nt02_0201
+_00bup
+bs_mr22_0103
+_00bup
+_00bup
+bs_mr22_02
+_00bup
+bs_rk03_0203
+all
+_00bup
+_00bup
+all
+_00bup
+bs_mr01_1111
+all
+_00bup
+_00bup
+all
+_00bup
+bs_nt01_0202
+_00bup
+bs_mr01_0808
+_00bup
+_00bup
+bs_ms01_1010
+_00bup
+_00bup
+bs_ms01_11
+_00bup
+bs_mr03_0909
+_00bup
+_00bup
+bs_mr03_07
+_00bup
+bs_nt01_0808
+all
+_00bup
+_00bup
+all
+_00bup
+bs_nt01_0808
+_00bup
+_00bup
+bs_ms01_0101
+all
+_00bup
+_00bup
+all
+_00bup
+bs_sr02_0101
+all
+_00bup
+_00bup
+all
+_00bup
+bs_nt01_0202
+all
+_00bup
+_00bup
+all
+_00grp
+bgm15
+bg115_11
+_00grp
+bg115_11
+_00bup
+bs_tk03_0305
+_00bup
+_00bup
+bs_rk01_0202
+all
+_00bup
+_00bup
+all
+_00bup
+bs_mr22_0103
+all
+_00bup
+_00bup
+all
+_00grp
+_00com

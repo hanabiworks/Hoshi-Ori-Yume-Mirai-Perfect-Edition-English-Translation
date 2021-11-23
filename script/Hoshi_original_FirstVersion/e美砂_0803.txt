@@ -1,0 +1,431 @@
+﻿0802
+土
+0803
+日
+$$smh_OpenCHK
+Misa
+「Thank you for waiting.」
+％Ｂ
+「I'm sorry for making you come all the way out here.」
+Misa
+「Oh no, it's fine.」
+％Ｂ
+「Um... And the key?」
+Misa
+「Yes, I was able to borrow it from my father.」
+all
+She takes the key to Marinpia out from her bag.
+Misa
+「We can use this to go inside. However, all of the fish have already been moved, and so there aren't any in the tanks...」
+
+
+％Ｂ
+「Yes, I know. But... I just had to see this place one more time.」
+
+Misa
+「Yes... I understand. Yes, I would like to say my final goodbyes too.」
+
+We use the key to open the door, and step inside.
+％Ｂ
+「...So they removed the water already too.」
+Misa
+「Yes... It appears so... It's a very sad sight.」
+The last time I was here, it was still after it closed down, but the giant tanks were still filled with lots of fish.
+
+But now there are no signs of life in the tanks.
+％Ｂ
+「...」
+Misa
+「...」
+We stand there, just staring into the empty darkness.
+Misa
+「Perhaps... It will not work after all.」
+％Ｂ
+「Huh?」
+I look at her. She has tears in her eyes again.
+Misa
+「I tried as hard as I could until now, to try to communicate the wonders of aquariums to as many people as I could... but... it may be impossible for me.」
+
+
+％Ｂ
+「Misa-senpai...」
+Misa
+「I'm sorry... It's just, looking at this...」
+She wipes her tears.
+Misa
+「It seems I'm still just acting spoiled. I need to pull myself together... I know that, but...」
+
+％Ｂ
+「...Please don't make that face.」
+％Ｂ
+「I did some research last night and found a certain solution.」
+Misa
+「Wha...?」
+％Ｂ
+「It's apparently a way of getting rid of clouding.」
+Misa
+「...And that method would be?」
+％Ｂ
+「I think you already know. And you're currently wondering if you should pursue that method... Am I wrong?」
+
+Misa
+「...」
+％Ｂ
+「That method is...」
+％Ｂ
+「"To do nothing."」
+％Ｂ
+「To fix the clouding... Just do nothing and leave the tanks be.」
+
+％Ｂ
+「I looked up many different things on the matter. There were lots of different methods, but none of them are particularly effective... Apparently, that's the only method that really works.」
+
+
+％Ｂ
+「Just be confident, and wait for the clouding to go away of its own accord.」
+
+％Ｂ
+「Is "doing nothing" also the method that you were thinking of?」
+
+Misa
+「...Yes... It is.」
+Misa
+「Nature has the ability to restore itself once it has become imbalanced. Humans do not need to do anything. We can simply sit and wait for it to recover on its own.」
+
+Misa
+「I'm surprised you realized. Yes, that is exactly what I had been considering.」
+
+％Ｂ
+「Well, I am your boyfriend, you know.」
+Misa
+「Ufufu... However, that method is not without issue. We do not know how long it will take to recover naturally. It may recover tomorrow, or it may take a week. Perhaps even longer.」
+
+
+％Ｂ
+「But I've read that it can take three to five days if it's quick.」
+
+Misa
+「That would be in the best-case scenario.」
+Misa
+「I... cannot decide if that method is truly the best one. I'm not confident...」
+
+Misa
+「It would be fine if the only price of failure was my own pride. But knowing that I may waste all of your efforts...」
+
+
+％Ｂ
+「...Misa-senpai.」
+Her tears threaten to spill out again.
+I speak to her as gently as I possibly can.
+％Ｂ
+「I... believe in you, and what you've been doing.」
+Misa
+「Wha...?」
+％Ｂ
+「I'm utterly convinced you will succeed. I trust your decisions.」
+
+％Ｂ
+「If you're unsure, then you can rely on me as much as you'd like. You can even cry. I want to support you as much as I can.」
+
+
+Misa
+「Oh...」
+A message.
+％Ｂ
+「Oh, I apologize...」
+I check my notifications.
+Looks like he's here.
+％Ｂ
+「Could I ask you to wait here for a moment? I'll be back soon.」
+
+Misa
+「O-Okay... I understand.」
+I leave her behind and run to the entrance.
+％Ｂ
+「Kh! ...Th-Thank you for waiting.」
+I come back carrying a big cardboard box.
+Seems like she came out to the promenade because she was worried.
+Misa
+「Wah... U-Um... What is that?」
+％Ｂ
+「I asked Shuuichi to bring this here with his girlfriend's car. That message earlier was him telling me they just got to the parking lot, so I left to get this.」
+
+
+Misa
+「Is this what you wanted to show me, perhaps?」
+％Ｂ
+「Yes... Just a moment, please.」
+all
+I open up the box and carefully take out the contents.
+Misa
+「Is this...?」
+％Ｂ
+「Yes. It's the model of Marinpia Shionagi.」
+
+Misa
+「You completed it!? Really!?」
+％Ｂ
+「I told you I'd definitely make it in time, didn't I?」
+Her eyes glitter as she stares at the model.
+％Ｂ
+「It's even been approved of by the architect himself. Though I've only shown him photos so far. You're the first person I'm showing the actual model to.」
+
+
+Misa
+「This is incredible... I've never seen anything like this! It genuinely looks exactly like Marinpia itself from outside...」
+
+％Ｂ
+「It isn't just the outside. Could you look inside too?」
+Misa
+「Wha... Inside too? You don't mean...」
+％Ｂ
+「It's made so you can lift the roof up, so please hold that side.」
+
+all
+She hesitantly places her hands on one side of the roof.
+％Ｂ
+「Please lift it slowly. Ready, set...」
+I grab the opposite side, and the two of us lift the roof together.
+Misa
+「Wooow!」
+She lets out a cry of childlike wonder.
+Misa
+「How wonderful... This... This is... This is too wonderful!」
+The Marinpia Shionagi model replicates every corner of the interior design.
+
+Misa
+「There are even fish inside the tanks!」
+I've attached clear-blue acrylic to the insides of the tanks to give the impression of them being filled with water.
+There are tiny and detailed paper cutouts of fish swimming within.
+Misa
+「And there are so many guests!」
+There are several hundred people filling the paths.
+They're 1/100-scale acrylic-cut silhouettes of people.
+
+Misa
+「Were these... all made by hand?」
+％Ｂ
+「Yes, more or less. I could have bought them, but this many would have been quite expensive, so...」
+
+
+Misa
+「Incredible... I didn't think you would put this much work into this...」
+all
+She stares at every inch of the model, her eyes shining.
+
+Misa
+「Marinpia was filled with people like this back when I was a child.」
+
+Misa
+「There were so many guests, and so many fish there to welcome them...」
+
+Misa
+「I remember happy voices and delighted smiles. I feel like I can hear those voices from this model. It's... so nostalgic.」
+
+
+％Ｂ
+「That's where you're wrong, Misa-senpai.」
+Misa
+「Wha...?」
+I immediately interject.
+％Ｂ
+「This model isn't of the Marinpia of the past.」
+Misa
+「But what could it possibly...?」
+％Ｂ
+「This is the Marinpia Shionagi of the future.」
+Misa
+「The Marinpia... of the future?」
+％Ｂ
+「You will definitely reopen Marinpia and fill it with all these guests... That's the thought I held in my heart while building this model.」
+
+
+％Ｂ
+「I believe in you.」
+Misa
+「...Aah...」
+％Ｂ
+「So please, believe in yourself. Please believe in everything you've done together with us so far.」
+
+％Ｂ
+「Please believe in what you love again!」
+Misa
+「Believe... in what I love...?」
+％Ｂ
+「I love you when you're doing what you love. I love you because you're Okihara Misa!」
+
+Misa
+「Ryousuke-san...!」
+Misa
+「...!」
+％Ｂ
+「Let's believe! Let's believe in what we've been doing, and let's believe in nature!」
+
+Misa
+「Yes... I understand... I will also believe. I will believe in what I have been doing... and what I love.」
+
+Misa
+「And I... will believe in the words from the person I love.」
+dummy
+_00com
+_02smh
+bgm24
+_00grp
+bg412
+_00bup
+bs_ms01_01
+_00bup
+bs_ms01_02
+_00bup
+bs_ms01_0102
+all
+_00bup
+_00bup
+all
+_00bup
+bs_ms01_0110
+_00bup
+_00bup
+bs_ms01_11
+_00bup
+bs_ms01_0901
+_00bup
+_00bup
+bs_ms01_10
+_00grp
+_00grp
+cg_ms01_0304
+_00bup
+_00grp
+cg_ms01_0305
+_00grp
+cg_ms01_0306
+_00bup
+_00grp
+cg_ms01_0304
+_00grp
+cg_ms01_0308
+_00bup
+_00grp
+cg_ms01_0304
+bgm32
+_00grp
+cg_ms01_0306
+_00bup
+_00bup
+_00grp
+cg_ms01_0308
+_00bup
+_00grp
+cg_ms01_0304
+_00grp
+cg_ms01_0306
+_00bup
+_00grp
+cg_ms01_0305
+_00bup
+_00grp
+cg_ms01_0304
+sumaho_vibe_one
+_00grp
+cg_ms01_0308
+_00grp
+bgm36
+_00grp
+bg413n
+_00bup
+bs_ms01_13
+_00bup
+bs_ms01_0110
+all
+_00bup
+_00bup
+all
+_00cutincg_macro
+ef_marinpia
+_00bup
+bs_ms01_0110
+_00bup
+bs_ms01_0106
+_00bup
+bs_ms01_0601
+_00bup
+bs_ms01_06
+_00bup
+_00bup
+bs_ms01_02
+_00bup
+bs_ms01_08
+_00bup
+_00bup
+bs_ms01_13
+all
+_00bup
+_00bup
+all
+_00bup
+bs_ms03_10
+_00bup
+bs_ms03_01
+_00bup
+_00bup
+bs_ms03_1003
+_00bup
+bs_ms03_06
+_00bup
+_00bup
+bs_ms03_0401
+_00bup
+bs_ms03_1003
+_00bup
+bs_ms01_13
+_00bup
+bs_ms01_06
+_00bup
+_00bup
+bs_ms01_0102
+all
+_00bup
+_00bup
+all
+_00bup
+bs_ms01_03
+_00bup
+bs_ms02_0402
+_00bup
+_00bup
+bs_ms02_02
+_00bup
+bs_ms02_0304
+_00bup
+_00bup
+bs_ms02_0402
+_00bup
+bs_ms01_0108
+_00bup
+bs_ms01_10
+_00bup
+bs_ms01_1308
+_00bup
+bs_ms01_0910
+_00bup
+bs_ms01_04
+_00bup
+_00bup
+bs_ms01_01
+_00bup
+bs_ms01_06
+_00com
+_00bup
+bs_ms03_01
+_00bup
+_00bup
+bs_ms03_04
+_00bup
+bs_ms03_0307
+_00bup
+bs_ms03_01
+_00bup
+bs_ms03_0302
+_00grp
+_00com

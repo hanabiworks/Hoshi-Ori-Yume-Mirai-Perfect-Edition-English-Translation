@@ -1,0 +1,683 @@
+﻿0608
+日
+0609
+月
+$$smh_OpenCHK
+％Ｂ
+「...Oh. Hey, Yukimura!」
+Touko
+「Hm? Oh, it's you. What is it?」
+％Ｂ
+「I wanted to thank you again. For yesterday.」
+Touko
+「It's fine. I had nothing better to do anyway. Though that rice was super heavy.」
+
+％Ｂ
+「You really saved us. What'd you think of yesterday? I was talking to the others about it earlier today.」
+
+Touko
+「Mmm... I think it was a good experience. I've never done stuff like that before.」
+
+％Ｂ
+「Hm? You mean that was your first time camping?」
+Touko
+「That too, but I meant just doing things together with others. Making food, playing games, taking baths.」
+
+％Ｂ
+「...Oh, I see.」
+Touko
+「Anyway, did you need something?」
+％Ｂ
+「No, not really... I just thought we could talk about yesterday.」
+Touko
+「Is there something we need to talk about? I already said you don't need to thank me, and it's already over.」
+
+Yukimura should expand her social circle.
+There's yesterday's lineup―Ousaka, Shinozaki, Segawa, Narusawa, and Okihara-senpai.
+She had the opportunity to get to know those five yesterday. I think we could all get along great.
+
+As a member of the event committee, and a fellow transfer student...
+I want to be able to give her the opportunity to make good memories during high school.
+Both Ousaka and Okihara-senpai are currently considering having their clubs participate in the Tanabata Festival.\n\r
+
+If we're able to get Yukimura to expand her social circle... then that camp would've accomplished everything I could've possibly asked for.
+Touko
+「Oh, I guess there is something. I'll need you to make sure you fulfill my condition.」
+
+％Ｂ
+「I-I'm thinking that over right now! You saw that photo I sent, right!? What'd you think of that!?」
+
+Touko
+「Mmm... It was kinda weird since you forced me to be in it.」
+％Ｂ
+「You're saying stuff like that again... It's a normal commemorative photo.」
+Touko
+「But it's not like I take photos normally. And I don't look at photos afterward either.」
+
+％Ｂ
+「I think you should come out of your shell a little more. Like with Shinozaki and Segawa... You got along well with everyone yesterday, didn't you?」
+
+Touko
+「Mmm... Pass. That's a pain.」
+A blunt refusal.
+I can't argue with her when she says it like that.
+Touko
+「Don't you have work you should be doing? You sure it's okay to just do nothing in a place like this?」
+
+％Ｂ
+「Y-Yeah, but...」
+Touko
+「Anyway, I'm going. Good luck with wooork.」
+％Ｂ
+「Gh... I'll be done real quick! Could you wait for me in the old school building!?」
+Touko
+「Mmm... If I feel like it.」
+％Ｂ
+「She's not responding on LIME... Her phone's not out of battery again, is it?」
+
+I sent Yukimura a LIME message after my committee work... but she hasn't responded. I have no idea if she's still here.
+
+There's still a bit of time before I need to go home.
+Maybe it'd just be faster for me to go straight to the old school building?
+Shuuichi
+「Hmm... I wonder if there's anything we could do...」
+％Ｂ
+「What's up?」
+Shuuichi
+「It's something that happens every year... We don't have enough people. You got anyone you can try getting to join the event committee?」
+
+％Ｂ
+「You've gotta be kidding me. You know I've only just transferred in, right?」
+Shuuichi
+「Yeah, that's true... I guess I should be grateful that you're even here at all.」
+
+％Ｂ
+「But yeah, I can tell we don't have enough people. Though I guess it might just be par for the course with a school this big.」
+
+Shuuichi
+「And even if we do try to get more people, it's hard to say if they'll be useful... It'd be great if we could get ourselves some major newcomers as reinforcement.」
+
+％Ｂ
+「The heck does "major newcomer" mean? You mean just getting a competent new member?」
+
+Shuuichi
+「Either someone with practical experience... or someone who's famous in our school. If they joined the committee, then it'd get people talking.」
+
+That's when I think of something.
+I know someone who's famous in our school and isn't currently involved in any clubs or committees―Yukimura.
+
+％Ｂ
+「Shuuichi. Can you be in two clubs or committees at once at our school?」
+
+Shuuichi
+「It isn't against any rules or anything. But no one ever does it because it's a ton of work.」
+
+So then wouldn't being a committee member get people to stop asking her to join clubs?
+This might be a good way for me to fulfill my side of the bargain with Yukimura.
+％Ｂ
+「...I'm thinking of recruiting someone to join the committee.」
+Shuuichi
+「Hm? Got someone in mind?」
+％Ｂ
+「Yeah. Yukimura. She transferred into class E before I got here. You know her, right?」
+
+Shuuichi
+「...Yukimura in class E? You mean Yukimura Touko?」
+He looks doubtful.
+This seems to be the default reaction to her name.
+Shuuichi
+「That's just ridiculous. I hear she wreaks havoc in clubs and never accepts invitations to join afterward.」
+
+％Ｂ
+「Yeah, I know. I'm gonna ask her to join the event committee so those clubs stop trying to get her to join.」
+
+
+Shuuichi
+「...What are you talking about? I don't get it.」
+％Ｂ
+「It's just how things ended up yesterday. See...」
+all
+Shuuichi
+「I see, so that's what happened... I dunno if she'll actually be useful, but adding the one and only Yukimura Touko to our roster would definitely be a talking point. It could work.」
+
+
+％Ｂ
+「Right? I know it's gonna look like she's using the committee as an excuse to say no to the clubs, but I think it might solve a good deal of the urgent problems with the Tanabata Festival coming up.」
+
+
+Shuuichi
+「It'd definitely be newsworthy. I think we'd get a bunch of Yukimura's male fanbase joining too that way.」
+
+％Ｂ
+「Wha? She's that popular?」
+Shuuichi
+「Well yeah, just look how pretty she is. Everyone who's gone for her's been sunk without exception... Or more like she doesn't even bother with them, apparently.」
+
+
+％Ｂ
+「...Huh. I never knew.」
+Shuuichi
+「Anyway, how'd you even get to know her? And you even have her contact info... That's a huge deal.」
+
+
+％Ｂ
+「Uh... It's a long story.」
+Shuuichi
+「...Suspicious, but fine. I think that kinda shadiness might further enhance the effect of her joining.」
+
+Shuuichi's cunning to the very end.
+I'm glad he's not asking any further, but I hope this doesn't end up causing trouble for me later on.
+
+Shuuichi
+「All right! I'm gonna have you recruit Yukimura Touko! Win her over!」
+
+％Ｂ
+「Right! I've got this!」
+all
+％Ｂ
+「Wonder if she's deeper in...」
+I walk through the quiet halls of the old school building.
+The door wasn't locked, which means she must be further inside... probably in the classroom where I first met her.
+
+There's the matter of asking her to join the committee, of course... but I also just wanna continue our conversation from earlier.
+
+I don't really know why myself.
+She's just been on my mind.
+％Ｂ
+「Yukimura, you theeere? ...Wait, what?」
+Touko
+「Nnh...nh... Zzz...」
+％Ｂ
+「...Yukimura?」
+Touko
+「Nh...mh... Zzz... zzz... nh...」
+I hesitantly call out to her, but she doesn't respond.
+She just continues sleeping comfortably, apparently not having heard me.
+
+％Ｂ
+「Man, what should I do... I'd feel bad waking her up...」
+Wake her up.
+Just wait.
+But I dunno when she'll wake up otherwise.
+Sorry, Yukimura. I'm gonna wake you up.
+％Ｂ
+「Yukimura. Yukimura. Wake up.」
+Touko
+「Nh, nnh...? Oh, welcooome.」
+％Ｂ
+「Thanks for waiting for me. Sorry it took me so long.」
+Touko
+「It's fiiine... Not like I have anything to do at home anyway...」
+Yukimura waited here for me.
+Surely I can stand waiting for her a bit.
+It feels like time passes extremely peacefully in the old school building.
+I can hardly believe I was so busy with my committee work earlier.
+
+％Ｂ
+「...Wonder if she's dreaming.」
+I don't know much about Yukimura yet.
+But I think it'd be nice if she were dreaming about yesterday.
+％Ｂ
+「She was smiling yesterday... I don't think it wasn't fun for her.」
+
+She said that was her first time doing something with others earlier.
+
+I want yesterday to be a happy memory for her.
+I want Yukimura to think it was fun, just like it was for the rest of us.
+
+...Why do I care so much about Yukimura?
+Because we're both transfer students, and she seems interesting.
+Or maybe there's a certain something that I myself haven't realized yet.
+Touko
+「Nh... Oh, you're here...? Welcooome.」
+％Ｂ
+「Oh, sorry... Did I wake you up?」
+Touko
+「Nnh... It's fiiine... I was just sleeping for a bit anyway...」
+Her voice floats around unsteadily. She doesn't seem fully awake yet.
+Maybe I should wait until she's fully awake before talking to her?
+Touko
+「...You weren't waiting for me to wake up, were yooou?」
+％Ｂ
+「Yeah, though I only just got here. I didn't wanna wake you up. Besides, you were waiting for me too, weren't you?」
+
+Touko
+「...Reeeally.」
+Touko
+「By the way, what time is iiit?」
+％Ｂ
+「Let's see... It's just about 5:30.」
+Touko
+「Oh reallyyy... Then I think I'll get up.」
+Touko
+「Fuaaaahh...nh. Hey. Morning.」
+％Ｂ
+「You woke up pretty easily, didn't you?」
+Touko
+「Guess I did. Anyway, what'd you want again?」
+％Ｂ
+「I was just thinking we could continue where we left off earlier... I've been wondering if yesterday was fun for you.」
+
+Touko
+「Mmm... I don't know. Why do you care about my opinion anyway? It's fine as long as the other girls had fun, isn't it?」
+
+
+％Ｂ
+「No, it's not. If you didn't have fun with us, then it's our fault.」
+
+Touko
+「...Why's that?」
+％Ｂ
+「I'm the one who asked you to come along. It'd be weird if you were the only one not having fun when we were all hanging out together, right?」
+
+Touko
+「Hmm. You say some weird things, don't you? I don't really think you need to care about that.」
+
+％Ｂ
+「Of course I care. I don't think it's anything weird.」
+Touko
+「Well, I do think it was more worthwhile than just killing time on my own. Like I said earlier, I think it was a good experience.」
+
+％Ｂ
+「...Speaking of which, what do you usually do when we don't have school?」
+Touko
+「Mmm... I go out if I feel like it, and I stay at home if I can't think of anything to do. I mostly just wander around town.」
+
+There are some things you can't do alone.
+It looks like yesterday was at least a new experience for Yukimura.
+
+Touko
+「I'm new around here, so just walking around's pretty fun. Though I don't like how hot it gets around this time of year.」
+
+％Ｂ
+「Yeah, that's true. Plus it starts pouring rain all of a sudden sometimes too.」
+
+Touko
+「I don't hate little accidents, but I guess I wouldn't wanna get wet. It makes my clothes all see-through during the summer.」
+
+
+％Ｂ
+「...I'm a guy, so I don't really know what to say to that.」
+Touko
+「Really? Let's change the subject, then. There actually just happens to be something I wanna tell you.」
+
+％Ｂ
+「Huh? That being?」
+Touko
+「Your fly's open.」
+all
+％Ｂ
+「Hgh!?」
+My face goes hot and I immediately turn away from her.
+I feel absolutely pathetic reaching down to my pants... Wait, what?
+
+Touko
+「I lied! Man, you really took that hook, line, and sinker, ahaha!」
+
+％Ｂ
+「C-Come on...!」
+Touko
+「So boys are embarrassed about things like that too. Or maybe you're just special?」
+
+％Ｂ
+「It's more like it's just plain shameful... No one wants to see a guy's underwear.」
+
+Touko
+「That's true, I don't really think I'd want to. Or more like I don't really care.」
+
+％Ｂ
+「Hm? Is that the key to this building?」
+Touko
+「That's right. It has this cute, old fashioned feel to it, don't you think?」
+％Ｂ
+「I dunno if I'd call it cute... but I definitely get that old fashioned feel.」
+
+It must've been designed to match the style of this building.
+The unity between the building and the key really makes the whole thing feel even more complete.
+
+％Ｂ
+「By the way, why do you even have that key? You borrow it from somewhere every day?」
+
+Touko
+「No. This is my key. So I can come as I please.」
+
+％Ｂ
+「...? The heck?」
+Touko
+「Anyway, did you come just to talk about yesterday?」
+％Ｂ
+「Oh, no... There's another thing. I actually came to recruit you.」
+
+Touko
+「...Recruit me? What do you mean?」
+％Ｂ
+「You know how this school's famous for its Tanabata Festival, right? You wanna be in the event committee with me, since you're a student here too?」
+
+
+Touko
+「Pass.」
+An instant refusal, without even a moment's thought.
+And she seems completely uninterested.
+Though I already expected this. I start up the excuse I have ready.
+％Ｂ
+「I'm not asking just 'cause I want you in the committee with me. This is a way of solving your problem from yesterday.」
+
+Touko
+「What? How?」
+％Ｂ
+「I think a big part of why you keep getting invited to join clubs and committees is 'cause you're not a part of any yet.」
+
+Touko
+「Hmhm. And?」
+％Ｂ
+「So that means it'll stop if you join something, right? So you should be in the event committee with me. How about it? It's a perfect solution, if I do say so myself.」
+
+
+Touko
+「Mmm... I still don't wanna.」
+％Ｂ
+「...You won't?」
+Touko
+「Not that I won't, I just don't wanna. The event committee sounds like a pain.」
+
+％Ｂ
+「It'd be reassuring for me if you were there as a fellow transfer student, since I've only just started.」
+
+Touko
+「Why don't you just quit, then? Forcing yourself like that isn't good for you, you know.」
+
+％Ｂ
+「No, that's not what I meant. It might be a lot of work, but it'd be fun if we did it together, right?」
+
+Touko
+「Going out of my way to stick my neck into a lot of work... sounds like something I'd rather not do. I think relaxing and taking naps sounds like a more valuable use of my time.」
+
+
+Hmm. She really doesn't want to be convinced.
+
+
+
+I didn't think it'd be easy, but it seriously feels like I'm up against a brick wall here. I don't really know what to try next.
+
+Touko
+「You should probably give up. I don't have even the slightest interest in being in the event committee. I don't like cooperating with others either.」
+
+
+％Ｂ
+「...Why are you so against doing things with others?」
+
+Touko
+「I'll answer that with a question. Why are you trying so hard to pull me in?」
+％Ｂ
+「'Cause you asked me to come up with something to get clubs to stop asking you to...」
+Touko
+「The event committee, I get why. Though I don't wanna. More importantly, why'd you ask me to come yesterday?」
+
+％Ｂ
+「That's 'cause...」
+Touko
+「There's no point in me being there, you know. I get bored easily and I just wander around. I don't like to do things.」
+
+％Ｂ
+「...I don't think you need to be so hard on yourself.」
+Touko
+「I'd call it a rational analysis. There's no benefit to overselling myself.」
+
+％Ｂ
+「I'm not saying you have to force yourself. You can help out as much as you want to. I just want to have fun together...」
+
+
+Touko
+「There's nothing I can do. Which means there's no point in me being there.」
+
+Hmm, this isn't really working...
+I guess I just need a certain something to really draw her interest.
+Touko
+「Just sitting around here suits me more. I don't like loud places.」
+
+Her tone tells me she wants the conversation to be over.
+Talking to her any more than this today probably won't do me any favors...
+Touko
+「By the way, didn't you say you were interested in this building?」
+％Ｂ
+「Yeah, I am. It'd be great if I could take my time and see every nook and cranny.」
+
+Touko
+「Why not go explore right now. I'll be sleeping here... Fuaah... Go on, take your tiiime.」
+
+all
+She yawns as she talks. She's completely lost interest.
+I feel like being too persistent would have the opposite effect. I should probably wrap it up here for today, and try again with a fresh start some other time.
+
+％Ｂ
+「...No, it's almost time to go home. I'll leave.」
+Touko
+「Really? Well, you can come study this building anytime. Though I won't give you any tours.」
+
+dummy
+_00com
+bgm11
+bgm11
+_00grp
+bg102
+_02smh
+_00bup
+bs_tk03_01
+_00bup
+_00bup
+bs_tk03_03
+_00bup
+bs_tk01_03
+_00bup
+_00bup
+bs_tk01_1105
+_00bup
+bs_tk02_13
+_00bup
+bs_tk02_0911
+_00bup
+bs_tk01_02
+_00bup
+bs_tk01_05
+_00bup
+bs_tk03_08
+_00bup
+bs_tk13_07
+_00bup
+bs_tk03_05
+_00bup
+bs_tk03_10
+_00bup
+bs_tk01_02
+_00bup
+bs_tk02_02
+_00bup
+bs_tk02_09
+_00bup
+bs_tk
+_00grp
+bgm15
+bgm15
+_00grp
+bg104
+_00bup
+bs_sy11_07
+_00bup
+bs_sy01_08
+_00bup
+bs_sy01_05
+_00bup
+bs_sy11_07
+_00bup
+bs_sy11_01
+_00bup
+bs_sy01_02
+_00bup
+bs_sy01_10
+_00bup
+bs_sy01_0208
+_00bup
+_00bup
+bs_sy01_10
+_00bup
+bs_sy01_09
+_00bup
+bs_sy01_10
+all
+_00bup
+_00bup
+all
+_00grp
+_00grp
+bg104
+_00bup
+bs_sy11_07
+_00bup
+_00bup
+bs_sy11_01
+_00bup
+bs_sy01_03
+_00bup
+bs_sy01_02
+_00bup
+bs_sy01_08
+_00bup
+bs_sy01_11
+_00bup
+bs_sy01_0302
+all
+_00bup
+_00bup
+all
+_00grp
+bgm12
+bgm12
+bg116e
+kyukan_door1
+_00grp
+bg115e
+cg_tk25_0111
+_00grp
+cg_tk25_0111
+_00grp
+cg_tk25_0114
+_00grp
+cg_tk25_0122
+_00bup
+_00bup
+cg_tk25_0153
+_00grp
+cg_tk25_0133
+_00grp
+cg_tk25_0153
+_00bup
+_00bup
+cg_tk25_0154
+_00grp
+cg_tk25_0133
+_00grp
+cg_tk25_0153
+_00grp
+cg_tk25_0144
+_00grp
+cg_tk25_0153
+_00grp
+cg_tk25_0113
+_00grp
+bg115e
+_00bup
+bs_tk13_0706
+_00bup
+_00bup
+bs_tk13_03
+_00bup
+bs_tk03_02
+_00bup
+bs_tk12_09
+_00bup
+bs_tk02_01
+_00bup
+bs_tk02_02
+_00bup
+bs_tk01_0302
+_00bup
+bs_tk03_02
+_00bup
+bs_tk03_03
+_00bup
+bs_tk03_04
+_00bup
+_00bup
+bs_tk13_07
+_00bup
+bs_tk03_02
+_00bup
+bs_tk03_08
+chair_hiku
+all
+_00bup
+_00bup
+all
+_00bup
+bs_tk03_04
+_00bup
+bs_tk03_08
+_00bup
+bs_tk13_07
+key_sway
+_00bup
+bs_tk13_01
+_00bup
+bs_tk02_03
+_00bup
+bs_tk02_1303
+_00bup
+bs_tk01_01
+_00bup
+bs_tk01_05
+_00bup
+bs_tk03_0701
+_00bup
+bs_tk03_05
+_00bup
+bs_tk03_02
+_00bup
+bs_tk03_01
+_00bup
+_00bup
+bs_tk13_0705
+_00bup
+bs_tk01_0605
+_00bup
+bs_tk01_0805
+_00bup
+bs_tk01_05
+_00bup
+bs_tk01_02
+_00bup
+bs_tk01_05
+_00bup
+bs_tk01_01
+_00bup
+_00bup
+bs_tk01_05
+_00bup
+bs_tk12_09
+_00bup
+bs_tk12_02
+_00bup
+bs_tk12_1312
+_00bup
+bs_tk03_10
+_00bup
+bs_tk03_01
+_00bup
+bs_tk13_0706
+all
+_00bup
+_00bup
+all
+_00bup
+bs_tk01_02
+_00grp
+_00com

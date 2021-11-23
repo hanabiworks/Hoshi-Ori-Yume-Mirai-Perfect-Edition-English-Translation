@@ -1,0 +1,194 @@
+﻿0728
+月
+0729
+火
+$$smh_OpenCHK
+Sora and I have started practicing her talk in parallel with the dome construction.
+
+Sora talks about the stars next to Narusawa and me as we cut out the parts from the cardboard.
+Sora
+「...The eastern sky...」
+Sora
+「...That's Vega. The brightest star in Lyra. One of the representative stars of summer, and clearly visible even with the naked eye. Orihime from the legend of Tanabata.」
+
+％Ｂ
+「...」
+Rikka
+「...」
+Sora
+「...If you move southeast from Vega, there's another bright star.」
+
+Sora
+「...That's Altair. The brightest star in Aquila. It's another first-magnitude star that's visible with the naked eye. Hikoboshi from the legend of Tanabata.」
+
+
+Sora
+「...And then look to the left of Vega and Altair. You can see one more bright star.」
+
+Sora
+「...Deneb in Cygnus. Those three make up the Summer Triangle.」
+Sora
+「...And that's the explanation of the Summer Triangle... What do you think?」
+It's the usual explanation I hear from Sora when we're together.
+Rikka
+「...I'll be honest. You're getting your point across, but it's very robotic. I'm just being fed information, and it isn't fun to listen to.」
+
+
+Sora
+「...Auh...」
+Rikka
+「If it were piano playing, then it was like you were just playing the notes you see on the sheet music. It's a song, but it isn't music.」
+
+Rikka
+「Are the locations of stars the only things you want to communicate? I think you should try changing up the tempo of your phrasing a little and put a little more emotion in your words.」
+
+
+％Ｂ
+「Yeah, I see... That's some great feedback, Narusawa. You're like a teacher.」
+Rikka
+「...Don't tease me.」
+％Ｂ
+「No, I'm seriously impressed. I wasn't expecting you to get so passionate.」
+
+Rikka
+「I just want this planetarium to succeed because we're all working so hard on it.」
+
+Sora
+「...Ritsu.」
+Rikka
+「So I'll be straightforward. First, the way you're talking in general isn't okay. You need to at least be a little more formal. The audience isn't going to be a group of your friends.」
+
+
+Rikka
+「You're speaking in too much of a monotone, and you're using too many fragmented sentences. You won't be able to get people interested unless you decorate what you're saying more.」
+
+％Ｂ
+「...And there you have it.」
+Sora
+「...Ritsu... Strict.」
+Rikka
+「That's exactly what I'm talking about.」
+Sora
+「...Uuh...」
+Rikka
+「Regardless, it's completely unusable in its current state. You need to put more emotion into it, and think of the people who are going to be listening to you. You want those people to understand the wonders of the stars.」
+
+
+Sora
+「...Think of the people who are going to be listening...」
+Sora
+「...Hauuuh...」
+Rikka
+「Why are you blushing?」
+Sora
+「...All of the faces of the people listening... turned into 
+Ryou's
+his
+.」
+Rikka
+「...I'm not performing for you if you don't take this seriously.」
+％Ｂ
+「Go easy on her. It might not look like it, but she's really serious about this.」
+Rikka
+「How heads over heels can you two get...?」
+There might be more obstacles than we expected for Sora's star talk.
+dummy
+_00com
+bgm12
+bgm12
+_00grp
+bg115
+_02smh
+_00bup
+bs_sr02_01
+_00bup
+bs_sr02_0108
+_00bup
+bs_sr02_04
+_00bup
+_00bup
+bs_sr02_0408
+_00bup
+bs_rk11_10
+_00bup
+bs_sr02_01
+_00bup
+bs_sr02_0108
+_00bup
+_00bup
+bs_sr02_0104
+_00bup
+bs_sr02_01
+_00bup
+bs_sr02_0107
+_00bup
+_00bup
+bs_sr02_01
+_00bup
+bs_sr02_04
+_00bup
+_00bup
+bs_sr02_1008
+_00bup
+bs_sr02_1008
+_00bup
+bs_rk11_05
+_00bup
+_00bup
+bs_rk11_08
+_00bup
+bs_sr03_06
+_00bup
+bs_rk11_10
+_00bup
+_00bup
+bs_rk11_1008
+_00bup
+bs_rk11_01
+_00bup
+_00bup
+bs_rk11_0108
+_00bup
+bs_rk11_12
+_00bup
+bs_rk13_0807
+_00bup
+bs_sr03_0310
+_00bup
+bs_rk13_05
+_00bup
+_00bup
+bs_rk13_0508
+_00bup
+bs_rk03_10
+_00bup
+_00bup
+bs_rk03_1008
+_00bup
+bs_sr02_07
+_00bup
+bs_rk03_07
+_00bup
+bs_sr02_06
+_00bup
+bs_rk03_05
+_00bup
+_00bup
+bs_rk03_02
+_00bup
+bs_sr02_04
+_00bup
+bs_sr03_1009
+_00bup
+bs_rk03_0910
+_00bup
+bs_sr03_1006
+_00com
+_00bup
+bs_sr03_06
+_00bup
+bs_rk02_10
+_00bup
+bs_rk02_0605
+_00grp
+_00com

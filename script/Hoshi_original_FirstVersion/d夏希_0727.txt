@@ -1,0 +1,591 @@
+﻿0726
+土
+0727
+日
+$$smh_OpenCHK
+The hurricane's moved through by the next day.
+Natsuki and I walk up to the rooftop at noon. There isn't a cloud in the sky.
+
+％Ｂ
+「Yo, Ousaka.」
+
+Natsuki
+「Sora... Sorry about making you come here...」
+Sora
+「...No issues. I've been coming every day anyway to work on the display.」
+
+％Ｂ
+「Oh, okay. So... do you have it...?」
+Sora
+「...Mm.」
+all
+Ousaka reaches into her bag and takes out a complicated piece of machinery attached to a tripod.\n\r
+
+The tripod's legs are a decent amount thicker than a camera tripod's too.
+％Ｂ
+「So that's...?」
+Sora
+「...An equatorial mount.」
+
+Natsuki
+「So it comes with a tripod...」
+Sora
+「...The equatorial mount itself is the part on top of the tripod.」
+％Ｂ
+「So this moves a camera along with the stars... Right?」
+
+Sora
+「...*nod*」
+Sora
+「...This model comes equipped with a motor drive, so automatic pursuit is possible.」
+
+％Ｂ
+「Ohh! I knew it!」
+Sora
+「...But this model is made for mounting astronomy telescopes, and isn't made for normal cameras.」
+
+
+％Ｂ
+「Wha... Really...?」
+Natsuki
+「So... we can't use it for photography, then...」
+Sora
+「...And so you'll need this camera mount adapter. Then you'll be able to mount the camera.」
+
+％Ｂ
+「...So you do have one.」
+Sora
+「...Never said I didn't.」
+％Ｂ
+「Don't mess with us like that. That scared us.」
+Sora
+「...I didn't have any intention of messing with you. You two just jumped to conclusions.」
+
+
+
+％Ｂ
+「You're very right...」
+Natsuki
+「How do you use this?」
+Sora
+「...I'll explain now.」
+％Ｂ
+「Let's listen carefully.」
+Sora
+「...This is a medium-sized equatorial mount. It's not as heavy as a large-sized one, but not as light as a small-sized one. The main body weighs approximately twenty kilos.」
+
+％Ｂ
+「Twen...!?」
+Natsuki
+「...You're in charge of carrying that
+, Ryousuke
+
+.」
+％Ｂ
+「S-Sure... Uh, I guess I should've seen that coming...?」
+％Ｂ
+「And Ousaka, I'm surprised you were able to carry that all the way here.」
+Sora
+「...It was heavy.」
+Natsuki
+「Sorry...」
+Sora
+「...The mounting weight limit is approximately thirteen kilos. A camera with adapter is no issue at all.」
+
+Sora
+「...The driving part is a pulse-motor microdrive. Its high torque makes it capable of smooth motion at both low and high speed. There aren't any jerks in the motion, so it should be ideal for photography.」
+
+
+％Ｂ
+「That sounds great. By the way, what's this thing that looks like a tube on a stick?」
+
+Sora
+「...A counterweight. It's for maintaining balance.」
+％Ｂ
+「What powers the movement?」
+Sora
+「...Normally you use an outlet adapter. This model includes an external battery. The weight increases by three kilos with the battery.」
+
+
+％Ｂ
+「It's gonna be so rough carrying all this...」
+Natsuki
+「U-Um... Can we pause for a second?」
+％Ｂ
+「What's wrong?」
+Natsuki
+「I'm kinda already getting lost here...」
+％Ｂ
+「Huh? What's there even to get lost about so far? We haven't even started on how to use it yet...」
+
+Natsuki
+「My head's already filled with motor drives hopping and stepping and counterattacks from batteries...!」
+
+
+％Ｂ
+「...Okay. That was enough to tell me you're really confused. I'll be the one to remember how to work this thing.」
+
+Natsuki should just focus on the photography itself anyway.
+Natsuki
+「I'm going to go buy some drinks or something. Any requests?」
+Sora
+「Cold tea.」
+％Ｂ
+「I'll take anything carbonated, then.」
+Natsuki
+「Roger that.」
+％Ｂ
+「Okay, so could you teach me how to use it?」
+Sora
+「...*nod*」
+all
+Sora
+「...And that's how you use this equatorial mount. Any questions?」
+％Ｂ
+「No... I think we'll manage.」
+Natsuki
+「If 
+Ryousuke's 
+you're 
+good, then I'm good.」
+％Ｂ
+「Thanks so much for this. Now we'll be able to take photos of the stars.」
+Natsuki
+「We'll be careful with it. Thank you, Sora.」
+Sora
+「...This is for my request, so I should be thanking you. In fact, I need to apologize for forgetting about the equatorial mount.」
+
+
+Sora
+「It would've been easier for you if I had realized sooner. I'm sorry, Natsu.」
+
+Natsuki
+「You don't need to apologize, Sora. I'm the one who made promises without thinking, even though I didn't know much about this stuff.」
+
+Natsuki
+「And besides, I learned something this way. It's not enough just to take photos. I need to make the proper preparations, depending on the subject...」
+
+Natsuki
+「You can leave it to me this time for sure! I'm gonna get some great photos, I swear!」
+
+Sora
+「...Mm.」
+She sticks her thumb up at us.
+％Ｂ
+「Just out of curiosity... How much does this thing cost?」
+Sora
+「...Approximately 250,000 yen when purchased directly from the manufacturer.」
+％Ｂ
+「250...!?」
+Natsuki
+「W-We'll be really, really careful with it! We won't put even a scratch on it!」
+
+Sora
+「...It's not school equipment, so no issues if you break it.」
+％Ｂ
+「What are you talking about, of course there's... wait, what!? This isn't school equipment? So... this is yours!?」
+
+Sora
+「...*nod*」
+Sora
+「...The fruit of all the New Year's money I saved up for so long.」
+Natsuki
+「W-We, we will definitely make sure to use it very carefully! We will make sure it does not get even one scratch on it!」
+
+We'll have to get the photos for sure now that we've had to borrow something this expensive.\n\r
+
+We have to make sure we succeed...!
+all
+We've come to the park for the third time.
+％Ｂ
+「Hahh, hahh... It's... It's so heavy...!」
+Natsuki
+「Don't drop it, okay!? 250,000 yen!」
+％Ｂ
+「Yeah, I know! I won't damage it at all, I swear!」
+Natsuki
+「I can help after all, if you want.」
+％Ｂ
+「No, it's safer for me to do it by myself. I feel like it'd be more dangerous to carry it with two people, in case we lose our balance.」
+
+
+％Ｂ
+「But hold me up if I look like I'm about to fall over.」
+Natsuki
+「Okay. Got it.」
+Natsuki
+「Still though, Sora sure surprised me...」
+％Ｂ
+「With the equatorial mount?」
+Natsuki
+「Mhm. She bought something this crazy with her own money because she likes the stars, didn't she? I feel like I got to see just how serious she is about this stuff...」
+
+
+Natsuki
+「I felt a little embarrassed of myself for being satisfied with the camera I've got now.」
+
+Natsuki
+「I'm going to get myself a more proper, high-end camera too.」
+
+％Ｂ
+「Really. Go get 'em.」
+It might just be a small step forward, but Natsuki's got a clear "goal" now in terms of photography.
+
+all
+Natsuki
+「Mhm... I think around here's good.」
+％Ｂ
+「Phew... That was heavy.」
+Natsuki
+「I'll leave the setup to you, then.」
+％Ｂ
+「Suuure thing.」
+all
+I start setting the mount up like Ousaka told me.
+％Ｂ
+「Put on the camera mount adapter... There. And then the external battery... Good. Okay, attach the camera.」
+
+
+Natsuki
+「Okay... Here, right?」
+％Ｂ
+「Yeah, there. It's the same as a normal tripod.」
+
+Natsuki
+「Here we go... Okay, it's on. That should be good.」
+％Ｂ
+「Let's line up the lens with the constellation we wanna take a photo of.」
+all
+I take out the planisphere we borrowed from Ousaka.
+％Ｂ
+「Let's go for Sagittarius today. Set the date to July 27th... and then the time... so Sagittarius is over... Oh, it's that one.」
+
+
+I can see the ladle-shaped arrangement of six stars that indicate Sagittarius.
+Those six stars are apparently called the Southern Dipper, in comparison to the Big Dipper in the north.
+
+％Ｂ
+「I'll need you to do this part.」
+Natsuki
+「I've got it.」
+She looks through the viewfinder and adjusts the camera.
+Natsuki
+「Hm... and... Okay. I think this should be good.」
+％Ｂ
+「All right... Ready? Once I press the switch on the equatorial mount, open the shutter and lock it.」
+
+％Ｂ
+「And... On!」
+Natsuki
+「Hmh...!」
+Natsuki
+「...」
+％Ｂ
+「...」
+Natsuki
+「Huh? ...It's not moving...?」
+％Ｂ
+「But it's making a sound... Oh, it's moving. Though it's really slow...」
+
+Natsuki
+「Oh, right. It's really slow because it's matched with the movement of the stars.」
+％Ｂ
+「Must be, yeah.」
+Natsuki
+「Mhm, I think we'll be able to use a long exposure and get a photo of the stars as points of light this way.」
+
+％Ｂ
+「Yeah... We should be able to.」
+I want it to work this time for sure.
+Come on, Chiron, show up clearly...!
+I make a wish on the mythological sage in my heart.
+dummy
+_00com
+bgm11
+bgm11
+_00grp
+bg107
+_02smh
+_00bup
+bs_sr02_01
+_00bup
+_00bup
+bs_nt01_06
+_00bup
+bs_sr02_0108
+_00bup
+_00bup
+bs_sr02_01
+_00bup
+bs_nt01_0612
+_00bup
+bs_sr03_01
+all
+_00bup
+_00bup
+all
+_00bup
+bs_sr02_01
+_00bup
+_00bup
+bs_nt01_08
+_00bup
+bs_sr02_05
+_00bup
+bs_nt01_12
+_00bup
+bs_sr02_01
+_00bup
+bs_sr02_0111
+_00bup
+bs_nt01_0213
+_00bup
+bs_sr02_0907
+_00bup
+bs_nt01_08
+_00bup
+bs_nt01_06
+_00bup
+bs_sr02_0908
+_00bup
+_00bup
+bs_sr02_0911
+_00bup
+bs_nt01_08
+_00bup
+bs_sr02_08
+_00bup
+bs_nt01_0608
+_00bup
+bs_sr02_01
+_00com
+_00bup
+bs_nt01_1208
+_00bup
+bs_sr03_01
+_00bup
+bs_sr03_0110
+_00bup
+_00bup
+bs_sr03_01
+_00bup
+bs_sr03_0104
+_00bup
+bs_nt01_09
+_00bup
+bs_nt03_05
+_00com
+_00bup
+bs_sr03_0610
+_00bup
+bs_nt01_0608
+_00bup
+bs_sr02_0104
+_00bup
+_00bup
+bs_sr02_0108
+_00bup
+bs_sr02_01
+_00bup
+_00bup
+bs_sr02_0111
+_00bup
+bs_nt01_1112
+_00bup
+bs_sr02_01
+_00bup
+bs_sr02_0109
+_00bup
+_00bup
+bs_sr02_0108
+_00bup
+bs_nt01_0506
+_00bup
+bs_nt02_0405
+_00bup
+_00bup
+bs_nt02_05
+_00bup
+bs_nt02_0607
+_00bup
+bs_sr02_01
+_00bup
+bs_nt02_0807
+_00bup
+_00bup
+bs_nt02_0804
+_00bup
+bs_nt02_05
+_00bup
+_00bup
+bs_nt02_0501
+_00bup
+bs_sr02_1008
+_00bup
+bs_nt02_0102
+_00bup
+bs_nt
+_00bup
+bs_sr02_01
+all
+_00bup
+_00bup
+all
+_00grp
+_00grp
+bg107
+_00bup
+bs_sr03_0104
+_00bup
+_00bup
+bs_sr03_01
+_00bup
+bs_sr03_01
+_00bup
+bs_nt01_0201
+_00com
+_00bup
+bs_nt01_02
+_00bup
+_00bup
+bs_nt01_0201
+_00bup
+bs_sr02_07
+_00bup
+_00bup
+bs_sr02_06
+_00bup
+bs_sr02_0607
+_00bup
+_00bup
+bs_sr02_06
+_00bup
+bs_nt01_06
+_00bup
+_00bup
+bs_nt01_0612
+_00bup
+bs_nt01_0201
+_00bup
+_00bup
+bs_nt01_02
+_00bup
+bs_nt03_02
+_00bup
+_00bup
+bs_nt03_0201
+_00bup
+bs_sr02_0111
+_00bup
+bs_nt13_0210
+_00bup
+bs_sr03_0104
+_00bup
+bs_nt01_09
+_00bup
+bs_nt01_0405
+_00bup
+_00bup
+bs_nt01_0410
+_00bup
+bs_sr03_08
+_00bup
+bs_sr03_01
+_00bup
+bs_nt01_09
+_00bup
+bs_sr03_03
+_00bup
+bs_nt02_0804
+_00bup
+_00bup
+bs_nt02_0807
+all
+_00bup
+_00bup
+all
+_00grp
+bgm16
+bgm16
+bg505
+_00grp
+bg310n
+_00bup
+bs_nt13_07
+_00bup
+_00bup
+bs_nt03_1108
+_00bup
+bs_nt13_0605
+_00bup
+bs_nt13_0201
+_00bup
+bs_nt13_0310
+_00bup
+bs_nt13_0301
+_00bup
+_00bup
+bs_nt13_0306
+_00bup
+bs_nt13_06
+_00bup
+bs_nt13_02
+all
+_00bup
+_00bup
+all
+_00grp
+_00grp
+bg310n
+_00bup
+bs_nt02_11
+_00bup
+_00bup
+bs_nt02_1105
+_00bup
+bs_nt02_02
+all
+_00bup
+_00bup
+all
+_00bup
+bs_nt01_02
+_00bup
+bs_nt02_1104
+_00bup
+_00bup
+bs_nt02_02
+all
+_00bup
+_00bup
+all
+_00bup
+bs_nt11_03
+_00bup
+bs_nt01_12
+_00bup
+bs_nt01_04
+_00bup
+_00bup
+bs_nt01_0102
+_00bup
+bs_nt02_11
+_00bup
+bs_nt01_08
+_00bup
+_00bup
+bs_nt01_1108
+_00bup
+bs_nt01_0213
+_00bup
+_00bup
+bs_nt01_0201
+_00bup
+bs_nt01_01
+_00bup
+_00bup
+bs_nt01_02
+_00grp
+bg505
+_00grp
+_00com

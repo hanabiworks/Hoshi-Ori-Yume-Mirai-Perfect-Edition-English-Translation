@@ -1,0 +1,283 @@
+﻿0610
+火
+0611
+水
+$$smh_OpenCHK
+ The next day.
+I'm heading toward the third-year classrooms to go see Okihara-senpai.
+％Ｂ
+「Oh... Okihara-senpai!」
+And I just happen to spot her from behind in the hallway.
+Misa
+「My, my. Hello. How very rare for us to meet in a place like this.」
+
+％Ｂ
+「I was actually just about to head over to your classroom.」
+Misa
+「Did you have something you wished to discuss with me, perhaps?」
+％Ｂ
+「Yes, I wanted to speak with you.」
+Misa
+「Well, well. Thank you very much for going so far out of your way to do so.」
+
+She bows her head low.
+％Ｂ
+「W-Well, um... You don't have to go that far to... You're an upperclassman to me, so it's okay to be less formal.」
+
+Misa
+「Yes, but this is a happy occasion. And so, what did you wish to discuss?」
+
+％Ｂ
+「Uhh... It's actually about what we spoke about yesterday... when I said I wanted you and Ousaka to teach us about what's interesting about your activities this weekend.」
+
+Misa
+「I'm very sorry. I have not yet decided...」
+％Ｂ
+「Oh, no, that's not why I'm here! You already said that you would tell us on the day of, and I'm completely okay with that...」
+
+
+％Ｂ
+「I actually came looking for you today because I was afraid I might have caused you some trouble with that request.」
+
+Both she and Ousaka said yes more or less immediately yesterday.
+But Okihara-senpai seemed a little troubled too.
+And that's been stuck in my mind...
+Misa
+「That you... caused me trouble?」
+％Ｂ
+「Yes, it seemed that way, so I was a bit worried.」
+Misa
+「Not at all!」
+She shakes her head vigorously.
+Misa
+「There is absolutely no way I am troubled. If anything, I'm very happy to hear that you wished to know more about my club activities.」
+
+
+％Ｂ
+「...Is that true? It just seemed like, um...」
+Misa
+「When we spoke yesterday, I thought about where I could take you so you could understand what I find so interesting about the ocean.」
+
+Misa
+「There were just too many places that I could have recommended, and I couldn't pick just one, and so I was thinking very hard on the matter.」
+
+％Ｂ
+「...Are there really that many?」
+Misa
+「Far too many to pick just one. That would be why I looked troubled.」
+
+％Ｂ
+「It's okay to be more casual about it...」
+Misa
+「It is not! If I am to invite all of you somewhere, I would like it to be the most wonderful place possible.」
+
+
+Misa
+「Please wait just one moment. I'll narrow it down to ten right now, and so from those ten...! I'll divide them up between shallows, pelagic, and deep sea...!」
+
+
+％Ｂ
+「Uhh... J-Just a second, please. Uhh, let's see... How about something like this, then?」
+
+
+％Ｂ
+「Out of all of the seas that you've seen, which one moved you the most?」
+Misa
+「The sea that moved me the most?」
+Misa
+「That would certainly have to be the Maldives!」
+％Ｂ
+「The Maldives!?」
+A foreign country...
+Misa
+「My parents took me on a vacation there when I was five years old. They say that the Maldives's name comes from the Sanskrit words for "garland of islands."」
+
+
+Misa
+「The Maldives has 26 atolls, with approximately 1,200 islands within them. Oh, an atoll would be the name for a ring-shaped coral reef.」
+
+
+Misa
+「And so the "garland of islands" is a phrase that compares the many rings of coral reef islands in the Maldives to a garland of flowers!」
+
+
+Misa
+「With its exceedingly transparent waters and islands of white sand, it is as if all life on Earth itself began there. The instant I saw that sea, I was overfilled with excitement, and found myself brought to tears simply by―」
+
+％Ｂ
+「Um... M-May I interrupt?」
+％Ｂ
+「I understand that you were very moved by the Maldives... but you aren't actually considering that as one of the options for this weekend, have you?」
+
+Misa
+「Oh, of course I am.」
+％Ｂ
+「I-I see. I would certainly love to go...」
+...I'd have to get a passport first, though.
+％Ｂ
+「B-But, if it's possible to restrict the location to somewhere within Japan... or more like near Shionagi, and still be able to experience those kinds of emotions...」
+
+Misa
+「Near... Shionagi?」
+％Ｂ
+「Well, I'm sure it wouldn't be possible to experience the emotions you felt at the Maldives, though.」
+
+Misa
+「Oh no, it is very possible!」
+％Ｂ
+「Wha?」
+Misa
+「So you would like me to take you to a location where you can experience the same emotions as you would when seeing the Maldives, in Japan?」
+
+％Ｂ
+「Y-Yes... If such a place exists, that is.」
+Misa
+「Then please, allow me to do so!」
+Does... Does a place like that exist?
+all
+She pulls out her phone and starts making a call somewhere as I stare at her blankly.
+
+Misa
+「...Hello? This is Misa... Yes, thank you very much for your help on that occasion.」
+
+Misa
+「I was wondering if my friends and I could visit this weekend... Yes, that... Would that be okay? Yes, then I will call again at a later date.」
+
+
+Misa
+「Thank you very much. Please excuse me.」
+She smiles after hanging up.
+Misa
+「We are good to go!」
+％Ｂ
+「Seriously!?」
+Misa
+「Yes. I promise to take you all to a very wonderful place.」
+
+％Ｂ
+「Ohh...」
+I can't believe a place like that really exists in Japan...
+I'm starting to get excited for the weekend.
+all
+...Oh, maybe I should bring a swimsuit and stuff?
+dummy
+_00com
+_02smh
+bgm12
+_00grp
+bg102
+_00bup
+bs_ms02_02
+_00bup
+_00bup
+bs_ms02_0301
+_00bup
+bs_ms11_0108
+_00bup
+_00bup
+bs_ms11_01
+_00bup
+bs_ms01_02
+_00bup
+_00bup
+bs_ms01_0203
+_00bup
+bs_ms01_01
+_00bup
+_00bup
+bs_ms01_03
+_00bup
+bs_ms02_06
+_00bup
+bs_ms11_1310
+_00bup
+bs_ms01_06
+_00bup
+bs_ms01_07
+_00bup
+bs_ms01_02
+_00bup
+_00bup
+bs_ms01_01
+_00bup
+bs_ms03_05
+_00bup
+bs_ms03_04
+_00bup
+_00bup
+bs_ms03_01
+_00bup
+bs_ms03_0302
+_00bup
+bs_ms03_05
+_00bup
+bs_ms11_1008
+_00bup
+_00bup
+bs_ms11_05
+_00bup
+bs_ms02_02
+_00bup
+_00bup
+bs_ms02_01
+_00bup
+bs_ms11_0410
+_00bup
+bs_ms01_02
+_00bup
+bs_ms01_0102
+_00bup
+_00bup
+bs_ms01_01
+_00bup
+bs_ms01_03
+_00bup
+_00bup
+bs_ms01_02
+_00bup
+bs_ms33_0603
+_00bup
+_00bup
+bs_ms33_01
+_00bup
+bs_ms02_0402
+_00bup
+_00bup
+bs_ms02_10
+_00bup
+bs_ms02_01
+_00bup
+bs_ms01_02
+_00bup
+bs_ms01_0408
+_00bup
+bs_ms33_01
+_00bup
+bs_ms33_07
+_00bup
+bs_ms33_0307
+_00bup
+bs_ms33_04
+all
+_00bup
+_00bup
+all
+_00bup
+bs_ms02_01
+_00bup
+bs_ms11_0102
+_00bup
+bs_ms11_03
+_00bup
+bs_ms33_01
+_00bup
+bs_ms01_01
+_00bup
+_00bup
+bs_ms01_02
+all
+_00bup
+_00bup
+all
+_00grp
+_00com

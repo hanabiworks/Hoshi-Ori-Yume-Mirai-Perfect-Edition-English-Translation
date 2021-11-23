@@ -1,0 +1,126 @@
+﻿0813
+金
+1009
+日
+And so, it's finally the day of the drafting exam―
+Marika
+「You haven't forgotten anything, have you? Have you made sure you have your exam admission ticket?」
+
+Marika's asking me these questions again as we wait for the bus.
+％Ｂ
+「Yeah. I'm good. I haven't forgotten anything, and I've got no regrets. I think I did everything I could have.」
+
+
+Marika
+「Okay. Then you'll be fine, right?」
+％Ｂ
+「Yeah. I've done everything I can. Oh, but...」
+
+Marika
+「Huh?」
+％Ｂ
+「There is one thing I forgot.」
+Marika
+「What's that...?」
+％Ｂ
+「My good luck charm from you. I might not pass without it.」
+
+Marika
+「...Huh?」
+Her face goes red.
+％Ｂ
+「Kissing you calmed me down last time. So I'll need it this time, too.」
+
+Marika
+「Okay. That's... a pretty heavy responsibility.」
+Marika
+「Umm... Ryousuke, this is so you can make the best use of your usual ability, and pass your exam...」
+
+Marika
+「Umm... This is so you can make the best use of your usual ability, and pass your exam...」
+
+She looks at me intently, and slowly brings her face closer.
+Marika
+「Mm... Chu.」
+Marika
+「...Is this okay?」
+％Ｂ
+「Yeah, I can feel the strength flowing through me. I'm definitely gonna pass. I said the same thing to your dad, too. I wouldn't be able to face him if I failed now.」
+
+
+Marika
+「Mhm. I'll be cheering you on.」
+Marika
+「...Chu.」
+％Ｂ
+「Whoa...」
+Marika
+「Hehe... That one was just to make sure.」
+She gives me an encouraging smile after one more kiss.
+all
+That just happens to be when the bus arrives.
+％Ｂ
+「I'm going, then.」
+Marika
+「Good luck. Do your best!」
+all
+Marika
+「Y-You can do it... You can do it...!」
+She jumps up and down off the ground.
+She waves her hand as hard as she can to see me off.
+I'll definitely have to pass this!
+dummy
+_00com
+bgm32
+bg501
+_00grp
+bg301
+_00bup
+bs_mr01_01
+_00bup
+bs_mr01_02
+_00bup
+bs_mr03_07
+_00bup
+bs_mr03_09
+_00bup
+bs_mr01_1008
+_00bup
+bs_mr01_0201
+_00bup
+bs_mr01_11
+_00com
+_00bup
+bu_mr01_0401
+_00bup
+bu_mr01_06
+_00bup
+_00bup
+bu_mr01_0601
+_00bup
+bu_mr01_01
+_00bup
+_00bup
+bu_mr01_02
+_00bup
+bu_mr01_06
+_00bup
+bs_mr02_02
+_00bup
+_00bup
+bs_mr02_05
+all
+_00bup
+_00bup
+all
+_00bup
+bs_mr02_03
+all
+_00bup
+_00bup
+all
+bg501
+_00bup
+bs_mr02_05
+_00grp
+_00com

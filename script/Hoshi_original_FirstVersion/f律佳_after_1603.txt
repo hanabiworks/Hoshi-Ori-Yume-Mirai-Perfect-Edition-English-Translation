@@ -1,0 +1,122 @@
+﻿Rikka
+「Oh, there you are.」
+％Ｂ
+「Yeah. I thought I'd get one last good look at the school, since I probably won't see this place for a while.」
+
+all
+Rikka stands next to me and looks up at the school too.
+I close my eyes, and countless memories easily come to mind.
+So much has happened.
+Too much to imagine that it all only happened in a little less than two years.
+I met lots of friends...
+And I got a single, precious girlfriend.
+Natsuki
+「I'll be taking that page from your youth, thank you very much!」
+Rikka
+「Hehe. You're the same all the way to the end, Natsuki.」
+Natsuki
+「It's just who I am!」
+Segawa's holding a tube containing a certificate of graduation, just like we are.
+
+％Ｂ
+「You're going to a vocational school, right?」
+Natsuki
+「That's right. I'm going to try to learn professional photography. You two are going to the same university, right?」
+
+Natsuki
+「And living together, on top of that. Man～ I have to say, even I was surprised when I first heard about that!」
+
+
+％Ｂ
+「I guess you could say it's for our future.」
+Natsuki
+「Looks like I need to make even more sure to polish my camera skills now. I'll capture your once-in-a-lifetime white-dress moment perfectly, Rikka!」
+
+Rikka
+「Ah, uh... G-Geez... You're thinking too far ahead. But we'll contact you once we've settled down, so come over when that happens.」
+
+Natsuki
+「'Course! I'm real interested in seeing the full-blown sugar a couple produces when they're living together!」
+Rikka
+「...Gh. W-We'll still hold ourselves to some standards when we have friends over...」
+Rikka... You're not denying her point like that, you know.
+Though it's not like I think we're gonna live like saints either.
+
+all
+％Ｂ
+「Oh...」
+Flap flap...
+Some birds take flight from a nearby tree.
+It's a group of swallows, celebrating us a little early.
+％Ｂ
+「Well, either way...」
+％Ｂ & Rikka & Natsuki
+「Congratulations on graduating.」
+all
+―Today...
+We leave the nest.
+dummy
+_00com
+bgm02
+bgm02
+bg501
+bg103
+_00bup
+bs_rk03_02
+_00grp
+bg103
+_00bup
+bs_rk03_02
+all
+_00bup
+_00bup
+all
+bg103
+camera_1shot
+_00grp
+_00bup
+bs_nt01_02
+_00grp
+bg103
+_00bup
+bs_nt01_02
+_00bup
+bs_rk03_06
+_00bup
+bs_nt01_01
+_00bup
+bs_nt02_0201
+_00bup
+bs_nt02_09
+_00bup
+bs_rk03_14
+_00bup
+bs_nt02_01
+_00bup
+bs_rk03_15
+_00bup
+bs_nt01_0102
+_00bup
+bs_rk02_12h
+all
+_00bup
+_00bup
+all
+bg501
+_00grp
+bg103
+_00bup
+bs_nt01_0201
+_00bup
+bs_rk01_02
+_00bup
+bs_nt01_0102
+_00bup
+bs_rk01_03
+all
+_00bup
+_00bup
+all
+bg501
+_00grp
+_00com

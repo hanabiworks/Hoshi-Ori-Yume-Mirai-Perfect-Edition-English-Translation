@@ -1,0 +1,256 @@
+﻿1216
+月
+0106
+月
+The new year comes, the weekend comes after the first three days, and then comes Monday.
+Today's the day construction begins for the Fukuzawa house's remodeling.
+％Ｂ
+「I'll be counting on all of you! Thank you very much!」
+I watch over the start of the construction after greeting the contractors.
+
+Azuma
+「Yo.」
+％Ｂ
+「Oh, Teacher! Happy New Year!」
+Azuma
+「Yeah, Happy New Year.」
+％Ｂ
+「You came all the way over here?」
+Azuma
+「Mm... Well, I figured I might as well show up for the first day of construction, since I introduced Fukuzawa-san to you.」
+
+％Ｂ
+「Are you sure you didn't just come because you were worried about me?」
+
+Azuma
+「Why do I have to worry about you? You're not that fragile.」
+Azuma
+「...Anyway, I see you asked Miyamoto-san to do the construction.」
+％Ｂ
+「Yes. Since I've been acquainted with the Miyamoto Group since back when I worked at your firm.」
+
+Azuma
+「Yeah... You'll be fine with Miyamoto-san's group. I think you can let them handle it without any worries. It was a good choice to ask Miyamoto-san for your first job. You know he'll see it through to the end.」
+
+
+％Ｂ
+「Thank you very much.」
+Azuma
+「But don't let your guard down. You never know what's going to happen on site. I always say it, but―」
+
+％Ｂ
+「"You should drop by the site often," right? I'm planning on coming here at least once a day to see how things are progressing.」
+
+Azuma
+「...It's good that you understand.」
+all
+This is my first job as an independent architect.
+There's no downside to being careful.
+I need to do my best to see this remodeling to completion, and satisfy Fukuzawa-san!
+
+I'm tying up some loose ends for the day back at the office.
+Sora
+「...Hmh...」
+Sora came too after finishing her work at the science museum. 
+She's sitting at the table, thinking about what to do for the new planetarium show.
+％Ｂ
+「Phew... Want some coffee?」
+Sora
+「...*nod*」
+Sora
+「...Lots of sugar and milk.」
+％Ｂ
+「Don't blame me if you get fat.」
+Sora
+「...No issues. I'm using my head lots right now.」
+all
+I pour Sora's coffee and place it down on the table.
+Sora
+「...Thanks.」
+％Ｂ
+「So did you end up going with the moon theme after all?」
+Sora
+「...*nod*」
+Sora
+「...I'm thinking about the structure right now. About how to weave together folklore and legends about the moon with the moon landing.」
+
+％Ｂ
+「Hm... Yeah, those are kinda total opposites.」
+Sora
+「...I think the order is important. This is the current structure: start with the origin of the moon, and then introduce religious beliefs, legends, and folklore related to the moon.」
+
+
+Sora
+「And then move to modern day and connect it to the human footprint through the moon landing... What do you think?」
+
+％Ｂ
+「I think that sounds pretty good. All that's left is to write the script along those lines, right?」
+Sora
+「...I have lots of documents to make, so it's a lot of work. I'm worried about whether I'll make it for the deadline.」
+
+％Ｂ
+「You'll be fine.」
+Sora
+「...It's strange, but you saying that makes me think it'll be okay.」
+Sora
+「...It's strange, but you saying that makes me think it'll be okay.」
+％Ｂ
+「But I think you should have maybe one more unique touch.」
+Sora
+「Unique touch?」
+％Ｂ
+「Yeah. I feel like every planetarium's probably got something similar going on at some point about the moon since it's so close.」
+
+Sora
+「...*nod*」
+％Ｂ
+「So if you're gonna talk about the moon, then you should put your own special spin on it...」
+
+％Ｂ
+「Like for example, what if someone came down from the moon, and they were talking about their homeland?」
+
+Sora
+「...That sounds really interesting!」
+％Ｂ
+「And as for who comes down... Let's see... What about bunnies or something?」
+Sora
+「...Princess Kaguya. I'll do the narration wearing a twelve-layer kimono.」
+％Ｂ
+「Come on, it's gotta be bunnies. It's gotta be understandable for the kids.」
+
+％Ｂ
+「I bet the kids would love it if you put bunny ears on when you did the narration.」
+
+Sora
+「...That's just something you want to see, Ryou.」
+Sora
+「...That's just something you want to see.」
+％Ｂ
+「Hmh... Fair enough.」
+Though I'm more interested in a bunny suit with bunny ears and fishnet.
+
+Sora
+「...I can't think of it being anything else.」
+％Ｂ
+「But I still think the kids would like it.」
+Sora
+「...Maybe I'll just get a bunny character costume...」
+％Ｂ
+「Shio-wan and Shio-nyah get a third friend, Shio-pyon!」
+Sora
+「...It might work.」
+Something about that must've tugged on Sora's heartstrings. She gives me a thumbs-up with gusto, her eyes sparkling.
+
+dummy
+_00com
+bgm51
+bgm51
+bg501
+_00grp
+bg301
+_00bup
+bs_az01_03
+_00bup
+bs_az01_03
+_00bup
+bs_az01_01
+_00bup
+bs_az01_11
+_00bup
+bs_az01_0104
+_00bup
+_00bup
+bs_az01_0106
+_00bup
+bs_az01_01
+_00bup
+bs_az01_02
+_00bup
+_00bup
+bs_az01_01
+_00bup
+bs_az11_08
+_00bup
+_00bup
+bs_az11_0408
+_00bup
+bs_az01_01
+all
+_00bup
+_00bup
+all
+_00grp
+bgm52
+bgm52
+bg419n
+pc_keyboard2
+_00bup
+bs_sr01_07
+_00grp
+bg419n
+_00bup
+bs_sr01_07
+_00bup
+bs_sr01_0708
+_00bup
+bs_sr01_06
+_00bup
+bs_sr01_11
+all
+_00bup
+_00bup
+all
+_00bup
+bs_sr02_10
+_00bup
+bs_sr02_1011
+_00bup
+bs_sr02_0908
+_00bup
+_00bup
+bs_sr02_08
+_00bup
+bs_sr01_0109
+_00bup
+_00bup
+bs_sr01_01
+_00bup
+bs_sr01_12
+_00bup
+_00bup
+bs_sr01_1209
+_00bup
+bs_sr01_0607
+_00bup
+_00bup
+bs_sr01_06
+_00bup
+bs_sr02_11
+_00com
+_00bup
+bs_sr02_05
+_00bup
+bs_sr02_09
+_00bup
+bs_sr02_1008
+_00bup
+_00bup
+bs_sr02_10
+_00bup
+bs_sr03_03
+_00bup
+_00bup
+bs_sr03_0302
+_00bup
+bs_sr03_0704
+_00com
+_00bup
+bs_sr03_06
+_00bup
+bs_sr03_0504
+_00bup
+bs_sr01_09
+_00bup
+bs_sr01_0402
+_00grp
+_00com

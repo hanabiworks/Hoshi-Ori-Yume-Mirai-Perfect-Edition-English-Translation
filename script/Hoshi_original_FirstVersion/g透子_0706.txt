@@ -1,0 +1,603 @@
+﻿0705
+土
+0706
+日
+$$smh_OpenCHK
+Touko
+「Oh, morning. Sleep well?」
+％Ｂ
+「...」
+Touko
+「Mm? What's wrong?」
+％Ｂ
+「Oh, uh... It's just that you're making breakfast.」
+Touko
+「I sure am. I need to do at least this much, as a girl. You remember how we had some of the bread from dinner left over yesterday? We had some bacon too, so I made sandwiches.」
+
+
+％Ｂ
+「I usually don't eat breakfast when I'm alone... so this makes me real happy. Thanks, Touko.」
+
+Touko
+「That's not good. You should make sure you eat breakfast.」
+Touko
+「Maybe I could make breakfast next to you while you make our lunches from now on.」
+
+％Ｂ
+「Oh, I like that idea! Coffee's good with bread. I put milk in mine, without too much sugar. How do you want yours?」
+
+all
+I stand next to her to help her with breakfast.
+Touko stops what she's doing and nods to herself.
+Touko
+「...I see, so this is what I wanted.」
+％Ｂ
+「Huh? For what?」
+Touko
+「Remember back when I didn't know what we should do for pretending to be newlyweds? This must've been what I was thinking of.」
+
+
+％Ｂ
+「Oh, that. What do you mean?」
+Touko
+「Like learning about each other's preferences and deciding on who does what around the house. I think that might be what newlyweds do.」
+
+％Ｂ
+「...You might be right.」
+Touko
+「You like your coffee with milk and not too much sugar. I'll remember that
+, Ryousuke-kun
+
+.」
+What she says makes sense.
+I agree with her. I think learning about each other's daily preferences sounds like what newlyweds would do.
+
+Touko
+「Ehehe, it's starting to feel a little real. Why don't we keep going and do housework together like newlyweds after we eat?」
+
+％Ｂ
+「What? No, it's fine. That sounds great, but I'd feel bad...」
+Touko
+「It's fine, it's fine. I want to try it.」
+％Ｂ
+「...You just don't wanna study, right?」
+Touko
+「Oh, how'd you know? You're half riiight～!」
+％Ｂ
+「Let's get the housework done in the morning. We'll study again in the afternoon, all right?」
+Touko
+「Okaaay. I would've been fine cleaning all day, though.」
+
+all
+％Ｂ
+「...」
+Touko
+「...Take this.」
+％Ｂ
+「...」
+Touko
+「...This spot doesn't work. What about here then?」
+％Ｂ
+「Aaaaghhh! Stop bothering me!」
+Touko
+「I can't help iiit～ ...I'm bored. It's because you're not playing with meee～」
+％Ｂ
+「That's how studying goes. You gotta work hard now, or else you're gonna end up having to take supplementary lessons.」
+
+Touko
+「I'll worry about that when the time comes. We did lots of work yesterday, so why can't we play just a bit?」
+
+％Ｂ
+「It'd be annoying to have to take supplementary lessons, right? You wouldn't be able to do event committee stuff either, and I don't even wanna think about what they'd say about us if we both got failing marks...」
+
+
+Touko
+「Boooo... You're so cold. I won't be motivated if you don't play with me a bit.」
+
+％Ｂ
+「...Fine, I get it. Just a bit, okay?」
+Touko
+「Ehehe, then let's do a simple psychological test, then. Readyyy? You are currently at sea.」
+
+％Ｂ
+「Wha? At sea? That's sudden.」
+Touko
+「There are of course no boats around you, and there is no visible land. Now then, what will you do?」
+
+％Ｂ
+「Let's see... I guess I'd go try to find land nearby.」
+Touko
+「You don't know which way to find land, though. You'd still try to find some?」
+
+％Ｂ
+「There's no point in just sitting there. I should move while I still can. I can more or less guess which direction's what from the direction of the wind and the position of the sun too.」
+
+Touko
+「That's a rational way of thinking. Okay then, you've finally found an island. How big is it?」
+
+
+％Ｂ
+「Hmm... Pretty big. Big enough that it'd take a whole day to go all the way around it?」
+
+Touko
+「I see, I see... Here's the final question. There are many fruits on this island. But they're very high up in the trees, which don't seem climbable. What will you do?」
+
+
+％Ｂ
+「I'd build a platform to stand on. If there's trees, you can use those for building materials, right? It'd depend on how high up the fruits actually are, but I'd try to figure it out so I could reach them.」
+
+Touko
+「...Really. Yeah, that's the kind of person you are
+, Ryousuke-kun.
+
+」
+％Ｂ
+「So what's it mean?」
+Touko
+「The sea is your life, the island is your future, and the fruits are your dreams.」
+Touko
+「So I guess it means that you're subconsciously moving toward your dream of being an architect.」
+
+
+
+
+％Ｂ
+「Huh, really. What were your answers to this?」
+Touko
+「Me? I said I'd just drift on the sea, and the island's small enough that it'd take five minutes to walk around. I gave up on the fruit right away.」
+
+％Ｂ
+「...」
+...I guess those certainly sound like answers she would give.
+So... how am I supposed to comment on that?
+％Ｂ
+「Ps-Psychological tests are pretty much like fortune-telling for your personality, right? They're probably made so they apply to people in as many ways as possible.」
+
+Touko
+「That's true. Though I think they still end up right a lot of the time.」
+％Ｂ
+「...I think so too.」
+She's currently adrift on the sea known as studying.
+Will she be able to ride out the storm known as the exams starting tomorrow? ...I'm incredibly worried.
+
+％Ｂ
+「All right, let's keep studying then.」
+Touko
+「Whaaat, that's too soon! Do more with meee! One more time, okay!?」
+
+％Ｂ
+「No! We can do it again in thirty minutes, so we're gonna work hard and study until then!」
+
+Touko
+「...Okaaay. You better play with me again in thirty minutes.」
+all
+Touko
+「Zzz... Zzz...」
+％Ｂ
+「...Was she actually studying?」
+I peer at her notebook.
+I can tell that she put in effort, and the problems are solved, but...
+Touko
+「Nnh... Zzz... Zzz...」
+All these empty bags of snacks, and the notebook page stuffed with doodles.
+I didn't really get to focus that much... but I've never had so much fun studying for exams before.
+
+％Ｂ
+「She must be tired. She probably doesn't study usually.」
+I'll leave her be for a bit.
+I'll be able to help Touko with her studying if I get mine done now.
+
+I place my uniform on her shoulders and turn back to my notebook.
+I watch Touko's sleeping face for a while, and then focus on my studying in silence.
+
+％Ｂ
+「...Um, it's kinda weird when you stare so much.」
+Touko
+「Don't mind me, nope. Hehehe～!」
+I woke Touko up like I promised... and now she's really staring at me.
+
+She's intently watching my every move.
+She's been like this since the moment I put on the apron. It's ridiculously hard to ignore.
+
+Touko
+「Um... Here it is. Click!」
+％Ｂ
+「Agh! You took a photo just now, didn't you!? Don't, it's embarrassing!」
+Touko
+「I already took it! I don't know how to delete it, so you'll have to give up on that.」
+all
+％Ｂ
+「As if! I taught you that before! Give that to me, I'll delete it! Dammit Touko, don't run!」
+
+Touko
+「Ahaha! No waaay! Hurry up, you need to make dinner!」
+
+％Ｂ
+「Dammit! I'm definitely gonna delete that later!」
+I grudgingly start getting things ready.
+There's still last night's stew left over, so I'll use that and...
+％Ｂ
+「Hm?」
+A LIME message?
+I wonder if it's Shinozaki or Narusawa. Maybe one of them's worried about how studying's going for us or something.
+％Ｂ
+「What the!?」
+The photo of me wearing an apron's been sent to a group chat!?
+Just when the hell did Touko learn how to do this!?
+【Marika】「Guys look kind of cool #Nwhen they're wearing #Naprons.」
+【Misa】「How very wonderful! I'm #Nslightly jealous of #Nyou, Touko-san.」
+【Rikka】「It's nice that you're #Ncooking, but are you #Nstudying?」
+【Natsuki】「I want a foie gras #Nsteak. Thanks, chef.」
+％Ｂ
+「Stop it! Don't discuss that! It's embarrassing!」
+Touko
+「Oh my, they just love it. You're so cute in that apron.」
+all
+【Sora】「I don't really get it.」
+【Sora】「I'm hungry.」
+【Sora】_st_0209
+【Natsuki】「Maybe it's a bit too #Nsoon for Sora?」
+【Natsuki】「She's yet to understand #Nthe allure of how an #Napron pulls against #Nsomeone's body.」
+【Natsuki】_st_0310
+【Rikka】「I don't understand it #Neither.」
+【Marika】「I think I kind of dooo.」
+【Marika】「A family-oriented man #Nhas this kind, warm #Nfeeling. It's wonderful.」
+【Misa】「Seeing you cook with #Nyour large hands is #Nvery attractive.」
+【Natsuki】「Touko, another shot! #NFrom another angle this #Ntime!」
+【Natsuki】「Maybe if you could get #Nit so you can just #Nbarely see his chest! #NMagnifique!」
+【Rikka】「Segawa-san, you're kind #Nof acting like a #Npervert.」
+【Natsuki】「I can't help what I #Nlike, can I?」
+【Natsuki】「You all have what makes #Nyour heart go tight #Ntoo, don't you?」
+【Sora】「Supernova. Want to see #None with my own eyes #Nsomeday.」
+【Misa】「The secrets of the deep #Nsea.」
+【Misa】「That would be what I #Nwould like to see #Nmyself.」
+【Natsuki】「What!? Is that where #Nthis is going!?」
+【Natsuki】「Not things we like that #Nguys do!?」
+【Marika】「Yukimura-san must like #Nit when Hino-kun wears #Nan apron, then.」
+【Marika】「Yukimura-san must like #Nit when he wears an #Napron, then.」
+【Marika】「I think he looks cool #Ntoo.」
+【Marika】_st_0109
+【Rikka】「It isn't bad.」
+【Natsuki】「Rikka's all over him!」
+【Natsuki】「So being a family-#Noriented guy is the way #Nto her heart!」
+【Rikka】「Don't be stupid.」
+【Sora】「Someone making good #Nfood would make me #Nhappy.」
+【Sora】「Makes sense she likes #Nhim.」
+【Misa】「A beautifully done #Nthree-piece filleting #Nof fish is very #Nenchanting.」
+【Misa】_st_0218
+【Marika】「People who are good #Nwith a kitchen knife #Nare very cool, aren't #Nthey?」
+【Natsuki】「Naked apron! Show Rikka #Nthe sexiness of a man!」
+【Rikka】「I'm going to report you #Nto the authorities.」
+％Ｂ
+「...Touko, we're gonna have a talk after this. All right?」
+Touko
+「Nope, we can't, because I have to study. I have to make up for all the sleeping I did.」
+
+％Ｂ
+「Yeah, and now you're suddenly serious about studying! What am I gonna do about all this!?」
+
+Touko
+「Mmm... I think it's fine. It's better than everyone ignoring it.」
+％Ｂ
+「Sigh... Whatever, I'm just gonna make dinner... You guys keep talking away.」
+
+Touko
+「Okay. Camera-chan's asked me for live coverage, so I'll do my best!」
+％Ｂ
+「Stop it! Don't feed her any further!」
+all
+Today's dinner is a gratin made from yesterday's leftovers.
+It'd be perfect if we had some ground cheese, but I think it still came out pretty nicely.
+Touko
+「Wooow! This looks so good too! Let's eat!」
+％Ｂ
+「Don't get burned today, all right?」
+Touko
+「I wooon't. I'll cool it off properly beforehand.」
+％Ｂ
+「I think it came out well... How is it?」
+I can put even more effort than necessary into cooking if it's for someone else.
+Even more so for the person I like.
+Touko
+「Fhh, fhh... Mmm, delicious! You really are a genius at cooking!」
+％Ｂ
+「You're just saying that. This is all just 'cause this kitchen's really well made at my mother's request.」
+
+Touko
+「Oh, okay. I'm grateful to her, then. I get to eat a tasty dinner thanks to her.」
+
+"An important place to create not only food, but also smiles."
+It's a phrase about kitchens that I remember reading in an architecture book a long time ago.
+
+I've made Touko smile, and I'm naturally smiling too.
+I feel like I really understand those words after experiencing them like this.
+％Ｂ
+「I'll make what you wanna eat next time. Think about what you want.」
+
+Touko
+「Mm? For dinner? Let's seeee... Mhm, I'll think of something.」
+
+And so we make a promise for next time.
+I savor these little bits of happiness while enjoying a comfortable dinner.
+all
+％Ｂ
+「Here, have some coffee. Though it's just instant-make stuff.」
+Touko
+「Oh, mhm. Okay... Thanks.」
+She's strangely fidgety.
+I'm feeling a little self-conscious after remembering last night too.
+％Ｂ
+「...What do you wanna do after this? Wanna, uh... take a bath together again...?」
+
+Touko
+「Oh... Um, well... Sorry, but we can't.」
+％Ｂ
+「Huh?」
+Touko
+「It's actually, um... started.」
+％Ｂ
+「Started? ...Oh.」
+I realize what she's referring to.
+The bodily process that only occurs in women that a man could never understand.
+Touko
+「So we'll be taking separate baths today. Aw, man. If only it were a day later.」
+
+％Ｂ
+「N-Nothing we can do about it. Taking care of your body's more important, so I can hold myself back.」
+
+Touko
+「...You seem really disappointed.」
+％Ｂ
+「N-No, I'm not! I'm plenty satisfied just being together with you!」
+
+Touko
+「I'm disappointed, you know. I came prepared and everything, but now it's all wasted.」
+
+％Ｂ
+「Prepared? Prepared... how?」
+Touko
+「...It's embarrassing, so I'm not telling. I'll be okay by the time we're done with exams, so I'll tell you then.」
+
+...I'm suddenly really looking forward to exams ending.
+I don't think I've ever wanted to skip a week of my life more.
+Touko
+「Let's do lots of things after exams, okay?」
+％Ｂ
+「...You're saying it like that on purpose, aren't you?」
+Touko
+「Ahahah! Whatever could you be talking abooout? I have no idea!」
+dummy
+_00com
+bgm11
+bgm11
+_00grp
+bg202
+_02smh
+_00bup
+bs_tk02_03
+_00bup
+bs_tk02_0105
+_00bup
+bs_tk02_02
+_00bup
+bs_tk01_0105
+_00bup
+bs_tk01_0402
+all
+_00bup
+_00bup
+all
+_00bup
+bu_tk02_13
+_00bup
+bu_tk02_1102
+_00bup
+bu_tk02_03
+_00bup
+bu_tk02_0402
+_00com
+_00bup
+bu_tk01_04
+_00bup
+bu_tk01_03
+_00bup
+bu_tk03_09
+_00bup
+bu_tk13_07
+all
+_00bup
+_00bup
+all
+_00grp
+bgm15
+bgm15
+_00grp
+bg201
+_00bup
+bu_tk03_0402
+_00bup
+bu_tk03_08
+_00bup
+bu_tk03_0105
+_00bup
+_00bup
+bu_tk03_04
+_00bup
+bu_tk01_11
+_00bup
+bu_tk01_05
+_00bup
+bu_tk12_12
+_00bup
+bu_tk01_04
+_00bup
+_00bup
+bu_tk01_02
+_00bup
+bu_tk01_03
+_00bup
+bu_tk01_05
+_00bup
+bu_tk01_02
+_00bup
+bu_tk01_05
+_00bup
+bu_tk01_0602
+_00com
+_00bup
+bu_tk01_02
+_00bup
+bu_tk01_03
+_00com
+_00bup
+bu_tk02_02
+_00bup
+bu_tk02_03
+_00bup
+bu_tk01_10
+_00bup
+bu_tk01_11
+all
+_00bup
+_00bup
+all
+_00grp
+_00grp
+bg201
+_00bup
+bs_tk02_1306
+_00bup
+bs_tk02_13
+_00grp
+_00grp
+bg202e
+_00bup
+bu_tk03_0402
+bgm21
+bgm21
+_00bup
+bu_tk03_08
+_00bup
+bu_tk01_03
+sumaho_camera
+_00bup
+bs_tk03_09
+_00bup
+bs_tk
+all
+_00bup
+_00bup
+all
+_00bup
+bs_tk02_04
+sumaho_vibe_one
+_02smh_01lime
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00bup
+bs_tk01_0402
+_00bup
+bs_tk02_04
+all
+_00bup
+_00bup
+all
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00com
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+se0024_01
+_02smh_auto
+_00bup
+bs_tk03_08
+_00bup
+bs_tk03_02
+_00bup
+bs_tk03_04
+all
+_00bup
+_00bup
+all
+_00grp
+bgm12
+bgm12
+_00grp
+bg202n
+_00bup
+bs_tk02_04
+_00bup
+bs_tk02_03
+_00bup
+bs_tk01_0205
+_00bup
+_00bup
+bs_tk01_0402
+_00bup
+bs_tk01_02
+_00bup
+bs_tk03_02
+all
+_00bup
+_00bup
+all
+_00grp
+bgm16
+bgm16
+_00grp
+bg202n
+_00bup
+bs_tk02_02
+_00bup
+bs_tk12_06
+_00bup
+bs_tk01_12
+_00bup
+bs_tk01_11
+_00bup
+bs_tk01_01
+_00bup
+bs_tk01_05
+_00bup
+bs_tk12_1301
+_00bup
+bs_tk02_1102
+_00bup
+bs_tk03_0903
+_00grp
+_00com

@@ -1,0 +1,247 @@
+﻿0610
+火
+0611
+水
+$$smh_OpenCHK
+％Ｂ
+「I'm sorry, everyone. Negotiations didn't work out.」
+Marika
+「You weren't able to get that spot you were thinking of?」
+％Ｂ
+「I haven't given up yet. Things are just looking a bit difficult right now.」
+
+all
+The others don't know that Yukimura hangs around the old school building without permission.
+I can't tell them the details, so I just let them know what my results were.
+％Ｂ
+「But I'm going to try negotiating again. Especially since it feels like I wasn't able to get my point across.」
+
+Shuuichi
+「...Who are you even negotiating with?」
+％Ｂ
+「The owner of that place. The point is, I'll have to convince them to let us use that spot. Could you guys help me out with one last thing?」
+
+
+
+Sora
+「Convince the owner?」
+all
+Natsuki
+「You're saying you can't tell us details, but you want us to help? Sounds awfully convenient for you.」
+
+Misa
+「But you believe that spot to be the best?」
+
+％Ｂ
+「I'm sure it's the only usable one.」
+all
+Marika
+「Then... I'll help.」
+
+Natsuki
+「You're always on his side, Marika.」
+Marika
+「Th-That's not true! I just wanted to see that sketch come to life, so...」
+
+
+Natsuki
+「Well, I feel the same way. I want to see that too.」
+
+Natsuki
+「I'm not one to duck out of something once I'm already on board. I'll help out.」
+
+all
+Sora
+「I'll help too. That plan is good. I want to see it become real.」
+
+
+％Ｂ
+「Ousaka... Segawa... Thanks.」
+all
+Marika
+「What should we help with?」
+％Ｂ
+「I want a big piece of paper or fabric. The biggest one you can find, like something you'd build a model out of. And I want lots of paint.」
+
+
+Shuuichi
+「The event committee has those. Let's take a look in our storage.」
+
+all
+％Ｂ
+「Really? That'd be awesome!」
+Shuuichi
+「You just do whatever you want. I'll just wait and see for now.」
+
+％Ｂ
+「Sure thing. Watch me do this.」
+all
+Just wait, Yukimura!
+％Ｂ
+「I think this looks pretty good. Ack!? It's already this late...」
+
+I've finally completed the sketch that's supposed to become the basis for the design, but it's already past midnight.
+
+％Ｂ
+「And I've still got a lot more to do, too.」
+I have to scan this into my computer and make the design.
+It's supposed to be a really big image, so even just the preparation ended up taking a long time.
+％Ｂ
+「Ughhh, I'm getting sleepy...」
+％Ｂ
+「Oh, a LIME message.」
+It's from Shinozaki.
+【Marika】「Are you up?」
+【％Ｂ】「Up and working hard! I #Nalmost fell asleep, so #NI'm glad you sent me a #Nmessage.」
+【Marika】「Good timing, then～ I'm #Nglad I decided to send #Nthat after all.」
+【Marika】「How's it going? Is it #Nturning out well?」
+【％Ｂ】「Just a sec. I finished #Nthe sketch so I'll send #Nyou a picture.」
+I take a photo of the sketch and send it to her.
+【％Ｂ】「Sent it.」
+【Marika】「Yeah, I got it.」
+【Marika】「I think this looks #Nreally good!!!」
+【％Ｂ】「Seriously?」
+【Marika】「Yes seriously! You're #Ngoing to make this #Nreally big, right?」
+【％Ｂ】「Yeah. I'm gonna make #Nthe design tomorrow, so #Ncould you guys help #Nwith that?」
+【Marika】「Of course～ Do you still #Nhave more to do today?」
+【％Ｂ】「Yeah, I think it'll #Ntake me a bit longer. #NPray for me that I #Ndon't fall asleep.」
+【Marika】「Okay! I'll be praying!」
+【Marika】「I wish I could actually #Nhelp...」
+【％Ｂ】「You just conserve #Nenergy for today. I'm #Ngonna have you help #Nlots tomorrow.」
+【Marika】「Roger that! Good luck, #Nthen!」
+【Marika】「Go, go, ％Ｂ! #NDo your best!!」
+【Marika】_st_0108
+【％Ｂ】「Thanks! Good night then!」
+【Marika】「Yeah, good night. See #Nyou tomorrow!」
+【Marika】_st_0105
+％Ｂ
+「"Go, go, ％Ｂ"... Haha.」
+I feel like I'm a little more awake now, thanks to her passionate support.
+％Ｂ
+「All right! Just a little more to go!」
+dummy
+_00com
+_02smh
+bgm17
+_00grp
+bg104
+_00bup
+bs_mr01_0108
+all
+_00bup
+_00bup
+all
+_00bup
+bs_sy11_0808
+_00bup
+_00bup
+bs_sr03_01
+all
+_00bup
+_00bup
+all
+_00bup
+bs_ms01_08
+_00bup
+bs_nt11_0808
+_00bup
+_00bup
+bs_nt11_03
+_00bup
+bs_ms02_0202
+_00bup
+_00bup
+bs_ms02_01
+all
+_00bup
+_00bup
+all
+_00bup
+bs_mr03_0202
+_00bup
+_00bup
+bs_mr03_01
+_00bup
+_00bup
+bs_nt13_0101
+_00bup
+_00bup
+bs_nt13_03
+_00bup
+bs_mr22_1111
+_00bup
+_00bup
+bs_mr22_09
+_00bup
+bs_nt03_03
+_00bup
+bs_mr22_01
+_00bup
+bs_nt02_0109
+_00bup
+_00bup
+bs_nt02_02
+bs_mr
+_00bup
+_00bup
+bs_mr
+_00bup
+bs_sr03_03
+all
+_00bup
+_00bup
+all
+_00bup
+bs_mr22_0101
+_00bup
+bs_sy01_0101
+all
+_00bup
+_00bup
+all
+_00bup
+bs_sy01_0101
+_00bup
+bs_sy01_0202
+_00bup
+_00bup
+bs_sy01_03
+all
+_00bup
+_00bup
+all
+_00grp
+bgm16
+_00grp
+bg201n
+sumaho_vibe_one
+_02smh_01lime
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+sumaho_camera
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+se0024_01
+_02smh_auto
+_00grp
+_00com

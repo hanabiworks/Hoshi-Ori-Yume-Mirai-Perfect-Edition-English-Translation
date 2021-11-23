@@ -1,0 +1,327 @@
+﻿0623
+月
+0624
+火
+$$smh_OpenCHK
+％Ｂ
+「Okay. This looks good.」
+I'm done adjusting the positioning and height of the tripod holding the PCM recorder.
+
+I had the broadcast club teach me how to record audio and lend me equipment so we could record Narusawa's performance.
+This equipment is apparently high-quality stuff that they even use in professional work to do field recordings with.
+
+They were real insistent that I be careful not to break it.
+A legitimate recording studio would've been ideal, but we don't have access to anything like that, so we're in the music classroom like always.
+
+Marika
+「Now that I think about it, I think this might be the first time I'm hearing Narusawa-san's piano playing up close like this. I'm starting to get a little excited.」
+
+
+Misa
+「Yes. It feels similar to when one waits for a concert to begin.」
+all
+％Ｂ
+「Segawa, no photos while we're recording, all right? The microphone'll pick up the shutter sounds.」
+
+Natsuki
+「Of course I know that.」
+all
+％Ｂ
+「I think we'll start pretty soon. You ready, Narusawa?」
+
+Rikka
+「Yes. I'm fine whenever.」
+％Ｂ
+「You don't have to start playing right away once we start recording. You can go on your own timing.」
+
+Rikka
+「...」
+She doesn't respond.
+It looks like she's already fully focused on the piano.
+She does indeed seem to be completely ready.
+all
+I press the record button, and walk as quietly as I can toward the audience.
+
+Narusawa slides her fingers onto the keys a moment after I come to a stop.
+
+It's a familiar melody...
+But it sounds completely different from what I know.
+
+％Ｂ
+「...」
+I can't move a muscle.
+It's like I've even forgotten to breathe.
+I think I finally understand what it means to have your breath taken away by music.
+
+Marika
+「...」
+Natsuki
+「...」
+Sora
+「...」
+Misa
+「...」
+Touko
+「...」
+And the others are also listening to Narusawa's performance in the same way.
+
+It's not that we're not speaking.
+It's that we can't.
+This is a small concert hall now.
+This is a live performance...
+A bottomless, infinite sound expands, deepens, and stretches...\n\r
+Even the sound of the pedals moving is a part of the performance...
+Everything blends together into an awe-inspiring harmony.
+It's a world of Narusawa's creation.
+Rikka
+「...」
+She silently lifts her fingers from the keys.
+For an instant, I don't recognize that as a signal that she's finished.
+Eventually, the sound of applause cuts through the silence.
+all
+Marika
+「Woooow! That was so amazing! It sounded so pretty!」
+
+Sora
+「I saw stars.」
+all
+Misa
+「I also could imagine a sky filled with stars, shining above the silent waves of the nighttime sea!」
+
+Touko
+「You really are Piano-chan, Piano-chan.」
+Natsuki
+「I regret not being able to take any photos, but I captured it perfectly in the film of my heart!」
+
+all
+I press the stop button on the PCM recorder to stop the recording.
+％Ｂ
+「Great work. I think it was a really good performance.」
+Rikka
+「Thank you. But if it really was, then it was all thanks to you.」
+Rikka
+「I was able to perform like that because you sang for me yesterday.」
+
+％Ｂ
+「Ahh～ ...Would it be possible for you to forget that off-key singing?」
+
+Rikka
+「I won't forget. Not for as long as I live.」
+I can't help but smile when she smiles.
+Sora
+「Staaare～...」
+all
+％Ｂ
+「...Huh? Oh...!」
+Rikka
+「...!」
+I turn around to see Segawa and the others watching us warmly.
+
+Natsuki
+「Mind if we try talking to you guys now?」
+％Ｂ
+「G-Go ahead... I mean, you could've said something whenever you wanted.」
+Marika
+「It kind of wasn't the kind of mood we could do that in... There was a really nice atmosphere...」
+
+all
+Touko
+「We didn't want to get in the way, Piano-chan.」
+Rikka
+「What? M-Me...?」
+Usually that would be addressed to me, but this time it's to Narusawa.
+Yukimura's got an impish "got you" smile on her face.
+all
+Rikka
+「...I-I don't care. There's nothing to even get in the way of in the first place.」
+She's trying to act as calm and composed as ever, but she's clearly flustered.
+
+Rikka
+「Uuuh...」
+She makes this cute, lost-sounding moan. Her eyes beg me for a lifeline.
+
+all
+％Ｂ
+「Uhh, by the way, did you have something to say?」
+Natsuki
+「I was wondering what we're gonna do with this now. We're not gonna just play back the recording just like that, are we?」
+
+％Ｂ
+「I've talked to some people in the broadcast club about the editing stuff too. I'm gonna ask them to do it for us once I go to return the equipment.」
+
+all
+％Ｂ
+「I know. Narusawa, could you help me carry the stuff?」
+Rikka
+「O-Okay. I can.」
+Touko
+「It's just the recorder and a tripod, though.」
+all
+Natsuki
+「...They're trying to escape.」
+Narusawa and I ignore the commentary and leave the music classroom.
+dummy
+_00com
+bgm17
+_00grp
+bg105e
+_02smh
+_00bup
+bs_mr03_01
+_00bup
+_00bup
+bs_ms01_02
+all
+_00bup
+_00bup
+all
+_00bup
+bs_nt02_0204
+_00bup
+bs_nt02_10
+all
+_00bup
+_00bup
+all
+_00bup
+bs_rk02_02
+_00bup
+bs_rk02_0906
+all
+_00bup
+_00bup
+all
+_00grp
+bgm43
+_00grp
+cg_rk01_0144
+_00bup
+bs_mr01_03
+_00bup
+bs_nt13_01
+_00bup
+bs_sr03_02
+_00bup
+bs_ms11_06
+_00bup
+bs_tk02_04
+_00grp
+bg105e
+_00bup
+bs_rk03_0810
+bgm31
+hakusyu1
+_00bup
+bs_rk03_0911
+all
+_00bup
+_00bup
+all
+_00bup
+bs_mr12_03
+_00bup
+bs_sr01_09
+_00bup
+_00bup
+bs_mr22_07
+_00bup
+bs_mr22_02
+_00bup
+bs_sr01_03
+all
+_00bup
+_00bup
+all
+_00bup
+bs_ms01_06
+_00bup
+bs_nt02_0201
+_00bup
+bs_tk03_02
+_00bup
+bs_tk03_03
+_00bup
+bs_nt02_0102
+all
+_00bup
+_00bup
+all
+_00bup
+bs_rk13_02
+_00bup
+bs_rk13_0302
+_00bup
+_00bup
+bs_rk13_02
+_00bup
+bs_rk13_0203h
+_00bup
+bs_rk01_02h
+_00bup
+bs_sr02_02
+all
+_00bup
+_00bup
+all
+_00bup
+bs_sr02_02
+_00bup
+bs_nt02_09
+_00bup
+bs_mr03_02
+_00bup
+bs_rk11_09
+_00bup
+bs_nt02_0109
+_00bup
+bs_mr03_06
+all
+_00bup
+_00bup
+all
+_00bup
+bs_rk11_11
+_00bup
+bs_tk13_08
+_00bup
+_00bup
+bs_tk13_09
+_00bup
+bs_rk11_09h
+all
+_00bup
+_00bup
+all
+_00bup
+bs_rk03_0514h
+_00bup
+bs_rk13_0607h
+all
+_00bup
+_00bup
+all
+_00bup
+bs_nt03_0210
+_00bup
+_00bup
+bs_nt03_0904
+all
+_00bup
+_00bup
+all
+_00bup
+bs_rk01_11h
+_00bup
+bs_rk01_02h
+_00bup
+bs_tk11_0812
+all
+_00bup
+_00bup
+all
+_00bup
+bs_tk11_0812
+_00bup
+bs_nt02_09
+_00grp
+_00com

@@ -1,0 +1,135 @@
+﻿0729
+火
+0730
+水
+$$smh_OpenCHK
+Sora's continuing to practice as we cut out parts.
+Sora
+「...Please... look at the eastern sky...」
+Sora
+「...Above the Milky Way... there's a... there is a very bright star... That is Vega.」
+
+Sora's clearly stumbling over the unfamiliar manner of speech.
+Sora
+「...Vega is the brightest star in Lyra... It is one of the representative stars of summer, and it's... it is clearly visible even with the naked eye... It is Orihime from the legend of Tanabata.」
+
+
+Rikka
+「...Still not good enough. Your word choice is too simple in general. You need to decorate your sentences more and pull the people listening into your world.」
+
+
+Sora
+「...*nod*」
+Rikka
+「Let's do it again from the top, then.」
+Sora
+「...Ritsu... You're very strict. It's like you're a demon.」
+Rikka
+「Why can you say that properly but not the rest!?」
+Sora
+「...Uuuh...」
+Marika
+「Huh? ...What are you guys doing?」
+all
+％Ｂ
+「Well... Sora's practicing her talk for the planetarium. Narusawa's giving her feedback.」
+
+Marika
+「Huh～ Do you think I can listen too?」
+Sora
+「...*shake shake*」
+％Ｂ
+「Not yet, I think. It's not at the level we'd like yet, and having more people listen is probably only going to make things worse for Sora's nervousness.」
+
+
+Marika
+「That seems pretty rough... Let us hear once you're better at it then, okay?」
+
+Sora
+「...*nod*」
+all
+Once she's better at it.
+Yeah. It'll be okay.
+I know Sora'll be able to communicate the wonders of the stars to everyone.
+Rikka
+「No. The whole thing sounds repetitive because you're using the same phrase too much. Start it over again.」
+
+
+Sora
+「...Okay...」
+Do your best, Sora...
+dummy
+_00com
+bgm17
+bgm17
+_00grp
+bg115
+_02smh
+_00bup
+bs_sr02_01
+_00bup
+_00bup
+bs_sr02_0201
+_00bup
+bs_sr02_07
+_00bup
+_00bup
+bs_sr02_0607
+_00bup
+bs_sr02_03
+_00bup
+_00bup
+bs_sr02_0203
+_00bup
+bs_sr02_03
+_00bup
+bs_rk03_08
+_00bup
+_00bup
+bs_rk03_05
+_00bup
+bs_sr03_0701
+_00bup
+bs_rk03_10
+_00bup
+bs_sr03_06
+_00bup
+_00bup
+bs_sr03_0607
+_00bup
+bs_rk11_06
+_00bup
+bs_sr03_0706
+kyukan_door1
+_00bup
+bs_mr01_08
+all
+_00bup
+_00bup
+all
+_00bup
+bs_mr01_08
+_00bup
+bs_mr01_0102
+_00bup
+bs_sr03_06
+_00bup
+bs_mr01_0102
+_00bup
+bs_mr01_0108
+_00bup
+_00bup
+bs_mr01_04
+_00bup
+bs_sr03_0306
+all
+_00bup
+_00bup
+all
+bg501
+_00bup
+bs_rk03_05
+_00bup
+bs_sr02_07
+_00grp
+_00com

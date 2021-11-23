@@ -1,0 +1,435 @@
+﻿0611
+水
+0612
+木
+$$smh_OpenCHK
+Classes end. Time for committee work.
+I want to get Yukimura to say yes today.
+％Ｂ
+「I should probably let her know beforehand.」
+I don't want to make the same mistake I did yesterday.
+I'll make sure Yukimura knows I'm coming.
+【％Ｂ】「Heading over there #nright now.」
+％Ｂ
+「...Okay. Let's get going.」
+Touko
+「Hey, welcome.」
+％Ｂ
+「...What are you doing?」
+Touko
+「Drawing. I just kinda felt like it today.」
+％Ｂ
+「...Uh huh.」
+Touko
+「Do you wanna draw too? I hvae more sketchbooks.」
+Let's just go along with what she's doing for now.
+It'd probably provide a better opportunity for conversation.
+％Ｂ
+「Sure, I'll draw. What are you drawing?」
+Touko
+「Mmm... Around there.」
+％Ｂ
+「All right. Then I'll draw the scene from here too. Pass me a pencil and a sketchbook.」
+
+Touko
+「They're over there, so you can just take whatever.」
+all
+Touko
+「Mmm, that's not really right... I'm trying to just draw what I see, but...」
+
+I draw silently.
+Yukimura's groaning to herself. She looks dissatisfied.
+
+Touko
+「How's yours... Wha, it's so good!? What the heck, this is crazy good!」
+
+％Ｂ
+「Huh? I-Is it?」
+I jump when she suddenly brings her face next to mine.
+Between that and the happiness from her compliment, it's all I can do to keep my thundering heart in check.
+
+Touko
+「Now that I think about it... your art was good before, too. Is this a hidden talent of yours or something?」
+
+％Ｂ
+「I study sketching for architecture too. It's a necessary technique for communicating your complete idea to clients.」
+
+
+Touko
+「Huh, well that's really something. My drawing's nothing compared to this.」
+％Ｂ
+「I can teach you, if you're fine with it.」
+Touko
+「Mmm... Nah. I must just not have any talent for drawing. What a shame, what a shame.」
+
+She tosses the sketchbook aside and stretches.
+She pulls herself away from me. I feel a little disappointed.
+Touko
+「Nnnhh...! Okay, what next?」
+％Ｂ
+「Done with drawing already?」
+Touko
+「Mhm, I'm bored. Highbrow hobbies don't suit me. They make my shoulders all stiff too.」
+
+％Ｂ
+「What's next on the agenda?」
+Touko
+「Haven't really thought of anything. I'll think of something while I'm wandering around again.」
+％Ｂ
+「You should join the event committee if you've got nothing to do. There's always something to do there every day.」
+
+Touko
+「...This again? You're pretty persistent, aren't you?」
+％Ｂ
+「Don't be that way. It's a waste to just sit around doing nothing, don't you think?」
+Touko
+「I don't know if just doing work all day sounds much better, personally. I want to be more relaxed and carefree.」
+
+％Ｂ
+「Is that why you were drawing today?」
+Touko
+「Mm? I didn't really have a reason for it. I just kinda felt like I might wanna try it.」
+
+％Ｂ
+「Just something you thought of?」
+Touko
+「Yep. That's why I don't really want to seriously practice or try to get better at it. I was just a bit interested in it.」
+
+％Ｂ
+「Oh...」
+She opens up the sketchbook she was using, rips out her page, and throws it away.
+She doesn't falter in the slightest.
+％Ｂ
+「...Weren't you almost finished?」
+Touko
+「I don't care about it anymore. Besides, I would've done it either way, even if I did finish it.」
+
+％Ｂ
+「Wha...?」
+Touko
+「I just don't want to let it keep existing. Not inside anyone... or in myself.」
+
+％Ｂ
+「...What's that mean?」
+Touko
+「Who knows. Whatever could it mean?」
+Touko
+「Your phone's ringing. You sure you don't need to answer?」
+％Ｂ
+「It's fine. I can just call them back later.」
+Touko
+「It might be for work, you know. You should answer. Wouldn't wanna get yelled at afterward.」
+
+％Ｂ
+「...」
+all
+I pull out my phone and look at the screen.
+It's from Shuuichi.
+Which means it's probably about event committee work.
+_smh_st_02
+_smh_st_btn02
+_smh_st_02
+_smh_st_btn05
+％Ｂ
+「What's up?」
+Shuuichi
+『Sorry about this, but something urgent's come up. I know you're trying to recruit Yukimura right now, but could I ask you to help?』
+
+％Ｂ
+「...Got it. I'll be over right away.」
+_smh_st_04
+％Ｂ
+「Sorry. Looks like some work's come in. I'll finish it up real quick, so could you wait for...?」
+
+Touko
+「I'm going home already. I'll clean things up, so why don't you hurry and go do your work?」
+
+It looks like she's lost interest in talking with me, just like she did with drawing.
+I'm getting the feeling there wouldn't be any point in trying to talk to her any further.
+％Ｂ
+「...Okay. I'll come again sometime.」
+all
+％Ｂ
+「Hm? That's...」
+_00cutinBS
+I see someone small climbing the stairs.
+Someone carrying a disproportionately large telescope―no mistake. It's Ousaka.
+
+％Ｂ
+「It always looks so dangerous...」
+Watching her walk along unsteadily like that's bad for my heart.
+It'd be terrible if she got hurt. I'll offer to carry it to the rooftop for her.
+_00cutinBS
+％Ｂ
+「Yo, Ousaka. Going to the rooftop?」
+Sora
+「...*nod*」
+％Ｂ
+「I'll hold that for you. It's heavy, right?」
+Sora
+「...Thanks.」
+％Ｂ
+「Don't mention it. I was just looking for a change of pace anyway.」
+
+Sora
+「...Did something happen?」
+％Ｂ
+「Haha, well... Yeah, it's a long story.」
+There's no point in complaining to Ousaka when she doesn't know what's going on.
+I'll just go up and feel the breeze for a bit, and recompose myself.
+Sora
+「Put the telescope here.」
+％Ｂ
+「Sure thing.」
+all
+Ousaka turns toward the telescope and starts adjusting the angle while looking through the eyepiece.
+
+％Ｂ
+「Speaking of which, you said you'd teach me about the stars sometime, didn't you?」
+
+Sora
+「...*nod* You can ask me anything.」
+％Ｂ
+「Tell me something interesting. Any recommendations?」
+Sora
+「...The constellations, then. There are eighty-eight constellations recognized by the International Astronomical Union, twelve of which are the zodiac constellations.」
+
+
+％Ｂ
+「Wow, only that many? I figured there'd be way more 'cause of how big space is.」
+
+
+Sora
+「The standards for constellations were only decided on recently, because everyone's always made whatever constellations they liked. If you look through history, there are lots of constellations we don't recognize today.」
+
+
+％Ｂ
+「I get it. Guess that makes sense. You'd have infinite constellations if you could just make whatever you wanted into one.」
+
+Sora
+「You can find constellations throughout history that seem like they should exist now but don't. For example, an owl constellation, or a cat constellation.」
+
+％Ｂ
+「Cat? Oh yeah, now that you mention it. I don't think I've ever heard of one.」
+Sora
+「There are lots of reasons for constellations to not exist anymore, like the stars being too dark to see easily, or they get incorporated into other more famous constellations.」
+
+The cat constellation couldn't even make it as a constellation at all, much less the zodiac.
+I feel kinda sorry for it.
+Sora
+「It's fun looking for those constellations too. You can spend all night doing it.」
+
+％Ｂ
+「...You should probably get a proper night's sleep, don't you think?」
+Sora
+「The stars move from day to day. There's never the same moment twice. You can't let the opportunities escape.」
+
+...There's never the same moment twice.
+You could say the same thing about our everyday lives...
+I doubt she meant it that way at all... but it feels like Ousaka's encouraging me to do my best.
+
+％Ｂ
+「You're right. It'd be a waste to let an opportunity slip by.」
+Sora
+「Right. That's why I wish I could watch the stars all day long.」
+％Ｂ
+「I don't wanna bother you too much, so I'll get going. You wanna get to stargazing, right?」
+
+Sora
+「...It's not an issue. I don't consider you a bother.」
+％Ｂ
+「Haha, I'm glad you feel that way. Looking at the stars is relaxing, and it's even more fun when there's someone like you who knows a lot about them around.」
+
+
+Sora
+「...You can come whenever you want.」
+％Ｂ
+「Yeah. And I'll support you as a member of the event committee too... Actually, speaking of which, have you figured out what the astronomy club's gonna do for the Tanabata Festival yet?」
+
+
+Sora
+「...Not yet.」
+％Ｂ
+「Hold on. You gotta decide soon, you know. We might have to secure a location depending on what it is you want to do and stuff...」
+
+Sora
+「...I'll think about it now.」
+...She's completely stopped moving.
+She's not even blinking... Is she okay?
+％Ｂ
+「Uh, Ousaka...? There's still a little more time, so you don't have to think that hard, all right...?」
+
+Sora
+「Then I'm prioritizing stargazing today.」
+％Ｂ
+「Okay. Later, Ousaka. Take care not to catch a cold or something.」
+Sora
+「...Mm. See you.」
+dummy
+_00com
+bgm15
+bgm15
+_00grp
+bg101
+_02smh
+_02smh_auto
+_02smh_auto
+_02smh_01lime
+_02smh_01lime
+_00_mess
+_00_mess
+se0024_01
+_02smh_auto
+_00grp
+kyukan_door1
+_00grp
+bg115
+_00bup
+bs_tk02_02
+_00bup
+bs_tk01_02
+_00bup
+bs_tk01_03
+_00bup
+bs_tk01_0402
+_00bup
+bs_tk01_0105
+_00bup
+bs_tk01_02
+all
+_00bup
+_00bup
+all
+_00grp
+bg115
+_00bup
+bs_tk02_06
+_00grp
+bg115
+_00bup
+bs_tk02_06
+_00bup
+bu_tk02_02
+_00bup
+_00bup
+bu_tk02_07
+_00bup
+bu_tk03_05
+_00bup
+bu_tk03_10
+_00bup
+bu_tk03_1002
+_00bup
+bs_tk03_0708
+hon_oku
+_00bup
+bs_tk02_1202
+_00bup
+_00bup
+bs_tk02_0906
+_00bup
+bs_tk01_0805
+_00bup
+bs_tk01_0602
+_00bup
+bs_tk03_05
+_00bup
+bs_tk03_10
+_00bup
+_00bup
+bs_tk03_0702
+_00bup
+bs_tk03_02
+_00bup
+bs_tk02_09
+_00bup
+bs_tk02_1201
+kami_yaburu
+_00bup
+bs_tk02_01
+_00bup
+bs_tk02_09
+_00bup
+_00bup
+bs_tk02_1311
+_00bup
+bs_tk02_03
+se0020
+_00bup
+bs_tk02_0206
+_00bup
+bs_tk12_01
+_00bup
+bs_tk12_1306
+all
+_00bup
+_00bup
+all
+_02smh_06tell
+sumaho_tsunagaru
+se0024_01
+se0024_01
+_02smh_auto
+_00bup
+bs_tk03_02
+all
+_00bup
+_00bup
+all
+_00grp
+bgm12
+bgm12
+_00grp
+bg102e
+bs_sr33_01
+bg110e
+_00grp
+bg110e
+_00bup
+bs_sr33_01
+_00bup
+bs_sr33_03
+_00bup
+bs_sr33_01
+_00grp
+gakuen_door_tetsu1
+_00grp
+bg107e
+_00bup
+bs_sr01_01
+all
+_00bup
+_00bup
+all
+_00bup
+bs_sr03_01
+_00bup
+bs_sr02_0111
+_00bup
+bs_sr02_08
+_00bup
+bs_sr02_01
+_00bup
+bs_sr02_09
+_00bup
+bs_sr02_0111
+_00bup
+bs_sr02_08
+_00bup
+bs_sr02_01
+_00bup
+bs_sr01_08
+_00bup
+bs_sr01_0302
+_00bup
+bs_sr01_0306
+_00bup
+bs_sr03_0104
+_00bup
+bs_sr03_05
+_00bup
+bs_sr02_01
+_00bup
+bs_sr02_1011
+_00grp
+_00com

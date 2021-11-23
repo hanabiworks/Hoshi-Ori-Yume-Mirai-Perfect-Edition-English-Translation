@@ -1,0 +1,739 @@
+﻿0609
+月
+0610
+火
+$$smh_OpenCHK
+Shuuichi
+「Come on, man... That didn't work at all.」
+％Ｂ
+「...You think so too?」
+Shuuichi
+「You're up against someone pretty tough. Maybe it was too much for you.」
+
+％Ｂ
+「D-Don't give up yet! I just haven't gotten serious yet!」
+
+Shuuichi
+「Why didn't you just start serious!? Don't set yourself up to fail!」
+
+But despite my bluffing... I have absolutely zero strategies.
+I wish I could think of something...
+Shuuichi
+「Why don't you just give up if it seems like she's not interested? It's a shame to give up on Yukimura's big name, but...」
+
+％Ｂ
+「...Wait just a little more. You never thought it'd be easy to get her to join, right?」
+
+Shuuichi
+「No, I didn't, but... Well, if you don't want to give up, then I won't stop you.」
+
+％Ｂ
+「Yeah. Let me handle this. I'll figure something out.」
+all
+％Ｂ
+「It's great that I've told him that and all... but this is gonna be pretty difficult.」
+Either way, I need to start by getting Yukimura interested in what the event organization committee does.\n\r
+
+It'd be great if there were something that could catch her interest...
+Marika
+「Sorry, I got a little tied up.」
+％Ｂ
+「It's fine, I was only just about to start. All right, let's give it our all today!」
+
+Marika
+「Yeah, let's do it!」
+all
+％Ｂ
+「That all for today?」
+Marika
+「Um... Yeah, it looks like that's everything for us.」
+Shinozaki's checking the paperwork we've received against our list.
+Looks like we've managed to gather all the paperwork without a hitch.
+I'm planning on going to try to persuade Yukimura again after this... but I still don't know what to do.
+Maybe I should try asking Shinozaki for advice?
+Ask her.
+I'll think about it on my own.
+There's a limit to how much I can come up with on my own.
+Let's get Shinozaki's opinion.
+％Ｂ
+「Shinozaki, can I get your opinion on something?」
+Marika
+「Mine?」
+％Ｂ
+「Yeah. I'm actually thinking of getting Yukimura to join the event committee.」
+Marika
+「...Yukimura-san? Why?」
+％Ｂ
+「I want her to be a part of our group more. So I was thinking of what the best way to get her to join the event committee would be.」
+
+
+Marika
+「Hmm... But she's said no to every club that's tried to get her to join, hasn't she? I wonder if she'd join...」
+
+％Ｂ
+「I'm asking her to join to help her say no to those clubs too. I think those clubs might stop trying to recruit her if she joins the event committee.」
+
+
+Marika
+「That's true. The event committee's a lot of work, so I don't think anyone could be in another club at the same time.」
+
+％Ｂ
+「Yeah, that's the issue... She was like, "Sounds like a pain," and didn't seem interested at all yesterday.」
+
+Marika
+「Yeah, we're busiest around the Tanabata Festival. I can see why Yukimura-san might not want to.」
+
+％Ｂ
+「Yeah, exactly... So I was wondering if you had any ideas.」
+
+Marika
+「Let's see... It'd be easy if there were something about the committee's activities that interested her...」
+
+％Ｂ
+「That's the biggest issue. I want to find something that would make her interested...」
+
+Marika
+「Hmm... Let's see... Umm, umm...」
+...We've stopped walking.
+I guess if I'm gonna ask Shinozaki for her opinion, it'd need to be somewhere we could calmly and carefully discuss things.
+
+Marika
+「Oh, isn't that... Yukimura-san?」
+all
+_00cutinBS
+％Ｂ
+「Huh? Oh, you're right.」
+Things might go differently if it's with Shinozaki.
+Let's try calling out to her.
+I've promised to Yukimura that I wouldn't talk about the old school building to anyone else.
+I can always try asking Shinozaki for advice later if I end up failing a few more times.
+
+％Ｂ
+「Let's turn this paperwork in and wrap things up for the day, then.」
+Marika
+「Yeah, let's do that.」
+I want as much time as possible to try to convince her.
+Finishing up my work quickly is for the best.
+all
+_00cutinBS
+％Ｂ
+「Wait, that's... Yukimura.」
+But then I spot the exact individual I'm thinking of.
+Maybe trying to persuade her together with Shinozaki might end up being some kind of a breakthrough.
+_00cutinBS
+％Ｂ
+「Yo, Yukimura. What are you doing here?」
+Touko
+「Mmm... Taking a walk, I guess. Are you two doing committee work? Having stuff to do every day sounds rough.」
+
+Marika
+「Hello, Yukimura-san. Do you like taking walks?」
+Touko
+「Yeah, I do. I like to just wander around without any goal in mind. Though I don't like how hot it is around this time of year.」
+
+％Ｂ
+「It's only gonna get hotter. What are you gonna do then?」
+
+Touko
+「I'll try my best to walk in the shade. I can enjoy air conditioning if I walk from store to store too.」
+
+Marika
+「Ahaha, that sounds fun. You might want to eat shaved ice while you're walking around in this heat too.」
+
+％Ｂ
+「Maybe we should all go get some together sometime? I bet there'd be lots of stalls selling shaved ice at the Tanabata Festival.」
+
+Touko
+「Mmm... If I feel like it, maybe.」
+But whenever we try to invite her to do something, she doesn't seem too interested.
+Man... What should I do?
+all
+％Ｂ
+「...Hm?」
+Marika
+「It's a piano... It's probably coming from the music classrooms. It must be Narusawa-san.」
+％Ｂ
+「Narusawa's piano playing always sounds so pretty. Shinozaki, wanna go listen for a bit?」
+
+Marika
+「Mhm, I think I might want to. Yukimura-san, do you want to come too?」
+
+Touko
+「I'm fine. Why don't you two enjoy your date together?」
+Marika
+「W-We aren't on a date...! We were doing event committee work...!」
+
+Touko
+「Ahaha! Denying it like that just makes me even more suspicious! I think you should be more honest with yourself.」
+
+Marika
+「I'm telling the truth...! I'm just helping out...!」
+
+％Ｂ
+「Hey, Yukimura. I asked Shinozaki to help me. Don't make fun of her when she's only being helpful, all right?」
+
+Touko
+「Okaaay. I got lectured.」
+Marika
+「Um, I don't mind...! Anyway, Yukimura-san, let's go to the music classroom together, okay?」
+
+Touko
+「I already told you I'm not going. You two go enjoy it by yourselves.」
+Marika
+「I won't force you if you have other plans... but Narusawa's piano playing is really nice. Let's go listen together.」
+
+
+Touko
+「Mmm... I'm not that interested, though.」
+Marika
+「I know you'd think it's wonderful if you listened to it. Right
+
+, Hino-kun
+
+? Don't you think so?」
+％Ｂ
+「Yeah. I've got absolutely zero sense for music, and I still think it's great.」
+Marika
+「I'm sure you'd like it too, Yukimura-san. Come on, let's hurry.」
+
+Touko
+「I-I never said I'd...! Wait, don't pull me...!」
+
+％Ｂ
+「Sorry, Yukimura. Tag along with us.」
+Marika
+「She might finish playing if we don't hurry. I'm sure Narusawa-san would want you to listen to her play too.」
+
+
+Touko
+「Gh... Okay, fine...! Just for a little, okay!?」
+Marika
+「...I knew it was Narusawa-san.」
+Narusawa seems to have noticed we're here, but she doesn't stop playing.\n\r
+
+Her ability to focus is impressive.
+Touko
+「I said I didn't need to come... Could you let go of me already?」
+
+Marika
+「I won't. You'll run away if I do, won't you～? Let's listen until the very end.」
+
+Shinozaki's being unexpectedly stubborn about this.
+Yukimura seems to have realized too. She sighs, and grudgingly listens to Narusawa's performance.
+
+all
+Narusawa's piano playing has this strange way of pulling you in.
+I dunno anything technical about music, so I can't really put it into words well... but it just feels warm.
+
+％Ｂ
+「It's like it's not just that she's good at playing... It's more like she's talking to my heart...」
+
+Marika
+「Oh, I get what you mean. It sounds like the sound of the piano is communicating with us.」
+
+Touko
+「...She must've practiced for a really long time.」
+％Ｂ
+「I bet. She's probably practiced more than we could ever imagine.」
+
+Marika
+「She must love playing the piano. She couldn't have gotten this good otherwise.」
+
+The more practice she's put in, the more she shines as she plays.
+Narusawa's performance must be backed by her passion and love for the piano.
+all
+Marika
+「That was really wonderful, Narusawa-san.」
+Rikka
+「Th-Thank you... but it wasn't anything that impressive. Anyway, why are you all here?」
+
+Marika
+「I'm sorry. Come on, you two! You need to clap! Don't be rude to Narusawa-san.」
+
+Rikka
+「...They don't need to do that.」
+Touko
+「Well... It's like Flower-chan said. I think it was a wonderful performance.」
+
+Marika
+「Ehehe, wasn't it?」
+Rikka
+「This is a surprise. I didn't think you'd come, Yukimura-san.」
+Touko
+「I wasn't planning on being brought here either. But, well, I got to see a nice performance, so I'm glad I came.」
+
+
+Rikka
+「Really.」
+Touko
+「Mhm, I think it's amazing that you have something you can pour your heart into like that. You've put in lots of work, haven't you, Piano-chan?」
+
+Rikka
+「Y-You're still calling me that!? I told you not to because it's embarrassing!」
+
+Touko
+「Whaaat, why? You're Piano-chan because you love the piano. It's simple, isn't it?」
+
+Marika
+「Ahaha, it's so cute. I think "Piano-chan" is perfect for you, Narusawa-san.」
+
+Rikka
+「I think your "Flower-chan" is a better fit than mine is for me! I don't want that embarrassing nickname.」
+
+Touko
+「Mmm... So that just means they're both perfect, right?」
+Rikka
+「Do something about this. You're the one who brought her here, aren't you?」
+
+％Ｂ
+「Wha? I thought it was perfect too. You don't like it?」
+Rikka
+「Of course not. Would you want to be called "Architecture-kun"?」
+
+...No, I wouldn't. I have no idea what that would even imply.
+It makes it sound like I'm a building or something.
+Touko
+「Now, now. Don't be so angry. Architecture-kun... I think I'll pass on that one. It's a bit hard to say.」
+
+Rikka
+「I can't believe the first nickname anyone's ever given me is "Piano-chan"... It's unbelievably embarrassing.」
+
+％Ｂ
+「You've been playing piano for a long time, right? You ever just not wanna play anymore?」
+
+Rikka
+「...I've always played, so it's just a part of my life. Besides, I only play because I want to.」
+
+Marika
+「But it's still amazing that you've played for so long. I remember I used to get frustrated when I couldn't lower my times back when I did competitive swimming.」
+
+
+％Ｂ
+「Same here. I'd get nervous if things weren't going well in soccer and stuff.」
+
+Rikka
+「Everyone has different experiences. I'm not special.」
+Marika
+「You're really into studying architecture right now, right
+, Hino-kun
+
+? Professional stuff like that's really cool.」
+
+％Ｂ
+「Yeah. There's a ton to learn once you get started. It's super fun.」
+Rikka
+「...You really should be "Architecture-kun."」
+Marika
+「A-Ahaha... What should I do? Do you want me to call you "Architecture-kun" too?」
+
+％Ｂ
+「...Please don't.」
+Touko
+「Anyway, I've got things I need to do, so I'm going home. Thanks for the great performance, Piano-chan.」
+
+％Ｂ
+「Uh, Yuki...」
+I could just tell she was lying.
+She's probably just using that as an excuse to leave.
+Marika
+「Yukimura-san had things to do...? Maybe I shouldn't have brought her along with us...?」
+
+Rikka
+「...I would've at least liked for her to have done something about that nickname before she left.」
+
+Is it just me, or does Narusawa seem happy?
+Maybe she actually likes that nickname, even though it's embarrassing.
+all
+Rikka
+「You're all rather good friends, aren't you? I understand you and Shinozaki-san, 
+Hino-kun, 
+ 
+but I was surprised Yukimura-san was also with you.」
+
+％Ｂ
+「You said that earlier too. Why?」
+Rikka
+「...She likes being alone, doesn't she? That's how it feels.」
+
+％Ｂ
+「I dunno if she likes being alone, but I guess it does seem like it's rare for her to be with other people.」
+
+Marika
+「I thought she'd be scarier until I talked to her for the first time, but she's a really nice person. I want to be better friends with her.」
+
+Rikka
+「You shouldn't try to force it. I doubt she'd like it.」
+
+％Ｂ
+「What?」
+Rikka
+「It might be different if there were some kind of support... but I wonder.」
+
+Narusawa says it as if she were talking to herself.
+Something that supports Yukimura... I wonder what that could be.
+I don't know much about her yet... so I have no idea.
+all
+％Ｂ
+「...I'm gonna go. Sorry Shinozaki, but you handle the rest.」
+Marika
+「Huh? Handle the...? Ah, wait!」
+％Ｂ
+「...Huh? It's locked.」
+I assumed she had gone to the old school building after leaving the music classroom.
+Maybe she really did have something to do?
+_smh_st_01
+_smh_st_btn01
+_SMH_ST_01
+.........
+......
+...
+％Ｂ
+「...She's not picking up.」
+_smh_st_04
+Maybe... she fell asleep again?
+I guess I'll at least let her know over LIME that I came by.
+I wanna let her know beforehand that I wanna talk tomorrow too.
+％Ｂ
+「Hmm... Not today, I guess.」
+There's no response from Yukimura.
+It's almost time to leave, so I guess I should give up for today...
+％Ｂ
+「...No response.」
+I made no progress at all today.
+I was able to interact with her when Shinozaki and Narusawa were around... but I'm still pretty far from being able to understand her.
+
+％Ｂ
+「Flower-chan. Haha, it really is perfect for Shinozaki.」
+Yukimura's actually pretty good at picking nicknames.
+Narusawa's "Piano-chan" is a gimme, but it's definitely perfect.
+％Ｂ
+「Wonder what Yukimura would be... Kitty-cat?」
+...Sounds scandalous.
+She'd probably think I was super gross if I called her that.
+％Ｂ
+「Let's not. I'd be an idiot to destroy our relationship like that after we've gotten just a little closer.」
+
+It wouldn't be a good idea to do anything to upset someone when I'm trying to get closer with them.\n\r
+
+Not like I've ever called girls by nicknames before anyway.
+％Ｂ
+「...Getting close to someone's pretty hard.」
+It takes a step in the right direction to do so.
+How do I go about figuring out which direction's the right one?
+I guess all I can do for now is just keep talking to her.
+I think I'll try going to Yukimura's classroom tomorrow.
+dummy
+_00com
+bgm15
+bgm15
+_00grp
+bg104
+_02smh
+_00bup
+bs_sy01_09
+_00bup
+bs_sy11_07
+_00bup
+bs_sy01_12
+_00bup
+bs_sy01_0807
+_00bup
+bs_sy01_08
+all
+_00bup
+_00bup
+all
+gakuen_door1
+_00grp
+bg102
+_00bup
+bs_mr01_0102
+_00bup
+bs_mr01_01
+_00bup
+bs_mr01_02
+all
+_00bup
+_00bup
+all
+_00grp
+bgm12
+bgm12
+_00grp
+bg102
+_00bup
+bs_mr03_01
+_00bup
+bs_mr01_08
+_00bup
+bs_mr01_0110
+_00bup
+bs_mr01_0708
+_00bup
+bs_mr01_01
+_00bup
+bs_mr03_07
+_00bup
+bs_mr03_09
+_00bup
+bs_mr03_05
+_00bup
+bs_mr01_08
+all
+_00bup
+_00bup
+all
+bs_tk02_09
+bg110
+_00bup
+bs_mr01_01
+all
+_00bup
+_00bup
+all
+bs_tk02_09
+bg110
+_00grp
+bg110
+_00bup
+bs_tk02_01
+_00bup
+bs_tk03_02
+_00bup
+bs_tk03_02
+_00bup
+bs_mr01_02
+_00bup
+bs_tk01_03
+_00bup
+bs_tk01_02
+_00bup
+bs_mr03_03
+_00bup
+bs_tk12_09
+all
+_00bup
+_00bup
+all
+bg110
+bgm41
+bgm41
+_00bup
+bs_mr01_04
+_00grp
+bg110
+_00bup
+bs_tk02_0706
+_00bup
+bs_mr01_04
+_00bup
+bs_mr01_0102
+_00bup
+bs_tk03_01
+_00bup
+bs_mr01_09
+_00bup
+bs_tk03_08
+_00bup
+bs_mr03_0711
+_00bup
+bs_tk03_10
+_00bup
+bs_mr03_01
+_00bup
+bs_tk03_05
+_00bup
+bs_mr01_02
+_00bup
+bs_tk13_0710
+_00bup
+bs_mr01_01
+_00com
+_00bup
+bs_mr02_03
+_00bup
+bs_tk02_07
+_00bup
+bs_mr02_04
+_00bup
+bs_tk02_10
+_00grp
+bg105
+_00bup
+bs_mr03_01
+_00cutincg_macro
+bg105
+bu_rk02_0901
+_00grp
+bg105
+_00bup
+bs_tk03_05
+_00bup
+bs_tk03_05
+_00bup
+bs_mr03_03
+_00bup
+bs_tk03_0706
+all
+_00bup
+_00bup
+all
+_00bup
+bs_mr03_02
+_00bup
+bs_tk02_09
+_00bup
+bs_mr03_02
+_00bup
+bs_mr03_04
+all
+_00bup
+_00bup
+all
+_00grp
+bgm12
+bgm12
+_00grp
+bg105
+hakusyu2
+_00bup
+bs_mr01_02
+_00bup
+bs_rk13_06
+_00bup
+bs_mr01_02
+_00bup
+bs_mr01_05
+_00bup
+bs_rk03_10
+_00bup
+bs_tk01_02
+_00bup
+bs_rk03_10
+_00bup
+bs_mr01_05
+_00bup
+bs_mr01_02
+_00bup
+bs_rk11_01
+_00bup
+bs_tk03_0902
+_00bup
+bs_mr01_01
+_00bup
+_00bup
+bs_tk03_04
+_00bup
+bs_rk11_02
+_00bup
+bs_tk03_03
+_00bup
+bs_rk11_06
+_00bup
+bs_tk03_08
+_00bup
+bs_mr01_03
+_00bup
+bs_rk02_06
+_00bup
+bs_tk03_03
+_00bup
+bu_rk11_06
+_00bup
+bs_tk03_03
+_00bup
+bs_mr01_08
+_00bup
+bu_rk11_07
+_00bup
+bs_tk03_03
+_00bup
+bs_mr01_01
+_00bup
+bs_tk01_04
+_00bup
+_00bup
+bs_tk01_05
+_00bup
+bs_tk01_0602
+_00bup
+bs_rk03_07
+_00bup
+bs_rk03_01
+_00bup
+bs_mr03_02
+_00bup
+bs_rk03_08
+_00bup
+bs_mr01_04
+_00com
+_00bup
+bs_tk01_06
+_00bup
+bs_rk03_05
+_00bup
+bs_mr03_06
+_00bup
+bs_tk03_03
+_00bup
+bs_tk
+_00bup
+bs_mr01_08
+_00bup
+bs_rk03_0905
+gakuen_door1
+_00bup
+bs_rk03_0905
+_00bup
+bs_mr03_07
+_00bup
+bs_rk11_12
+all
+_00bup
+_00bup
+all
+_00bup
+bs_rk11_01
+_00com
+_00bup
+bs_rk11_07
+_00bup
+bs_mr01_01
+_00bup
+bs_rk03_10
+_00bup
+bs_rk03_08
+all
+_00bup
+_00bup
+all
+_00bup
+bs_mr01_09
+_00grp
+bgm15
+bgm15
+_00grp
+bg117
+gakuen_kagi1
+_02smh_auto
+_02smh_auto
+_02smh_06tell
+sumaho_call
+se0024_01
+_02smh_auto
+_00grp
+bg501
+_00grp
+bg502
+_00grp
+bg117e
+bgm17
+bgm17
+_00grp
+bgm16
+bgm16
+bg505
+_00grp
+bg201n
+_00grp
+_00com

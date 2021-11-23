@@ -1,0 +1,139 @@
+﻿0703
+金
+0704
+月
+％Ｂ
+「A lot of women won't be convinced until they see it for themselves... They won't understand unless they get to actually compare them.」
+
+There's just something about what Marika said yesterday.
+If "she won't understand unless she compares them"... Then that means she'll understand if she does get to compare them.
+
+％Ｂ
+「But it's impossible to compare the actual houses, so...」
+I've created diagrams and models of the blueprints that Azuma-san made.
+But were these not enough?
+Then...
+％Ｂ
+「...Okay.」
+I steel myself and head toward Azuma-san's desk.
+％Ｂ
+「Chief. I'd like to discuss something with you about the Oono residence.」
+Azuma
+「Hm? What is it?」
+％Ｂ
+「Could we... draft out a blueprint for the plans according to Oono-san's wife's wishes?」
+
+Azuma
+「Hoooh... What do you mean?」
+％Ｂ
+「She doesn't have any way to compare the two. I'd like to make a model of the alternative plan as a way to get her to understand our plan.」
+
+
+％Ｂ
+「I'd like to try to convince her by having her compare between the two plans.」
+
+Azuma
+「And so you want us to go out of our way to bring this other plan to life just for that?」
+
+％Ｂ
+「...Is that not possible?」
+Azuma
+「That's not going to be the only thing you'll have to do, you know. This might end up taking away from your other duties. And you've got your exam prep too.」
+
+
+％Ｂ
+「That's...」
+Azuma
+「But... if you'll say you'll do all of it, then feel free.」
+％Ｂ
+「Oh... Yes! Of course!」
+all
+I've been okayed by Azuma-san.
+Now I need to get the details from the other party, draft the blueprints...
+There's tons for me to do.
+I just need to get started right away!
+Oono
+「I apologize for being late again...」
+Oono's Wife
+「We are so very sorry. This is why I said we shouldn't take the new highway.」
+
+
+Oono
+「It isn't usually that packed. When I usually take it for work...」
+
+％Ｂ
+「N-Now, now, you two.」
+Things seem kinda tense. Maybe it's 'cause they're arguing about the house plans too.
+％Ｂ
+「I apologize for asking you to come so suddenly. The reason I had you come out here is, of course...」
+
+％Ｂ
+「Because I wished to try drafting out a blueprint for the plan that your wife would like.」
+
+Oono's Wife
+「Oh my... So then we'll forget the old suggestion?」
+％Ｂ
+「No, I'd like to have you actually compare the two plans and come to a conclusion that way.」
+
+Oono
+「I see. You're right, that would make it easy to understand... but are you sure that wouldn't be quite a lot of extra work?」
+
+％Ｂ
+「Oh no, this is just another part of my job.」
+％Ｂ
+「And so I wished to hear from you what aspects of the current plan you wished to improve and how. This is your initial list of requests...」
+
+％Ｂ
+「Let's see, so this is today's... and this is the one from before...」
+I compare the list of requests that I got from Oono-san's wife today to the one we wrote out initially.
+
+％Ｂ
+「...This part's a bit different from what they originally requested too...」
+There's a lot of parts that are different from today and when we originally asked them.\n\r
+
+People sure change their opinions a lot over time.
+There were probably some things they thought of once they saw our actual plans, too.
+
+Anyway, let's try drafting together a blueprint that'll fulfill all of their wishes from today.
+
+％Ｂ
+「Okay! I'll work on this until 1, and then study after that!」
+dummy
+_00com
+bgm17
+bg408
+_00grp
+bg408
+_00bup
+bs_az01_06
+_00bup
+bs_az01_0607
+_00bup
+bs_az01_04
+_00bup
+_00bup
+bs_az01_08
+_00bup
+bs_az01_11
+_00bup
+bs_az01_04
+_00bup
+_00bup
+bs_az01_06
+_00bup
+bs_az01_02
+all
+_00bup
+_00bup
+all
+_00grp
+bgm51
+_00grp
+bg417
+_00grp
+bgm16
+bg505
+_00grp
+bg405n
+_00grp
+_00com

@@ -1,0 +1,1339 @@
+﻿0714
+月
+0717
+木
+$$smh_OpenCHK
+Natsuki
+「Morning. So? Were you able to talk to Touko?」
+％Ｂ
+「No, she hasn't responded yet... I stopped by class E earlier, but she apparently isn't at school yet.」
+
+Natsuki
+「That's a bit worrying... Maybe I should try reaching out to her too?」
+
+％Ｂ
+「...Yeah. I want her to know that I'm not the only one who's worried about her.」
+
+Natsuki
+「Okaaay. I'll send it right away... Like that. I dragged everyone else in too.」
+
+【Natsuki】「Touko, we're #Nall worried! #NJust let us know #Nhow you're doing!」
+【Natsuki】_st_0201
+Rikka
+「You didn't have to send me this too if I'm right here, did you?」
+
+Natsuki
+「Oh, Rikka. Morning. I'd feel bad if I left just you out.」
+
+all
+Rikka
+「I don't mind. Anyway, is something the matter with Yukimura-san?」
+％Ｂ
+「She's been acting kinda weird. I wanna talk to her... but she didn't come to school yesterday.」
+
+Rikka
+「I just saw her. She was leaving the faculty office.」
+％Ｂ
+「Seriously!? Thanks, Narusawa! I'm gonna go right now!」
+
+all
+Rikka
+「Wha, wait... That was over ten minutes ago, so I don't think she'd still be there!」
+
+％Ｂ
+「I can at least go see what she was there for! I just want as much information as possible right now!」
+
+Teacher A
+「Oh, what's the matter? We have a faculty meeting right now, so if you want to speak with someone you should come back and...」
+％Ｂ
+「Please excuse me! Tou...Yukimura was here earlier, wasn't she!?」
+
+Teacher A
+「Sh-She was. What about that?」
+％Ｂ
+「Did something happen!? She wasn't at school yesterday, so I'm worried...!」
+Teacher A
+「Yesterday... I think I heard she was absent because she had something to do for her move.」
+...For her move?
+I haven't heard anything about that...
+Teacher A
+「The date her parents will be moving for their work has apparently been set. She'll be leaving Shionagi at the end of August. You two are close, aren't you? You haven't heard anything about this from her?」
+
+
+％Ｂ
+「...I haven't.」
+Teacher A
+「That's strange. She said she had already said her goodbyes...」
+％Ｂ
+「...I'll check with her myself one more time. Thank you very much.」
+Natsuki
+「Welcome back. How'd it...? Wait, what happened!?」
+％Ｂ
+「...Long story.」
+
+Rikka
+「You look pale. Are you okay?」
+％Ｂ
+「Yeah... I'm fine. Sorry to make you guys worry.」
+Natsuki
+「Of course you're not okay. You can't tell us that when you're making that face... You're not convincing anyone, you know.」
+
+％Ｂ
+「...」
+Rikka
+「You heard something from the faculty, didn't you? If it's something you can talk about, then...」
+％Ｂ
+「...Sorry. Could you guys wait a bit longer? I won't know for sure until I check with Touko.」
+
+I already know I'm confused and on edge.
+I need to talk with her first, and figure out what's going on...
+Natsuki
+「You're right. You should talk to her and... oh, maybe it's from Touko?」
+【Sora】「You seemed down. Did #Nsomething happen?」
+【Misa】「Please don't hesitate #Nto let us know if you #Nhave anything on your #Nmind.」
+【Marika】「Mhm, I'd be happy if #Nyou talked to us about #Nit.」
+【Marika】_st_0102
+【Touko】「It's nothing, so it's all okay. Don't worry.」
+Natsuki
+「It's nothing, she says... She's definitely lying. You better get the truth out of her.」
+
+％Ｂ
+「...Yeah. Of course I will.」
+all
+My phone's still vibrating.
+Segawa and Narusawa aren't getting any messages, which means it must be something only for me.
+
+【Touko】「I'll be waiting in the #Nold school buiding #Nafter school.」
+％Ｂ
+「...」
+Touko
+「...Long time no see.」
+I open the classroom door. Touko's waiting there for me.
+It's my first time seeing her smile in a few days... but it just looks forced to me.
+
+％Ｂ
+「Yeah, you're right. Four days.」
+Touko
+「Ahaha, I see. It felt a lot longer than that, though.」
+Her smile pains my heart.
+She doesn't have to force herself to be cheery with me...!
+％Ｂ
+「I heard from the faculty office this morning. That... your move's decided.」
+Touko
+「...I see. So you heard.」
+％Ｂ
+「So that's why you've been acting weird?」
+Touko
+「I didn't know what I should do. I didn't know if it was okay for me to keep being with you when I know for sure we'd be saying goodbye.」
+
+％Ｂ
+「...」
+Touko
+「I've been thinking about it lots on my own... but this was just to try things in the first place anyway, so I thought this might be time to call it quits.」
+
+％Ｂ
+「Wha...?」
+Touko
+「I think it might be better to just cut things off now, quick and clean, instead of waiting until the Tanabata Festival. Don't you think it'd be better for both of us that way?」
+
+
+％Ｂ
+「Wait, don't go deciding that on your own! That's... There's no way that's okay with me!」
+
+Touko
+「Ahaha... I knew you'd be angry. I thought you'd yell at me like that.」
+
+％Ｂ
+「I've... been thinking this whole time too. About how it might've been my fault, I might've hurt you by being careless... I was crazy worried.」
+
+
+Touko
+「...It's not your fault at all
+, Ryousuke-kun
+
+.」
+％Ｂ
+「I've made Segawa and Narusawa worry a lot too. Shinozaki, Ousaka, and Okihara-senpai too... Everyone's really worried about you, you know.」
+
+
+Touko
+「...I'll have to apologize to them. I need to tell them I'm moving too.」
+
+％Ｂ
+「Yeah. But... could you promise me something before that?」
+Touko
+「Wha...?」
+％Ｂ
+「Don't worry about things on your own. This is our problem... so we have to come up with an answer together.」
+
+Touko
+「...」
+％Ｂ
+「Now I know what you had on your mind. And I know my answer. I refuse.」
+
+Touko
+「...Why?」
+％Ｂ
+「'Cause I don't want to. I want to be with you.」
+It's a simple, straight to the point answer.
+But this is how I genuinely feel.
+％Ｂ
+「How about you? Do you really want it to end right now?」
+
+Touko
+「Gh... I...! But I can't do anything about this...!」
+％Ｂ
+「I don't care about all that stuff. I wanna know how you really feel.」
+
+We just need to directly tell each other how we feel.
+We can take our time savoring embarrassing feelings later... And if it all becomes something to laugh about in the future, then that's great.
+％Ｂ
+「You can think about stuff like being separated after you move later. Do you want to be with me or not right now? That's what I wanna know.」
+
+
+Touko
+「I... want...」
+％Ｂ
+「I believe in the smiles you've showed me... that you really felt that way. Don't lie to yourself. Tell me.」
+
+Don't force yourself... Not in front of me.
+I want to see how you really feel. I want you to be selfish.
+Touko
+「...Aw, man. Don't say I didn't warn you, okay? I stopped myself from seeing you this whole time... and I was worrying over so much. I feel so stupid.」
+
+
+％Ｂ
+「Touko...」
+Touko
+「I was lonely. It felt like... my heart was missing a piece while I couldn't see you.」
+
+％Ｂ
+「...Yeah.」
+I gently wrap my arms around her.
+It's been a while since I've smelled her fragrance, felt her warmth. It calms me to my very soul.
+
+Touko
+「It was natural for me to be alone until a short while ago... but I guess I'm no good.」
+
+％Ｂ
+「Me too. I'm... so lonely I don't know what to do when I can't see your face.」
+Touko
+「...Really.」
+％Ｂ
+「It's not surprising, is it? I'm... no good too. You're all I think about when I'm alone.」
+
+She squeezes me back.
+She shows me how she feels with not just her words, but her attitude too.
+Every second feels several times longer and richer.
+We bring our hearts and our bodies closer, and share our feelings with each other.
+And then... Touko suddenly breaks the silence.
+Touko
+「...Hey... I want you right now
+, Ryousuke-kun
+
+.」
+％Ｂ
+「Huh?」
+Touko
+「I've been waiting so long. I don't have to wait anymore, do I...?」
+
+Touko
+「Nmh, nh... slurp...gh! Shlurp...nh... gpfh... mmph...! Amh... nnh... Shluuurp...!」
+
+She suddenly takes my dick deep into her mouth as soon as I lower my pants.
+
+I'm instantly made hard from the unexpected and intense stimulation.
+％Ｂ
+「Aagh! Wha, Touko...! Th-That's too much...!」
+She doesn't seem to have heard me.
+It looks like she wasn't lying when she said she's been waiting for all this time. She plays with my dick like a kitten that's finally gotten to play with a long-awaited toy.
+
+％Ｂ
+「Hold on... Calm down...! If you do it that much I'll...!」
+Touko
+「Nnh... pfah, aah...! I can't help it...! I wanted to touch you, and be touched, this whole time...! I was so lonely...!」
+
+
+She's never liked holding herself back.
+She must've been even lonelier than I thought.
+Touko
+「Nh... slrp... See? This little guy's saying he was lonely too... Chupah... You got this hard so quickly... nnh... Slrp...nh... mmchu!」
+
+
+She runs her tongue and lips over it.
+She's targeting my sensitive spots with pinpoint accuracy. It twitches in response to her touch.
+Touko
+「Ahah, it's so full of energy... nnh... Chu...mh... mlh... chupah... gh... shlrp...!」
+
+Her tongue traverses the surface like a living thing, sending bolts of pleasure through me.
+Her movements aren't neat or efficient. They're just to satisfy her own hunger... It's so intense that I feel like she might just dissolve me away like this.
+
+
+％Ｂ
+「Ghkh...gh... I said wait, Touko...!」
+Touko
+「No... I'm not waiting anymore... Chu... nnh...! Hahh, gh... Mlh... chuph... nh, nnh...!」
+
+She prods and licks with her tongue.
+She sticks her tongue right up against it and strokes it with her lips.
+The multitudes of pleasure grind away at my rationality and endurance.
+Touko
+「Hamh... nnh... Slurp... Shlurp...! Nnh... Doesh ih feelh gooh...nh...? Shlp... gpfh...nh... nmh, nh...!」
+
+
+％Ｂ
+「D-Don't... talk...! It's rubbing weird spots...!」
+Even greater pleasure looms over me as she places the tip further into her mouth.
+Her tongue, lips, and cheeks all simultaneously rub against the base of the head. My hips jerk upward from the itching pleasure.
+
+Touko
+「Nnnh... Noo... aah!... I wanh... nmh...nh... to talh wihh you morh... Fmh... ngh...nh... shluuurp...!」
+
+
+％Ｂ
+「Aaagh...! P-Pick one or the other...!」
+Touko
+「Nnhah...nh... But I want to do everything... Chu... mlh... chupah...gh! Everything I stopped myself from doing for these few days... Chuuuuh... Mlh...nnh...nh... Hamh... ngh... nnnnhhh...!」
+
+
+The tip makes contact with her soft inner cheeks.
+It feels so good. I move my hips myself to rub the tip on there.
+Touko
+「Nmh... You likh thah...? Nnnh... Likh thish...?」
+
+％Ｂ
+「Kh...gh, nh... Y-Yeah...!」
+She turns her head and rubs the inside of her cheek against the tip.
+I'm going to come right away at this rate. I flex my abs hard to try to endure Touko's intense blowjob.
+
+Touko
+「Nnh... mgh, nh... Sluuurp...! Chupoh... chupah... I like... how this little guy tastes... Mlh...nh... Chuph... nnhahh...nh...!」
+
+
+％Ｂ
+「Nkh...gh... Wha...?」
+Touko
+「It makes me dizzy... Chuph... and something goes tight in my belly... Mmph...nh... mlh...nh... mmchu... I want more... amh, nnh... Sluuuurp...!」
+
+
+％Ｂ
+「Augh...!」
+She sucks hard to wring out my precum.
+The inside of her mouth is hot.
+Her wet cheeks and slightly rough-textured tongue rub against me at the same time. I'm trying as hard as I can to bear it, but the pleasure takes that sentiment and tosses it aside.
+
+Touko
+「Mmbh...gh... Shluuurp...! Ngh... nmh... slurp...nh... Givh me morh...! I... nnh...nh... wanh to do lotsh morh...! Gpfh...gh... shlurp...!」
+
+
+％Ｂ
+「Gh, ngh...! I-I told you... it's too much for me when you talk...!」
+My hips push upward of their own accord.
+The pressure from her tongue and lips changes in an instant. Pleasure runs through me like an electrical current with every touch.
+
+Touko
+「Nnh... slurp... shlpah...! Geez, fine... Then... chu... I'll focus on this guy, okay...? Hahh...nh... amh... nmh...! Shlurp...nh... nnnh...!」
+
+
+％Ｂ
+「Auh...gh... Gh...!」
+Her blowjob gets even more intense.
+My dick gets even harder, filling up her oral cavity.
+Touko
+「Pfah, gh...! Nnh... Oh my god, it got so big...! Mlh... chuph...nh... I'm so happy you're feeling good...! Mmph...nh... Chupah... amh, nnnh...!」
+
+
+She places it in her mouth again, apparently pleased by my reaction.
+Her tongue laps across it in the tight confines of her mouth. I can't escape the waves of pleasure that crash against me.
+
+％Ｂ
+「Aaghh! That's too much...! It feels too good...!」
+The merciless pleasuring continues.
+It'd be pathetic if I came this early. I grit my teeth, desperately trying to resist.
+
+Touko
+「Aahn... Hah, nh...! Nnh... mlh... chuph... aahn...! Hauh...nh... nkh... chuu...nh... nnhah... aauh...!」
+
+She must be getting tired. Her tongue's suddenly moving more stiffly.
+Her labored breathing's seductive... or more like just plain erotic.
+％Ｂ
+「Oh...」
+I look down and realize.
+Touko's hand―is down at her crotch.
+Which means she's... masturbating while licking my dick...?
+％Ｂ
+「...Touko, are you touching yourself...?」
+Touko
+「Hahh...nh...! I couldn't stop myself... aahn... while I was licking your dick... fuaahn! Amh... chlp...gh... Shlurp...nh... Sluuurp...! Shlpah... nngh...nh!」
+
+
+％Ｂ
+「Gh...!」
+Her blowjob is getting even more passionate, probably because of her own arousal.
+She starts sucking hard, as if to transfer the pleasure she's creating for herself to me. A sweet numbness paralyzes my brain.
+
+Touko
+「Nmh...nh... ahaah...! Hah... nkh, nh... aauh...! Please... I want to feel good with yooou...!」
+
+She looks up at me pleadingly.
+There's only one thing she could be asking for.
+％Ｂ
+「Then... Oh.」
+Touko
+「Nh... What's wrong...?」
+That time we did it in the shower room... That was my last condom.\n\r
+
+I forgot to stock back up afterward.
+％Ｂ
+「Gh... Well, I wanna do it too... but... I don't have any condoms.」
+
+Touko
+「What...!? But... just a little bit is okay, isn't it...!? Just once, without one...!」
+
+She's inviting me to drown in my pleasure. To let my lust sweep me away.
+But hold the urge in. I stop her.
+％Ｂ
+「...No, we can't. I couldn't forgive myself if something happened to you that you didn't want.」
+
+Touko
+「...」
+％Ｂ
+「I'm sorry to make you wait. But... you're really important to me.」
+Touko
+「...Just this time, okay? Next time we'll do it together... Right?」
+％Ｂ
+「Yeah. We will.」
+Touko
+「Then... I'm going to bully you lots today, Ryousuke-kun... Nnh...!」
+
+Touko
+「Then... I'm going to bully you lots today... Nnh...!」
+
+％Ｂ
+「Gh, nh...!」
+She resumes, and the pleasure rams back into me.
+The urge to ejaculate that I had crushed down within me starts roiling away again.
+Touko
+「Slurp...nh... Shluuurp...! Nmh... nngh...! Hahh... What's that? You have to wait too...? Poor us... Chu.」
+
+
+％Ｂ
+「Gh... Wh-Who're you talking to...!?」
+Touko
+「Mmm...? This little rascal that's so full of energy... Mlh... It's so hot... chu... and hard... Chuph... I have to be gentle to it, don't I...?」
+
+
+She pleasures my urethra and the head, and other especially sensitive parts.
+She said she'd be gentle, but she's clearly enjoying my reactions to her intense stimulation.
+
+Touko
+「Ngh, nh... Slurp...! Mmhah... More, deeper...gh... Nmh... Shluuurp... Gpfh...nh... shluuuurp...!」
+
+She frantically pushes it as far into her mouth as she can.
+The soft flesh of the inside of her mouth and her tongue tangle around my dick. It feels indescribably good.
+
+Touko
+「Nnh...nh... Cough! Cough... hah... nmh...nh... Shluuurp! Slurp...gh... shlp... Shlurp... nnnhhh...!」
+
+％Ｂ
+「Aaagh...! T-Touko... You don't have to force yourself...!」
+She won't stop even after she's forced to cough.
+In fact, it's only getting more intense. Shivers run up my spine.
+
+Touko
+「Pfah... But I want to do it... It's your smell and taste... I love it...!
+
+
+」
+
+％Ｂ
+「Hah... khh...! Aagh...gh, it feels good...!」
+Touko
+「Nnh...nh... mgh, nh...! Nnnhh... Pfaah...! It's hard because it's so big... chu... but I'll do more... Aamh... nnh...nh... Shluuurp...!」
+
+
+Her mouth's completely covered in drool.
+Seeing her like that gets me even more turned on. It chips away at the last vestiges of my rationality trying to hold it all in.
+
+Touko
+「Aauh...! Nh... hyaaah...! Noo... It feels good...nh...! Chuph... mlh...nh... chupah... auh! Nkh... chuph...nh... aaah...nh...!」
+
+
+Touko's tone of voice changes slightly.
+She moves her hand back to her crotch and starts touching herself again.
+Her thick saliva tangles around my dick.
+Her blowjob only gets more passionate as she becomes intoxicated on pleasure and her shortness of breath.
+
+Touko
+「Mmph... nnh...nh! Aaah! More... I want mooore...! Amh, nh... sluuurp...! Shlurp...nh... nnghh...!」
+
+I'm astonished at how turned on she is.
+The tingling numbness of pleasure's spread from my waist to the rest of my body. It's starting to feel pointless to continue to hold it all in.
+
+Touko
+「Nooo... My pussy's aching... auh! Nnhaahh! Hah... amh... shlurp... nnnh! Hah... My body's so hooott...! Aaahn! Hahh... aaagh...!」
+
+
+％Ｂ
+「Gh... aah, gh...!」
+The urge to ejaculate pools heavily in my lower abdomen.
+It's been several days since the last time. I could explode any moment now. All I need is one last push to send me over the edge.
+
+％Ｂ
+「Gh...! Touko, I can't... hold it anymore...! I'm gonna...!」
+
+Touko
+「Nnh... Not yeeet...! I...I'll... nnnh! Be able to... chlh... come soon, too...nh! Amh... sluuurp... ngh, nh... nnnnhh!」
+
+
+She trembles as she keeps pleasuring herself.
+Her trembling adds another layer of pleasure for me too.
+Touko
+「Fh... nmmh...! Nnnh... aaah...! It... It feels so gooood...! Doing this while I lick your dick... nnnh... makes my heart beat so much... fuaaah!」
+
+
+％Ｂ
+「Aaagh...!」
+Touko
+「Hauh... aaah...! I wanna lick mooore... Chuh... chu... sluuurp...! Chupah... My fingers won't stop... nnkh... hyauuh... ahah, nh...!」
+
+
+I can hear wet squitching sounds. Her fingers start moving more intensely than her tongue.
+
+There's almost no way she's doing this on purpose, but she's managing to keep me just below the point of orgasm this way.
+
+Touko
+「Nnh... nnnh...! Hah... auh... I want... more...nh! Hiuh... nkh...nh... mlh... chuph... chuuuh...!」
+
+％Ｂ
+「Kh... hah...!」
+She wraps her tongue back around my dick to distract herself from her longing.
+She doesn't stop pleasuring herself.
+Touko
+「Hamh... ngh, nh...! Slurp... shlurp...nh... shlpf... Mmmphh!? Nnnhh! Nmh...nh... nnnhh!」
+
+She puts my dick in her mouth and rubs her clitoris hard.
+The intensity of her masturbation transfers to the blowjob, pushing us both closer to climax.
+
+％Ｂ
+「Gh...! That's too...!」
+Touko
+「Nh... nmmmh...! Shlurp... shlph... nngh! Haaah... I'm going to... co...come...nnnhh! Aaahh...!」
+
+
+％Ｂ
+「Me too... I'm...!」
+Touko
+「Le...Let it out...gh! Give me... nkh... lots, okay...? Auuh... chu... chupah... mlh... nnh...!」
+
+I don't think I can hold it in any longer. I'm about to explode with pleasure any second now.
+
+I―!
+Come on her face.
+Come in her mouth.
+I want to dirty her pretty face with my semen.
+The thought emerges from some deep recess of my mind and instantly comes to dominate all others.
+％Ｂ
+「Can I... let it out on your face...!?」
+Touko
+「Chlh... mlh...nh... You wanna pour it on my face...? Nkh...nh... ahn... You want to... auh... cover me in it...? Nnnh... hahh... auuuh...!」
+
+
+It looks like she's getting turned on from saying my desires out loud.
+Which only gets me even more turned on.
+Touko
+「Okay... Take your hot semen... auuh... and make me filthy...nh! Aahn! Aaah... aaahh!」
+
+％Ｂ
+「Kh...gh...!」
+Just a little more.
+I wish this could go on forever, but Touko's merciless assault won't let that happen.
+
+Touko
+「Nmh... gpfh... nnnhh...! Shlurp... slurp... nnnhh...! Leh ih ouh... nkh... Leh ouh lotsh...nh... Shlurp... Shluuuurp...!」
+
+
+％Ｂ
+「Aagh...! Th-That's... crazy...!」
+She frantically pulls my dick in even deeper after noticing I'm close to orgasm.\n\r
+
+Hearing her distraught voice further fans the flames of my arousal.
+Touko
+「Shluuurp! Ngh... H-Hurry...nh...! Nmh... nnnh...! Gifh me all ofh ih...nh...! Shlurp...gh... gpfhh... slurp...! Ngh... nnnh...!」
+
+
+％Ｂ
+「Hah...gh...!」
+She does everything she can to pleasure me.
+I'm just on the cusp of reaching the limits of my endurance. My dick twitches in her mouth.
+
+％Ｂ
+「Gkh...gh... aaaghhh...! I'm... coming...gh!」
+I rip my dick out of her mouth.
+That becomes the last straw. Pleasure bursts inside me.
+Touko
+「Kyahn! Auh, nh... nnnnhh...! Oh my god, there's so much... pouring onto me... aaauh...!」
+
+I spew out my semen right onto her face.
+Touko trembles as huge amounts of thick, white semen dirty her pretty face.
+
+Touko
+「Nkh... aaah...! Aah... fuaaah...! I...I'm about to come...gh... nnnhh! Hah... aauh... nnauh! Aah... hiuh...nh... aaaaaaaahh...!!」
+
+
+She climaxes using her own fingers as I cover her face in gunk.
+The obscene sight fills my heart with a vile sense of satisfaction unlike anything I've ever felt before.
+
+％Ｂ
+「Hahh... Hahh... T-Touko... Did you come too...?」
+Touko
+「Hah... auh... nnnhh...! M-Mhm... I came, because of the smell... aah...!」
+
+My dick twitches in response to her words.
+
+Touko stares intently at it, trembling there before her, with entranced-looking eyes.
+
+Touko
+「Aahn... Not enough playing around for you...? Chu... mlh... chuph... Hehe, well aren't you cute... Chupah...!」
+
+％Ｂ
+「Aagh...! Wha, Touko...!」
+She brings her tongue back up to my semen-covered member.
+I'm still sensitive after coming, so it sends ripples of itchy, ticklish pleasure down my rod.
+
+Touko
+「Chupah... mph... mlh... chuuuh...! I need to clean it... Chu... chuh... shlurp...nh... chuph...!」
+
+
+％Ｂ
+「Augh! Please, no...! It tickles...!」
+Touko
+「Mmh... Nope... Chupah...nh... chuph... mlh...nh... I'm taking all your semen... chuh... mlh... chupah...!」
+
+She keeps on licking my dick, looking a little dazed. It's like she's drunk off the smell of my semen.
+
+I try to pull away, but she's holding it tightly at the base. There's no escape.\n\r
+
+I can't do anything other than let her have her way with me using her tongue and lips.
+Touko
+「Hah... nnh...! Chu... chupah... Hey, did I do a good job...? Nkh...nh... chlh... mlh... Did I get to make you feel good...?」
+
+
+％Ｂ
+「Aagh...! Y-You did great...! It felt amazing...!」
+
+Touko
+「...Ehehe, okay. I'm glad.」
+She smiles in satisfaction, her face dripping with semen.
+Now that I'm thinking clearly after the fact...
+...I think I might've done something terrible.
+％Ｂ
+「U-Uh... Sorry about that. I just did all this without even stopping to think...」
+Touko
+「Ahaha, you don't have to feel bad or anything. I... Well, I... think I might actually like things like this too.」
+
+％Ｂ
+「Wha...?」
+...Didn't expect that response.
+Though it doesn't look like she's lying, judging by the flush in her cheeks.
+
+Touko
+「It's like I've been marked as yours... It made me feel really hot. It made me shiver.」
+
+％Ｂ
+「D-Did it...?」
+Touko
+「Chu... Mhm, it did. So... let's do it properly next time, okay?」
+
+She's covered in semen, and already looking forward to the next time.
+Her expression is obscene, and pretty... and makes my heart jump.
+％Ｂ
+「Touko, I... wanna come... inside your mouth...!」
+I say my wishes out loud.
+The idea of dirtying Touko from the inside out is incredibly arousing.
+
+Touko
+「Chu... mm, okay...! Let it all out... inside my mouth... Nmh...nh... shlurp... nnnh...!」
+
+％Ｂ
+「Ukh...!」
+She gently strokes her lips across the tip.
+The tip of her tongue prods against the head. It's all too much pleasure for me, and I'm close enough to my limit as it is.
+
+Touko
+「Hahh... chupah... shlurp...! Nnh... nkh... auh! Chu... chu... nnaaah! Hauh... nkh... mmph...! Chu... chuuuh...!」
+
+
+She starts rubbing her fingers against her crotch once more as she licks.
+I don't even have the strength to resist anymore. I just sit there and watch as my nerves flare up from the incoming pleasure.
+
+Touko
+「Nnh... aaah...! Mmchu... Does it feel good...? Nkh...nh... Shlurp... pfah...nh...! Let's feel good... together, okay...? Chupah... mlh... chuph...!」
+
+
+％Ｂ
+「Aah...gh...! Y-Yeah...! It feels good...!」
+Touko
+「Chu...mh, I'm... going to do more, okay...? Amh, nnh...! Ngh... nnnhh... shluuurp! Shlph... ngh... nh... Sluuuurp...!」
+
+
+Her blowjob and masturbation sync up and grow more intense.
+She's aggressively pleasuring herself, drowning in how it feels while totally focused on my dick in her mouth.
+
+Touko
+「Nmh... shlurrrp...nh...! Leh ih ouh... slurp...nh... Gpfh, gh...! Nnh... All of ih... Nh, nnnhhh...!」
+
+She puts on the final spurt to make me come.
+She narrows the interior of her mouth and rubs it furiously against my dick. I move my hips in time with her bobbing.
+
+％Ｂ
+「Gh... Just, a little more...!」
+I thrust as if to violate her mouth.
+I want every bit of pleasure I can get... I feel guilty about making Touko uncomfortable like this, but I can't stop my urges.
+
+Touko
+「Nnnh!? Ngh... nnnhh...! Mgh, gh... Shluuurp... Shlp... sluuurp...! Nnh... nnmh... nnnghh...!」
+
+She sucks frantically on my penis as she bobs her head.
+Her tongue and cheeks cling to it, giving rise to more and more electric currents of pleasure.
+
+Touko
+「Gpfh... slurp...gh... shluuurp! Ngh, nh... Leh ih ouh... nnnh...! Mgh... nmmh... nnnhh...! Shluuurp... slurp... shluuuurrrp...!」
+
+
+％Ｂ
+「Aaaghh...!」
+The constant new pleasure makes my urge to come surge.
+The pleasure wells up past my limit, and explodes inside my head.
+％Ｂ
+「Kh, ghh... I'm, coming...! Aaahh...!」
+Touko
+「Nnmhhh!? Nnh... nnnnhhh...!」
+I blow my load right into her mouth.
+Her face twists in discomfort, but she still takes in all of the semen.
+
+Touko
+「Nnh... nkh, nh... nnnh...! Mmph...nh... nnh... nngh...gh... Nnnnh...!」
+
+She gulps several times, drinking down the semen in her mouth.
+I've only just come, but seeing her do that gets me ridiculously turned on again.
+Touko
+「Nnnh... nnhaah! Auh...nh... aah... aaaaaahhh...gh!」
+
+She shivers violently as she reaches climax.
+I'm worried. Maybe she overexerted herself from how intense that all just was.
+％Ｂ
+「Hahh... hahh... T-Touko... You okay...?」
+Touko
+「Auh...nh... hahh... hahh...gh...! M-Mhm... nkh... I'm okay... nnh... I drank all of it, see...? Cough... It was hard, but I did my best, so...」
+
+
+I know what she wants me to do.
+I take a moment to put the words together in my head.
+％Ｂ
+「...It felt really good. Thanks, you did great.」
+Touko
+「...Mhm. Ehehe, I'm happy... that I was able to make you feel good properly.」
+I'm happy too.
+But that just makes me all the more bitter about being unprepared for this time.
+Touko
+「Oh, there's still some left... Chu... chupah... mlh... chuph...!」
+％Ｂ
+「Aagh...!」
+She runs her tongue along my still-sensitive parts.
+It tickles, and it's a bit uncomfortable...!
+％Ｂ
+「Y-You can stop! Touko, please... Aaagh...!」
+Touko
+「Chu... Nooo, I'm going to do mooore... nnh... chuuu...! Let me hear you make cute sounds, okay...? Chupah... shlurp... pch...」
+
+％Ｂ
+「There's no more... agh...! S-Stop...!」
+Touko
+「This is punishment for not being prepared... shlurp... chuph... We're doing this until I'm satisfied... Nmh, nh... Shluuurp... gpfh, slurrrp...!」
+
+
+％Ｂ
+「Aah, aaaghh...!」
+I didn't know being pleasured without a break could be so horrific!
+Now I understand why Touko begs me to stop after she's come once.
+
+Touko
+「Aah, I said you can't run away... Shlurp... chuuuh...! If we can't be connected... chu... then I'm going to make you fill up my mouth...! Mlh... chuph...!」
+
+
+％Ｂ
+「F-Fine, I get it...! Let me take a brea...gh... aagh!」
+Touko
+「Nooo...! I'm not letting go...! Chu... I want... shlurp... to lick it more...! Mlh... chupah... nnh... chuph... sluuurp...!」
+
+
+She continues on despite my protests.
+She just keeps on licking my dick while looking completely entranced. Maybe drinking my semen's only gotten her even more turned on.
+
+Touko
+「Nnh... chuph... shlurp...gh...! See, this guy's still full of energy... chupah...! That means I can do more, right...? Chu... mlh... chuph... shlurp...!」
+
+
+％Ｂ
+「That's, 'cause...! Augh... you're not letting go...! Ukh... gh... aaagh...!」
+
+All the strength leaves my body.
+My entire body's numb, but the pleasure I feel at my crotch is only getting sharper and sharper.
+
+Touko
+「Chuph... Please, just a little more... chupah...! I'll stop after that... nnh... mlh... chuuu...!」
+
+I've ended up forcing her to wait because I wasn't prepared.
+It may feel so good to the point of being painful, but I'll let her do what she wants for just a little longer.
+
+％Ｂ
+「Gh... J-Just a little longer, all right...!?」
+Touko
+「Mhm...! Chu... shlp... mlh... chupah...nh...! Nnh... Around here is fine, right...? Chupah... slurp... mlh... shlbh... slurp...nh...!」
+
+
+The pleasure lessens just a little as she moves away from the more sensitive parts.
+But... this is still really rough...!
+She continues licking away, in a daze.
+I had to endure the needlelike pleasure for several more minutes after that, until she was satisfied.
+
+Touko
+「Let's go to school together again starting tomorrow. Oh, but the semester's over after tomorrow, isn't it?」
+
+％Ｂ
+「We still have event committee work. We'll be at school every day during summer break too.」
+
+Touko
+「That's true. I think I'll end up exhausted right away if I don't slack off in the right way.」
+％Ｂ
+「We need to tell everyone else about how you're moving.」
+Touko
+「...Yeah. But I think I have to be the one to say it. I'll tell everyone properly.」
+
+％Ｂ
+「...Okay.」
+She'll probably need time to mentally prepare too.
+I vow to be there to support her if it becomes necessary.
+％Ｂ
+「Hey, Touko. Mind if I asked you something?」
+Touko
+「Mm? What is it?」
+％Ｂ
+「You ever get in fights with your parents because of all the moving or anything?」
+Touko
+「Mmm... It's not like I really hate them for it. I know they're working really hard, and I've always moved a lot since I was small.」
+
+
+％Ｂ
+「But you're lonely, aren't you? You said before that your parents always come home late.」
+
+Touko
+「But there's no point in getting on my mom and dad's cases about it, is there? I'm a good girl.」
+
+She smiles jokingly.
+I don't sense any hint of gloom or self-mockery in that expression.
+Touko
+「I never minded being alone before coming to Shionagi... but now I get lonely really easily all of a sudden. I'm really lonely at night, you know.」
+
+
+％Ｂ
+「Then just contact me. You can call me or shoot me a message on LIME, I don't care.」
+
+Touko
+「Just talking is fine and all... but what if I want to touch you like this?」
+
+％Ｂ
+「I'll go to your house. Because I always want to touch you too.」
+
+Touko
+「I won't let you go home until morning, you know. We'd go to school together from my house, eat lunch together... go on dates on the way home.」
+
+Touko
+「And once it's nighttime again... I'll get lonely again, and make you come over again
+, Ryousuke-kun
+
+.」
+％Ｂ
+「You sure? I'm not gonna have any time to make our lunch like that.」
+Touko
+「Oh, right... I don't want that. Your lunchboxes are a matter of life or death.」
+
+％Ｂ
+「Yeah, you haven't had one for a few days now. Wanna eat together in the old school building tomorrow?」
+Touko
+「Mhm! Ehehe, I'm excited!」
+I want to treasure our time together more from now on.
+We may only have a limited amount of time, but that only makes it all the more worth it to create lasting memories.
+all
+Three weeks left until the Tanabata Festival.
+A little over a month until Touko moves.
+That's how much time we have left... Let's savor it.
+dummy
+_00com
+bgm11
+bgm11
+gakuen_door1
+_00grp
+bg101
+_02smh
+_00bup
+bs_nt02_0201
+_00bup
+bs_nt02_05
+_00bup
+bs_nt03_02
+_00bup
+_00bup
+bs_nt03_01
+_00bup
+bs_nt13_03
+sumaho_vibe_one
+_02smh_01lime
+_00_mess
+_00_mess
+_02smh_01lime
+bg101
+_00_mess
+se0024_01
+_02smh_auto
+_00bup
+bs_rk03_10
+_00bup
+bs_rk03_10
+_00bup
+bs_nt13_01
+all
+_00bup
+_00bup
+all
+_00bup
+bs_rk03_10
+_00bup
+bs_rk11_01
+all
+_00bup
+_00bup
+all
+_00bup
+bs_rk11_09
+_00grp
+_00grp
+bg102
+bgm22
+bgm22
+_00grp
+gakuen_door1
+_00grp
+bg101
+_00bup
+bs_nt01_0201
+_00bup
+_00bup
+bs_nt01_09
+_00bup
+_00bup
+bs_rk11_11
+_00bup
+bs_rk11_07
+_00bup
+bs_nt01_06
+_00bup
+bs_rk11_0708
+sumaho_vibe_one
+_00bup
+bs_nt02_04
+_00bup
+_00bup
+bs_nt02_0205
+_02smh_01lime
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_02smh_01lime
+bg101
+_00_mess
+_00_mess
+se0024_01
+_02smh_auto
+_00bup
+bs_rk11_07
+_00bup
+bs_nt02_05
+_00bup
+_00bup
+bs_nt02_11
+sumaho_vibe_one
+all
+_00bup
+_00bup
+all
+_02smh_01lime
+_00_mess
+_00_mess
+se0024_01
+_02smh_auto
+_00grp
+_00grp
+bg502
+_00grp
+bg117e
+_00grp
+kyukan_door1
+bg115e
+_00grp
+bg115e
+_00bup
+bs_tk02_0602
+bgm24
+bgm24
+_00bup
+bs_tk02_0402
+_00bup
+bs_tk01_06
+_00bup
+bs_tk01_13
+_00bup
+bs_tk01_1202
+_00bup
+bs_tk01_0602
+_00bup
+bs_tk01_1104
+_00bup
+bs_tk01_0602
+_00com
+_00bup
+bs_tk02_1202
+_00bup
+bs_tk02_0206
+_00bup
+bs_tk02_0601
+_00bup
+bs_tk01_06
+_00bup
+bs_tk01_12
+_00bup
+bs_tk01_1105
+_00bup
+bs_tk12_1207
+bgm02
+bgm02
+_00bup
+bs_tk11_1305
+_00bup
+bu_tk01_06
+_00bup
+bu_tk01_12
+_00bup
+bu_tk01_0602
+_00bup
+bu_tk01_1102
+_00bup
+bu_tk03_12
+_00com
+_00bup
+bu_tk03_13
+_00grp
+bgm37
+cg_tk10_0101
+_00grp
+cg_tk10_0101
+_00bgv
+bgv_tk03
+_00bup
+_00bup
+cg_tk10_1102
+_00bup
+cg_tk10_1101
+_00grp
+cg_tk10_1104
+_00grp
+cg_tk10_1105
+_00grp
+cg_tk10_0102
+_00grp
+cg_tk10_0101
+_00bup
+_00bup
+cg_tk10_0103
+_00bgv
+bgv_tk03
+_00grp
+cg_tk10_0102
+_00bup
+_00bup
+cg_tk10_0101
+_00grp
+cg_tk10_1102
+_00bup
+_00bup
+cg_tk10_0101
+_00grp
+cg_tk10_0103
+_00grp
+cg_tk10_0201
+_00bup
+_00bup
+cg_tk10_1202
+_00grp
+cg_tk10_1204
+_00bup
+_00bup
+cg_tk10_0204
+_00grp
+cg_tk10_0202
+_00grp
+cg_tk10_0201
+_00bup
+_00bup
+cg_tk10_1205
+_00bup
+cg_tk10_0201
+_00grp
+cg_tk10_1202
+_00bup
+_00bup
+cg_tk10_0201
+_00grp
+cg_tk10_1302
+_00bup
+_00bup
+cg_tk10_1304
+_00grp
+cg_tk10_1302
+_00bup
+_00bup
+cg_tk10_0304
+_00grp
+cg_tk10_1302
+_00grp
+cg_tk10_1203
+_00grp
+cg_tk10_1202
+_00grp
+cg_tk10_1201
+_00grp
+cg_tk10_1203
+_00grp
+cg_tk10_1205
+_00com
+_00bup
+_00bup
+cg_tk10_0201
+_00bgv
+bgv_tk03
+_00bup
+_00bup
+cg_tk10_0201
+_00bgv
+bgv_tk03
+_00grp
+cg_tk10_0202
+_00bup
+_00bup
+cg_tk10_1201
+_00grp
+cg_tk10_1205
+_00bgv
+bgv_tk03
+_00grp
+cg_tk10_0201
+_00bup
+_00bup
+cg_tk10_1204
+_00bup
+cg_tk10_0204
+_00grp
+cg_tk10_0202
+_00bup
+_00bup
+cg_tk10_1204
+_00bup
+cg_tk10_0204
+_00grp
+cg_tk10_1202
+_00com
+_00grp
+cg_tk10_0201
+_00bup
+_00bup
+cg_tk10_1202
+_00bup
+cg_tk10_0202
+_00grp
+cg_tk10_1304
+_00grp
+cg_tk10_1302
+_00bup
+_00bup
+cg_tk10_0301
+_00grp
+cg_tk10_1302
+_00grp
+cg_tk10_1304
+_00bup
+_00bup
+cg_tk10_0304
+_00grp
+cg_tk10_0302
+_00bup
+_00bup
+cg_tk10_1304
+_00grp
+cg_tk10_1302
+_00bgv
+bgv_tk03
+_00grp
+cg_tk10_1304
+_00grp
+cg_tk10_0304
+_00bup
+_00bup
+cg_tk10_0302
+_00grp
+cg_tk10_0301
+_00bup
+_00bup
+cg_tk10_1304
+_00grp
+cg_tk10_1302
+_00grp
+cg_tk10_1305
+_00bup
+_00bup
+cg_tk10_1304
+_00grp
+cg_tk10_1302
+_00bup
+_00bup
+cg_tk10_1304
+_00grp
+cg_tk10_0301
+_00grp
+cg_tk10_0302
+_00grp
+cg_tk10_1501
+_00grp
+cg_tk10_1401
+_00grp
+cg_tk10_1403
+_00bup
+_00bup
+cg_tk10_1402
+_00bgv
+bgv_tk03
+_00grp
+cg_tk10_1405
+_00grp
+cg_tk10_1404
+_00grp
+cg_tk10_1405
+_00grp
+cg_tk10_1401
+_00grp
+cg_tk10_1401
+_00grp
+cg_tk10_1403
+_00grp
+cg_tk10_1305
+_00bup
+_00bup
+cg_tk10_0301
+_00grp
+cg_tk10_0302
+_00grp
+cg_tk10_1304
+_00grp
+cg_tk10_1302
+_00bup
+_00bup
+cg_tk10_0301
+_00grp
+cg_tk10_0304
+_00grp
+cg_tk10_0302
+_00grp
+cg_tk10_0301
+_00grp
+cg_tk10_0401
+_00grp
+cg_tk10_0502
+_00bup
+_00bup
+cg_tk10_0604
+_00bup
+_00bup
+cg_tk10_0602
+_00grp
+cg_tk10_0601
+_00bup
+_00bup
+cg_tk10_0604
+_00bgv
+bgv_tk03
+_00grp
+cg_tk10_0602
+_00grp
+cg_tk10_0604
+_00grp
+cg_tk10_0602
+_00grp
+cg_tk10_0604
+_00grp
+cg_tk10_0602
+_00grp
+cg_tk10_0604
+_00grp
+cg_tk10_0602
+_00grp
+_00grp
+bgm16
+bgm16
+bg502
+_00grp
+bg103e
+_00bup
+bs_tk02_03
+_00bup
+_00bup
+bs_tk02_0711
+_00bup
+bs_tk02_13
+_00bup
+bs_tk01_06
+_00bup
+bs_tk01_0102
+_00bup
+bs_tk01_0602
+_00bup
+bs_tk01_02
+_00bup
+_00bup
+bs_tk11_04
+_00bup
+bs_tk02_13
+_00bup
+_00bup
+bs_tk02_0603
+_00bup
+bu_tk02_11
+_00bup
+bu_tk02_0602
+_00bup
+_00bup
+bu_tk02_13
+_00bup
+bu_tk02_11
+_00com
+_00bup
+bu_tk02_07
+_00bup
+bu_tk02_04
+all
+_00bup
+_00bup
+all
+bg502
+_00grp
+_00com

@@ -1,0 +1,2265 @@
+﻿0805
+火
+0806
+水
+$$smh_OpenCHK
+％Ｂ
+「...She's late.」
+It's past the usual time.
+Not like she needed to make lunch today. Did she oversleep or something?
+【Touko】「Sorry, I think I'm #Ngoing to be late. Could #Nyou go on without me?」
+We can't both be late.
+I'll meet up with her at school.
+【％Ｂ】「Got it. Let me know #Nonce you're at school.」
+I want today to be for Touko's sake.
+It's what I've prepared for. I want this Tanabata Festival to be one of the best memories of her life.
+
+％Ｂ
+「All right, let's go!」
+Shuuichi
+「...I want to thank all of you for the work you've done so far. We've been able to prepare everything all thanks to you.」
+
+Shuuichi
+「The Tanabata Festival's success is riding on your efforts. I'm counting on you for today!」
+
+Event Committee Members A B C
+「Yeah!」
+all
+％Ｂ
+「...」
+I don't see Touko in the event committee office.
+There's still a little time until the festival begins.
+I haven't heard from her since that one message earlier. I hope she makes it in time for the festival...
+
+Shuuichi
+「You're in charge of the old school building. Wait, Yukimura's not here?」
+
+％Ｂ
+「Yeah. She told me she was gonna be a bit late earlier.」
+Shuuichi
+「Seriously... Late on the day of? I guess that sounds like something she'd do.」
+％Ｂ
+「She'll be here before it starts. I don't think she'll skip or anything.」
+
+Shuuichi
+「Let me know what happens. If she's absent, I'll send another person your way to support you.」
+
+％Ｂ
+「All right. I'll keep you up to date.」
+all
+【Touko】「Sorry I'm late. I just #Ngot here.」
+【％Ｂ】「Come straight to the #Nold school building.」
+【Touko】「Mm, okay.」
+【％Ｂ】「I was worried, you know.」
+【Touko】「You don't need to #Nworry. I wouldn't skip #Nthe day of.」
+【Touko】「I'll be there right #Naway.」
+I'll let Shuuichi know before Touko gets here.
+I should do what I can to lower his burden, since he's probably gonna have a lot on his plate as it already is.
+【％Ｂ】「Touko apparently just #Ngot here, so we're good.」
+【Shuuishi】「All right. You're in #Ncharge over there.」
+％Ｂ
+「...All right.」
+Shionagi Academy's bustling with activity before the festival.
+I need to do the work I've been assigned, so I can enjoy today to the fullest with Touko.
+
+Today's the day of our promise.
+I know how I feel.
+All that's left... is to see how Touko feels.
+I look up at the roof from the old school building.
+We completed our gift for Touko last night.
+I'm sure that'll come in handy as my trump card.
+Touko
+「Sorry, sorry. I know I'm late.」
+％Ｂ
+「Come on, of all of the days you chose to be late! We gotta get ready quick, 'cause there isn't much time until the festival starts.」
+
+I'll act just like I always do until it's time.
+I can't neglect making good memories together.
+all
+％Ｂ
+「Looks like things are calming down... Hey, wanna go check out the others? Let's go see how they're doing.」
+
+
+Touko
+「Oh, mhm... Okay. But is it okay to leave this place empty...? I can stay behind...」
+
+
+％Ｂ
+「We'll be walking through the old school building, so this is one of our duties. We need to see the displays for ourselves and make sure they aren't dangerous.」
+
+Touko
+「...That's just an excuse, isn't it?」
+％Ｂ
+「Come on, Touko, let's go. It's the Tanabata Festival. We should have fun too!」
+
+Natsuki
+「Okaaay, could you smile a little more?」
+Sora
+「...I am.」
+Natsuki
+「...Oh well. You're cute enough already as you are, Sora.」
+％Ｂ
+「Hey, you guys. Looks like you two actually have a lot of people here.」
+Sora
+「Welcome. The program's about to start for the third time, so hurry and come in.」
+
+％Ｂ
+「Huh? Agh, hey...!」
+all
+Ousaka pushes me into the ring of people.
+_00cutinBS
+Natsuki
+「Oh, Rikka... I wonder if she's nervous doing this in front of boys. Fufu, how cute.」
+
+Narusawa's off to the side of the stage. She looks nervous to me too.
+I figured she wouldn't have stage fright because she's used to piano recitals and stuff, but I guess that isn't the case?
+
+_00cutinBS
+Sora
+「...I am truly delighted that those of you gathered here today have done so for the astronomy club's display.」
+
+...Is Ousaka gonna be okay?
+I think the nervousness might be making her talk weirdly...
+Sora
+「Today is going to be a simple lecture on stargazing. If even one of you becomes interested in the stars today, that would make me happy.」
+
+
+Natsuki
+「Wow, Sora as a teacher... Now this is unexpected. I think she'd be even cuter with glasses and a lab coat that's way too big.」
+
+
+Sora
+「Natsu, quiet. And if you stand about forty-five degrees to the side, you'll get Rikka in the shot too. Would recommend.」
+
+
+Natsuki
+「Thank you kindly.」
+Sora
+「I'll talk about the stars, and then hold a lecture on how to put together this simple astronomical telescope. We're selling completed ones for nighttime stargazing at 4,000 yen each. Act now while supplies last.」
+
+
+She's totally trying to get together some funds for the club.
+She's a surprisingly skilled businessperson.
+Sora
+「I'll now begin the lecture.」
+all
+Ousaka's stargazing and telescope-building lecture was a huge success.
+Guys tend to be at least a little interested in stars and space in general, and Ousaka's talks were interesting and filled with cool facts.
+
+％Ｂ
+「That was awesome, guys! I never thought it'd go this great!」
+
+Sora
+「I got lots of letters. Going to be lots of work to read them all. So many for Ritsu too.」
+
+Rikka
+「I didn't know there were going to be this many people coming... I thought it'd be four or five at most...」
+
+％Ｂ
+「It's 'cause Ousaka's fun to listen to. Thanks so much for helping her, Narusawa.」
+
+Sora
+「Ritsu and I are going to go stargazing together sometime too. I'm excited.」
+
+Rikka
+「...I got a little curious because her talks are so interesting. And there are lots of songs that use stars as a motif too.」
+
+Natsuki
+「Never would've expected this pairing, right? ...You two both looked great! See?」
+
+We all crowd around Segawa's camera.
+Ousaka and Narusawa on the screen look nervous, but they have nice smiles on their faces.
+
+all
+Touko
+「...」
+The naturalist club's display is just as popular as the astronomy club's.
+I can tell how well it's going without even looking, from the excited voices of the girls inside the room.
+
+Natsuki
+「Thank you very much for your cooperation! Mhm, looks like things are going well. All of the girls walking out from the naturalist club have such great smiles.」
+
+
+％Ｂ
+「Yeah, everyone looks like they're having fun. We should go in too.」
+
+％Ｂ
+「Wow... This is really something. It's come out great.」
+Misa
+「Oh, hello! Thank you very much for coming!」
+％Ｂ
+「You've put in a lot of work for this, Senpai. This looks amazing!」
+Misa
+「Yes, and it is all thanks to all of you! To think that I would be able to create such a wonderful aquarium... It is like something out of a dream!」
+
+％Ｂ
+「This is your passion made manifest, Okihara-senpai. It's you getting one step closer to your dream.」
+
+Misa
+「Oh no, it would not have been possible in the least on my own. I am so very grateful to all of you!」
+
+Seeing her smile makes me happy too.
+Her smile's always been attractive, but it's even more so now, filled with confidence and energy.
+
+all
+Marika
+「Oh! Welcome, everyone! What do you think of our aquarium?」
+
+％Ｂ
+「I think it's great. Thanks for helping Okihara-senpai, Shinozaki.」
+
+Marika
+「It was a lot of work, but it was to help her take the first step toward her dream. Getting to help her was so much fun!」
+
+Natsuki
+「Yeah, I like both your smiles! I'm gonna get a shot of those right now!」
+
+all
+％Ｂ
+「The two of them are amazing. This display's even more impressive than I was imagining.」
+
+Touko
+「...Mm, it is. It must've been a lot of work.」
+％Ｂ
+「That must've meant that it was that much more satisfying to do. They did what they could to bring Senpai's dream to life, just a little. I'm amazed at how powerful a dream can be.」
+
+
+Natsuki
+「All right, I got a great shot! Now then, I'll be leaving now. Don't wanna get in your way.」
+
+
+％Ｂ
+「All right. Keep it up. You better show me your photos later, all right?」
+Natsuki
+「Thanks. Hope you're looking forward to them!」
+％Ｂ
+「She's always so busy. But I'm sure there's a lot of people who're smiling today 'cause of Segawa.」
+
+Touko
+「Mhm, yeah. Camera-chan always looks so serious when she's taking photos.」
+
+％Ｂ
+「It really comes across in her photography, you know? It isn't just technique... It's like she packs her feelings into it or something.」
+
+She records smiles and good times in her photos.
+I think it's really important to give physical form to feelings and emotions.
+...Just like what I want to do for Touko.
+％Ｂ
+「All right, we should go take a look around too. There's a ton of other groups doing cool-looking stuff!」
+
+
+Touko
+「...」
+％Ｂ
+「...Touko?」
+Touko
+「Huh? Oh... Ahaha, it's nothing. Anyway, I'm getting hungry. I wanna eat something.」
+
+
+％Ｂ
+「Oh, that's a good idea! There's a few clubs doing food stuff out on the grounds, so let's go!」
+
+all
+The Tanabata Festival's still booming by the time the sun's going down.
+There's still more to come tonight, with special stage events and the after-festival celebrations.
+
+Touko and I spent our patrol time today perusing the festival together.
+
+But...
+％Ｂ
+「Where the heck did she go...?」
+We were heading to the event committee office to make our reports after finishing our patrol.
+Touko suddenly disappeared off to somewhere on the way.
+_smh_st_01
+_smh_st_btn01
+_SMH_ST_01
+％Ｂ
+「...」
+She's not answering.
+She only disappeared a few minutes ago, so I don't think she could've gone far...
+
+_smh_st_04
+％Ｂ
+「...I guess I should at least make my report.」
+【％Ｂ】「We're done with our #Npatrol. No issues.」
+【Shuuishi】「Good work. Your work #Nis done, so enjoy #Nthe after-festival #Ntogether with Yukimura.」
+【％Ｂ】「Got it. Will do.」
+％Ｂ
+「And done. Now then...」
+I looked around a bit, but I didn't spot Touko anywhere.
+She's still not returning any of my attempts to contact her, but I'm sure I know where she is.
+
+The various clubs are all putting away their displays and heading toward the grounds, but I head into the old school building.
+
+％Ｂ
+「Honestly... I was looking for you, you know. You just up and disappeared again...」
+Touko
+「...Mm, sorry. The festival... It's almost over.」
+％Ｂ
+「Yeah. It was busy, but fun.」
+The hands of the clock have begun the last leg of their journey for the day.
+Once the minute and hour hands meet at the 12... the time we had promised each other ends.
+
+Of course, I have no intention of letting things end this way.
+I've spent the last few days putting together a plan to secure our affections for each other.
+
+％Ｂ
+「Touko. There's actually something I want to show you...」
+Touko
+「...You know... You don't have to force yourself to be with me any more than this.」
+
+％Ｂ
+「Wha...?」
+Touko
+「
+Ryousuke-kun, you 
+You 
+have lots of connections... I've been wondering if I was just a burden to you. And today I realized I really was.」
+
+
+％Ｂ
+「Wh-What the hell are you saying!? That's not...!」
+Touko
+「It's not like we can be together next semester anyway... It's just painful for both of us to have to keep this up any longer, isn't it?」
+
+％Ｂ
+「...Are you serious?」
+Touko
+「I've... had lots of time to myself lately, so I've been thinking every day. About what the best option for me is.」
+
+
+And what she said earlier's her answer.
+She's concluded that she's going to abandon the idea of being together with me any longer.
+Touko
+「I'm sure... that I'll still be able to recover if I turn back now. It'll hurt a lot... but I think I'll still be able to walk. But if I keep going any further like this... I won't be able to take it when I lose it.」
+
+
+％Ｂ
+「...What do you mean by turning back?」
+Touko
+「Going back to how it was before we met. I won't be able to do it right away, but once I'm away from this place with so many memories... Once I leave these memories behind in Shionagi... I'm sure I'll be able to forget someday.」
+
+
+all
+I look at the things placed next to Touko.
+There's a brand-new yukata that's never been worn―the one the two of us picked out together.
+
+There are other things too.
+The capsule with the paper inside that I gave her, the key to the old school building... and her phone that's served to connect us lots of times.
+
+Is this what she means... by leaving her memories behind?
+Is she going to take everything that she associates with her memories of me... and leave them all behind in this old school building?
+
+％Ｂ
+「Gh...!」
+I'll never let her do that.
+A goodbye that we can't prevent is approaching.
+I may end up hurting Touko with the pain of saying goodbye... but I'll never ever let these feelings go.
+
+％Ｂ
+「Touko. There's still time, right? We promised to keep going until the end of the day of the Tanabata Festival.」
+
+Touko
+「...Yeah. You're right, that's what we promised. But I'm already...」
+
+％Ｂ
+「There's still the after-festival. Come to the rooftop once it's started. There's something I want to show you.」
+
+Touko
+「...You want to show me something?」
+％Ｂ
+「I want you to think about your answer again after I give you my present. It's the last event of the Tanabata Festival, so you better come wearing that, all right?」
+
+
+Touko
+「...」
+％Ｂ
+「I'm gonna keep waiting until you show up. You have to come. It's a promise.」
+
+The after-festival's begun on the grounds.
+The students who participated in the Tanabata Festival are all making memories together out there.
+A comfortable, gentle wind blows.
+Millions of stars gleam in the heavens above. They're providing the best possible stage for the gift I've readied.
+
+What will Touko's answer be after she accepts this?
+I'd be lying if I said I didn't have any doubts... but I believe.
+That the memories I've made together with Touko...
+That the time we've spent together... still binds us together.
+If Touko is trying to take that... and undo the binding herself...
+Then all I have to do is tie us back together, so strongly that it'll never be undone.
+
+％Ｂ
+「You came. I waited a while, you know.」
+Touko
+「...What did you want to show me?」
+％Ｂ
+「I spent the last few days getting this ready. It's my present to you.」
+
+Touko
+「Wha...?」
+I point at the thing behind me and move aside so she can see it clearly.
+
+_ef_ryusen03
+_ef_ryusen04
+It's a lush, proper bamboo display.
+With lots of tanzaku tied to it.
+Countless tanzaku from everyone Touko and I have interacted with as event committee members.
+
+Touko
+「What are these...? Wishes for Tanabata...?」
+％Ｂ
+「That's right. I asked everyone to do this while they were busy with the final preparations for the festival.」
+
+Touko
+「What's going on...? Why are you giving this to me?」
+％Ｂ
+「These tanzaku all have wishes to you written on them. I had Mr. Azuma prepare the bamboo and stand for me. It took a ridiculous amount of work to tie all this on.」
+
+
+I also had Segawa prepare lots of photos.
+We took physical proof of our interactions with lots of different people as event committee members, as fellow students at Shionagi Academy... and tied them to this bamboo.
+
+％Ｂ
+「This one says, "We really need people, so please join!" Looks like it's from the softball club.」
+
+Touko
+「...」
+％Ｂ
+「This one's... "Please break up with ％Ａ and go out with me"!? Who the hell wrote this one!?」
+
+It says it's from a guy in class 2-C.
+...One of my freakin' classmates wrote this!
+Dammit, I told them to write something meaningful!
+％Ｂ
+「These are Shinozaki's and Segawa's... Everyone else wrote their share too. You should read them.」
+
+Touko
+「..."Let's go shopping together sometime, okay? I want us to be even better friends." Is this... Flower-chan?」
+
+％Ｂ
+「I don't think that sounds like a bad idea. I bet it'd be fun for you to go out shopping with another girl.」
+
+Touko
+「..."Let me make a swimsuit photo compilation! He handles the production costs!" This... has to be Camera-chan.」
+
+％Ｂ
+「...Why the hell do I have to put up the money for that?」
+I'll have my say for what's inside that compilation.
+I'm gonna make sure the contents reflect my tastes if she does end up making it.
+％Ｂ
+「They all just wrote whatever they wanted, didn't they... Look, here's Ousaka's.」
+
+I point out everyone's tanzaku.
+Each and every one is filled with feelings for Touko. They're symbols of her connections with everyone.
+Sora
+『Your lunch was good, Tou. I want to eat your fried egg again. I want to relax and look at the stars with you too.』
+
+Rikka
+『Just call me by my name. Please, stop with the Piano-chan already.』
+Misa
+『The two of you must come to Marinpia Shionagi together if and when it reopens.』
+
+Shuuichi
+『Feel free to nag that idiot as much as you want. He's easy to use when you're there because he always tries to show off to you.』
+
+％Ｂ
+「These tanzaku... are packed with lots of wishes. Look at how many places you've made for yourself. It's not just by my side.」
+
+
+Touko
+「...Places for me.」
+％Ｂ
+「That's right. You belong in just as many places as there are tanzaku on this bamboo.」
+
+The bamboo sways in the wind.
+The way the paper rustles as it sways... It's like the display's a mirror to Touko's heart.
+
+％Ｂ
+「And... I gotta make sure I put this one on too.」
+I tie my own tanzaku to an open spot on the display.
+My wish is "for us to be able to walk together forever."
+％Ｂ
+「There. It's complete. A bamboo display stuffed with wishes to you... A one-of-a-kind gift.」
+
+Touko
+「B-But I can't...! I'm already...!」
+Marika
+「I have my wish too. I saw a dress that I think would look great on you the other day, Yukimura-san. I just know you'd look cute in it.」
+
+Touko
+「Y-You guys...? Why...!?」
+Shinozaki and the others step up onto the roof.
+Looks like I managed to time it right.
+I had typed up a LIME message to send to the others beforehand.
+My plan involved sending it at the right time to get them all to come up here too.
+
+Marika
+「And it'd make me happy if you could see what clothes might look good on me too. And... we could drink tea together, and watch a movie. Ahaha, it'd kind of be like a date, I guess.」
+
+
+Touko
+「...Shinozaki-san... Is being with me fun?」
+Marika
+「Mhm! I want to talk to you lots more and become much better friends. Ehehe, you called me "Shinozaki-san" instead of "Flower-chan" for the first time.」
+
+
+Shinozaki looks so happy. I can't help but smile along.
+You can try to distance yourself if you want, but Shinozaki's way too kind.
+I'm sure the two of you'll become better friends from now on.
+Sora
+「Your lunches taste better and better every time. I especially like the fried egg.」
+
+Touko
+「...That's because you ate the ones that came out the best, Ousaka-san.」
+Sora
+「I want rights to your fried egg from now on. Looking forward to see the results of your training.」
+
+That carefree attitude's just like Ousaka.
+There are other people who like your cooking just as much as I do.
+See? It was worth putting in the effort learning how to cook, right?
+Rikka
+「My wish should be the easiest for you. Could you honestly do something about calling me that already...? I'd like it if you would just call me either Narusawa or Rikka.」
+
+
+Touko
+「...I'll stop it if you don't like it. Is... Narusawa-san okay?」
+
+Rikka
+「It's not really that bad... Geez, why are you acting like that? It's like I'm the one in the wrong here... You can just call me whatever you want.」
+
+
+I still don't really think she dislikes it that much.
+Because Narusawa may look embarrassed... but I think she also looks happy.
+Natsuki
+「I've already planned it all out for my wish! I'm ready to go anytime, I just need the green light from you!」
+
+
+Touko
+「...Um, a photo collection's a bit... You have other things you'd rather take photos of than me, right... Segawa-san?」
+
+
+Natsuki
+「I'm talking about doing it because I wanna do it. Cute girls look great regardless of the backdrop. It's common sense.」
+
+Segawa always grabs her by the arm and forces her into the circle.
+In a way, she might be my strongest rival in terms of Touko's affections.
+
+Misa
+「I wrote quite the long-term wish... but I know that I must have the two of you come. I will guide you through a world even more wonderful than today's display.」
+
+
+Touko
+「...I think your dream's amazing, Okihara-san. I... want to be able to find something I can be like that with too someday.」
+
+Misa
+「It will take no time. If the two of you are together... then I am sure you will find a very wonderful dream for yourself.」
+
+Okihara-senpai encourages her.
+I think I'll keep the fact that I'm feeling a bit of pressure from her wish for the future to myself.
+
+％Ｂ
+「Touko. Are you still gonna say you don't belong anywhere? Why don't you believe... in our feelings and our words?」
+
+Touko
+「...But...! I-I'm...gh...!」
+％Ｂ
+「Even if we do end up separated, it's not like we won't be able to see each other. If you leave your memories behind here, then we'll all just go deliver them to you.」
+
+
+Misa
+「Yes. We can speak with one another every day over the phone or on LIME. If you get lonely, we can contact you whenever you'd like.」
+
+Marika
+「Ahaha, it's always fun talking. I hope I can get enough sleep with all that.」
+
+Sora
+「If we all want to look at the same thing, I recommend the stars. Looking up at the same stars will make the loneliness go away.」
+
+Natsuki
+「I hope you send me looots of photos. And I'll send you photos of life in Shionagi too!」
+
+Rikka
+「I'll make sure to tell you about what you're probably the most worried about. I'm sure there are things that you just can't ask him directly.」
+
+％Ｂ
+「There you go. Look at all these wishes... You'll make them all come true, right? Lady Orihime.」
+
+Touko
+「Hgh...!」
+A single tear falls from Touko's eyes.
+I'm sure it isn't a cold, sad tear... It's a warm, joyful one.
+Touko
+「Is it... really okay? Am I allowed... to stay by your sides... even after I'm gone...?」
+
+Natsuki
+「You can tell us to let you go as much as you want, but we're not gonna. Because we all love you, Touko.」
+
+Marika
+「Sending letters sounds nice too. It'd feel warmer than phone calls or messages. It'll let us send important feelings.」
+
+Misa
+「That is very true. Communicating our feelings to one another through postcards and stationery will create very wonderful treasures for all of us.」
+
+Sora
+「You can come to Shionagi to play when you're lonely. We'll always be waiting.」
+
+Rikka
+「Japan isn't even that big. I think we could see each other anytime we wanted.」
+
+Natsuki
+「Us going to where you are sounds fun too! It's like Rikka says, Japan's tiny!」
+
+
+Everyone holds feelings for Touko in their hearts.
+I need to encourage Touko too. I put my feelings... my wishes into words.
+％Ｂ
+「And I'll help you too. Let's take our time... and go through all the places you belong, one by one.」
+
+Touko
+「Mhm, mhm...! I... want to make all of your wishes come true, bit by bit... with you
+
+, Ryousuke-kun
+
+...!」
+
+Even if we end up separated.
+Even if she leaves her memories behind.
+The things we did this summer won't disappear.
+I'm sure that the bonds that we forged here in this town called Shionagi will continue to live on in Touko's heart.\n\r
+
+I just know they will. I wrap my arms around Touko to cheer her up.
+％Ｂ
+「I know I'm late saying this... but that yukata looks amazing on you. You're so cute.」
+
+Touko
+「...You're right. You took forever, stupid.」
+Her face is streaked with tears, but she smiles warmly for me.
+Yeah. This is the smile I want to see on Touko's face.
+Natsuki
+「All right everyone, let's go to the after-festival! Our Tanabata Festival isn't over just yet!」
+
+Marika
+「Mhm, there are still events left. I wanna have fun talking with everyone too.」
+
+Sora
+「Let's all stargaze together tonight, okay? We're all here, and there are lots of telescopes too. Please, Ritsu?」
+
+Rikka
+「O-Ousaka-san... Don't pull on my skirt...!」
+They all retire from the roof.
+That wasn't anything we planned... I'm grateful for their thoughtfulness in letting the two of us be alone.
+
+Touko
+「I... can't leave it all behind anymore, can I? All these memories... I'd get yelled at if I left all these behind.」
+
+
+Her voice is quiet enough to be lost in the whispering of the bamboo, but I heard it.
+
+She's accepted our feelings.
+Touko
+「Can I tell you... how I feel? I still haven't told the person I treasure most... about the feelings I treasure most.」
+
+
+％Ｂ
+「...Yeah, I want to hear it. Please tell me.」
+I can hear her heartbeat.
+It's the sound of her pure and straightforward feelings.
+Touko
+「You see... I love you
+, Ryousuke-kun
+
+.」
+Touko
+「I love you so much more than anyone else, and you're so important to me... So I wanted to put it properly into words... and let you know.」
+
+She's told me how she feels about me for the first time.
+I squeeze her tighter in joy.
+Touko
+「You gently pulled me by the hand, after I was lost and alone for so long... and created so many places for me to belong. You're so important to me.」
+
+
+％Ｂ
+「...Hearing that makes me so happy. I love you too, Touko.」
+
+Touko
+「I couldn't say it until now... because I was scared. I was scared of being separated, that the day we couldn't be together would come... I was so scared. I thought it wasn't okay to say how I felt.」
+
+
+Touko
+「If I didn't say "I love you," then I could always say "I was kidding" to hide it, right? So... I thought I could hide it even from myself that way.」
+
+
+Touko
+「Even though I've known for a while now... that it wasn't possible. Even though my love was getting stronger every single day... I still couldn't say it until the very end. I'm sorry.」
+
+
+％Ｂ
+「It's okay. You told me just now, didn't you?」
+Touko
+「Ahaha... I was finally able to say it. I could never bring myself to do it... It hurt so much, and I felt so lonely... My heart hurt.」
+
+％Ｂ
+「Looks like I caused you some trouble... Sorry for making you bear all that pain by yourself.」
+
+Touko
+「...I've decided. I'm going to treasure my connections with everyone. And I'm going to make new connections too. I... won't say I don't belong anywhere anymore.」
+
+
+$$smh_OpenCHK
+％Ｂ
+「...Yeah. I'm sure that'll make everyone happy.」
+Touko
+「But the most important place to me... is by your side
+, Ryousuke-kun
+
+. The place that's most precious to me... is here in your arms.」
+
+
+
+Touko
+「This is the most comfortable place in the world. It is now, and it'll always be... I know that won't ever change.」
+
+Her tears shine like pearls, decorating her smile in the moonlight.
+There's nothing in the world more precious to me than this smile.
+％Ｂ
+「I'll do my best too. I'll be lonely without you, and it'll be painful... But I'll do my best to make sure it's still comfortable for you to be by my side.」
+
+
+The night of the Tanabata Festival.
+It's been an unforgettable day for the two of us.
+To be able to confirm our feelings for each other like this... is a blessing.
+Touko
+「I wanna go to your house right now
+, Ryousuke-kun
+
+.」
+％Ｂ
+「Huh?」
+Touko
+「I have something important I want to talk about. It has to be when we're alone... Is it okay?」
+
+％Ｂ
+「...Yeah, that's okay. Let's go.」
+％Ｂ
+「Touko...!」
+Touko
+「Nnh...! I won't ever let you go anymore...!」
+Touko and I slowly walked home together.
+We didn't say a single word, and we never pulled away from each other.
+We both held each other tightly as soon as we stepped into my room, as if it were rehearsed.
+We walked toward the bed like that, and fell onto it without letting go.
+％Ｂ
+「Same here...! I'm never letting you go, even if you tell me to...!」
+Touko
+「I wouldn't...! Because if you let me go even a little... I'll start crying from the loneliness..!」
+
+She grips my hand and squeezes it. I wrap my arm around her waist and squeeze back to reassure her.
+
+Touko
+「Ahah, it's so reassuring... I love it when you squeeze me tight.」
+
+％Ｂ
+「I love it too. I feel so complete when I hold you like this.」
+
+Touko
+「Mhm... This feeling's special. It's a special feeling... that's only born when I'm with you
+, Ryousuke-kun
+
+.」
+
+We've kissed and held each other countless times until now.
+But this moment right now's the warmest out of all of them... My heart's filled with Touko.
+％Ｂ
+「Crap... My heart's beating like crazy...!」
+Touko
+「Ehehe, it's the same for me... Even though we're just holding each other... I feel like my heart's beating so fast it might break.」
+
+The yukata might be adding to how sexy her flushed skin looks, peeking out from the fabric.
+Her slightly rough breathing has me excited.
+She's so attractive... My heart's hammering in my chest from nervousness and arousal.
+
+Touko
+「Hey... Do you see the clock?」
+％Ｂ
+「Huh? The clock...?」
+The hands are past midnight.
+Which means that the time we've promised each other's over.
+
+Touko
+「Starting today... I want to be together with you as real lovers
+, Ryousuke-kun
+
+. It might be selfish of me to ask... but could you make my wish come true?」
+
+
+It's past the time we agreed on for our promise.
+Touko's communicated her warm, honest feelings for me.
+I summon up all of my feelings for her, look her right in the eye... and respond.
+
+％Ｂ
+「What, did you forget what I wrote for my wish?」
+The tanzaku I put up.
+"I wish for us to be able to walk together forever."
+％Ｂ
+「I wanna be with you too, Touko. So you're not being selfish. This is our wish.」
+
+
+Touko
+「...Mhm, you're right. It's our wish.」
+I squeeze her tight again.
+We hold the same feelings in our hearts.
+Let's connect together even deeper than we have until now, and confirm our feelings for each other.
+％Ｂ
+「Then... I'm gonna touch you, okay?」
+I slowly strip the yukata off her.
+Her slighty sweaty skin looks transparent under the moonlight.
+
+Touko
+「Noo...! It-It's embarrassing...! What's happening...! Auh... Why's my heart beating so fast...!?」
+
+I've never seen her so embarrassed before. It's really cute.
+My heart's beating so hard I think Touko might be able to hear it.
+
+Touko
+「Aah... Don't... look so much...! You don't need to stare so much, since you've seen them so many times already, right...?」
+
+％Ｂ
+「...No. I wanna see you like this over and over, and touch you too.」
+Touko
+「Auh...nh... You perv...! I said it's embarrassing...! Auh...nnh...!」
+
+She twists to try to escape, but I hold her tight to stop her.
+
+％Ｂ
+「Touko... Let me see your face more...」
+Touko
+「Nh... Nooo...! It's... embarrass...nkh...! Don't... look so much...nh...!」
+
+％Ｂ
+「...You don't want me to?」
+Touko
+「Hauh...nh... nnh...! If you really want to... then you can...」
+
+Her grip loosens slightly.
+I carry her preciously and place my hand gently on her skin beneath her yukata.
+
+Touko
+「Aah... nnh... Hah... Your hand's warm... I can tell it's trembling just a bit...」
+
+She's right. My hand's shaking a little.
+I'm nervous as if it were my first time. I put a little more force into my touch to try to calm myself down.
+
+Touko
+「Nkh...nh... nnh... haahh...! Aah... Hey, can you feel... my heart...? Can you tell... how I feel...?」
+
+
+％Ｂ
+「...I can. I can feel it beating... It's just as fast as mine is.」
+
+Touko
+「Ehehe, really... nnh... So our hearts are beating this fast...?」
+
+％Ｂ
+「Of course they are... You're more precious to me than anyone else... and I love you too...!」
+
+Words aren't enough to express how I feel.
+I want to take the time to slowly... carefully show her.
+Touko
+「Anh...! Hah... nkh...! Nooo...! The... The way you're touching's dirtyyy...! Aah... kyan! Noo... That feels good...nh... fuaah...!」
+
+
+I slowly and gently sink my fingers into her boobs.
+I move a little, then stop, and resume after I see her twitch.
+
+Touko
+「Aah... uuh...! Noo...nh! Th-That's... a mean way of touching...! Anh! It tickles... aaahn!」
+
+Her softness feels good in my hand.
+I start to see tinges of pleasure in Touko's nervous expression too.
+Touko
+「Hahh... nnnh...! Mo...More... Do it more properlyyy...! It'll give me peace of mind... aahn... so squeeze me...nh!」
+
+％Ｂ
+「...Okay, got it...!」
+I add some force.
+My fingers sink deeper into her soft skin.
+Touko
+「Fuaah...! Hah... nnh... It-It feels good...! Auh... haaah... It's making me shiver... My body's jerking... aaahh...!」
+
+
+Her voice is shrill and excited, her breathing rough.
+Seeing her pant sexily before me is unbelievably stimulating. I can't hold myself back.
+
+Touko
+「Mo...re, stronger...! Auh... Yeah, like that...nh... Ahaaah...! Don't... let go, okay...!? Anh... Hah... aaah...!」
+
+
+My grip on her flesh grows stronger.
+I use my other hand to pull her closer, pushing her against me as much as I can.
+
+Touko
+「I... I can't take it anymore...! I want to be connected with you already...!」
+
+％Ｂ
+「Wha, but... we need to prepare a little more...」
+Touko
+「I'm already prepared...! Nnh... Since before you started touching... I've been wet because I wanted it...! Even while we were walking home...!」
+
+
+There's a big wet spot on her underwear.
+It looks like her juices are overflowing, just like she says.
+Touko
+「Aauh...! Nnh... Hurry...! Your dick's gotten big, right...!? You're ready to do it, right...!? I... can't wait any longeeer...nh...!」
+
+
+％Ｂ
+「...Mm. Okay.」
+I take my dick out from my pants.
+I also want to connect with her as soon as possible... It's twitching in rampant anticipation.
+
+Touko
+「I wonder why... We've done this so many times already... nnh... but I'm so happy, and excited right now...!」
+
+％Ｂ
+「...It must be because we both know we're feeling the same way. We're overlapping our feelings and our bodies... and that's making us way more happy and excited than usual.」
+
+
+We trade our excitement back and forth as I strip her underwear off.
+It's a sensation that's a little different from all the other times. It's like we're filling up a tiny little part of ourselves that had been missing.
+
+Touko
+「...I get it. I'm about to experience my second first time with you
+, Ryousuke-kun
+
+.」
+
+％Ｂ
+「What?」
+Touko
+「When we did it for the first time... I felt the way I do right now, along with the pain. My heart got warm, and I felt like I was being filled with this strange emotion...」
+
+
+％Ｂ
+「Touko...」
+Touko
+「Could you... have my first time? I want you to have my feelings, my body... all of the current me.」
+
+Her honest sentiments reach my heart.
+I also want Touko to experience everything about how I feel now.
+％Ｂ
+「I... want your feelings too. I want them all.. including everything you haven't been able to express until now.」
+
+Touko
+「...Ehehe, this might take all night. Is that okay?」
+％Ｂ
+「...I can handle it. Is it okay... to just do it like this today?」
+She stares silently at me.
+I take her passionate gaze as a yes.
+I place the tip of my penis against her dripping wet slit.
+I slowly push my dick into her.
+Touko
+「Aah... aaaahhhhh...! Nnnh... nnkh... nh...! Hah... aaaahhh...!」
+
+％Ｂ
+「Uugh... kh, gh...!」
+Her insides are melting away with heat.
+I'm struck by the urge to slam my hips against her as hard and fast as I can, but I use my feelings to hold myself in check.
+
+I want to love her carefully and preciously.
+I don't want this to just be the two of us rushing into it with nothing but pleasure in mind.
+Touko
+「It... It feels, gooood...nh! Haaah... It's twitching... inside meee...nh...! Does it feel good for you...!?」
+
+
+％Ｂ
+「Kh... O-Of course it does...!」
+Touko
+「I didn't know... nkh... doing it raw was so amazing...nh...! Hah... auh... Now that I know... nnhh... I can't... aaaahh...!」
+
+
+％Ｂ
+「S-Same for me... I've never felt anything like this either...!」
+I can feel us making direct contact.
+Her insides undulate with a will of their own. Numbing waves of pleasure wash over me without me even having to move.
+
+It feels so good I'm worried I might exhaust myself without even moving. It's almost enough to make my knees buckle.
+
+Touko
+「Hah... nnh...! You're reaching... all the way insiiide...! Your dick's... filling me up...nh... ahaaah...! I... I just, came a littleee...!」
+
+
+Her insides tremble and tighten.
+I tense up my abdomen hard to keep myself from coming too, resisting the onslaught of pleasure.
+
+％Ｂ
+「It's only... just started, you know...!」
+Touko
+「I... I know, buuut...nh...! Anh...! I couldn't hold it in and...nh... auuuh...!」
+
+It seems like a longer-lasting orgasm for her too. Her insides are trembling for longer than usual.
+Which means she stimulates me for longer too... I'm already having enough trouble holding myself back as it is. My perseverance is being whittled away.
+
+Touko
+「Mo...Move...nh! Thrust in all the way...nh... and rub against me...nh! Anh! I want to feel you... lots, lots mooore...!」
+
+
+％Ｂ
+「Nkh... G-Got it...!」
+I pull my hips back a little and thrust all the way in.
+A wet, squelching sound rings out in unison with Touko's moans.
+Touko
+「Aaaahh! Ah! Annnh! It...It's echoing all the way... to my womb...nh...! Auh! It... It feels so good...! Ahaaah! Fuaaahh!」
+
+
+％Ｂ
+「Hahh... It-It feels good... for me too...!」
+Pleasure numbs my brain with every movement I make.
+My body hungers for Touko of its own accord. I can't stop my hips.
+Touko
+「Kyan! Auh! Me... Me too...! Aaah! I've...nh... never felt this good before...! Anh! Hah... aahh! Nooo! Aaahh!」
+
+
+I force my way through the flesh tangling around me and push all the way in.
+Her overflowing juices soak my crotch, filling the room with the sounds and smells of intercourse.
+
+Touko
+「Aahn! Hyah... nnnh! Mo...More, do it stronger...nh! Aaah! I want you...nh... to fill up my heart and my body... aah... aanh! Ah, aaah!」
+
+
+Slow movements apparently aren't enough for her anymore.
+I do as she wishes, and begin to gradually shift to stronger, faster movements.
+
+Touko
+「Aaah, ah! Ahaaah! Yo...Your hard thing's... grinding...nh... annnh! Hyauh! Aaahh! It's rubbing... It feels gooood... Ah, aaah!」
+
+
+Touko's insides feel like they're more clinging onto me than sticking as they stimulate my dick.
+
+％Ｂ
+「Aaagh...!?」
+My urge to ejaculate builds terrifyingly fast.
+We've only just started, but I can't defy the pleasure of doing it raw.
+Touko
+「Hiuhh!? Nnaahn! Aaaaahhhhh!」
+％Ｂ
+「Kuah... aaahh...!」
+I pull out from inside her at the last moment and spray my semen.
+Touko shudders all over in pleasure too, maybe from when I ripped myself out.
+
+Seeing Touko dirtied in white... is an obscenely pretty sight.
+Touko
+「Aah... haaahh...nh...! Hahh... hahh... M-More... Nnnh... Do it mooore...nh...! I want more...! Aah... aah, aah...!」
+
+
+She hungers for more in reaction to my semen.
+And it's not like I could ever be satisfied from just coming once at this point.
+％Ｂ
+「Me too... I want more of you too...!」
+Touko
+「Hurry...! Nkh... Hurry, I want... your dick...!」
+
+％Ｂ
+「Ngh, here I come...!」
+Touko
+「Aaaaaaaaaahh!」
+I thrust in all the way in one go.
+The smell of our sweat and bodily fluids mixing together fans our arousal, and we pleasure each other even more intensely.
+
+Touko
+「Aauh... Moooore...! Rub deep...nnh...! Aaah! Anh! Ahaaah! Use your dick... and thrust, and mix me... uuup...! Ah, aaahh!」
+
+
+I pull back as far as I can without pulling out in an attempt to change things up.
+Touko immediately responds by pulling herself closer to me.
+Touko
+「Aauh!? No, nooo! It's going to go out... Nooo...nh! Don't pull it out! My pussy's lonely... I don't want you tooo...!」
+
+
+％Ｂ
+「Aaagh...!?」
+She swallows me up inside and tightens.
+Numbness runs up and down my spinal column from the unexpected pleasure, stopping my movements.
+
+Touko
+「Don't... go away...nh! Anh! I don't want... to be separated even for a second today...! Auh! Nkh... fuaaah!」
+
+
+％Ｂ
+「Wait... T-Touko...!」
+Her hips jerk.
+Not just back and forth, but to the sides too. She adds twisting movements as she rubs me intensely.
+
+％Ｂ
+「Agh...! You can't...!」
+Touko
+「Aaahh! Nkh...nh... Nooo...nh! I want mooore...! Anh! 
+Ahaaah! Ple...Please... 
+
+aah... Ryousukeee...
+aah...
+!」
+％Ｂ
+「Hgh...!?」
+Her entire body wants me.
+Her intense movements and passionate gaze catch me unawares, melting away my rationality.
+
+Touko
+「It's your fault
+, Ryousuke
+
+...! Anh... You're the one who made me this way... nnnh! 
+So more...nh... Give me more of you
+, Ryousuke
+
+...! Ahaaah!」
+％Ｂ
+「All right... I'll give you all of me...!」
+If she wants me, then I'll give her what she wants.
+I slam my dick as hard as I can into her deepest parts.
+Touko
+「Auh!? Annnh! Aah... aaahh...! Tha...That... Oh my goddd...! Ahaaah! Aah... My mind's going all white... and nuuumb... aah...! Auh... Nnh...!」
+
+
+She lets me see and hear her face and voice, dripping with pleasure.
+Opening our hearts and bodies, hungering for each other together... feels so incredibly good.
+％Ｂ
+「Hah...gh...! Here goes again...!」
+Touko
+「Aaaahh! Auh... aah... aaahhh...! No...Nooo...nh...! A little...nh... slower...nhh...! Aauh... nnh...!」
+
+
+％Ｂ
+「Kh...! Again...gh...!」
+Touko
+「Kyaaahh! Aah... hah... aaaahhh...! Noo... You're going... to make me cooome...nh! Hah... auh...」
+
+
+Seeing her shake all over trying to resist the pleasure only serves to fan the flames of my lust.
+
+Touko
+「Kyauuuh! Aaahh! Hah... aah... auuuh...nh...! It... It feels good, nh... It's coming...nh...! My body's... going to... melt...! Aah... haaahh...!」
+
+
+I feel a surge of affection, as well as an urge to be mean.
+Loving Touko from the bottom of my heart just makes me want to bully her that much more.
+I hold my urges in with willpower and stop moving my hips.
+I whisper softly with my dick still deep inside her.
+％Ｂ
+「...Touko. I love you.」
+Touko
+「Aah... aaahhh...!? Nooo...nh... That's not fair...! No, I'm going to... Aaaahhhhh!」
+
+％Ｂ
+「Gh...!」
+I figured this would work even better now than before... but I never thought it would make her come right away.
+
+
+Touko
+「Aaah... aaaahh...! Hauh... nnnh...! Hah... haahh...nh... Stu...Stupid...! That wasn't fair...!」
+
+
+％Ｂ
+「Hahh... It's 'cause you're too sensitive...!」
+Touko
+「Nkh... Because it feels good...! Hah... Two can play that game... nnh!」
+
+％Ｂ
+「Aagh!?」
+She squeezes tight around me, even though she's only just come.
+She brings herself closer and speaks tenderly to me.
+Touko
+「I love you, I love you so much...! Nnhh... I love you more than anyone
+, Ryousuke
+
+...! You're the most important boy in the world to me, and I love you more than anyone else in the whole world...」
+
+％Ｂ
+「Aaagh...!?」
+Touko
+「I like to be spoiled, and I like messing with you...! Nkh... And that's only with you
+
+, Ryousuke
+
+, okay...?」
+％Ｂ
+「Auuughh!」
+This isn't good...!
+The fact that she never said things like this out loud until now just makes it all the more effective...!
+Touko
+「Ahah, you're so cute... Could you let me hear you make more of those sounds...? Nnnh... Let me see more... ahn... of your face when you're trying to hold it in...!」
+
+
+％Ｂ
+「Kh... aagh...!」
+She deftly moves her hips up and down, side to side.
+This time, it's my turn to be pushed toward my limit.
+Touko
+「Aanh...! Hey, does it feel good...? Nkh... Tell me more about how you feel, okay...?」
+
+％Ｂ
+「Aah...gh...nh...! All right, I wanna tell you too...!」
+We stimulate each other using the most effective method yet―being honest about the way we feel.
+It's a source of pleasure and bliss unlike anything we've felt before.
+％Ｂ
+「You're so important to me, and I love you more than anyone...! Gh... I love that you let me spoil you, and I always wanna be with you...!」
+
+Touko
+「Auuuh! Ahn! Hahh... I'm so happy... nnh! Ahaah! I... I feel the same, you know... Nkh... I always want to be with... fuaaahh!」
+
+
+We each bare our own hearts and tenderly caress the other's.
+We use our words to stimulate our most sensitive parts and push our pleasure to incredible heights.
+
+Touko
+「I love you, I love yooou...nh...! Ahn! Everything you do for me... auh... I love it all so much...! Aaah!」
+
+
+Touko
+「
+Ryousuke, your 
+Your 
+hands, your voice... nnnh... your smell too...! Nkhh... I love every single thiiing...! Auuuh!」
+
+
+％Ｂ
+「I love your face when you're smiling, or when you look like you're about to cry...! Kh... Or when you're having fun messing with me...! I love all of it...!」
+
+
+Touko
+「Aaahh! When we're holding hands...nh... When we're holding each other... Nnnh! Auh! Just being together always... always makes my heart beat so fast...! Kyauh! Ahaah!」
+
+
+％Ｂ
+「I want to touch you more...! I want to kiss you more, and hug you more...! Gh... I want... all of you...!」
+
+Touko
+「You make me feel so warm... ahn... and so lonely...! Aaah! So... So, more...nh...! Auh! Nhah!」
+
+
+We slam our overflowing feelings together.
+It may not be elegant, but this is the way that makes the most sense to us.
+
+Touko
+「It's good, it feels good...! Aaahh! Auuuh! I want to connect more...! Anh! More... I want...nh... to connect deeper...!」
+
+
+％Ｂ
+「Gh... More, deeper...!」
+I interlock my fingers with hers and squeeze her hand tight.
+Touko responds by squeezing back hard immediately.
+Touko
+「Kyan! Ah! Aaahh...nh! Weaving our fingers together... feels good...! Auh! More... Squeeze tighter...nh! Fuaahh! Annnh!」
+
+
+％Ｂ
+「Okay...! More...gh...!」
+We want to connect hard, and deep.
+We hunger only for each other, without paying any mind to the puddle of our dripping sweat and mingling fluids that's steadily spreading across the sheets.
+
+Touko
+「Aaah! Mo...re, dirtier...! Anh! Bully me... in that dirty way...nh! Ahaah! I want... to drown in this...! Auh! Ah! Aaahh!」
+
+
+％Ｂ
+「Gh... You're asking for a lot...!」
+Touko
+「Nkh... Because
+, Ryousuke, 
+ 
+you're the only one... I can be selfish like this with...!」
+Touko
+「Aahn! Hahh...nh... I'm going to get you to spoil me lots...nh! Aaah! Fuaah!」
+
+My response to her may have sounded composed, but her words are actually hitting me really hard right now.
+
+There's no way I could hold myself back... not when she wants me with that expression, that voice, the way she's acting.
+
+Touko
+「Take all of my gaps...! In my heart, and my body...! Aahn! And fill them with your love...nh!」
+
+％Ｂ
+「Hahh...gh...!」
+Touko
+「Aaahh!? Yo...Your dick got bigger... Auh!? Ahaah! No...Noo, this...! Aunhh!? Nooo...nh! You'll spread... my pussy... aaahhh!」
+
+
+Her dripping insides smoothly swallow up my dick.
+Pulling my hips back scoops out more new juices to wet my crotch, and pushing my hips back in again makes an obscene squelching sound.
+
+Touko
+「Nnnhh! Hah... aah! Fuaaahh! I...I'm feeling too much... aaahh! Kyauh! I'm going numb... deep in my belly... unh! Nnhah!」
+
+
+％Ｂ
+「Then... wanna stop...!?」
+Touko
+「Nooo! Don't stop...nh! Aah, aaah! We're doing more...! Auh! This is... It's my dick now...!」
+
+
+％Ｂ
+「Wha...?」
+Touko
+「Kyauuuh! I...I'm not letting go anymooore...nh! Nnh! I want you... to stay inside... foreveeer...! Fuaaahh!」
+
+
+She's selfish, greedy, and loves messing with me.
+She loves to be spoiled, and she's bad at being patient... She's my adorable Touko.
+Touko
+「Auuh! Hah... aahh! I love youuu...! I love you so much... aah... I'm scared...! Aaah! Annh! Wha...What should I do...nh?」
+
+
+％Ｂ
+「That's fine, isn't it...!? I'm happy...! I want you to love me more and more...!」
+
+Touko
+「Kyauh! Aah! Is... Is it okay...!? I warned you, okay...!? Nnh! Aah... I'm... always going to have you be as close as possible...! Anh!」
+
+
+％Ｂ
+「Bring it on...! And you better not... just suddenly up and disappear either, all right...!?」
+
+Touko
+「Auh! Anh! Aah... I won't go anywhere... nnnh... if you never let me go...! So you better... always hold me tight, okay...!? Aah! You can't let me go, okay...!?」
+
+
+％Ｂ
+「Like I'd ever let you go...! Even if you just start walking off somewhere... I'll cling to you and won't let you go...!」
+
+We confirm our feelings over and over and tie our hearts back together.
+I'm sure my face would burst into flames from embarrassment when I think back on these words later... but I don't care. All that matters is what they mean right now, this very moment.
+
+Touko
+「Mhm... It's a promise...! Anh! Because I'm... nnh... not letting you go eitheeer...! Aaahh!」
+
+
+％Ｂ
+「That's fine...! That makes me happy too...nh...!」
+Touko
+「We're always, always going to walk arm in arm, okay...!? Ahaahh! We'll always be together, no matter where we go...nh...! Auuh! Hyaaah!」
+
+
+％Ｂ
+「What are we gonna do... about taking baths and going to the bathroom...!?」
+Touko
+「We'll just do it together...! Auh! We'll be able to do it...nh... if we live together, right...!? Nkh... aah!」
+
+
+I know that what we're saying is stupid.
+But while we're overlapping our hearts and our bodies in this moment... it's all serious.
+
+Touko
+「That's why...nh... Ahn! I want to come together too...! Aaahh! I wanna come together... with you...! I want us... nkh... to feel good together...gh... ahaaah!」
+
+
+％Ｂ
+「Gh...!」
+Touko's insides clench as she says "come" out loud.
+My body reacts in kind, invited in by her face slack with pleasure.
+Touko
+「Ahn! Hiuh... nnaaahh...! Let's come, okay...? Nnhh... I wanna do it together...nh! Auuuh! Fuaah! Come... togetheeer...nh!」
+
+
+％Ｂ
+「Aagh...! So tight...gh...!」
+The pressure inside her changes in time with the movement of my hips.
+Tight when I push in deep, gentle when I pull back.
+She rubs her inner walls hard against me, hungrily swallowing my dick up to bring us both closer to climax.
+
+Touko
+「Aaahh! It... It feels so good...! Aaahn! Hyauuh! Nooo! Aah, it's so good...! It feels good deeep...nh! Fuaaah! Auuuh!」
+
+
+Shivers run up and down my spine, and my vision's flashing.
+Pleasure consumes my entire being. The only thing I can think about is climaxing together with Touko.
+
+Touko
+「Anh! I...I'll do my best...nh! Aaah! I'll make you feel good... aah... So make me come toooo...nh! Ah, aahh! Hanh! Hah... aaahh...!」
+
+
+％Ｂ
+「Hgh... Got it! Here I go...!」
+I use the remaining strength I have and start the last spurt.
+I'm afraid I might break her slender frame, but I keep going after seeing her so desperate to take me in.
+
+Touko
+「Ahaaahh! Aah, nnhaaah! It...It's good, it feels gooood...! Annnh! I... I like it rough...nh! Kyauuhh! Fuaahh!」
+
+
+％Ｂ
+「Hah... kh... gh...!」
+She's stroking against my dick all the way up to the base.
+Pleasure electrifies my nerve endings, snatching away my ability to think and reason freely.
+Touko
+「Mo...re...! Anh! Aah! I want everything...! Hyaahh! I want all of your feelings...! Aaah! Let it all out... inside me...nh! Ahaaah!」
+
+
+Her body follows suit by clamping tight, trying to squeeze every last drop of semen out of me.\n\r
+
+But I have to bear it until I can make Touko come...!
+％Ｂ
+「Kuah...gh...! T-Touko...! Stop holding it in and come already...!」
+
+Touko
+「Hyaaah! Auuuh! I... I can't, not yet...! Annnh! I'm going to do my best...nh... until this little guy comes...! Aaah! Ah! Hyaaah!」
+
+
+Even my fingers are starting to tingle at this point.
+My body cries out for oxygen, but no matter how much I pant, it's not enough. The tingling only spreads more and more.
+
+Touko
+「Nooo... aahh! I... like it theeere...nh! Ahaahh! Auh!? Nnhah! You... You caaan't! Not just that spot... aahh! I'll come...nnnh!」
+
+
+She shivers violently from trying to resist the pleasure when I rub hard against her deepest parts, where she's most sensitive.
+
+％Ｂ
+「You... like it here, right...!? I'll do it even harder...!」
+Touko
+「Nooooo! Anh! I... I can't... hold it iiin... Ahaaah! I'm comiiing! I'm going to cooome! Anh! Aah! Aaaahhh!」
+
+
+％Ｂ
+「Ugh...gh...!」
+We're both nearly at our limits.
+I just keep slamming my hips against her, swept away by the waves of pleasure.
+Touko
+「I...I'm coming, coming, I'm going to... aaahhh! I can't anymoooore! I'm going to cooome! Aaahh! Aaahhh!」
+
+
+％Ｂ
+「It's, okay...! I'll come too...!」
+I feel an itchy, numbing sensation.
+My urge to ejaculate runs wild in my hips. I can't hold it in any longer.
+％Ｂ
+「I... can't anymore...! I'm coming...!」
+Touko
+「Aah!? Aaahhhhhhhhhhh!」
+Touko and I achieve climax at the same time.
+I feel intense tremors against my dick at the same time I reach my limit for holding in my pleasure.
+
+Touko
+「Aah... aaaahhhh...nh...! Hah... auuh...gh... Ahaaahh...! I... I caaame...nh...」
+
+％Ｂ
+「Hahh... hahh...gh... M-Me too... kh...!」
+I spew out tons of semen inside her.
+I pour everything, including my feelings for Touko, into her body and heart.
+Touko
+「Mm, I can feel it... hahh...nh... Your dick's... throbbing inside me... nnh...! Hahh... hahh... There's so much coming out...nh...!」
+
+
+We bask in the afterglow of orgasm together.
+Intense reverberations dominate my body, accompanied by a powerful sense of fatigue.
+
+％Ｂ
+「Hahh... hahh... I'm gonna pull out, okay...?」
+Touko
+「Nnh... No, not yet... I haven't shown you everything yet... I've still got lots of feelings to show you...!」
+
+％Ｂ
+「Wha...?」
+Touko
+「I said it might take all night, didn't I...? Ehehe, and besides... this little guy's still full of energy...」
+
+My dick's still hard, just like she says.
+It's twitching inside her, seeking further pleasure from her hot inner walls.
+Touko
+「Come on, show me more... Let's trade our feelings with each other, okay
+, Ryousuke
+
+...? Nnh... Come on, hurryyy...!」
+
+％Ｂ
+「Aagh...!? Wait, Touko...!」
+Touko
+「I still haven't said enough...! Auh... I want to tell you I love you more...! Nkh... I want to say everything, to make up for all the times I haven't said it...!」
+
+％Ｂ
+「W-Wait...gh! We can keep going, but let me take a break... auh! You're clamping...nh... aahhh...!」
+
+Touko
+「I'll wait... if you'll promise to keep going after... nnaahn...! I don't want to have to stop...!」
+
+％Ｂ
+「F-Fine, I get it...! We'll do it until you're satisfied... urkh...!」
+
+Touko
+「Yaaay... nnh...! Then let's continue... right away, okay...? Nkh... Let me tell you I love you lots more...nh!」
+
+Our relationship begins anew tonight.
+Let's hold each other's hands tight... and place our feelings and bodies together until we run out of strength.
+
+dummy
+_00com
+bgm11
+bgm11
+_00grp
+bg202
+_02smh
+sumaho_vibe_one
+_02smh_01lime
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+se0024_01
+_02smh_auto
+_00grp
+bgm14
+bgm14
+bg103_00
+_00grp
+bg104
+_00bup
+bs_sy01_03
+_00bup
+bs_sy01_0401
+all
+_00bup
+_00bup
+all
+_00bup
+bs_sy01_01
+_00bup
+_00bup
+bs_sy01_0608
+_00bup
+bs_sy01_05
+_00bup
+bs_sy01_08
+all
+_00bup
+_00bup
+all
+_00grp
+_00grp
+bg115
+sumaho_vibe_one
+_02smh_01lime
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_02smh_01lime
+_02smh_01lime
+_00_mess
+_00_mess
+_00_mess
+se0024_01
+_02smh_auto
+bg501
+kyukan_door1
+_00grp
+bg115
+_00bup
+bs_tk02_02
+_00bup
+bs_tk02_02
+all
+_00bup
+_00bup
+all
+_00grp
+_00grp
+bg115
+_00bup
+bs_tk01_06
+_00bup
+bs_tk01_0802
+_00grp
+_00grp
+bg107_04
+_00bup
+bs_nt03_02
+camera_1shot
+_00bup
+bs_sr02_1011
+_00bup
+bs_nt03_02
+_00bup
+bs_nt13_0603
+_00bup
+bs_sr01_03
+_00bup
+bs_nt13_03
+all
+_00bup
+_00bup
+all
+bs_rk02_0901
+none
+_00bup
+bs_nt02_0201
+camera_1shot
+_00bup
+bs_sr03_04
+_00bup
+bs_sr01_04
+_00bup
+bs_nt02_03
+_00bup
+bs_sr02_02
+_00bup
+_00bup
+bs_sr02_0910
+_00bup
+bs_nt02_01
+_00bup
+bs_sr01_0302
+_00bup
+bs_sr02_10
+all
+_00bup
+_00bup
+all
+_00grp
+_00grp
+bg107_04
+_00bup
+bs_rk02_01
+_00bup
+bs_sr03_01
+_00bup
+bs_sr03_03
+_00bup
+bs_rk02_06
+_00bup
+bs_sr02_11
+_00bup
+bs_rk03_06
+_00bup
+bs_nt03_03
+_00bup
+bs_rk13_02
+_00bup
+bs_sr01_02
+camera_sousa
+all
+_00bup
+_00bup
+all
+_00bup
+bs_tk01_06
+_00grp
+_00grp
+bg102
+camera_1shot
+_00grp
+_00bup
+bs_nt02_0102
+gakuen_door1
+_00grp
+bg111_00
+_00bup
+bs_ms03_01
+_00bup
+bs_ms01_02
+_00bup
+bs_ms01_03
+all
+_00bup
+_00bup
+all
+_00bup
+bs_mr02_05
+_00bup
+bs_mr01_02
+_00bup
+bs_nt02_02
+_00bup
+bs_mr01_02
+_00bup
+bs_nt02_01
+camera_1shot
+_00grp
+all
+_00bup
+_00bup
+all
+_00bup
+bs_tk02_0602
+_00bup
+bs_nt03_0102
+_00bup
+bs_tk02_0602
+_00bup
+_00bup
+bs_nt13_0201
+_00bup
+bs_nt13_0102
+gakuen_door1
+_00bup
+bs_nt
+_00bup
+bs_tk01_1102
+_00bup
+bs_tk01_06
+_00bup
+bs_tk01_09
+_00bup
+_00bup
+bs_tk02_04
+_00bup
+bs_tk12_03
+all
+_00bup
+_00bup
+all
+_00grp
+bgm15
+bgm15
+bg102e
+_00grp
+bg102e
+_02smh_auto
+_02smh_auto
+_02smh_06tell
+sumaho_call
+se0024_01
+_02smh_auto
+_02smh_auto
+_02smh_auto
+_02smh_01lime
+_02smh_01lime
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+se0024_01
+_02smh_auto
+_00grp
+_00grp
+bg117e
+_00grp
+kyukan_door1
+bg115e
+bgm02
+bgm02
+_00grp
+bg115e
+_00bup
+bs_tk01_0602
+_00bup
+bs_tk01_1312
+_00bup
+bs_tk01_1102
+_00com
+_00bup
+bs_tk01_0602
+_00bup
+bs_tk02_09
+_00bup
+bs_tk02_0602
+_00bup
+_00bup
+bs_tk02_1201
+_00bup
+bs_tk02_0902
+_00bup
+_00bup
+bs_tk02_1302
+all
+_00bup
+_00bup
+all
+_00bup
+bs_tk02_0605
+_00bup
+bs_tk01_12
+_00bup
+bs_tk01_0605
+_00bup
+bs_tk01_13
+_00grp
+bgm31
+bgm31
+bg503
+bg107n
+_00grp
+bg107n
+_00grp
+_00grp
+cg_tk01_0111
+_00grp
+gakuen_door_tetsu1
+_00grp
+bg107n
+_00cutincg_macro
+bg107n
+bu_tk01_12
+_00grp
+_white
+ef_sasakazari
+soyokaze
+sasanoha
+bgm32
+bgm32
+_00grp
+cg_tk14_010101
+_00grp
+cg_tk14_010102
+_00grp
+cg_tk14_010101
+_00bup
+_00bup
+cg_tk14_010202
+_00grp
+cg_tk14_010101
+_00bup
+_00bup
+cg_tk14_010201
+_00grp
+cg_tk14_010101
+_00grp
+cg_tk14_010301
+soyokaze
+sasanoha
+_00grp
+cg_tk14_010201
+_00grp
+cg_tk14_010302
+gakuen_door_tetsu1
+_00bup
+bs_mr02_04
+_00grp
+cg_tk14_010202
+_00bup
+bs_mr01_04
+_00grp
+cg_tk14_010301
+_00bup
+bs_mr01_02
+_00bup
+bs_sr03_03
+_00bup
+bs_sr02_11
+_00bup
+bs_rk02_10
+_00bup
+bs_rk03_1505
+_00bup
+bs_nt03_03
+_00bup
+bs_nt01_02
+_00bup
+bs_ms01_03
+_00bup
+bs_ms01_02
+_00grp
+cg_tk14_010302
+_00bup
+bs_ms11_03
+_00bup
+bs_mr03_04
+_00bup
+bs_sr01_02
+_00bup
+bs_nt02_02
+_00bup
+bs_rk03_02
+_00grp
+cg_tk14_010602
+_00grp
+cg_tk14_010501
+_00bup
+bs_nt01_01
+_00bup
+bs_mr02_04
+_00bup
+bs_ms33_04
+_00bup
+bs_sr03_03
+_00bup
+bs_rk11_02
+_00bup
+bs_nt03_02
+_00grp
+cg_tk14_010602
+_00com
+_00grp
+cg_tk14_021208
+_00grp
+cg_tk14_021107
+_00bup
+_00bup
+cg_tk14_021208
+_00grp
+cg_tk14_021211
+_00bup
+bs_nt13_02
+_00bup
+bs_mr02_03
+_00bup
+bs_sr02_10
+_00bup
+bs_rk03_09
+gakuen_door_tetsu1
+soyokaze
+sasanoha
+_00grp
+cg_tk14_021111
+_00bup
+_00bup
+cg_tk14_021112
+_00grp
+cg_tk14_021107
+_00grp
+cg_tk14_021212
+_00com
+_00grp
+cg_tk14_021112
+_02smh
+bgm116
+bgm116
+_00grp
+cg_tk14_021111
+_00grp
+cg_tk14_021107
+_00grp
+cg_tk14_021111
+_00grp
+cg_tk14_021212
+_00grp
+cg_tk14_020909
+_02smh
+bgm32
+bgm32
+_00grp
+cg_tk14_020809
+_00com
+_00grp
+cg_tk14_021211
+_00grp
+cg_tk14_020807
+_00com
+_00grp
+cg_tk14_020909
+_00grp
+_00grp
+bgm37
+bgm37
+bed_taoreru
+cg_tk15_0144
+_00grp
+cg_tk15_0144
+_00grp
+cg_tk15_0162
+_00grp
+cg_tk15_0155
+_00grp
+cg_tk15_0111
+_00grp
+cg_tk15_0151
+_00com
+_00grp
+cg_tk15_0152
+_00grp
+cg_tk15_0121
+_00grp
+cg_tk15_0152
+_00com
+_00grp
+cg_tk15_0112
+_00grp
+cg_tk15_0133
+_00grp
+cg_tk15_0254
+_00bup
+_00bup
+cg_tk15_0246
+_00grp
+cg_tk15_0251
+_00grp
+cg_tk15_0244
+_00grp
+cg_tk15_0265
+_00grp
+cg_tk15_0253
+_00grp
+cg_tk15_0211
+_00grp
+cg_tk15_0244
+_00bup
+_00bup
+cg_tk15_0264
+_00grp
+cg_tk15_0252
+_00grp
+cg_tk15_0245
+_00bgv
+bgv_tk01
+_00grp
+cg_tk15_0266
+_00bup
+_00bup
+cg_tk15_0245
+_00grp
+cg_tk15_0256
+_00grp
+cg_tk15_0245
+_00grp
+cg_tk15_0254
+_00bup
+_00bup
+cg_tk15_0246
+_00grp
+cg_tk15_0266
+_00grp
+cg_tk15_0255
+_00grp
+cg_tk15_0265
+_00grp
+cg_tk15_0354
+_00grp
+cg_tk15_0311
+_00bup
+_00bup
+cg_tk15_0352
+_00grp
+cg_tk15_0412
+_00com
+_00grp
+cg_tk15_0422
+_00grp
+cg_tk15_0432
+_00grp
+cg_tk15_0452
+_00grp
+cg_tk15_0461
+h_sounyu_yukkuri
+_00grp
+cg_tk15_0545
+_00grp
+cg_tk15_0556
+_00grp
+cg_tk15_0545
+_00grp
+cg_tk15_0566
+_00grp
+cg_tk15_0565
+_00bup
+_00bup
+cg_tk15_0546
+_00grp
+cg_tk15_0566
+h_sounyu_ikki
+_00grp
+cg_tk15_0546
+_00bgv
+bgv_tk02
+_00grp
+cg_tk15_0545
+_00grp
+cg_tk15_0546
+_00bup
+_00bup
+cg_tk15_0565
+h_sounyu_normal
+_00grp
+cg_tk15_0546
+_00grp
+cg_tk15_0645
+_00grp
+cg_tk15_0646
+_00bup
+_00bup
+cg_tk15_0666
+_00grp
+cg_tk15_0655
+h_sounyu_ikki
+_00grp
+cg_tk15_0745
+_00grp
+cg_tk15_0766
+_00bgv
+bgv_tk02
+_00grp
+cg_tk15_0745
+_00grp
+cg_tk15_0766
+_00bup
+_00bup
+cg_tk15_0746
+h_sounyu_normal
+_00grp
+cg_tk15_0766
+_00com
+_00grp
+cg_tk15_0755
+_00com
+h_sounyu_ikki
+_00grp
+cg_tk15_0745
+_00bup
+_00bup
+cg_tk15_0766
+h_sounyu_normal
+_00grp
+cg_tk15_0745
+_00bup
+_00bup
+cg_tk15_0765
+h_sounyu_ikki
+_00grp
+cg_tk15_0745
+_00bup
+_00bup
+cg_tk15_0766
+h_sounyu_yukkuri
+_00grp
+cg_tk15_0745
+_00grp
+cg_tk15_0763
+_00bup
+_00bup
+cg_tk15_0745
+_00grp
+cg_tk15_0746
+_00bup
+_00bup
+cg_tk15_0756
+_00grp
+cg_tk15_0754
+_00bup
+_00bup
+cg_tk15_0743
+h_sounyu_yukkuri
+_00grp
+cg_tk15_0764
+_00com
+_00grp
+cg_tk15_0752
+_00com
+_00grp
+cg_tk15_0762
+_00grp
+cg_tk15_0752
+_00grp
+cg_tk15_0746
+_00bup
+_00bup
+cg_tk15_0766
+_00bgv
+bgv_tk02
+_00grp
+cg_tk15_0755
+_00grp
+cg_tk15_0766
+_00com
+_00grp
+cg_tk15_0746
+_00grp
+cg_tk15_0756
+_00bup
+_00bup
+cg_tk15_0745
+_00grp
+cg_tk15_0765
+_00grp
+cg_tk15_0746
+_00bup
+_00bup
+cg_tk15_0766
+_00grp
+cg_tk15_0745
+_00grp
+cg_tk15_0766
+_00com
+_00grp
+cg_tk15_0752
+_00bup
+_00bup
+cg_tk15_0746
+_00grp
+cg_tk15_0766
+h_sounyu_normal
+_00grp
+cg_tk15_0745
+_00grp
+cg_tk15_0746
+_00grp
+cg_tk15_0765
+_00grp
+cg_tk15_0745
+_00grp
+cg_tk15_0766
+_00grp
+cg_tk15_0745
+_00bup
+_00bup
+cg_tk15_0756
+_00grp
+cg_tk15_0746
+_00bup
+_00bup
+cg_tk15_0755
+_00grp
+cg_tk15_0766
+_00bup
+_00bup
+cg_tk15_0745
+_00grp
+cg_tk15_0766
+_00bup
+_00bup
+cg_tk15_0745
+_00grp
+cg_tk15_0755
+_00bup
+_00bup
+cg_tk15_0746
+_00grp
+cg_tk15_0766
+_00grp
+cg_tk15_0745
+_00bup
+_00bup
+cg_tk15_0766
+h_sounyu_yukkuri
+_00grp
+cg_tk15_0745
+_00grp
+cg_tk15_0756
+_00bup
+_00bup
+cg_tk15_0745
+h_sounyu_ikki
+_00grp
+cg_tk15_0745
+_00grp
+cg_tk15_0765
+h_sounyu_normal
+_00grp
+cg_tk15_0746
+_00grp
+cg_tk15_0765
+h_sounyu_ikki
+_00grp
+cg_tk15_0745
+_00grp
+cg_tk15_0766
+_00grp
+cg_tk15_0845
+_00grp
+cg_tk15_0846
+_00grp
+cg_tk15_0866
+_00grp
+cg_tk15_0854
+_00grp
+cg_tk15_0862
+_00grp
+cg_tk15_0852
+_00com
+_00grp
+cg_tk15_0846
+_00grp
+cg_tk15_0852
+_00grp
+cg_tk15_0862
+_00grp
+_00grp
+_00com

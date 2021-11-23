@@ -1,0 +1,365 @@
+﻿1006
+金
+1026
+木
+Azuma
+「You have those materials ready?」
+％Ｂ
+「Yes, I do.」
+Azuma
+「Good. Then make ten copies each of those. And make sure you eat. Today's going to be a tough day.」
+
+
+％Ｂ
+「I understand. I'll go bolt some food down!」
+all
+Once I'm done preparing the materials, it's time for a quick lunch break.
+I get my lunch ready, and...
+％Ｂ
+「Hm? It's Marika.」
+It's a LIME message from her.
+【Marika】「When are you going to #Nbe done today? Want to #Ngo home together if the #Ntime works out?」
+【％Ｂ】「I have a conference #Nmeeting today, but #Nprobably around 7. Does #Nthat work?」
+【Marika】「Yeah, that works. #NI wanted to buy rice, #Nbut it's heavy so I was #Nthinking of asking my #ndependable husband to #Nhelp.」
+【Marika】_st_0110
+【％Ｂ】「I get it now. You can #Ncount on me. I'll carry #Nas many bags as you #Nwant.」
+【Marika】「I won't buy that many～ #NI'll see you at 7, then.」
+【％Ｂ】「I'll let you know when #NI'm done.」
+【Marika】「Thanks again, really.」
+【Marika】_st_0102
+％Ｂ
+「Okay! Eat, and then work!」
+Marika
+「Are you okay? Isn't that heavy?」
+％Ｂ
+「I'm totally fine. I may look the way I do, but I do carry materials at the construction site and stuff.」
+
+
+Marika
+「Wow～ Architects do things like that too?」
+％Ｂ
+「Yeah, since I'm still a novice. But working at the site is a good way to know what's going on, and I get to be on better terms with the foreman and the construction workers.」
+
+
+％Ｂ
+「The veteran workers sometimes turn up their noses at what a young whippersnapper like me says... but at least I'm acknowledged for being there.」
+
+
+Marika
+「Really. That sounds like a lot of work.」
+％Ｂ
+「No, it's fun. We're all on the same side, 'cause we wanna make a good house together.」
+
+Marika
+「Oh really. I'd be happy having an architect like you, Ryousuke. I wish you could build a house for us someday.」
+
+
+Marika
+「Oh really. I'd be happy having an architect like you. I wish you could build a house for us someday.」
+
+
+％Ｂ
+「I'll do it. I'll design our house and build it... that's another dream of mine I wanna fulfill.」
+
+
+Marika
+「Okay, I'm looking forward to it♪」
+all
+I wonder what our family'll be like by then.
+How many kids will we have, and how old will they be?
+I wonder if we'll have boys or girls.
+It's fun imagining what changes I'd make to the house plan, depending on what our family might be.
+
+Marika
+「Oh... Can we stop by this drugstore real quick?」
+％Ｂ
+「Drugstore? Sure, but why? You feeling sick or something?」
+
+Marika
+「No, I'm not... It'll be really quick.」
+
+all
+She leaves without giving a clear answer.
+Is she gonna buy something that's awkward to talk about?
+％Ｂ
+「Like... a stamina tonic or something?」
+Is tonight gonna be a night of passion?
+Marika
+「N-No, it's not～」
+She turns bright red.
+It apparently wasn't a stamina tonic.
+％Ｂ
+「What other options are there? ...Oh, is it something for your period or...」
+Marika
+「I don't think it's that either～」
+She denies that too.
+％Ｂ
+「Oh, sorry. Maybe I shouldn't ask, then?」
+Marika
+「Oh, no, it's okay～ It's not something that weird～」
+Marika
+「Um, it's the opposite. Um... I haven't had my period in a while...」
+
+％Ｂ
+「You haven't had your... Wait, doesn't that mean...?」
+
+Marika
+「I-I don't know for sure yet! But it's never been this late before... so I thought it might be good to check.」
+
+
+She opens the drugstore bag.
+As expected, there's a pregnancy test inside.
+％Ｂ
+「Let me take a look at it.」
+Marika
+「O-Okay～」
+all
+I take the box from her and look at it.
+It apparently takes a minute to know the results after you put urine on the tip.
+％Ｂ
+「So it's that quick...」
+Marika
+「It's just a simple test, though. A-Anyway... Off I go～」
+
+％Ｂ
+「S-Sure.」
+She heads toward the toilet.
+I'm starting to get nervous...
+Eventually, she comes back.
+％Ｂ
+「H-How'd it go?」
+Marika
+「...U-Umm... It's a bit early for you to look... it's kind of embarrassing～ I peed on this...」
+
+
+％Ｂ
+「Don't worry about that stuff. I wanna know the results.」
+Marika
+「Okay... Yeah, you're right. H-Here you go～」
+
+She silently hands over the pregnancy test.
+％Ｂ
+「Two red lines... So that means...」
+Marika
+「...It tested positive...」
+％Ｂ
+「And so, that means...」
+Marika
+「It looks like we made a baby... We still don't know for sure until we get a hospital to check, but...」
+
+
+％Ｂ
+「Oh, really... We made one... I see...」
+all
+Marika's got a kid in her.
+It's ours... My kid.
+This doesn't feel real at all.
+We won't know if she's really pregnant until she gets tested... but...
+
+But...
+％Ｂ
+「We did it, Marika!!」
+My emotions overwhelm me, and I hug her tight.
+Marika
+「Hah～」
+But Marika's got a blank look on her face.
+Marika
+「...U-Umm... I'm sorry, I don't know how to react... This has never happened to me before, so...」
+
+
+％Ｂ
+「Y-Yeah, that's true.」
+％Ｂ
+「But... I'm really happy. This is our kid we're talking about here!」
+
+Marika
+「Yeah, you're right... Our baby...」
+
+Tears suddenly fall from her eyes as she says it.
+
+％Ｂ
+「H-Hey? What are you crying for?」
+Marika
+「I can't help iiit... I'm so happy～ We're going to have... a baby～」
+
+She's wiping at her face with her hands as she cries like a child.
+Marika
+「Fueeehhh... I'm so happy～」
+％Ｂ
+「...Ahaha. Yeah, me too, Marika. Thanks.」
+
+all
+Marika
+「Fueeeehhh～～～」
+I gently embrace her as she continues to cry.
+No. I'm not just embracing Marika.
+Our child is here too.
+We're a family of three now.
+Marika
+「I-I'm so happy... Fueeehh～～～」
+I gently stroke her shoulders.
+Her tears of joy continue on for what seems like forever.
+dummy
+_00com
+bgm17
+_00grp
+bg408
+_00bup
+bs_az01_04
+_00bup
+bs_az01_08
+_00bup
+_00bup
+bs_az01_06
+all
+_00bup
+_00bup
+all
+sumaho_vibe_one
+_02smh_01lime
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+se0024_01
+_02smh_auto
+_00_mess
+_00grp
+bgm16
+_00grp
+bg312_01e
+_00bup
+bs_mr12_0101
+_00bup
+bs_mr12_0202
+_00bup
+bs_mr12_01
+_00bup
+_00bup
+bs_mr12_02
+_00bup
+bs_mr12_03
+_00com
+_00bup
+_00bup
+bs_mr12_04
+_00bup
+bs_mr12_01
+_00bup
+_00bup
+bs_mr12_04
+_00bup
+bs_mr12_01
+_00bup
+bs_mr12_0505
+all
+_00bup
+_00bup
+all
+_00bup
+bs_mr01_08
+_00bup
+_00bup
+bs_mr01_01
+_00bup
+bs_mr03_0101
+_00bup
+_00bup
+bs_mr03_02
+_00bup
+bs_mr
+all
+_00bup
+_00bup
+all
+_00grp
+bgm52
+_00grp
+bg407n
+_00bup
+bs_mr12_1111
+_00bup
+bs_mr12_09
+_00bup
+bs_mr12_11
+_00bup
+bs_mr01_1010
+_00bup
+bs_mr01_0909
+_00bup
+_00bup
+bs_mr01_08
+_00bup
+bs_mr01_01
+_00bup
+bs_mr01_1010
+all
+_00bup
+_00bup
+all
+_00bup
+bs_mr01_02
+_00bup
+_00bup
+bs_mr02_11
+_00bup
+bs_mr
+_00grp
+bgm32
+_00grp
+bg407n
+_00bup
+bs_mr01_10
+_00bup
+_00bup
+bs_mr01_11
+_00bup
+bs_mr01_0201
+_00bup
+_00bup
+bs_mr01_11
+_00bup
+bs_mr01_0601
+_00bup
+_00bup
+bs_mr01_01
+_00bup
+bs_mr01_1010
+_00bup
+_00bup
+bs_mr01_1201
+all
+_00bup
+_00bup
+all
+dakituku
+_00bup
+bu_mr01_08
+_00bup
+bu_mr01_0909
+_00bup
+bu_mr01_1010
+_00bup
+_00bup
+bu_mr01_1008
+_00bup
+bu_mr01_1111
+_00bup
+_00bup
+bu_mr02_12
+_00bup
+bu_mr02_0808
+_00bup
+bu_mr02_1212
+all
+_00bup
+_00bup
+all
+bg503
+_00com

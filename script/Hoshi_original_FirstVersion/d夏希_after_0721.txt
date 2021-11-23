@@ -1,0 +1,265 @@
+﻿0720
+月
+0721
+火
+The next morning.
+We're eating breakfast with the TV on.
+Natsuki
+「Want another slice of toast?」
+％Ｂ
+「Yeah, thanks.」
+all
+Announcer
+『And so, we had newscaster Morishita go to Shionagi's beach after it opened the previous day. Please enjoy this footage.』
+
+
+％Ｂ
+「Hm... Shionagi's beach?」
+Something the voice on the TV said catches my interest, and I turn to look.
+
+Interviewer
+『Here I am, at Shionagi's beach. It is currently the 20th, which means the beach was opened to the public just yesterday～』
+
+％Ｂ
+「Wait a second... This is... Hey, Natsuki!」
+Natsuki
+「Hm? Want two slices instead?」
+％Ｂ
+「Not the toast! Look at the TV for a second.」
+Natsuki
+「Hmm? Oh, is this the thing from yesterday? I wonder if we're going to appear on TV.」
+
+％Ｂ
+「No idea. There were a lot of people getting interviewed, so we might've been cut―」
+
+Natsuki
+「Ahhhh!」
+％Ｂ
+「Wh-What!?」
+Natsuki points at the screen.
+all
+Interviewer
+『Oh, then let's speak with that couple over there next! Excuse me～ May I take a moment of your time～?』
+
+％Ｂ
+「...We weren't cut.」
+There we are. Natsuki and I are up on TV.
+Natsuki
+「Wh-What are we going to do!? We're on TV!」
+
+％Ｂ
+「Y-Yeah... Though it's not like we can do anything about it now.」
+all
+Interviewer
+『May I ask you a few questions? Where are the two of you from?』
+
+％Ｂ
+『Uhh... We're locals. We're both from Shionagi.』
+Natsuki
+「What the heck, what are you acting like that for?」
+％Ｂ
+「I just answered normally...」
+Interviewer
+『Oh, you're locals. Which would mean the two of you are here on a day off? Are you on a date, perhaps～?』
+
+
+％Ｂ
+『W-Well... Yes...』
+Natsuki
+『It's a date!』
+Natsuki
+「Agh, I just shouted over you like that!? This is crazy embarrassing!」
+
+％Ｂ
+「You're only realizing that now...?」
+Natsuki
+「What kinda questions did we get again?」
+％Ｂ
+「What do you mean? ...I'm pretty sure the next one's―」
+Interviewer
+『A beach date right after it's opened! How very nice～ What is your relationship? I assume you're dating?』
+
+
+Ryousuke・Natsuki
+％Ｂ
+『No, we're married.』
+Natsuki
+『No, we're married.』
+％Ｂ・Natsuki
+％Ｂ
+『No, we're married.』
+Natsuki
+『No, we're married.』
+Natsuki
+「What the heck was that just now!? We totally answered in sync!」
+％Ｂ
+「You already knew we did that...」
+Interviewer
+『Oh really～ Oh my～ You two must get along very well to match up that perfectly～』
+
+
+％Ｂ
+『W-Well... Yes, we do... Haha...』
+Natsuki
+『Ehehe...』
+Our faces on screen are flushed as we smile awkwardly.
+％Ｂ
+「Th-This... is pretty embarrassing...」
+Seeing us on TV like this is several times more embarrassing than it was during the actual interview.
+
+
+Natsuki
+「We're a total idiot couple, aren't we...」
+％Ｂ
+「Yeah...」
+Natsuki
+「Who's calling this early in the morning? ...Yes, hello? Oh, Mom? Wha... You were watching that!? O-Oh, really... Oh, well, yeah... Just by coincidence, when we went to the beach, yeah... Mhm...」
+
+
+Natsuki's mom apparently saw the interview.
+Natsuki
+「Huh? Lovey-dovey? Geez, don't call just to say stuff like that!」
+
+This isn't good... I'm definitely going to get made fun of if anyone I know saw that.
+
+It's a local broadcast, so I don't think too many people will have seen it...
+
+all
+Azuma
+「Hey, I saw you on TV this morning! A beach date with your wife on your day off, eh? Looks like you're taking good care of her!」
+
+God... dammit...
+Someone saw it...
+And it's someone from work, of all things...
+％Ｂ
+「Well, uh...」
+Firm Staff B
+「Chief, I don't know if that was the best way to phrase that.」
+Firm Staff A
+「But we sure got a good look at how lovey-dovey you two are～」
+Azuma
+「I'm glad to see your private life's going well. You're a real impressive specimen of a man, you know that? I'm so jealous!」
+
+
+％Ｂ
+「...Thank you very much.」
+I'm gonna have to put up with this for a while, aren't I...?
+all
+％Ｂ
+「Oh, I'll get it.」
+％Ｂ
+「Yes, this is the Azuma Architectural Firm. Oh, Nishioka-sensei.」
+It's Nishioka-sensei, the photographer Natsuki works under.
+
+％Ｂ
+「If you'd like to speak to Chief... What? You don't? You want to speak to me? Yes, what would you like to speak about?」
+
+％Ｂ
+「...About what you saw on TV... this morning... Well, um... Perhaps we could speak about that on another occasion... What?」
+
+％Ｂ
+「Lovey-dovey... Excuse me, but could you not call the firm just to say things like this?」
+
+I bet Natsuki's getting teased a lot too, from the looks of things...
+dummy
+_00com
+bgm51
+bgm51
+_00grp
+bg407
+_00bup
+bs_nt02_0204
+all
+_00bup
+_00bup
+all
+_00bup
+bs_nt02_0204
+_00bup
+bs_nt01_0204
+_00bup
+_00bup
+bs_nt01_08
+_00bup
+bs_nt01_02
+_00bup
+bs_nt01_09
+_00bup
+bs_nt01_13
+all
+_00bup
+_00bup
+all
+_00bup
+bu_nt02_0704
+_00bup
+_00bup
+bu_nt02_07
+all
+_00bup
+_00bup
+all
+_00grp
+bg305
+_00bup
+bs_nt01_02
+_00bup
+bs_nt03_0102
+_00bup
+bs_nt02_07
+_00bup
+bs_nt01_0208
+_00bup
+bs_nt03_0201
+_00bup
+bs_nt01_0102
+_00com
+_00bup
+bs_nt13_08
+_00bup
+bs_nt01_0208
+_00bup
+bs_nt01_0601
+_00bup
+bs_nt13_0609
+_00grp
+_00grp
+bg407
+se0020
+_00bup
+bs_nt01_08
+_00bup
+_00bup
+bs_nt01_08
+_00bup
+bs_nt02_07
+_00bup
+_00bup
+bs_nt02_07
+all
+_00bup
+_00bup
+all
+_00grp
+bgm21
+bgm21
+_00grp
+bg408
+_00bup
+bs_az01_13
+_00bup
+_00bup
+bs_az01_03
+_00bup
+bs_az11_0203
+_00bup
+_00bup
+bs_az11_03
+all
+_00bup
+_00bup
+all
+denwa_yobidashi
+denwa_toru
+_00grp
+_00com

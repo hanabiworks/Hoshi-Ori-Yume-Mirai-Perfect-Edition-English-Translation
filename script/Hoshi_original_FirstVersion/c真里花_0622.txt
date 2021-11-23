@@ -1,0 +1,89 @@
+﻿0621
+土
+0622
+日
+％Ｂ
+「Fuaaah...」
+I'm still tired. Maybe I took in a bit too much sun yesterday.
+It's a good thing it's still the weekend. I've been just lying around in my room all morning.
+
+$$smh_OpenCHK
+％Ｂ
+「Living alone's nice and all, but it's bad in times like these.」
+I bet my mom would be yelling at me to go do homework or something if she were here right now.
+I just can't help but take it easy on myself when I'm alone.
+％Ｂ
+「That's my excuse... but Shinozaki's working at the pool in the morning again today...」
+
+And compared to her, I'm still sitting in bed.
+Is this what people mean when they talk about societal stratification?
+...No, it's not.
+I'm just lazing around like this, when Shinozaki's giving her all at her part-time job after doing the same thing I did yesterday...
+
+％Ｂ
+「Okay! Let's get up!!」
+I leap out of bed.
+I can't let myself lose to Shinozaki, after all.
+...But what should I do?
+％Ｂ
+「I know. The filters that Okihara-senpai talked to me about.」
+She asked if it could be possible to make the water tank filters ourselves.
+The naturalist club doesn't have enough, as one would expect, and they'd be pricey to purchase.
+
+They apparently doesn't have to be anything too complex of a design, so she said that making our own would be ideal.
+
+％Ｂ
+「Let's start with looking it up on the internet.」
+％Ｂ
+「I see. Looks easier than I thought. I think we could make it ourselves this way.」
+Making a homemade filter looks doable.
+I've found a decent number of web pages that explain how to make one.\n\r
+It's actually pretty simple, so I think I might even be able to make one by myself.
+％Ｂ
+「Let's get the materials together first. Let's see...」
+
+There are a lot of different methods, as expected, with lots of differences that I can't quite make any judgments over.\n\r
+
+It might be best to discuss this with Okihara-senpai.
+％Ｂ
+「Guess I'll contact her over LIME.」
+I send her a LIME message.
+【％Ｂ】「I've tried looking up #Nthings for a filter #Nunit. I think it should #Nbe doable to make them #Nourselves. I'd like to #Ndiscuss materials...」
+【Misa】「Thank you very much for #Nlooking into it. If #Nthat's the case, would #Nyou like to come #Nshopping with me?」
+【Misa】「I was just about to go #Nsee if there was #Nanything we could #Npossibly use for the #Naquarium.」
+【％Ｂ】「Okay. Would you like to #Nmeet up at the train #Nstation in 30 minutes, #Nthen?」
+【Misa】「Yes. I will see you #Nthen and there.」
+【Misa】_st_0220
+Our plans were settled immediately.
+It really is a matter of motivation, I guess.
+％Ｂ
+「All right!」
+I wanna try to get the materials together by the end of today, and start working on the filters tomorrow.
+
+dummy
+_00com
+bgm11
+bg501
+bg201
+_02smh
+_00grp
+bg201
+_00grp
+_00grp
+bg201
+_02smh
+_02smh_auto
+_02smh_auto
+_02smh_01lime
+_02smh_01lime
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+se0024_01
+_02smh_auto
+_00grp
+_00com

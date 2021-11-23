@@ -1,0 +1,346 @@
+﻿0713
+日
+0714
+月
+$$smh_OpenCHK
+Monday─
+I've come to the committee office with a model of the planetarium dome design that Sora showed me on Saturday.
+
+I need to report the details of the planetarium plan to Shuuichi today.
+
+％Ｂ
+「Take a look at this first. It's a miniature version of the dome we're planning on making.」
+
+Natsuki
+「You made this?」
+％Ｂ
+「Sora designed it, and I put it together.」
+Marika
+「Wooow. You're so good with your hands.」
+Rikka
+「How big were we going to make the real thing again?」
+％Ｂ
+「Six meters in diameter. This model's twenty centimeters in diameter, so the real thing's going to be about thirty times as big.」
+
+Touko
+「Can we really make something like that?」
+all
+％Ｂ
+「Yeah, it's actually easier than you think. Just take a look.」
+
+all
+I take out a disassembled set of cardstock for another miniature model that I had ready.
+
+I fold it up and put it together like Sora showed me on Saturday.
+
+Shuuichi
+「I see. You're right, that does look doable. But you're going to be using cardboard, right? Is that going to have enough structural integrity?」
+
+Sora
+「...It's going to be arch-shaped. If we make it with the proper dimensions, then it's no issue to make it in a shape where each piece supports the others.」
+
+Misa
+「It is as Sora-san says. I believe there would be no issues at all in terms of structural integrity with this shape.」
+
+％Ｂ
+「You can think of it as being like an arched stone bridge.」
+Shuuichi
+「So about how much cardboard are you going to need?」
+％Ｂ
+「Well... Sora.」
+Sora
+「...*nod*」
+all
+She grabs a dry-erase marker and starts writing out calculations on the whiteboard.
+Sora
+「...If we want to find how much cardboard we need to make the dome, we need to know the surface area first.」
+
+Sora
+「...The surface area of a sphere is 4πr-squared. If you calculate using the projected radius of our dome―」
+
+The marker squeaks as she goes through the math.
+Sora
+「...36π meters squared.」
+Natsuki
+「...Which means? Hmm??」
+
+Misa
+「That would be approximately 113 meters squared.」
+％Ｂ
+「I'm impressed you were able to do that math so quickly...」
+all
+Shuuichi
+「...So how much cardboard are you actually going to need?」
+
+Sora
+「We need a square of cardboard 1,070 centimeters on each side.」
+％Ｂ
+「Pretty much.」
+Shuuichi
+「1,070 centimeters on each side... That's more than ten meters across, you know.」
+％Ｂ
+「Right, ten meters... Yeah, right, like cardboard that big exists!」
+
+Shuuichi
+「What's the point of you saying that...?」
+
+Sora
+「...No issues. This is just the necessary area. We'll be connecting cardboard together for the dome, so it's fine if it's all separate pieces as long as we have the total area we need.」
+
+
+％Ｂ
+「Pretty much.」
+Shuuichi
+「Regardless, you're going to need a lot. The other clubs are going to be using cardboard too, so there's going to be some competition. You guys are already at a disadvantage because you started late.」
+
+
+％Ｂ
+「That's true... but that's why I want to ask everyone for help.」
+
+all
+Natsuki
+「I guess I'll check the supermarket and convenience stores every day.」
+Marika
+「I'll ask people at my job.」
+Touko
+「Mmm... I wonder if we still have the cardboard boxes from when we moved...?」
+all
+Shuuichi
+「By the way, what about the projector? You said you were going to earn the money through part-time jobs, but how much do you need for it?」
+
+％Ｂ
+「Yeah, about that. The projector's gonna cost 70,000 to rent, so we want to get at least 80,000 with additional miscellaneous costs in mind.」
+
+Shuuichi
+「You want to earn 80,000 with two people? It's not impossible, but you'll need to work the right job.」
+
+％Ｂ
+「I think we'll just have to make do with the 5,000 yen the astronomy club currently has for anything immediate.」
+
+Shuuichi
+「Hm... I see.」
+％Ｂ
+「So those are pretty much the specifics that we have for now... What do you think?」
+Shuuichi
+「...I think it's fine. The cardboard sounds like it's going to be a bottleneck, but I'm sure you'll manage. Though that might be a little optimistic of me.」
+
+
+％Ｂ
+「So then...」
+Shuuichi
+「Yeah. Let's move forward with that plan. The event committee formally approves of this approach to the planetarium idea.」
+％Ｂ
+「All right!」
+all
+Sora
+「...Mm.」
+Sora and I happily give each other our usual thumbs-up.
+
+Marika
+「Hehe... That's great.」
+Natsuki
+「Making the Tanabata Festival betters's only going to make the photos for the graduation album that much better anyway.」
+
+all
+Misa
+「I will be repaying the favor for your help in preparing the aquarium.」
+
+all
+Rikka
+「I'll do as much as I'm able.」
+Touko
+「So I'm helping out with school events now... That's kinda new.」
+all
+Sora smiles at each of our friends in turn.
+all
+We've taken the first step toward making the planetarium.
+It's still a long way from completion, but I'm sure things will go well with everyone here helping us!
+
+dummy
+_00com
+bgm15
+bgm15
+_00grp
+bg104
+_02smh
+_00bup
+bs_nt01_08
+_00bup
+bs_mr01_0802
+_00bup
+bs_nt01_08
+_00bup
+bs_mr01_0802
+_00bup
+bs_nt01_08
+_00bup
+bs_rk03_10
+_00bup
+bs_tk01_05
+all
+_00bup
+_00bup
+all
+_00bup
+bs_tk01_05
+all
+_00bup
+_00bup
+all
+_00bup
+bs_sy01_01
+_00bup
+_00bup
+bs_sy01_08
+_00bup
+bs_sy01_08
+_00bup
+bs_sr02_0108
+_00bup
+_00bup
+bs_sr02_01
+_00bup
+bs_sy01_08
+_00bup
+bs_sr02_01
+_00bup
+bs_ms01_0102
+_00bup
+_00bup
+bs_ms01_01
+_00bup
+bs_sy01_0105
+_00bup
+bs_sr03_01
+all
+_00bup
+_00bup
+all
+_00bup
+bs_sr02_01
+_00bup
+bs_sr02_04
+_00bup
+_00bup
+bs_sr02_0408
+_00bup
+bs_sr02_01
+_00bup
+bs_nt01_11
+_00bup
+_00bup
+bs_ms11_04
+all
+_00bup
+_00bup
+all
+_00bup
+bs_sy01_05
+_00bup
+_00bup
+bs_sr03_01
+_00bup
+bs_sy01_0408
+_00bup
+_00bup
+bs_sy01_06
+_00bup
+bs_sy01_09
+_00bup
+_00bup
+bs_sr02_1008
+_00bup
+_00bup
+bs_sr02_1004
+_00bup
+bs_sy11_0107
+_00bup
+_00bup
+bs_sy11_07
+all
+_00bup
+_00bup
+all
+_00bup
+bs_nt02_0204
+_00bup
+bs_nt02_0204
+_00bup
+bs_mr03_02
+_00bup
+bs_nt02_0204
+_00bup
+bs_mr03_02
+_00bup
+bs_tk13_07
+all
+_00bup
+_00bup
+all
+_00bup
+bs_sy01_08
+_00bup
+_00bup
+bs_sy01_0807
+_00bup
+bs_sy01_08
+_00bup
+bs_sy11_07
+_00bup
+bs_sy01_0102
+_00bup
+_00bup
+bs_sy01_01
+_00bup
+bs_sy01_02
+_00bup
+_00bup
+bs_sy01_0201
+all
+_00bup
+_00bup
+all
+_00bup
+bs_sr02_0911
+_00bup
+bs_sr02_1011
+_00bup
+bs_mr01_02
+_00bup
+bs_nt02_02
+_00bup
+bs_sr02_1011
+_00bup
+bs_mr01_02
+all
+_00bup
+_00bup
+all
+_00bup
+bs_ms03_03
+all
+_00bup
+_00bup
+all
+_00bup
+bs_rk11_02
+_00bup
+bs_tk01_02
+_00bup
+bs_tk02_03
+_00bup
+_00bup
+bs_tk02_0302
+all
+_00bup
+_00bup
+all
+_00bup
+bs_sr02_1011
+all
+_00bup
+_00bup
+all
+bg501
+_00grp
+_00com

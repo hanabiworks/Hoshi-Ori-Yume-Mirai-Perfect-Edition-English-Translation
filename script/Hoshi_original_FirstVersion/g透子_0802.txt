@@ -1,0 +1,668 @@
+﻿0801
+金
+0802
+土
+$$smh_OpenCHK
+％Ｂ
+「'Scuse meee, event committee heeere! I need to talk to someone who's free!」
+
+Every club's in a rush to finish its preparations.
+There's a "Go away 'cause we don't have the time" aura that grows stronger by the day.
+I could wait if all I needed was a progress report... but I have another objective too.
+
+I need to talk to people and get them to cooperate with my plan.
+Female Tennis Club Member
+「Yes, okay, what did you need to talk about?」
+％Ｂ
+「I need to check on your progress. How's it going? Think you'll make it in time?」
+
+Female Tennis Club Member
+「Probably. Oh, you've got that part wrong! That part goes up and to the right!」
+
+％Ｂ
+「All right, that's great then. And there's one more thing. A bit of a personal request.」
+
+Female Tennis Club Member
+「A request? For me?」
+％Ｂ
+「No, it's for everyone in the tennis club. You see...」
+％Ｂ
+「...All right, that makes about half of the grounds displays. Just a little more.」
+
+I check the time. It's just about time for lunch.
+I'm curious about how Touko's doing too, so I think I'll go back to the old school building for a bit.
+Touko
+「Oh, welcome baaack. You're done earlier today.」
+％Ｂ
+「I got to a good stopping point, so I figured I should eat something while I had the time. You've been stamping stuff all morning?」
+
+Touko
+「Mm, pretty much. I think I might be done soon.」
+％Ｂ
+「Wha!? With all that paperwork!?」
+Now that I take a closer look... A huge chunk of that mountain of paperwork's been finished!
+I thought that would take her all day!
+Touko
+「Nnnh...! Let's eat lunch first. Do you think you'll have time to eat a bit slowly today?」
+
+％Ｂ
+「Yeah, that's why I came back ear... Hm?」
+It's from Mr. Azuma!
+I don't want Touko to hear this. Let's step outside to take this call.
+
+％Ｂ
+「Sorry, I need to take this!」
+_smh_st_02
+_smh_st_btn02
+_smh_st_02
+_smh_st_btn05
+％Ｂ
+「I'm sorry for taking so long to answer! Is this about what I asked for!?」
+
+Azuma
+『It is. Looks like we'll be able to prepare what you wanted. We'll do something about the preliminary stuff on our side.』
+
+％Ｂ
+「Th-Thank you very much! I swear I'll repay this favor!」
+
+Azuma
+『Is that so? I'm looking forward to working you to the bone in the future. This sounds like a good reason to withhold overtime pay for you.』
+
+％Ｂ
+「A-Ahaha... Anyway, thank you very much! And thank you for agreeing to take care of the preliminary arrangements!」
+
+_smh_st_04
+Thank god. Looks like the hardest part of my plan's going well.
+The only remaining question is to see how many people I can get to cooperate.
+％Ｂ
+「Sorry about that. All right, let's eat lunch.」
+Touko
+「...Oh, mhm.」
+％Ｂ
+「Hm? Something up?」
+Touko
+「No, it's nothing. Let's eat lunch.」
+all
+I resume my work after eating lunch.
+I've already made the rounds through most of the indoor-display clubs, so I think I'll hit up the others next.
+
+【％Ｂ】「I'm gonna stop by your #Nrooms now.」
+【％Ｂ】「I've got a bit of a #Nrequest, so I wanna #Ntalk.」
+Shinozaki and Okihara-senpai should be in the second chemistry classroom.
+Ousaka and Narusawa should be getting stuff ready either on the rooftop or somewhere in the old school building.
+As for Segawa... She could be anywhere. I have no idea where to find her.
+【Sora】「On the roof.」
+Looks like the astronomy club's up on the roof. That's a bit far from here... I should probably go there last.\n\r
+
+Is Narusawa there with Ousaka?
+【Marika】「I'm with Okihara-san in #Nthe second chemistry #Nclassroom.」
+【Misa】「We will be awaiting you #Nwith tea.」
+The naturalist club's in the second chemistry classroom, like I thought.
+It'd probably be more efficient to head there first.
+【Natsuki】「I'm shooting outside. #NOn the grounds.」
+That's the closest to where I am right now.
+Guess I should go there first, since Segawa's probably got plans to move elsewhere eventually.
+【％Ｂ】「Got it. I'm gonna go #Ntalk to Segawa, then #Nthe naturalist club, #Nthen the astronomy club.」
+【Marika】_st_0109
+【Sora】_st_0310
+【Misa】_st_0220
+【Natsuki】_st_0215
+There we go.
+So first off, to the grounds―to where Segawa is.
+％Ｂ
+「Oh, there she is. Heeey, Segawaaa!」
+Natsuki
+「Oh, that was fast. Were you in that much of a hurry to see me?」
+
+％Ｂ
+「Pretty much. There's something I've just gotta talk to you about.」
+
+Natsuki
+「You just up and admitted it... Oh well. So what did you want from me?」
+
+％Ｂ
+「See...」
+all
+Natsuki
+「Wow, that's a really pretty idea! Just something I've thought before, but you're actually quite the romantic, you know.」
+
+％Ｂ
+「...Am I? I think I'm pretty typical.」
+Natsuki
+「It's kinda gross when it's obviously on purpose, but I think it's a real talent to be able to do stuff like that so naturally. That's the kinda stuff that makes a girl's heart go tight.」
+
+
+％Ｂ
+「Uh, it's not like that's why I'm doing this...」
+Natsuki
+「Girls fall in love with the guy they like over and over. I'll make it right away, so wait just a bit.」
+
+％Ｂ
+「It doesn't have to be right away, you know. There's still time, so...」
+
+Natsuki
+「This kinda stuff's all about inspiration! Ideas need to be brought to life as soon as you have them!」
+
+all
+Natsuki
+「Here you go. You better help me if I get the okay.」
+
+％Ｂ
+「That's crazy... She's definitely not gonna want to do it.」
+Natsuki
+「I don't know about thaaaat. I'll have the other thing ready by the day before. I'll let you know once it's done.」
+
+％Ｂ
+「Yeah, that'd be great. I'm counting on you for this.」
+Natsuki
+「I've got this! We'll have to put on the best show ever!」
+
+％Ｂ
+「Oh, and another thing. I think Touko's probably bored in the old school building, so you should drop by when you've got the time.」
+
+Natsuki
+「Yeah, it might be a good idea to get some more material too. I'll ask Marika and the others to come too.」
+
+％Ｂ
+「I'm gonna go talk to Shinozaki and the others after this. Thanks, Segawa.」
+Natsuki
+「Good luck! I'm looking forward to this too! You better let me know when you're putting on the finishing touches!」
+
+％Ｂ
+「Excuse meee. Event committee busineeeess.」
+Marika
+「Oh, welcome. We were waiting for you.」
+Another refined tea party.
+...Is the naturalist club really gonna make it in time?
+％Ｂ
+「You guys gonna be okay like this? You're gonna make it in time, right?」
+
+Marika
+「Ahaha, we were wondering what you wanted to talk about... We didn't end up being able to get much work done like that, so we were taking a break and talking about what it could be.」
+
+
+
+Misa
+「Please, have a seat. I have made sure to ready a teacup just for you today.」
+
+She places a cup on the table and pours fragrant tea into it.
+It's nice that I get to soothe my tired body after running around to all those clubs today, but...
+％Ｂ
+「...Is this cup just a beaker with a handle?」
+Misa
+「Yes. I found a matching set of these for you two after Touko-san so enjoyed the beaker before. Aren't they wonderful?」
+
+
+％Ｂ
+「Y-Yes, it is...」
+...Isn't this just a measuring cup?
+The refined and fragrant tea just looks like broth in this.
+Marika
+「So could we ask what your request is?」
+
+％Ｂ
+「Yeah, you see...」
+all
+Marika
+「...Mhm, I think that's a really great idea! I think it'd make Yukimura-san really happy!」
+
+Misa
+「Yes, I also think so! Please allow us to assist you!」
+
+Marika
+「Umh, what should I...? I'll think about it right now, so just a second...!」
+
+％Ｂ
+「It doesn't have to be right now. We still have some time.」
+Misa
+「Yes, I would be grateful if we may have some time to think. I would like to think through this thoroughly for Touko-san's sake.」
+
+％Ｂ
+「Of course. Please let me know when you're done, then. I'll come by to grab it.」
+
+I drain the beaker of tea in one go.
+I'd like nothing more than to sit back and take a break... but there are still lots of people I want to get to help me.
+
+％Ｂ
+「I'll be going, then. I need to go talk to Ousaka now.」
+
+Marika
+「Good luck. We're cheering you on too!」
+％Ｂ
+「Oh, right. Segawa might talk to you about this too, but Touko's probably pretty bored in the old school building right now. Could you guys drop by if you have the time?」
+
+
+Marika
+「Mhm, okay. We'll go and chat with her.」
+％Ｂ
+「That'd be great. Sorry for asking this of you while you're so busy.」
+Misa
+「Oh no, we are very much indebted to you two. Please allow us to return the favor on occasion.」
+
+％Ｂ
+「...Thank you very much.」
+％Ｂ
+「Event committee heeere... Oh, is it just you here, Ousaka?」
+Sora
+「...*nod* Ritsu's practicing piano. I think she's in the music classroom.」
+％Ｂ
+「Oh, so that's why she didn't respond. I'll drop by later, I guess.」
+
+Sora
+「...What was your request?」
+％Ｂ
+「Right, so...」
+all
+Sora
+「...Here. Hope you get lots.」
+％Ｂ
+「I'm giving it my all for that. Hope you're excited for it too, Ousaka.」
+
+Sora
+「...*nod*」
+％Ｂ
+「You gonna go to the old school building after this?」
+Sora
+「With Ritsu afterward. We have to adjust the equipment, and practice for the day of.」
+
+％Ｂ
+「All right. You think you could go hang out with Touko too if you've got the time? She's probably bored by herself.」
+
+
+Sora
+「...*nod*」
+％Ｂ
+「...Excuse meee.」
+Rikka
+「...? What's the matter?」
+％Ｂ
+「I actually sent you a LIME message about this earlier, but I wanted to ask you for a bit of a favor.」
+
+Rikka
+「Oh, I'm sorry... I had my phone turned off, so I didn't get it.」
+％Ｂ
+「Don't worry about it, you were practicing. I didn't wanna bother you, but it's a bit of an urgent thing. So...」
+
+
+all
+Rikka
+「Here. This is fine, right?」
+％Ｂ
+「Ah... I see. Is it really that bad for you?」
+Rikka
+「I don't know how it is for others, but that's how I've felt about it this entire time.」
+Rikka
+「In fact, I would've liked to have lodged a complaint with you about it as well.」
+
+
+
+％Ｂ
+「...Yeah, but what am I gonna do about it? She seems to like it.」
+Rikka
+「Either way, that's mine.」
+％Ｂ
+「Yeah. Thanks. You're gonna go to the old school building with Ousaka later, right? Could you go hang out with Touko when you've got the time? I bet she's bored.」
+
+
+Rikka
+「...Yes, if I feel like it.」
+％Ｂ
+「Oh, that was kinda Touko-ish just now. Are you two closer than I thought?」
+
+Rikka
+「N-No, it wasn't supposed to sound that way. I didn't say that with Yukimura-san in mind or anything...」
+
+％Ｂ
+「Haha, don't worry. I know. I'm really grateful for you for doing so much for me. Hope I can count on you in the future too.」
+
+Rikka
+「...It's fine. You can ask me to do something like this anytime.」
+Shuuichi
+「Hmmh... I don't really know what I'm supposed to do about that.」
+％Ｂ
+「Don't be that way. It's not like you two don't know each other. There's gotta be something, right?」
+
+Shuuichi
+「You sure you're good with anything? Then...」
+all
+Shuuichi
+「There, is that enough? I'm not doing it over.」
+％Ｂ
+「Yeah, thanks. Oh, right. How are things going with preparations and everything?」
+
+Shuuichi
+「I've sent out reinforcements to the clubs you said were behind. It'd be helpful if you could go around to all of them and report back on how they're doing by the end of the day.」
+
+
+％Ｂ
+「Got it. I wanted to finish everything today anyway, so that's fine by me.」
+
+Shuuichi
+「Counting on you. There are always clubs that try to tell us they'll make it for some reason even when they're really up against it. Wish they'd just be honest.」
+
+
+％Ｂ
+「Sounds like you've got it pretty rough. I'll keep making the rounds to do what I can to help.」
+
+Shuuichi
+「Sounds good. If you find any clubs that definitely aren't going to make it in time, let me know right away. I'll dispatch a squadron of event committee members.」
+
+all
+％Ｂ
+「Sorry I left you all alone today. Were you bored?」
+
+Touko
+「Mmm... The others all came barging in for some reason, so I talked to them about stuff.」
+％Ｂ
+「Wha...? About stuff? ...What kinda stuff?」
+Touko
+「It's a secret. It just might be the kind of conversation a boy shouldn't hear about.」
+
+...I'm curious.
+I'm so curious about what they were talking about...!
+Touko
+「So I wasn't really bored or anything. But... it's been a really long time since they all left.」
+
+％Ｂ
+「Yeah, I ended up working until really late today. Sorry about that.」
+
+Touko
+「Oh, no. They all only left like thirty minutes ago. So I haven't actually waited that much... but it felt really long for some reason.」
+
+
+She was all alone just when afternoon turned into evening.
+It's probably the loneliest situation possible.
+Touko
+「I've been staring at the clock the whole time. Every second seemed to pass so slowly... I almost thought it was broken. I thought I was pretty good at waiting, too.」
+
+
+％Ｂ
+「Touko...」
+Touko
+「Anyway, are you done for the day? Wanna relax here a bit before going home?」
+
+％Ｂ
+「...Yeah, I didn't get to do that at all today. Let's take a bit of a breather together before we leave.」
+
+I want to treasure my time together with Touko too.
+Being in contact like this is incredibly fulfilling for the both of us.
+Our time together is so precious... and I want it to continue from now on too.
+I hold that wish in my heart as we enjoy each other's company for a little while.
+dummy
+_00com
+bgm15
+bgm15
+_00grp
+bg106
+_02smh
+_00grp
+_00grp
+bg106
+_00grp
+kyukan_door1
+_00grp
+bg115
+_00bup
+bs_tk03_03
+_00bup
+bs_tk03_02
+_00bup
+bs_tk02_13
+_00bup
+_00bup
+bs_tk02_03
+se0020
+_02smh_06tell
+_00bup
+bs_tk02_0706
+_00grp
+bg116
+sumaho_tsunagaru
+se0024_01
+se0024_01
+_02smh_auto
+kyukan_door1
+_00grp
+bg115
+_00bup
+bs_tk01_06
+_00bup
+bs_tk01_02
+all
+_00bup
+_00bup
+all
+_00grp
+bgm12
+bgm12
+_00grp
+bg102
+_02smh_01lime
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+_00_mess
+se0024_01
+_02smh_auto
+_00grp
+_00grp
+bg106
+_00bup
+bs_nt02_0201
+_00bup
+bs_nt02_1011
+_00bup
+_00bup
+bs_nt02_0205
+all
+_00bup
+_00bup
+all
+_00grp
+_00grp
+bg106
+_00bup
+bs_nt01_1302
+_00bup
+bs_nt01_02
+_00bup
+bs_nt02_09
+_00bup
+_00bup
+bs_nt02_01
+_00bup
+bs_nt03_0502
+all
+_00bup
+_00bup
+all
+_00grp
+_00grp
+bg106
+_00bup
+bs_nt01_02
+_00bup
+bs_nt01_03
+_00bup
+_00bup
+bs_nt01_0201
+_00bup
+bs_nt11_0302
+_00bup
+bs_nt01_0201
+_00bup
+bs_nt03_02
+_00grp
+gakuen_door1
+_00grp
+bg111
+_00bup
+bs_mr03_01
+_00bup
+bs_mr03_06
+_00bup
+_00bup
+bs_ms11_02
+_00bup
+bs_ms11_01
+_00bup
+bs_mr03_01
+nomimono_sosogu
+_00bup
+bs_ms01_03
+_00bup
+_00bup
+bs_ms01_02
+_00bup
+bs_mr01_01
+all
+_00bup
+_00bup
+all
+_00grp
+_00grp
+bg111
+_00bup
+bs_ms01_06
+_00bup
+bs_mr02_05
+_00bup
+bs_ms01_02
+_00bup
+bs_mr03_05
+_00bup
+bs_ms11_03
+_00bup
+bs_ms11_01
+_00bup
+bs_mr01_01
+_00bup
+bs_mr01_02
+_00bup
+bs_mr01_01
+_00bup
+bs_ms11_02
+_00grp
+gakuen_door_tetsu1
+_00grp
+bg107
+_00bup
+bs_sr02_01
+_00bup
+bs_sr03_01
+all
+_00bup
+_00bup
+all
+_00grp
+_00grp
+bg107
+_00bup
+bs_sr03_03
+_00bup
+bs_sr02_1011
+_00bup
+bs_sr02_01
+_00bup
+bs_sr02_10
+_00grp
+gakuen_door1
+_00grp
+bg105
+_00bup
+bs_rk02_01
+_00bup
+bs_rk11_07
+all
+_00bup
+_00bup
+all
+_00grp
+_00grp
+bg105
+_00bup
+bs_rk11_01
+_00bup
+bs_rk11_08
+_00bup
+bs_rk11_05
+_00com
+_00bup
+bs_rk13_01
+_00bup
+bs_rk03_08
+_00bup
+bs_rk03_09
+_00bup
+bs_rk02_02
+_00grp
+gakuen_door1
+_00grp
+bg104
+_00bup
+bs_sy11_05
+_00bup
+bs_sy01_08
+all
+_00bup
+_00bup
+all
+_00grp
+_00grp
+bg104
+_00bup
+bs_sy01_01
+_00bup
+bs_sy01_08
+_00bup
+bs_sy01_02
+_00bup
+_00bup
+bs_sy01_0705
+_00bup
+bs_sy01_03
+_00bup
+_00bup
+bs_sy01_11
+all
+_00bup
+_00bup
+all
+_00grp
+bgm15
+bgm15
+kyukan_door1
+_00grp
+bg115e
+_00bup
+bs_tk01_01
+_00bup
+bs_tk12_1306
+_00bup
+bs_tk02_09
+_00bup
+_00bup
+bs_tk02_12
+_00bup
+bs_tk01_02
+_00bup
+bs_tk01_08
+_00bup
+bs_tk01_03
+dakituku
+_00grp
+cg_tk24_0122
+_00grp
+_00com

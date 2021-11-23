@@ -1,0 +1,269 @@
+﻿0718
+金
+0719
+土
+$$smh_OpenCHK
+％Ｂ
+「I got suggestions from the staff at Mr. Azuma's architectural firm, and brushed up the blueprints.」
+
+I'm showing the new design suggestions to the others.
+I spent all night drawing it up, taking all of the suggestions into account.
+Natsuki
+「That looks good. Looks like it's more polished now?」
+％Ｂ
+「They did a good job smoothing over the rougher parts of our ideas.」
+
+Misa
+「I may not be familiar with the industry specifics, but it does look very professional.」
+％Ｂ
+「It really does. I learned that every detail is important.」
+
+
+all
+Marika
+「Yeah, I think it looks a lot better now～」
+
+Touko
+「But doesn't this mean we need a lot more stuff now?」
+％Ｂ
+「Yeah, it does. We'll need to manage it with our limited budget.」
+
+all
+％Ｂ
+「And so I was thinking of going out shopping for supplies in the afternoon...」
+Marika
+「Oh, then I'll come with.」
+Marika immediately raises her hand.
+That's my girlfriend for you.
+My girlfriend...
+Can't really stop myself from smiling when I think about it.
+all
+％Ｂ
+「Uhh, so it'll be just us two. Is that all right with you guys?」
+Touko
+「That doesn't matter. We wouldn't want to get in the way of your date.」
+
+％Ｂ
+「No... We're just going shopping.」
+
+Marika
+「Y-Yeah～ It's for the Tanabata Festival.」
+Natsuki
+「But if it's you two together, then it's a date no matter what. We'd be like summer bugs flying into a fire if we tried to tag along.」
+
+
+％Ｂ
+「I have no idea what that means.」
+Marika
+「Auh...」
+Looks like there's no choice but for us two to go alone.
+Not that I have a problem with that.
+...In fact, this is perfect.
+Marika
+「We're going to make it that big～?」
+She widens her eyes at the size of the acrylic hemispheres in my hand.
+They're big enough that Marika might have to hold them in both hands.
+％Ｂ
+「We'll be able to project lots of stars this way. Though it'll be more work to make all the holes.」
+
+Marika
+「We're going to have to cover the surface with small holes, right? Yeah, that's going to be a lot of work. But I'm sure it'll be doable if we all split the workload together!」
+
+
+Marika
+「And that light bulb's so big too.」
+％Ｂ
+「Yeah, it is.」
+I ordered it from the electrician's and had them acquire it for me.
+It's big enough that it looks like it'll be a few times brighter than a normal incandescent bulb.
+％Ｂ
+「They apparently use these for studio spotlights. I bet this'll let us project even the small stars all the way across the room.」
+
+Marika
+「We'll have to do our best making the holes for the stars, then!」
+％Ｂ
+「Yeah. Let's work hard and make it amazing. Let's see, was this all we needed...?」
+
+Marika
+「Oh... Can we stop by that 100-yen store really quick? I'll be done in a minute, so it'd make me happy if you waited here. Since you have lots of bags.」
+
+
+％Ｂ
+「Got it.」
+Marika
+「I'll be right back then～」
+all
+Marika goes running off.
+％Ｂ
+「...Hm?」
+I look around to see that I'm standing in front of a drugstore.
+I feel like there was something I needed to buy here...
+all
+％Ｂ
+「Oh.」
+I remember now. From back when we were kissing in my room.
+％Ｂ
+「I should probably buy some... right?」
+I don't know when it'll happen, of course.
+I need to make sure I have them ready when it does, as a man.
+...Marika isn't back yet.
+％Ｂ
+「...All right. Now's the time.」
+％Ｂ
+「I-I bought them...」
+I was crazy nervous, but I managed to buy them.
+I didn't have the presence of mind to calmly pick one out. The packaging says "Nice and thin" on it.
+
+％Ｂ
+「Kinda weirdly graphic... Maybe she's gonna think I'm creepy, 'cause it looks like I'm dying to do it...」
+
+But I can't just go and return it now...
+Marika
+「Sorryyy, thanks for waiting!」
+％Ｂ
+「Aaagh!?」
+Marika
+「Kyah!? ...Wh-What's wrong? Why were you so surprised?」
+％Ｂ
+「N-No reason, okay!? No reason at all!」
+Marika
+「R-Really? But... why is your face so red...?」
+％Ｂ
+「N-No, it's really no reason, okay!? I had no impure feelings or anything...!」
+
+Marika
+「Impure feelings?」
+％Ｂ
+「I-I mean...」
+Crap. The more I talk, the more suspicious I seem.
+％Ｂ
+「Anyway, you done with your shopping?」
+Marika
+「Yeah, I am.」
+％Ｂ
+「Then let's go.」
+Marika
+「Okay, let's go.」
+...Maybe I should've gone for something more innocuous after all?
+
+dummy
+_00com
+_02smh
+bgm12
+_00grp
+bg115_13
+_00bup
+bs_nt11_0202
+_00bup
+_00bup
+bs_nt11_01
+_00bup
+_00bup
+bs_ms03_0101
+_00bup
+_00bup
+bs_ms03_0302
+all
+_00bup
+_00bup
+all
+_00bup
+bs_mr03_0303
+_00bup
+_00bup
+bs_tk01_0303
+all
+_00bup
+_00bup
+all
+_00bup
+bs_mr12_0505
+_00bup
+bs_mr12_0201
+all
+_00bup
+_00bup
+all
+_00bup
+bs_tk03_0302
+_00bup
+_00bup
+bs_tk03_08
+_00bup
+_00bup
+bs_mr01_0909
+_00bup
+_00bup
+bs_mr01_10
+_00bup
+bs_nt02_0909
+_00bup
+bs_mr01_10
+_00bup
+bs_tk03_0302
+_00bup
+_00bup
+bs_nt02_02
+_00bup
+bs_mr01_11
+_00grp
+bgm13
+_00grp
+bg312
+_00bup
+bs_mr02_0606
+_00bup
+bs_mr02_0505
+_00bup
+_00bup
+bs_mr02_03
+_00bup
+bs_mr11_0201
+_00bup
+bs_mr11_01
+_00bup
+bs_mr22_0303
+_00bup
+bs_mr01_0101
+_00bup
+_00bup
+bs_mr01_02
+_00bup
+bs_mr02_03
+_00bup
+bs_mr
+all
+_00bup
+_00bup
+all
+all
+_00bup
+_00bup
+all
+_00grp
+_00grp
+bg312
+_00bup
+bs_mr02_0102
+_00bup
+bs_mr02_0101
+_00bup
+bs_mr01_09
+_00bup
+_00bup
+bs_mr01_08
+_00bup
+bs_mr01_0110
+_00bup
+_00bup
+bs_mr01_0510
+_00bup
+bs_mr01_13
+_00bup
+bs_mr01_0202
+_00bup
+bs_mr02_0102
+_00bup
+bs_mr02_0201
+_00grp
+_00com

@@ -1,0 +1,229 @@
+﻿1202
+月
+1216
+月
+The first two weeks after accepting Fukuzawa-san's remodeling commission were incredibly busy.
+
+The commission was to change the house's interior to a barrier-free design and expand the floor plan, but he also wanted me to add my own design on top of that.
+
+After going to Fukuzawa-san's home to see it for myself, I made various suggestions such as adjusting the placement of walls in order to allow more light in and making the hallways brighter.
+
+
+I'd take the ideas that Fukuzawa-san liked and immediately try incorporating them into a blueprint after getting back to the firm.
+
+And the next day, I would go back to Fukuzawa-san's house with those blueprints in hand.
+I've been doing nothing but move back and forth between the firm and the remodeling site these past two weeks.
+And at the same time, I've needed to hire the contractors to undertake the actual construction work.
+
+％Ｂ
+「Sigh... Of course I've been busy... I have to do all the stuff I had the other staff members do back at Teacher's firm myself now.」
+
+
+I can't help but want to vent a little with how busy I am.
+But I started up my own firm knowing this would happen.
+I don't have the time to be standing still!
+％Ｂ
+「...Hello? Is this the Miyamoto Group? Is Miyamoto-san...? Oh, hello. It's been far too long since we last spoke. I'm ％Ａ. I used to work at the Azuma Architectural Firm.」
+
+
+％Ｂ
+「Yes... I've become independent, with my own personal firm... Yes, exactly.」
+
+％Ｂ
+「I apologize for my lateness in announcing everything. And I apologize again for the sudden request, but there is a matter I would like your assistance with... Yes, I can send you the specifics via email...」
+
+
+Sora
+「...Welcome home.」
+％Ｂ
+「Heeey... You're here...」
+I come back to my apartment to find Sora waiting there for me.
+The room's filled with a delicious smell.
+Sora
+「...I made food. Let's eat together.」
+％Ｂ
+「Thanks so much... I skipped lunch today 'cause I was so busy.」
+Sora
+「...No overexerting yourself. You have to eat properly.」
+％Ｂ
+「Yeah, I know, but... To be honest, I'm so busy I don't even have the time to go buy food.」
+
+Sora
+「...Let's eat for now. Wash your hands.」
+％Ｂ
+「Yeah, okay.」
+all
+Sora and I eat dinner together at the table.
+％Ｂ
+「Mgmgh... This fish is great.」
+Sora
+「...I asked my mom how to make it.」
+％Ｂ
+「Seriously? Guess it must be a mother's touch seeping through, then. Hamh... Mgmgh... Yeah, it's great!」
+
+Sora
+「...There's some left over, so you can have it for lunch tomorrow. You can have lunch that way.」
+
+％Ｂ
+「Sorry about all this.」
+Sora
+「...No issues.」
+％Ｂ
+「But you're busy now too, right? There's that new show for the planetarium... Didn't you say the deadline's coming up soon?」
+
+
+Sora
+「...*nod*」
+％Ｂ
+「You come up with any good ideas?」
+Sora
+「...*shake shake*」
+Sora
+「...All I know right now is I want lots of people to feel that the stars are closer to them than they think.」
+
+Sora
+「Something to make people who've never come to the planetarium before just decide to walk in because they're interested...」
+
+
+Sora
+「And the show would make them feel closer to the stars after watching.」
+
+％Ｂ
+「You've got a good vision for what kind of thing you want to make, but I guess that's what makes it hard for you. So you wanna make a show that'll get people to feel closer to the stars...」
+
+
+％Ｂ
+「...I've got an idea that popped into my head just now. Do you want to hear it?」
+Sora
+「...*nod* Tell me.」
+％Ｂ
+「How about the moon?」
+Sora
+「...The moon...」
+％Ｂ
+「I know you said you don't really do stuff about the moon back when we went to that hot springs inn, but I still think the moon's the closest thing in the sky to us here on Earth.」
+
+
+Sora
+「...We see it every night.」
+％Ｂ
+「Yeah, I think it'll be easier to think of the moon as familiar 'cause you see it almost every night. I think people think they know a lot about the moon, when they actually don't.」
+
+
+％Ｂ
+「Maybe something like secrets of the moon that people don't know... I think it'd be a pretty interesting show if you could introduce something like that.」
+
+Sora
+「...」
+％Ｂ
+「There are always legends and folklore like Princess Kaguya and moon bunnies too.」
+
+％Ｂ
+「But you can also talk about more real stuff like the Apollo spaceflight and the moon landing too.」
+
+％Ｂ
+「I think a show that talks more in detail about the moon itself like that would be cool.」
+
+Sora
+「...A show that talks in detail about the moon itself...」
+％Ｂ
+「Yeah, I personally think the moon would be good material.」
+Sora stops eating and lapses into deep thought.
+Sora
+「...Mixing folklore and real-life events into descriptions of the moon, fusing a sense of mystery and reality... It might work.」
+
+Her eyes glitter.
+Sora
+「...Good job.」
+She gives me her favorite thumbs-up pose.
+％Ｂ
+「Yeah. It's just a thought, but I'd be happy if you considered it.」
+Sora
+「...I'll put extra portions of the fish in your lunch tomorrow as thanks.」
+She smiles.
+dummy
+_00com
+bgm51
+bgm51
+bg419
+_00grp
+bg419
+bg501
+_00grp
+bgm52
+bgm52
+bg505
+_00grp
+bg405n
+after_zitaku_door1
+_00bup
+bs_sr01_03
+_00bup
+bs_sr01_0302
+_00bup
+bs_sr02_10
+_00bup
+_00bup
+bs_sr02_10
+_00bup
+bs_sr02_09
+_00bup
+_00bup
+bs_sr02_09
+_00bup
+bs_sr02_1011
+_00bup
+_00bup
+bs_sr02_1011
+all
+_00bup
+_00bup
+all
+_00grp
+_00grp
+bg405n
+_00bup
+bs_sr02_1011
+_00bup
+bs_sr03_03
+_00bup
+bs_sr01_03
+_00bup
+_00bup
+bs_sr01_03
+_00bup
+bs_sr01_02
+_00bup
+bs_sr01_0302
+_00bup
+bs_sr02_0706
+_00bup
+bs_sr02_05
+_00bup
+bs_sr02_08
+_00bup
+bs_sr02_1011
+_00bup
+bs_sr02_10
+_00bup
+_00bup
+bs_sr02_10
+_00bup
+bs_sr02_04
+_00bup
+bs_sr02_1011
+_00bup
+bs_sr02_05
+_00bup
+bs_sr02_09
+_00bup
+bs_sr02_1011
+_00bup
+_00bup
+bs_sr02_1011
+_00bup
+bs_sr02_11
+_00bup
+bs_sr03_02
+_00grp
+_00com

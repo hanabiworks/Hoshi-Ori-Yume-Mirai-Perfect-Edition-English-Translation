@@ -1,0 +1,201 @@
+﻿1028
+金
+1030
+日
+％Ｂ
+「...Sigh.」
+Marika
+「What are you sighing for? You passed your exams.」
+
+％Ｂ
+「Yeah, I did... but applying for the license cost a lot of money.」
+
+Marika
+「Whaaat～? How much?」
+％Ｂ
+「I've gotta get a local architectural guild to issue me a license... and it's gonna cost about 100,000 yen.」
+
+
+Marika
+「What!? It's that expensive!? Are you okay～ Are you sure that isn't some evil architectural guild～?」
+
+％Ｂ
+「An evil architectural guild...? It's the same all across the country. It's a national qualification.」
+
+
+Marika
+「Really. That's so expensive...」
+％Ｂ
+「And with all the prep school and textbooks... and the cost of taking the exams themselves, it's probably more than 100,000 in total.」
+
+Marika
+「It's rough even when you pass...」
+％Ｂ
+「I'm on the luckier side, since I passed on my first try, but it's still pretty harsh.」
+
+％Ｂ
+「That's why, uh... it's pathetic, but...」
+I open up my bankbook.
+Marika
+「Oh no... You don't have any savings.」
+％Ｂ
+「Sorry I'm so lame.」
+Marika
+「Ahaha, I'm not worried about that at all～」
+％Ｂ
+「But getting married costs money too...」
+Marika
+「I don't think we need to spend that much money, you know.」
+％Ｂ
+「No, we can't do that. It's a once-in-a-lifetime thing.」
+
+And the wedding ceremony's probably especially important for a girl.
+A pretty wedding dress, a gorgeous ceremony, and a luxurious honeymoon...
+
+Marika
+「It really doesn't have to be so extravagant. I'm okay with a simple ceremony.」
+
+％Ｂ
+「But...」
+Marika
+「The wedding ceremony isn't what I want. What I want is to be your bride, Ryousuke.」
+
+Marika
+「The wedding ceremony isn't what I want. What I want is to be your bride.」
+
+％Ｂ
+「Marika...」
+She just smiles quietly.
+She's definitely not just saying that.
+I can tell from that smile that she really means it.
+But hearing something like that just makes me feel like I really need to get it together.
+
+Marika
+「And I actually have a lot saved up, you know. It's not like we're going to have the ceremony right away... so let's save up together, bit by bit.」
+
+
+％Ｂ
+「You're right. I'll save up and try my best too.」
+Marika
+「And so... Tada!」
+Marika pulls out a box from the shopping bag she brought.
+It's a big can.
+It says "Let's save up 100,000 yen" on it.
+％Ｂ
+「A savings box?」
+Marika
+「Yeah. Let's save up money for our marriage in this, okay? We can put the small change we have left over at the end of the day in this.」
+
+She happily places the can in the entranceway.
+Marika
+「I'll put money in here when I come over too.」
+％Ｂ
+「Okay, got it. I'll fill that thing up in no time.」
+Marika
+「Ahaha, you don't have to try too hard. Let's do it nice and slow.」
+
+I need to hurry up and get it together... is what I think, but Marika's really calm and composed compared to me.\n\r
+
+She even looks like she's enjoying our current situation.
+Just seeing her like that gets me to calm down too.
+％Ｂ
+「I'm glad I fell in love with you, Marika.」
+Marika
+「Huh? Why so suddenly...?」
+％Ｂ
+「Nah, I just really felt that way just now.」
+Marika
+「Whaaat? That just makes me more embarrassed... I'll make some tasty food today, then! Just a minute～」
+
+
+all
+She rolls up her sleeves and heads toward the kitchen.
+Honestly, she's wasted on me as a girlfriend... as a bride.
+％Ｂ
+「I know I said I'd protect her, but it feels like I'm the one being protected instead.」
+I'll need to give it my all too.
+dummy
+_00com
+bgm52
+_00grp
+bg405n
+_00bup
+bs_mr02_09
+_00bup
+_00bup
+bs_mr02_02
+_00bup
+bs_mr01_08
+_00bup
+bs_mr01_09
+_00bup
+_00bup
+bs_mr01_05
+_00bup
+bs_mr01_07
+_00bup
+bs_mr01_06
+_00bup
+bs_mr01_08
+_00bup
+bs_mr02_09
+_00bup
+_00bup
+bs_mr02_02
+_00bup
+bs_mr02_05
+_00bup
+_00bup
+bs_mr02_01
+_00bup
+bs_mr02_02
+_00bup
+_00bup
+bs_mr02_07
+_00bup
+bs_mr01_04
+_00com
+_00bup
+_00bup
+bs_mr01_0201
+_00bup
+_00bup
+bs_mr01_0201
+_00bup
+bs_mr01_02
+_00bup
+_00bup
+bs_mr01_01
+_00bup
+bs_mr03_04
+_00bup
+_00bup
+bs_mr03_03
+_00bup
+bs_mr03_02
+_00bup
+_00bup
+bs_mr03_03
+_00bup
+bs_mr03_01
+_00bup
+bs_mr03_06
+_00bup
+_00bup
+bs_mr03_04
+_00bup
+bs_mr01_08
+_00bup
+_00bup
+bs_mr01_04
+_00bup
+bs_mr01_11
+_00bup
+_00bup
+bs_mr01_02
+all
+_00bup
+_00bup
+all
+_00grp
+_00com
