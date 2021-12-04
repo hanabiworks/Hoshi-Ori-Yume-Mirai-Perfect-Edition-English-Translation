@@ -6,4 +6,7 @@ Just replace your Scene.pck in the install folder
  
 **Note:** This patch use old scripts from Tsurezure and the new translated  by PyroCyan
 
+**Progress:**
+-> Sora: 100%
+
 Any issues, report in this discord server https://discord.com/invite/ATTxJYuTvm
