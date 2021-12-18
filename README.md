@@ -7,6 +7,7 @@ Just replace your Scene.pck in the install folder
  New contents translated by PyroCyan and old content ported by Gopicolo and Rin Chan
  
 **Note 1:** This patch use old scripts from Tsurezure
+
 **Note 2:** Texts in cellphone has pop-ups
 
 **Staff** 
