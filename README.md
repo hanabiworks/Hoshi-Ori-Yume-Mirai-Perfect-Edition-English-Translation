@@ -12,10 +12,12 @@ Just replace your Scene.pck in the install folder
 
 **Staff:** 
 >PyroChan: Translator
+>
 >Rin-chan: Tester
 
 **Progress:**
 > Sora: 100%
+> 
 > Marika: 100%
 
 Any issues, report in this discord server https://discord.com/invite/ATTxJYuTvm
