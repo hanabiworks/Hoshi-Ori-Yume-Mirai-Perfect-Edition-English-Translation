@@ -15,6 +15,8 @@ Just replace your Scene.pck in the install folder
 >
 >Rin-chan: Tester
 
+>Gopicolo: Tester
+
 **Progress:**
 > Sora: 100%
 > 
