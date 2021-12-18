@@ -1,0 +1,252 @@
+﻿0714
+月
+0715
+火
+$$smh_OpenCHK
+％Ｂ＿ＣＳ
+「...」
+％Ｂ＿ＣＳ
+「Looks like I woke up really early today...」
+I woke up one hour earlier than usual, 
+but I feel way more alert.
+Am I anxious that Shinozaki is coming over?
+I mean, there's not much I can do about that. 
+I decide to get myself ready to pass the time.
+Shinozaki has the key and all, but it doesn't look like she came yet.
+
+％Ｂ＿ＣＳ
+「This kind of situation is pretty rare...」
+％Ｂ＿ＣＳ
+「Coming!」
+After a while, I hear the doorbell ring.
+Marika
+「Good morning!」
+I see Shinozaki, who seems a little more bashful than usual.
+Marika
+「Huh? You're awake? You're all ready!」
+
+She's staring at me because I'm already in my uniform and my hair is all neat.
+％Ｂ＿ＣＳ
+「Yeah, I had time to prepare.」
+％Ｂ＿ＣＳ
+「I guess I was nervous that you were coming over, so I ended up waking up early.」
+
+Marika
+「Ah, I feel you...」
+Marika
+「But I kinda wanted to wake you up...」
+％Ｂ＿ＣＳ
+「Well, I'm sure you'll get another chance.」
+Marika
+「Yeah, I can't wait!」
+％Ｂ＿ＣＳ
+「Wanna come in? We still have some time.」
+Marika
+「Alright, coming in.」
+all
+She take off her shoes and neatly puts them to the side as she head inside the house.
+Marika
+「This breakfast looks so good!」
+％Ｂ＿ＣＳ
+「Well, this is what I always eat.」
+It's just toast with jam, a banana and a boiled egg.
+％Ｂ＿ＣＳ
+「I brew some coffee afterwards and that's pretty much it.」
+Marika
+「Can I make the coffee then?」
+％Ｂ＿ＣＳ
+「You sure?」
+Marika
+「Yeah, I always make coffee for my dad in the morning. But that's instant coffee...」
+
+％Ｂ＿ＣＳ
+「I use that too. I'll let you take care of it then. The pot's over there.」
+
+all
+Marika
+「Woah, this one's pretty big.」
+Marika seems shocked when she looks at my instant coffee pot.
+％Ｂ＿ＣＳ
+「I mean with that, I make as much as I want.」
+The truth is Mr. Azuma has the same pot.
+I bought it a while back. He definitely rubbed off on me in some way. 
+Marika
+「Okay... Hmm, it's on a bit tight...」
+％Ｂ＿ＣＳ
+「Can you open the lid?」
+Marika
+「I'll be fine～ Yeah... Oh, it came off!」
+After a long struggle, the lid finally comes off.
+I smell the fragrant aroma. 
+Marika
+「Okay, I'll make it now. How much sugar and milk do you add?」
+％Ｂ＿ＣＳ
+「Make sure to add lots.」
+Marika
+「So you want something sweet in the morning... Okay, I'll add a lot.」
+Marika
+「Alright here, your coffee.」
+％Ｂ＿ＣＳ
+「Ah... So good...」
+I instantly take a sip.
+It's just the right temperature and there's just enough sweetness.
+％Ｂ＿ＣＳ
+「This goes well with toast. For some reason, sweet things always go so well together. Umm, so good...」
+
+
+Marika
+「Ehehe...」
+％Ｂ＿ＣＳ
+「Uh? What's up?」
+I'm now noticing that Marika is staring at me eat.
+
+Marika
+「Oh, it's nothing.」
+Marika
+「It's just that you look cute.」
+％Ｂ＿ＣＳ
+「D-do I now?」
+Marika
+「Yeah, so cute! Isn't it so cute watching people eat? It makes me so happy～」
+
+
+％Ｂ＿ＣＳ
+「I mean, now that you say that...」
+Marika
+「That's why I want to watch」
+％Ｂ＿ＣＳ
+「Sure, go ahead.」
+Marika
+「Sure thing! Ehehe...」
+The morning passes us by as she continues watching me eat.
+all
+％Ｂ＿ＣＳ
+「Sorry, I had to get you to help me pack the bags.」
+Marika
+「Don't worry!」
+And so, we both head school with the bags in tow.
+Marika
+「Are these materials for the planetarium?」
+％Ｂ＿ＣＳ
+「Not all of it is. It's good to have extra.」
+Marika
+「Carrying it all at once is pretty tough, so we have to be careful. Let's do our best!」
+
+
+Marika
+「And umm, you know...」
+％Ｂ＿ＣＳ
+「Yeah?」
+Marika
+「We're dating, we should be helping each other out～...」
+％Ｂ＿ＣＳ
+「Yeah, you're right...」
+％Ｂ＿ＣＳ
+「Alright, then after school, how about you help me with shopping?」
+Marika
+「Sure! Sounds like a plan!」
+dummy
+_00com
+_02smh
+bgm11
+bgm11
+_00grp
+bg201
+genkan_pinpon2
+_00grp
+bg203_00
+_00bup
+bs_mr02_0111
+_00bup
+bs_mr01_08
+_00bup
+_00bup
+bs_mr01_04
+_00bup
+bs_mr01_01
+_00bup
+bs_mr01_0102
+_00bup
+bs_mr01_0201
+_00bup
+bs_mr03_03
+_00bup
+_00bup
+bs_mr03_04
+all
+_00bup
+_00bup
+all
+_00grp
+bg202
+_00bup
+bs_mr01_04
+_00bup
+bs_mr01_01
+_00bup
+bs_mr02_02
+_00bup
+_00bup
+bs_mr02_01
+_00bup
+bs_mr
+all
+_00bup
+_00bup
+all
+_00bup
+bs_mr01_08
+_00bup
+bs_mr02_12
+_00bup
+bs_mr01_0513
+_00bup
+bs_mr02_05
+_00bup
+bs_mr01_02
+_00bup
+bs_mr02_0303
+_00bup
+bs_mr02_04
+_00bup
+bs_mr02_02
+_00bup
+bs_mr01_01
+_00bup
+bs_mr11_04
+_00bup
+bs_mr11_02
+_00bup
+_00bup
+bs_mr11_0102
+_00bup
+bs_mr01_04
+_00bup
+bs_mr01_02
+all
+_00bup
+_00bup
+all
+_00grp
+_00grp
+bg301
+_00bup
+bs_mr02_02
+_00bup
+bs_mr02_05
+_00bup
+bs_mr01_0102
+_00bup
+_00bup
+bs_mr01_0201
+_00bup
+bs_mr01_10
+_00bup
+bs_mr03_04
+_00bup
+_00bup
+bs_mr03_02
+_00bup
+bs_mr03_03
+_00grp
+_00com
