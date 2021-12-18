@@ -14,7 +14,7 @@ Just replace your Scene.pck in the install folder
 >PyroChan: Translator
 >
 >Rin-chan: Tester
-
+>
 >Gopicolo: Tester
 
 **Progress:**
