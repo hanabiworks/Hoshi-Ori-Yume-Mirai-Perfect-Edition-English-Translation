@@ -2,7 +2,7 @@
 
 Download this before: https://www.mediafire.com/file/6nijnmzvko2c7gh/Hoshi_Ori_PE_ENpatch.rar/file
 
-Just replace your Scene.pck in the install folder(You just need download Scene.pck)
+Just replace your Scene.pck in the install folder(You just need download Scene.pck). If you want play with some images translated, download G00
  
  New contents translated by PyroCyan and old content ported by Gopicolo and Rin Chan
  
