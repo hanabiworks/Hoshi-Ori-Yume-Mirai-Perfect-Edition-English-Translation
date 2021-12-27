@@ -9,14 +9,14 @@ Just replace your Scene.pck in the install folder(You just need download Scene.p
  
 **Note 1:** This patch use old scripts from Tsurezure.
 
-**Note 2:** Texts in cellphone has pop-ups.
-
 **Staff:** 
 >PyroChan: Translator
 >
 >Rin-chan: Tester
 >
 >Gopicolo: Tester
+
+>billy121: (for fixing popup bug)
 
 **Progress:**
 > Sora: 100%
