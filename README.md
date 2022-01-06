@@ -20,5 +20,7 @@ Just replace your Scene.pck in the install folder(You just need download Scene.p
 > Sora: 100%
 > 
 > Marika: 100%
+> 
+> Natsuki: 100%
 
 Any issues, report in this discord server https://discord.com/invite/ATTxJYuTvm
