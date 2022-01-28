@@ -13,8 +13,10 @@ Just replace your Scene.pck in the install folder(You just need download Scene.p
 >Rin-chan: Tester
 >
 >Gopicolo: Tester
-
+>
 >billy121: (for fixing popup bug)
+>
+>Bendel: Image Editor
 
 **Progress:**
 > Sora: 100%
