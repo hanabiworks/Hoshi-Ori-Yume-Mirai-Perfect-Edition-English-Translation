@@ -18,7 +18,7 @@ Just replace your Scene.pck in the install folder(You just need download Scene.p
 >
 >Bendel: Image Editor
 
-**Progress:**
+**Translation:**
 > Sora: 100%
 > 
 > Marika: 100%
@@ -26,5 +26,10 @@ Just replace your Scene.pck in the install folder(You just need download Scene.p
 > Natsuki: 100%
 > 
 > Misa: 100%
+> 
+> Touko: 100%
+>  
+> Rikka: 100%
+
 
 Any issues, report in this discord server https://discord.com/invite/ATTxJYuTvm
