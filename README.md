@@ -20,6 +20,8 @@ Just replace your Scene.pck in the install folder(You just need download Scene.p
 >
 >billy121: (for fixing popup bug)
 >
+>NameNotImportant: (for fixing name bug)
+>
 >Bendel: Image Editor
 
 **Translation:**
