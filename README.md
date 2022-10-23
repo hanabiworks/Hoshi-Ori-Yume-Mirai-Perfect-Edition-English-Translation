@@ -14,15 +14,20 @@ Just replace your Scene.pck in the install folder(You just need download Scene.p
 **Staff:** 
 >PyroChan: Translator
 >
->Rin-chan: Tester
+>Rin-chan: Tester/Programmer
 >
 >Gopicolo: Tester
 >
+>Bendel: Image Editor
+
+
+**Special thanks:**
 >billy121: (for fixing popup bug)
 >
 >NameNotImportant: (for fixing name bug)
 >
->Bendel: Image Editor
+>zarklat: thanks for reporting over a thousand lines 
+
 
 **Translation:**
 > Sora: 100%
@@ -36,6 +41,12 @@ Just replace your Scene.pck in the install folder(You just need download Scene.p
 > Touko: 100%
 >  
 > Rikka: 100%
+
+**Changelog**:
+
+-   09/03/2022 - First full release .
+ 
+-   22/10/2022 - New fix patch (+1000 lines fixed).
 
 
 Any issues, report in this discord server https://discord.com/invite/ATTxJYuTvm
