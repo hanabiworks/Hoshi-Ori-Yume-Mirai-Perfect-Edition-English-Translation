@@ -50,3 +50,6 @@ Just replace your Scene.pck in the install folder(You just need download Scene.p
 
 
 Any issues, report in this discord server https://discord.com/invite/ATTxJYuTvm
+
+ Now, each reported bug will be fix immediately, so check the github repository: 
+ https://github.com/hanabiworks/Hoshi-Ori-Yume-Mirai-Perfect-Edition-English-Translation
