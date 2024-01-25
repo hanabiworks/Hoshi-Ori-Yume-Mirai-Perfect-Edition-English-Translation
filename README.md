@@ -23,7 +23,7 @@ Just replace your Scene.pck in the install folder(You just need download Scene.p
 
 **Special thanks:**
 >billy121: (for fixing popup bug)
->
+>ZZ: (for fixing cg sora and line bug)  
 >NameNotImportant: (for fixing name bug)
 >
 >zarklat: thanks for reporting over a thousand lines 
